@@ -18,6 +18,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 367/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AE8D4E220833D65C1257F79004C575B?openDocument) — 17. 12. 2015, kat. A
+  > „Zrušil-li odvolací soud rozhodnutí soudu prvního stupně proto, že nebyl dodržen závazný právní názor nebo že v řízení došlo k závažným vadám, a nařídil-li, aby v dalším řízení věc projednal a rozhodl jiný senát (samosoudce), nemohou se v dalším řízení účastnit na projednání a rozhodování věci jen soudci (přísedící), kteří vydali zrušené rozhodnutí"
+
 #### Legální definice — funkční vymezení (odst. 1)
 
 § 53 odst. 1 definuje zdravotnickou dokumentaci **funkčně**, prostřednictvím čtyř kumulativně vykládaných znaků:

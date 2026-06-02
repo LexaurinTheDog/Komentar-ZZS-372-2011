@@ -2374,5 +2374,3 @@ Tento komplexní rámec představuje vrchol **rekodifikační vlny zdravotnické
 | **Listina základních práv a svobod** | Důstojnost (čl. 10), nedotknutelnost osoby (čl. 7), zákaz mučení (čl. 7 odst. 2), svoboda náboženského vyznání (čl. 15, 16), právo na ochranu zdraví (čl. 31), právo na projednání věci bez průtahů (čl. 38 odst. 2) |
 | **Evropská úmluva o ochraně lidských práv a základních svobod** (sdělení FMZV č. 209/1992 Sb.) | Čl. 3 (zákaz mučení) — zejména § 88 odst. 3 písm. e) ZZS (pitvy ve výkonu trestu); čl. 5 odst. 4 (habeas corpus) — § 117 odst. 1 písm. v) ZZS (oznámení hospitalizace soudu); čl. 8 (ochrana soukromí) — institut mlčenlivosti |
 
-
-

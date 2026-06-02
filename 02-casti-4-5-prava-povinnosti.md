@@ -628,12 +628,26 @@ Institut utajeného porodu je v české odborné literatuře předmětem **kriti
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2368/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/308C690E2E932C46C1258BB9004D3AFF?openDocument) — 24. 9. 2024, kat. A
+  > „V době posuzování oprávněnosti zdravotnické detence ve smyslu § 38 odst. 1 písm. b) zákona č. 372/2011 Sb., o zdravotních službách, musí být bezprostředně přítomna hrozba nežádoucího následku, nikoliv však nezbytně také její projevy. Bylo by proti smyslu tohoto zákona vyčkávat, než bude pacient v důsledku duševní choroby či pod vlivem omamných prostředků skutečně vykonávat činnost, kterou bezprostředně zasáhne některou ze zákonem chráněných hodnot"
+- *NS* [24 Cdo 1150/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/481A422CBB2931C7C12588A80017DFAB?openDocument) — 21. 6. 2022, kat. A
+  > „V řízení o vyslovení přípustnosti (nedobrovolného) převzetí do zdravotního ústavu, ve kterém je pokračováno za podmínek uvedených v ustanovení § 72 z. ř. s., musí soud rozhodnout nejen o tom, zda k převzetí člověka (umístěného) do zdravotního ústavu došlo ze zákonných důvodů, ale (v kladném případě) také o tom, zda tyto důvody trvaly až do doby jeho propuštění (dodatečného souhlasu s hospitalizací)"
+
 #### § 38 jako klíčové prolomení principu souhlasu
 
 § 38 představuje **nejdůležitější výjimku** z principu informovaného souhlasu (§ 28 odst. 1). Vymezuje **dva odlišné okruhy** péče bez souhlasu:
 
 1. **Hospitalizace bez souhlasu** (odst. 1 — pacient je zadržen ve zdravotnickém zařízení proti své vůli; jde o **omezení osobní svobody**, čl. 8 odst. 6 Listiny).
 2. **Neodkladná péče bez souhlasu** (odst. 3 — konkrétní léčebné výkony bez souhlasu i u hospitalizovaného pacienta).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2368/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/308C690E2E932C46C1258BB9004D3AFF?openDocument) — 24. 9. 2024, kat. A
+  > „V době posuzování oprávněnosti zdravotnické detence ve smyslu § 38 odst. 1 písm. b) zákona č. 372/2011 Sb., o zdravotních službách, musí být bezprostředně přítomna hrozba nežádoucího následku, nikoliv však nezbytně také její projevy. Bylo by proti smyslu tohoto zákona vyčkávat, než bude pacient v důsledku duševní choroby či pod vlivem omamných prostředků skutečně vykonávat činnost, kterou bezprostředně zasáhne některou ze zákonem chráněných hodnot"
+- *NS* [24 Cdo 1150/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/481A422CBB2931C7C12588A80017DFAB?openDocument) — 21. 6. 2022, kat. A
+  > „V řízení o vyslovení přípustnosti (nedobrovolného) převzetí do zdravotního ústavu, ve kterém je pokračováno za podmínek uvedených v ustanovení § 72 z. ř. s., musí soud rozhodnout nejen o tom, zda k převzetí člověka (umístěného) do zdravotního ústavu došlo ze zákonných důvodů, ale (v kladném případě) také o tom, zda tyto důvody trvaly až do doby jeho propuštění (dodatečného souhlasu s hospitalizací)"
 
 #### Hospitalizace bez souhlasu (odst. 1) — tři tituly
 
