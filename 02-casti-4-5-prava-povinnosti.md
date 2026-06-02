@@ -26,21 +26,51 @@
 >
 > *- c) vyžádat si konzultační služby od jiného poskytovatele, popřípadě zdravotnického pracovníka, než který mu poskytuje zdravotní služby; to neplatí, jde-li o poskytování neodkladné péče nebo o osoby ve výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence,*
 >
-> *- d) být seznámen s vnitřním řádem zdravotnického zařízení lůžkové nebo jednodenní péče (dále jen „vnitřní řád"),*
+> *- d) být seznámen s vnitřním řádem zdravotnického zařízení lůžkové nebo jednodenní péče (dále jen „vnitřní řád“),*
 >
-> *- e) na nepřetržitou přítomnost zákonného zástupce …, opatrovníka …, podpůrce, osoby blízké nebo osoby určené pacientem, …, a nenaruší-li přítomnost těchto osob poskytnutí zdravotních služeb; …,*
+> *- e) na*
 >
-> *- f) být předem informován o ceně poskytovaných zdravotních služeb …,*
+> *- 1. nepřetržitou přítomnost zákonného zástupce, popřípadě osoby určené zákonným zástupcem, pěstouna nebo jiné osoby, do jejíž péče byl pacient na základě rozhodnutí soudu nebo jiného orgánu svěřen, je-li nezletilou osobou,*
 >
-> *- g) znát jméno, popřípadě jména, a příjmení zdravotnických pracovníků …,*
+> *- 2. nepřetržitou přítomnost opatrovníka, popřípadě osoby určené opatrovníkem, nebo jiné osoby, která je na základě rozhodnutí soudu oprávněna pacienta zastupovat70) v právním jednání vztahujícím se k poskytování zdravotních služeb, je-li pacient v tomto rozsahu zastoupen (dále jen „pacient s ustanoveným zástupcem“),*
 >
-> *- h) odmítnout přítomnost osob, které nejsou na poskytování zdravotních služeb přímo zúčastněny, …,*
+> *- 3. přítomnost podpůrce71), osoby blízké nebo osoby určené pacientem,*
 >
-> *- i) přijímat návštěvy ve zdravotnickém zařízení lůžkové nebo jednodenní péče, …,*
+> *a to v souladu s jinými právními předpisy a vnitřním řádem, a nenaruší-li přítomnost těchto osob poskytnutí zdravotních služeb; to neplatí, jde-li o osoby ve výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence; tím není dotčen § 47 odst. 1 písm. b),*
 >
-> *- j) přijímat ve zdravotnickém zařízení lůžkové nebo jednodenní péče duchovní péči …,*
+> *- f) být předem informován o ceně poskytovaných zdravotních služeb a služeb souvisejících s poskytovanými zdravotními službami nehrazených nebo částečně hrazených z veřejného zdravotního pojištění a o způsobu jejich úhrady, pokud to jeho zdravotní stav umožňuje,*
+>
+> *- g) znát jméno, popřípadě jména, a příjmení zdravotnických pracovníků a jiných odborných pracovníků přímo zúčastněných na poskytování zdravotních služeb a osob připravujících se u poskytovatele na výkon zdravotnického povolání, které jsou při poskytování zdravotních služeb přítomny, popřípadě provádějí činnosti, které jsou součástí výuky,*
+>
+> *- h) odmítnout přítomnost osob, které nejsou na poskytování zdravotních služeb přímo zúčastněny, a osob připravujících se na výkon povolání zdravotnického pracovníka,*
+>
+> *- i) přijímat návštěvy ve zdravotnickém zařízení lůžkové nebo jednodenní péče, a to s ohledem na svůj zdravotní stav a v souladu s vnitřním řádem a způsobem, který neporušuje práva ostatních pacientů, pokud tento zákon nebo jiný právní předpis nestanoví jinak,*
+>
+> *- j) přijímat ve zdravotnickém zařízení lůžkové nebo jednodenní péče duchovní péči a duchovní podporu (dále jen „duchovní péče“) od duchovních církví a náboženských společností registrovaných v České republice nebo od osob pověřených výkonem duchovenské činnosti (dále jen „duchovní“) v souladu s vnitřním řádem a způsobem, který neporušuje práva ostatních pacientů, a s ohledem na svůj zdravotní stav, nestanoví-li jiný právní předpis jinak; návštěvu duchovního nelze pacientovi odepřít v případech ohrožení jeho života nebo vážného poškození zdraví, nestanoví-li jiný právní předpis jinak,*
 >
 > *- k) na poskytování zdravotních služeb v co nejméně omezujícím prostředí při zajištění kvality a bezpečí poskytovaných zdravotních služeb.*
+>
+> *(4) Pacient vykazující znaky osoby, na které bylo spácháno domácí nebo sexuální násilí, má při poskytování zdravotních služeb dále právo*
+>
+> *- a) žádat o změnu ošetřujícího zdravotnického pracovníka za předpokladu, že*
+>
+> *- 1. aktuální personální možnosti poskytovatele tuto změnu umožňují,*
+>
+> *- 2. touto změnou nebude ohroženo zdraví nebo život pacienta a*
+>
+> *- 3. tato změna nenaruší poskytování zdravotních služeb,*
+>
+> *- b) na poskytnutí informací o dostupné sociální, psychologické a právní pomoci.*
+>
+> *O uplatnění práva podle písmene a) se provede záznam ve zdravotnické dokumentaci pacienta.*
+>
+> *(5) Pacient s ustanoveným zástupcem nebo který je nezletilý, může požadovat, aby při poskytování zdravotních služeb nebyla přítomna osoba podle odstavce 3 písm. e), uvádí-li, že jde o osobu, která se na něm dopouští domácího nebo sexuálního násilí nebo jej jinak týrá, zneužívá nebo zanedbává. V tomto případě se postupuje podle § 35 odst. 5.*
+>
+> *(6) Práva pacienta uvedená v odstavci 3 písm. c), e), i) a j) nemůže uplatnit pacient, kterému je poskytována záchytná služba nebo který je povinen se podrobit odbornému lékařskému vyšetření podle zákona o ochraně zdraví před škodlivými účinky návykových látek. Tento pacient rovněž nemůže při uplatňování práva podle odstavce 3 písm. h) odmítnout přítomnost příslušníka Policie České republiky, příslušníka Vojenské policie, strážníka obecní policie nebo příslušníka Vězeňské služby České republiky (dále jen „Vězeňská služba“), který na žádost poskytovatele poskytuje součinnost při poskytování záchytné služby nebo při vyšetření podle věty první.*
+>
+> *(7) V případě poskytování zdravotních služeb osobám ve výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence a osobám omezeným na svobodě podle zákona o Policii České republiky může být právo pacienta na důvěrnost a respektování soukromí uvedené v odstavci 3 písm. a) a právo odmítnout přítomnost třetích osob uvedené v odstavci 3 písm. h) omezeno dozorem příslušníka Vězeňské služby nebo Policie České republiky (dále jen „příslušník“), pokud je to nezbytné kvůli důvodným obavám z útěku nebo o bezpečnost osob zúčastněných na poskytování zdravotních služeb nebo pacienta a hrozbu nelze odvrátit jinak. Uplatnění dozoru a jeho intenzita musí být přiměřené danému nebezpečí a podmínkám poskytování služby. Případný dozor a jeho formu stanoví příslušník ve spolupráci se zdravotnickým pracovníkem. O uplatnění dozoru a jeho formě se provede záznam ve zdravotnické dokumentaci pacienta.*
+>
+> *(8) Poskytovatel nesmí požadovat platbu za přítomnost některé z osob podle odstavce 3 písm. e). Poskytovatel dále nesmí podmiňovat umožnění přítomnosti těchto osob platbou za jiné plnění. Tím není dotčena možnost, aby poskytovatel požadoval úhradu účelně vynaložených nákladů v souvislosti s přítomností některé z osob podle odstavce 3 písm. e).*
 
 **Výklad:**
 
@@ -96,13 +126,31 @@ Odst. 8 výslovně zakazuje, aby poskytovatel požadoval platbu za přítomnost 
 >
 > *(1) Volba poskytovatele a zdravotnického zařízení v případě nezletilých pacientů*
 >
-> *- a) umístěných do školských zařízení pro výkon ústavní nebo ochranné výchovy …, náleží statutárnímu orgánu tohoto zařízení,*
+> *- a) umístěných do školských zařízení pro výkon ústavní nebo ochranné výchovy, do zařízení sociálních služeb poskytujících pobytové služby, byla-li soudem nařízena ústavní nebo uložena ochranná výchova, nebo dětí svěřených do péče zařízení pro děti vyžadující okamžitou pomoc na základě rozhodnutí soudu náleží statutárnímu orgánu tohoto zařízení,*
 >
-> *- b) svěřených do pěstounské péče … náleží pěstounovi nebo jiné osobě, do jejíž péče byl pacient … svěřen …,*
+> *- b) svěřených do pěstounské péče nebo do výchovy jiných osob náleží pěstounovi nebo jiné osobě, do jejíž péče byl pacient na základě rozhodnutí soudu nebo jiného orgánu svěřen (dále jen „pěstoun nebo jiná pečující osoba“),*
 >
 > *- c) umístěných společně s matkou ve výkonu vazby nebo trestu odnětí svobody náleží Vězeňské službě.*
 >
-> *(2) Možnost volby poskytovatele a zdravotnického zařízení se nevztahuje na [taxativní výčet — ZZS, pracovnělékařské služby, izolaci/karanténu, …, záchytnou službu].*
+> *(2) Možnost volby poskytovatele a zdravotnického zařízení se nevztahuje na*
+>
+> *- a) zdravotnickou záchrannou službu a poskytovatele, ke kterému poskytovatel zdravotnické záchranné služby pacienta převáží,*
+>
+> *- b) pracovnělékařské služby,*
+>
+> *- c) nařízenou izolaci, karanténu nebo ochranné léčení,*
+>
+> *- d) osoby umístěné v policejních celách zřízených u útvarů Policie České republiky; tyto osoby si mohou na své vlastní náklady přizvat k poskytnutí zdravotních služeb zvoleného zdravotnického pracovníka,*
+>
+> *- e) osoby ve výkonu vazby, trestu odnětí svobody, zabezpečovací detence, v zařízení pro zajištění cizinců nebo v přijímacím středisku,*
+>
+> *- f) osoby, jejichž zdravotní stav je posuzován pro účely poskytování služeb v oblasti zaměstnanosti19) a pro účely sociálního zabezpečení20),*
+>
+> *- g) vojáky v činné službě a vojáky v záloze zařazené v aktivní záloze za podmínek stanovených zákonem o vojácích z povolání,*
+>
+> *- h) případy, kdy jiný právní předpis stanoví posuzujícího poskytovatele, nebo jde-li o určení poskytovatele osobou k tomu oprávněnou na základě jiného právního předpisu,*
+>
+> *- i) záchytnou službu.*
 
 **Výklad:**
 
@@ -123,11 +171,13 @@ Smysl je čistě praktický: u akutních zásahů není čas na volbu; u pracovn
 
 > **§ 30**
 >
-> *(1) Pacient se smyslovým postižením nebo s těžkými komunikačními problémy zapříčiněnými zdravotními důvody má při komunikaci související s poskytováním zdravotních služeb právo dorozumívat se způsobem pro něj srozumitelným a dorozumívacími prostředky, které si sám zvolí, včetně způsobů založených na tlumočení druhou osobou. …*
+> *(1) Pacient se smyslovým postižením nebo s těžkými komunikačními problémy zapříčiněnými zdravotními důvody má při komunikaci související s poskytováním zdravotních služeb právo dorozumívat se způsobem pro něj srozumitelným a dorozumívacími prostředky, které si sám zvolí, včetně způsobů založených na tlumočení druhou osobou. V případě osob ve výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence zajistí tlumočení Vězeňská služba.*
 >
 > *(2) Odstavec 1 se použije obdobně, jde-li o tlumočení z cizího jazyka, s výjimkou slovenštiny.*
 >
-> *(3) Pacient se smyslovým nebo tělesným postižením, který využívá psa se speciálním výcvikem, má právo … na doprovod a přítomnost psa u sebe ve zdravotnickém zařízení …*
+> *(3) Pacient se smyslovým nebo tělesným postižením, který využívá psa se speciálním výcvikem, má právo s ohledem na svůj aktuální zdravotní stav na doprovod a přítomnost psa u sebe ve zdravotnickém zařízení, a to způsobem stanoveným vnitřním řádem tak, aby nebyla porušována práva ostatních pacientů, nestanoví-li jiný právní předpis jinak; to neplatí, jde-li o osoby ve výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence. Psem se speciálním výcvikem se pro potřeby věty první rozumí vodicí pes nebo asistenční pes.*
+>
+> *Informace o zdravotním stavu pacienta a o navržených zdravotních službách*
 
 **Výklad:**
 
@@ -149,7 +199,7 @@ Smysl je čistě praktický: u akutních zásahů není čas na volbu; u pracovn
 >
 > *(1) Poskytovatel je povinen*
 >
-> *- a) zajistit, aby byl pacient srozumitelným způsobem v dostatečném rozsahu informován o svém zdravotním stavu a o navrženém individuálním léčebném postupu a všech jeho změnách (dále jen „informace o zdravotním stavu"),*
+> *- a) zajistit, aby byl pacient srozumitelným způsobem v dostatečném rozsahu informován o svém zdravotním stavu a o navrženém individuálním léčebném postupu a všech jeho změnách (dále jen „informace o zdravotním stavu“),*
 >
 > *- b) umožnit pacientovi nebo osobě určené pacientem klást doplňující otázky vztahující se k jeho zdravotnímu stavu a navrhovaným zdravotním službám, které musí být srozumitelně zodpovězeny.*
 >
@@ -165,7 +215,13 @@ Smysl je čistě praktický: u akutních zásahů není čas na volbu; u pracovn
 >
 > *- e) omezeních a doporučeních ve způsobu života s ohledem na zdravotní stav a*
 >
-> *- f) možnosti vzdát se podání informace …, určit osoby podle § 32 a § 33 nebo vyslovit zákaz o podávání informací o zdravotním stavu …*
+> *- f) možnosti*
+>
+> *- 1. vzdát se podání informace o zdravotním stavu podle § 32 a*
+>
+> *- 2. určit osoby podle § 32 a 33 nebo vyslovit zákaz o podávání informací o zdravotním stavu podle § 33.*
+>
+> *Informace o zdravotním stavu je pacientovi sdělena při přijetí do péče a dále vždy, je-li to s ohledem na poskytované zdravotní služby nebo zdravotní stav pacienta účelné.*
 >
 > *(3) Informaci o zdravotním stavu podává ošetřující zdravotnický pracovník způsobilý k poskytování zdravotních služeb, kterých se podání informace týká; ošetřující zdravotnický pracovník provede do zdravotnické dokumentace záznam o tom, že byla informace podána.*
 >
@@ -218,7 +274,7 @@ Odst. 6 je důležitým prolomením mlčenlivosti: poskytovatel je **oprávněn*
 
 > **§ 32**
 >
-> *(1) Pacient se může vzdát podání informace o svém zdravotním stavu, popřípadě může určit, které osobě má být podána. Záznam o vzdání se podání informace … podepíše pacient a zdravotnický pracovník. K vzdání se podání informace o zdravotním stavu se nepřihlíží, jde-li o informaci, že pacient trpí infekční nemocí nebo jinou nemocí, v souvislosti s níž může ohrozit zdraví nebo život jiných osob.*
+> *(1) Pacient se může vzdát podání informace o svém zdravotním stavu, popřípadě může určit, které osobě má být podána. Záznam o vzdání se podání informace o zdravotním stavu a určení osoby, které má být informace o zdravotním stavu podána, je součástí zdravotnické dokumentace vedené o pacientovi; záznam podepíše pacient a zdravotnický pracovník. K vzdání se podání informace o zdravotním stavu se nepřihlíží, jde-li o informaci, že pacient trpí infekční nemocí nebo jinou nemocí, v souvislosti s níž může ohrozit zdraví nebo život jiných osob.*
 >
 > *(2) Informace o nepříznivé diagnóze nebo prognóze zdravotního stavu pacienta může být v nezbytně nutném rozsahu a po dobu nezbytně nutnou zadržena, lze-li důvodně předpokládat, že by její podání mohlo pacientovi způsobit závažnou újmu na zdraví. Podle věty první nelze postupovat v případě, kdy*
 >
@@ -227,6 +283,8 @@ Odst. 6 je důležitým prolomením mlčenlivosti: poskytovatel je **oprávněn*
 > *- b) zdravotní stav pacienta představuje riziko pro jeho okolí,*
 >
 > *- c) pacient žádá výslovně o přesnou a pravdivou informaci, aby si mohl zajistit osobní záležitosti.*
+>
+> *(3) Poskytovatel může v nezbytném rozsahu zadržet informaci o zdravotním stavu nezletilého pacienta jeho zákonnému zástupci, pěstounovi nebo jiné pečující osobě v případě podezření, že se tato osoba na něm dopouští domácího nebo sexuálního násilí nebo se podílí na zneužívání nebo týrání nebo ohrožování zdravého vývoje tohoto nezletilého pacienta, lze-li předpokládat, že poskytnutím této informace by mohlo dojít k ohrožení pacienta. Obdobně se postupuje, jde-li o pacienta s ustanoveným zástupcem.*
 
 **Výklad:**
 
@@ -257,11 +315,17 @@ Odst. 3 dovoluje poskytovateli zadržet informaci o zdravotním stavu nezletilé
 
 > **§ 33**
 >
-> *(1) Pacient může při přijetí do péče určit osoby, které mohou být informovány o jeho zdravotním stavu, a současně může určit, zda tyto osoby mohou nahlížet do zdravotnické dokumentace o něm vedené nebo do jiných zápisů vztahujících se k jeho zdravotnímu stavu, pořizovat si výpisy nebo kopie těchto dokumentů a zda mohou v případech podle § 34 odst. 7 vyslovit souhlas nebo nesouhlas s poskytnutím zdravotních služeb. Pacient může určit osoby nebo vyslovit zákaz poskytovat informace o zdravotním stavu kterékoliv osobě kdykoliv po přijetí do péče …*
+> *(1) Pacient může při přijetí do péče určit osoby, které mohou být informovány o jeho zdravotním stavu, a současně může určit, zda tyto osoby mohou nahlížet do zdravotnické dokumentace o něm vedené nebo do jiných zápisů vztahujících se k jeho zdravotnímu stavu, pořizovat si výpisy nebo kopie těchto dokumentů a zda mohou v případech podle § 34 odst. 7 vyslovit souhlas nebo nesouhlas s poskytnutím zdravotních služeb. Pacient může určit osoby nebo vyslovit zákaz poskytovat informace o zdravotním stavu kterékoliv osobě kdykoliv po přijetí do péče, rovněž může určení osoby nebo vyslovení zákazu poskytovat informace o zdravotním stavu kdykoliv odvolat. Pacient může dále určit osoby, které v případech podle § 34 odst. 7 nemohou vyslovit souhlas nebo nesouhlas s poskytnutím zdravotních služeb. Záznam o vyjádření pacienta je součástí zdravotnické dokumentace o něm vedené; záznam podepíše pacient a zdravotnický pracovník. Součástí záznamu je rovněž sdělení pacienta, jakým způsobem mohou být informace o jeho zdravotním stavu sdělovány.*
 >
-> *(3) Jde-li o pacienta, který nemůže s ohledem na svůj zdravotní stav určit osoby podle odstavce 1, mají právo na informace o jeho aktuálním zdravotním stavu … osoby uvedené v § 28 odst. 3 písm. e) bodech 1 a 2. Není-li takových osob, právo na tyto informace mají osoby blízké. …*
+> *(2) Zákaz podávání informací o zdravotním stavu vyslovený pacientem se nepoužije na podávání informací, popřípadě na sdělování údajů, které mohou být sděleny bez souhlasu pacienta podle tohoto zákona nebo jiných právních předpisů.*
 >
-> *(4) Osoby uvedené v § 28 odst. 3 písm. e) bodech 1 a 2 a osoby blízké zemřelému pacientovi, popřípadě další osoby určené pacientem, mají právo na informace o zdravotním stavu pacienta, který zemřel, a informace o výsledku pitvy, …, včetně práva nahlížet do zdravotnické dokumentace vedené o jeho osobě …*
+> *(3) Jde-li o pacienta, který nemůže s ohledem na svůj zdravotní stav určit osoby podle odstavce 1, mají právo na informace o jeho aktuálním zdravotním stavu a na pořízení výpisů a kopií zdravotnické dokumentace vedené o pacientovi osoby uvedené v § 28 odst. 3 písm. e) bodech 1 a 2. Není-li takových osob, právo na tyto informace mají osoby blízké. Pokud pacient dříve vyslovil zákaz sdělovat informace o svém zdravotním stavu určitým osobám blízkým, lze informaci těmto osobám podat pouze v případě, že je to v zájmu ochrany jejich zdraví nebo ochrany zdraví další osoby, a to pouze v nezbytném rozsahu.*
+>
+> *(4) Osoby uvedené v § 28 odst. 3 písm. e) bodech 1 a 2 a osoby blízké zemřelému pacientovi, popřípadě další osoby určené pacientem, mají právo na informace o zdravotním stavu pacienta, který zemřel, a informace o výsledku pitvy, byla-li provedena, včetně práva nahlížet do zdravotnické dokumentace vedené o jeho osobě nebo do jiných zápisů vztahujících se k jeho zdravotnímu stavu a pořizovat z nich výpisy nebo jejich kopie. Pokud zemřelý pacient za svého života vyslovil zákaz sdělovat informace o svém zdravotním stavu určitým osobám blízkým, lze informaci těmto osobám podat pouze v případě, že je to v zájmu ochrany jejich zdraví nebo ochrany zdraví další osoby, a to pouze v nezbytném rozsahu.*
+>
+> *(5) Právo na informace o zdravotním stavu pacienta, a to pouze v nezbytném rozsahu, mají rovněž osoby, které s pacientem přišly do styku a tyto informace jsou rozhodné pro ochranu jejich zdraví.*
+>
+> *Poskytování zdravotních služeb se souhlasem*
 
 **Výklad:**
 
@@ -306,17 +370,21 @@ Odst. 5 zakládá **právo třetí osoby** na informace o zdravotním stavu paci
 
 > **§ 34**
 >
-> *(1) Souhlas s poskytnutím zdravotních služeb (dále jen „souhlas") se pokládá za*
+> *(1) Souhlas s poskytnutím zdravotních služeb (dále jen „souhlas“) se pokládá za*
 >
 > *- a) svobodný, je-li dán bez jakéhokoliv nátlaku,*
 >
 > *- b) informovaný, je-li pacientovi před vyslovením souhlasu podána informace podle § 31; souhlas se pokládá za informovaný také v případě, že se pacient podle § 32 odst. 1 podání informace vzdal.*
 >
-> *(2) Písemná forma souhlasu se vyžaduje, pokud tak stanoví jiný právní předpis nebo pokud tak s ohledem na charakter poskytovaných zdravotních služeb určí poskytovatel. Souhlas s hospitalizací musí být vždy v písemné formě. …*
+> *(2) Písemná forma souhlasu se vyžaduje, pokud tak stanoví jiný právní předpis21) nebo pokud tak s ohledem na charakter poskytovaných zdravotních služeb určí poskytovatel. Souhlas s hospitalizací musí být vždy v písemné formě. Na vyžádání je pacientovi poskytnuta kopie písemné formy souhlasu.*
 >
 > *(3) Pacientovi, kterému byla podána informace o zdravotním stavu nebo se podání informace podle § 32 odst. 1 vzdal a který odmítá vyslovit souhlas s poskytnutím zdravotních služeb, nejde-li o případ, kdy lze zdravotní služby poskytnout bez souhlasu, je podána informace o jeho zdravotním stavu v rozsahu a způsobem, ze kterého je zřejmé, že neposkytnutí zdravotních služeb může vážně poškodit jeho zdraví nebo ohrozit život. Jestliže pacient i nadále odmítá vyslovit souhlas, učiní o tom písemné prohlášení (revers).*
 >
 > *(4) Pacient může svůj souhlas s poskytnutím zdravotních služeb odvolat.*
+>
+> *(5) Písemný souhlas, písemné odvolání souhlasu, popřípadě záznam o odvolání tohoto souhlasu, pokud pacient souhlas odvolal bez písemného vyjádření, písemné prohlášení o nesouhlasu s poskytnutím zdravotních služeb, popřípadě záznam o tomto nesouhlasu, pokud pacient odmítá učinit písemné prohlášení, je součástí zdravotnické dokumentace vedené o pacientovi; podepíše je pacient a zdravotnický pracovník. Odmítá-li pacient záznam podle věty první podepsat, zdravotnický pracovník tuto skutečnost do záznamu doplní; záznam podepíše zdravotnický pracovník a svědek.*
+>
+> *(6) Jestliže zdravotní stav pacienta nedovoluje vyjádření souhlasu, odvolání souhlasu nebo vyslovení nesouhlasu s poskytnutím zdravotních služeb požadovaným způsobem, zdravotnický pracovník zaznamená nepochybný projev vůle pacienta do zdravotnické dokumentace o něm vedené, uvede způsob, jakým pacient svou vůli projevil, a zdravotní důvody bránící pacientovi ve vyjádření požadovaným způsobem; záznam podepíše zdravotnický pracovník a svědek.*
 >
 > *(7) Jestliže pacient nemůže s ohledem na svůj zdravotní stav vyslovit souhlas s poskytováním zdravotních služeb, a nejde-li o zdravotní služby, které lze poskytnout bez souhlasu, vyžaduje se souhlas osoby určené pacientem podle § 33 odst. 1, není-li takové osoby nebo není-li dosažitelná, manžela nebo registrovaného partnera, není-li takové osoby nebo není-li dosažitelná, vyžaduje se souhlas jiné svéprávné osoby blízké, pokud je známa.*
 
@@ -374,7 +442,9 @@ Pokud ani osobu blízkou nelze dosáhnout, nastupuje režim **péče bez souhlas
 
 > **§ 35**
 >
-> *(1) Při poskytování zdravotních služeb nezletilému pacientovi je třeba zjistit jeho názor na poskytnutí zamýšlených zdravotních služeb, jestliže je to přiměřené rozumové a volní vyspělosti jeho věku. Tento názor musí být zohledněn jako faktor, jehož závažnost narůstá úměrně s věkem a stupněm rozumové a volní vyspělosti nezletilého pacienta. Pro vyslovení souhlasu … se použijí právní předpisy upravující svéprávnost fyzických osob s tím, že nezletilému pacientovi lze zamýšlené zdravotní služby poskytnout na základě jeho souhlasu, jestliže je provedení takového úkonu přiměřené jeho rozumové a volní vyspělosti odpovídající jeho věku. …*
+> *(1) Při poskytování zdravotních služeb nezletilému pacientovi je třeba zjistit jeho názor na poskytnutí zamýšlených zdravotních služeb, jestliže je to přiměřené rozumové a volní vyspělosti jeho věku. Tento názor musí být zohledněn jako faktor, jehož závažnost narůstá úměrně s věkem a stupněm rozumové a volní vyspělosti nezletilého pacienta. Pro vyslovení souhlasu s poskytnutím zdravotních služeb nezletilému pacientovi se použijí právní předpisy upravující svéprávnost fyzických osob49) s tím, že nezletilému pacientovi lze zamýšlené zdravotní služby poskytnout na základě jeho souhlasu, jestliže je provedení takového úkonu přiměřené jeho rozumové a volní vyspělosti odpovídající jeho věku. Tím není dotčena možnost poskytování zdravotních služeb bez souhlasu.*
+>
+> *(2) Poskytnutí zdravotních služeb na základě souhlasu nezletilého pacienta nebrání tomu, aby ošetřující zdravotnický pracovník podal zákonnému zástupci informaci o poskytnutých zdravotních službách nebo zdravotním stavu nezletilého pacienta.*
 >
 > *(3) Jde-li o zdravotní služby, které spočívají v poskytnutí*
 >
@@ -383,6 +453,10 @@ Pokud ani osobu blízkou nelze dosáhnout, nastupuje režim **péče bez souhlas
 > *- b) akutní péče, a*
 >
 > *souhlas zákonného zástupce nelze získat bez zbytečného odkladu, rozhodne o jejich poskytnutí ošetřující zdravotnický pracovník. To neplatí, lze-li zdravotní služby poskytnout podle odstavce 1 na základě souhlasu nezletilého pacienta.*
+>
+> *(4) Jde-li o pacienta s ustanoveným zástupcem, odstavce 1 až 3 se použijí obdobně s tím, že věk pacienta se nezohledňuje.*
+>
+> *(5) Jde-li o pacienta uvedeného v § 28 odst. 5, poskytovatel vyloučí, má-li podezření, že na tomto pacientovi bylo spácháno domácí nebo sexuální násilí nebo že je tento pacient jinak zneužíván nebo týrán, popřípadě, že je ohrožován jeho zdravý vývoj, přítomnost osob uvedených v § 28 odst. 3 písm. e) při poskytování zdravotních služeb, pokud jde o vyšetření za účelem vyloučení známek uvedených skutečností.*
 
 **Výklad:**
 
@@ -416,13 +490,13 @@ Pokud má poskytovatel **podezření**, že na nezletilém pacientovi nebo pacie
 
 > **§ 36**
 >
-> *(1) Pacient může pro případ, kdy by se dostal do takového zdravotního stavu, ve kterém nebude schopen vyslovit souhlas nebo nesouhlas s poskytnutím zdravotních služeb a způsobem jejich poskytnutí, tento souhlas nebo nesouhlas předem vyslovit (dále jen „dříve vyslovené přání").*
+> *(1) Pacient může pro případ, kdy by se dostal do takového zdravotního stavu, ve kterém nebude schopen vyslovit souhlas nebo nesouhlas s poskytnutím zdravotních služeb a způsobem jejich poskytnutí, tento souhlas nebo nesouhlas předem vyslovit (dále jen „dříve vyslovené přání“).*
 >
 > *(2) Poskytovatel bude brát zřetel na dříve vyslovené přání pacienta, má-li ho k dispozici, a to za podmínky, že v době poskytování zdravotních služeb nastala předvídatelná situace, k níž se dříve vyslovené přání vztahuje, a pacient je v takovém zdravotním stavu, kdy není schopen vyslovit nový souhlas nebo nesouhlas. Bude respektováno jen takové dříve vyslovené přání, které bylo učiněno na základě písemného poučení pacienta o důsledcích jeho rozhodnutí, a to ošetřujícím lékařem se specializovanou způsobilostí.*
 >
 > *(3) Dříve vyslovené přání musí mít písemnou formu a musí být opatřeno úředně ověřeným podpisem pacienta. Součástí dříve vysloveného přání je písemné poučení podle odstavce 2.*
 >
-> *(4) Pacient může učinit dříve vyslovené přání též při přijetí do péče poskytovatelem nebo kdykoliv v průběhu hospitalizace, a to pro poskytování zdravotních služeb zajišťovaných tímto poskytovatelem. Takto vyslovené přání se zaznamená do zdravotnické dokumentace …; v tomto případě se nepostupuje podle odstavce 3.*
+> *(4) Pacient může učinit dříve vyslovené přání též při přijetí do péče poskytovatelem nebo kdykoliv v průběhu hospitalizace, a to pro poskytování zdravotních služeb zajišťovaných tímto poskytovatelem. Takto vyslovené přání se zaznamená do zdravotnické dokumentace vedené o pacientovi; záznam podepíše pacient, zdravotnický pracovník a svědek; v tomto případě se nepostupuje podle odstavce 3.*
 >
 > *(5) Dříve vyslovené přání nelze respektovat, pokud by jeho splnění mohlo ohrozit jiné osoby nebo pokud nabádá k takovému jednání, jehož výsledkem je aktivní způsobení smrti.*
 >
@@ -430,7 +504,7 @@ Pokud má poskytovatel **podezření**, že na nezletilém pacientovi nebo pacie
 >
 > *- a) nezletilý pacient,*
 >
-> *- b) pacient, jehož svéprávnost byla omezena tak, že není způsobilý posoudit poskytnutí zdravotních služeb …*
+> *- b) pacient, jehož svéprávnost byla omezena tak, že není způsobilý posoudit poskytnutí zdravotních služeb, popřípadě důsledky jejich poskytnutí; tím není dotčeno právo takového pacienta odvolat dříve vyslovené přání učiněné v době před omezením jeho svéprávnosti.*
 
 **Výklad:**
 
@@ -611,19 +685,19 @@ Odst. 8: lze provést **orientační/odborné vyšetření na alkohol/návykové
 >
 > *(1) K omezení volného pohybu pacienta při poskytování zdravotních služeb lze použít*
 >
-> *- a) úchop pacienta …,*
+> *- a) úchop pacienta zdravotnickými pracovníky nebo jinými osobami k tomu určenými poskytovatelem,*
 >
 > *- b) omezení pacienta v pohybu ochrannými pásy nebo kurty,*
 >
 > *- c) umístění pacienta v místnosti určené k bezpečnému pohybu,*
 >
-> *- d) ochranný kabátek nebo vestu …,*
+> *- d) ochranný kabátek nebo vestu zamezující pohybu horních končetin pacienta,*
 >
 > *- e) psychofarmaka, popřípadě jiné léčivé přípravky, které jsou podány pacientovi za účelem zvládnutí chování pacienta proti jeho vůli nebo silou, nebo*
 >
 > *- f) kombinaci prostředků uvedených v písmenech a) až e),*
 >
-> *(dále jen „omezovací prostředky").*
+> *(dále jen „omezovací prostředky“).*
 >
 > *(2) Omezovací prostředky lze použít*
 >
@@ -632,6 +706,30 @@ Odst. 8: lze provést **orientační/odborné vyšetření na alkohol/návykové
 > *- b) pouze po dobu, po kterou trvají důvody jejich použití podle písmene a) a*
 >
 > *- c) poté, co byl neúspěšně použit mírnější postup, než je použití omezovacích prostředků, s výjimkou případu, kdy použití mírnějšího postupu by zjevně nevedlo k dosažení účelu podle písmene a), přičemž musí být zvolen nejméně omezující prostředek odpovídající účelu jeho použití.*
+>
+> *(3) Poskytovatel je povinen zajistit, aby*
+>
+> *- a) pacient, u kterého je omezovací prostředek použit, byl s ohledem na jeho zdravotní stav srozumitelně informován o důvodech použití omezovacího prostředku,*
+>
+> *- b) byly o použití omezovacích prostředků uvedených v odstavci 1 písm. b), c), d) nebo e) bez zbytečného odkladu informovány osoby uvedené v § 28 odst. 3 písm. e) bodech 1 a 2; podání informace těmto osobám se zaznamená do zdravotnické dokumentace vedené o pacientovi, včetně času a způsobu jejího podání,*
+>
+> *- c) pacient po dobu použití omezovacího prostředku byl pod dohledem zdravotnických pracovníků; dohled musí odpovídat závažnosti zdravotního stavu pacienta a zároveň musí být přijata taková opatření, která zabrání poškození zdraví pacienta,*
+>
+> *- d) použití omezovacího prostředku indikoval vždy lékař; ve výjimečných případech, vyžadujících neodkladné řešení, může použití omezovacích prostředků indikovat i jiný zdravotnický pracovník nelékařského povolání, který je přítomen; lékař musí být o takovém použití omezovacího prostředku neprodleně informován a musí potvrdit odůvodněnost omezení,*
+>
+> *- e) každé použití omezovacího prostředku, včetně důvodu jeho použití, bylo zaznamenáno do zdravotnické dokumentace vedené o pacientovi.*
+>
+> *(4) Poskytovatel je povinen vést centrální evidenci použití omezovacích prostředků, která obsahuje pro každý typ omezovacího prostředku souhrnné údaje za kalendářní rok o*
+>
+> *- a) počtech případů použití omezovacích prostředků,*
+>
+> *- b) celkovém času v omezení; to neplatí, jde-li o omezení při poskytování zdravotnické záchranné služby,*
+>
+> *- c) celkovém počtu pacientů, u nichž byly použity omezovací prostředky,*
+>
+> *a to pro každé pracoviště zdravotnického zařízení zvlášť. Souhrnné údaje podle písmene b) se neuvádějí pro omezení prostřednictvím psychofarmak. Použití omezovacího prostředku se zaznamená do centrální evidence nejpozději do 60 dnů ode dne jeho použití. Do centrální evidence se nezaznamenává použití omezovacího prostředku podle odstavce 1 písm. a), je-li jeho účelem pouze použití jiného omezovacího prostředku. Poskytovatel je dále povinen na žádost příslušného správního orgánu nebo ministerstva poskytnout tuto centrální evidenci těmto správním orgánům.*
+>
+> *(5) O dočasném přerušení nebo o ukončení použití omezovacího prostředku rozhoduje lékař, sestra pro péči v psychiatrii nebo, jde-li o dítě, dětská sestra pro dětskou a dorostovou psychiatrii. Nejsou-li tito zdravotničtí pracovníci bezprostředně dostupní a pokračování v použití omezovacího prostředku se jeví jako nepřiměřené s ohledem na zdravotní stav pacienta, může o dočasném přerušení nebo o ukončení použití omezovacího prostředku rozhodnout i jiný zdravotnický pracovník nelékařského povolání, který je přítomen; v takovém případě musí být některý ze zdravotnických pracovníků podle věty první o tomto rozhodnutí neprodleně informován.*
 
 **Výklad:**
 
@@ -738,11 +836,17 @@ Pokud pacient (či zástupce) **dodatečně vysloví souhlas** do 24 hodin od in
 >
 > *- b) řídit se vnitřním řádem,*
 >
-> *- c) uhradit poskytovateli cenu poskytnutých zdravotních služeb nehrazených … z veřejného zdravotního pojištění …,*
+> *- c) uhradit poskytovateli cenu poskytnutých zdravotních služeb nehrazených nebo částečně hrazených z veřejného zdravotního pojištění nebo jiných zdrojů, které mu byly poskytnuty s jeho souhlasem nebo které mu byly poskytnuty na základě § 48 odst. 3 i bez jeho souhlasu,*
 >
-> *- d) pravdivě informovat ošetřujícího zdravotnického pracovníka o dosavadním vývoji zdravotního stavu, včetně informací o infekčních nemocech, o zdravotních službách poskytovaných jinými poskytovateli, o užívání léčivých přípravků, včetně užívání návykových látek, a dalších skutečnostech podstatných pro poskytování zdravotních služeb,*
+> *- d) pravdivě informovat ošetřujícího zdravotnického pracovníka o dosavadním vývoji zdravotního stavu, včetně informací o infekčních nemocech16), o zdravotních službách poskytovaných jinými poskytovateli, o užívání léčivých přípravků, včetně užívání návykových látek, a dalších skutečnostech podstatných pro poskytování zdravotních služeb,*
 >
 > *- e) nepožívat během hospitalizace alkohol nebo jiné návykové látky a podrobit se na základě rozhodnutí ošetřujícího lékaře v odůvodněných případech vyšetřením za účelem prokázání, zda je nebo není pod vlivem alkoholu nebo jiných návykových látek.*
+>
+> *(2) Povinnosti podle odstavce 1 písm. c) a d) náleží zákonnému zástupci pacienta nebo opatrovníkovi. Zákonný zástupce nebo opatrovník pacienta je povinen vytvořit podmínky pro splnění povinností pacientem podle odstavce 1 písm. a), b) a e). Povinnosti podle odstavce 1 písm. a) a d), je-li pacient hospitalizován, se pro zákonného zástupce pacienta použijí přiměřeně; povinnost podle odstavce 1 písm. b), c) a e) platí i pro zákonného zástupce.*
+>
+> *(3) Pacient, zákonný zástupce nebo opatrovník pacienta, osoba určená pacientem, osoba blízká pacientovi nebo osoba ze společné domácnosti jsou povinni prokázat svou totožnost občanským průkazem, jestliže o to poskytovatel nebo zdravotnický pracovník, jehož prostřednictvím poskytovatel poskytuje pacientovi zdravotní služby, požádá. Povinnost prokázat se občanským průkazem má rovněž osoba, která uplatňuje podle tohoto zákona nebo jiného právního předpisu právo na informace o zdravotním stavu pacienta, a osoba, která hodlá hospitalizovaného pacienta navštívit a není osobou podle věty první. Jde-li o cizince, totožnost se prokazuje cestovním dokladem nebo jiným průkazem totožnosti. Má-li zdravotnický pracovník pochybnost, zda jde o osobu blízkou, osvědčí osoba blízká tuto skutečnost čestným prohlášením, ve kterém uvede své kontaktní údaje a číslo průkazu totožnosti; čestné prohlášení je součástí zdravotnické dokumentace vedené o pacientovi.*
+>
+> *(4) Jestliže pacient, zákonný zástupce nebo opatrovník pacienta odmítne prokázání totožnosti podle odstavce 3, může poskytovatel nebo zdravotnický pracovník odmítnout poskytnutí zdravotní služby, nejde-li o pacienta, kterému je třeba poskytnout neodkladnou péči. Odmítne-li prokázání totožnosti jiná osoba uvedená v odstavci 3, může poskytovatel nebo zdravotnický pracovník odmítnout této osobě poskytnutí požadované součinnosti nebo jí neumožnit návštěvu hospitalizovaného pacienta. To neplatí, potvrdí-li pacient totožnost osoby. O odmítnutí návštěvy poskytovatel nebo zdravotnický pracovník ihned informuje hospitalizovaného pacienta, popřípadě ihned po té, co sdělení této informace umožní zdravotní stav pacienta.*
 
 **Výklad:**
 
@@ -786,7 +890,7 @@ Pacient, zákonný zástupce, opatrovník, určená osoba i osoba blízká jsou 
 >
 > *- a) § 31 odst. 5,*
 >
-> *- b) jde-li o poskytnutí zdravotních služeb se souhlasem zákonného zástupce, jestliže hrozí nebezpečí z prodlení a nelze bez zbytečného odkladu získat vyjádření zákonného zástupce …,*
+> *- b) jde-li o poskytnutí zdravotních služeb se souhlasem zákonného zástupce, jestliže hrozí nebezpečí z prodlení a nelze bez zbytečného odkladu získat vyjádření zákonného zástupce; do zdravotnické dokumentace vedené o pacientovi se zaznamenají důvody, pro které nebyl souhlas zákonného zástupce získán,*
 >
 > *- c) § 38 odst. 2, 5 a 6,*
 >
@@ -798,7 +902,7 @@ Pacient, zákonný zástupce, opatrovník, určená osoba i osoba blízká jsou 
 >
 > *- g) § 93 odst. 1*
 >
-> *náleží též pěstounovi nebo jiné pečující osobě, statutárnímu orgánu nebo jím pověřené osobě školského zařízení pro výkon ústavní nebo ochranné výchovy …, jde-li o děti svěřené do péče tohoto zařízení na základě rozhodnutí soudu.*
+> *náleží též pěstounovi nebo jiné pečující osobě, statutárnímu orgánu nebo jím pověřené osobě školského zařízení pro výkon ústavní nebo ochranné výchovy nebo zařízení sociálních služeb poskytujících pobytové služby, byla-li soudem nařízena ústavní nebo uložena ochranná výchova, nebo zařízení pro děti vyžadující okamžitou pomoc, jde-li o děti svěřené do péče tohoto zařízení na základě rozhodnutí soudu.*
 
 **Výklad:**
 
@@ -942,17 +1046,25 @@ Pokud pacient svévolně opustí lůžkové zařízení, poskytovatel **bez zbyt
 >
 > *(1) Poskytovatel je povinen zajistit*
 >
-> *- a) aby byl pacient seznámen se svými právy a povinnostmi při poskytování zdravotních služeb a vnitřním řádem; vnitřní řád nesmí zasahovat do práv pacienta nad míru, která je nezbytně nutná …,*
+> *- a) aby byl pacient seznámen se svými právy a povinnostmi při poskytování zdravotních služeb a vnitřním řádem; vnitřní řád nesmí zasahovat do práv pacienta nad míru, která je nezbytně nutná zejména pro řádný chod zdravotnického zařízení a respektování práv ostatních pacientů,*
 >
 > *- b) sestavení, koordinaci a realizaci individuálního léčebného postupu a komplexnost, návaznost a koordinovanost poskytovaných zdravotních služeb,*
 >
-> *- c) aby byl pacient informován o dalších zdravotních službách a dalších možných sociálních službách …,*
+> *- c) aby byl pacient informován o dalších zdravotních službách a dalších možných sociálních službách, které mohou zlepšit jeho zdravotní stav, zejména o možnostech sociální, pracovní a pedagogické rehabilitace, a v případě pacienta vykazujícího znaky osoby, na které bylo spácháno domácí nebo sexuální násilí nebo jiné týrání, zneužívání nebo zanedbávání, též o dostupné sociální, psychologické a právní pomoci a o důležitosti zajištění důkazů; tím není dotčena povinnost poskytovatele poskytnout obětem trestných činů informace podle zákona upravujícího práva obětí trestných činů,*
 >
-> *- d) aby jinému poskytovateli nebo jinému zdravotnickému pracovníkovi, od nichž si pacient vyžádal konzultační služby, byly zpřístupněny informace …,*
+> *- d) aby jinému poskytovateli nebo jinému zdravotnickému pracovníkovi, od nichž si pacient vyžádal konzultační služby, byly zpřístupněny informace vedené o zdravotním stavu pacienta ve zdravotnické dokumentaci, které jsou pro poskytnutí konzultačních služeb nezbytně nutné,*
 >
-> *- e) na výzvu poskytovatele zdravotnické záchranné služby bezodkladně spolupráci při poskytování zdravotních služeb při mimořádných událostech …, včetně zajištění bezprostředně navazující lůžkové péče …,*
+> *- e) na výzvu poskytovatele zdravotnické záchranné služby bezodkladně spolupráci při poskytování zdravotních služeb při mimořádných událostech, hromadných nehodách nebo otravách, průmyslových haváriích nebo přírodních katastrofách, včetně zajištění bezprostředně navazující lůžkové péče; to neplatí, jde-li o Vězeňskou službu,*
 >
-> *- f) na výzvu nebo na základě opatření nařízeného příslušným orgánem ochrany veřejného zdraví bezodkladně účast zdravotnických pracovníků při poskytování zdravotních služeb při epidemiích nebo při nebezpečí jejich vzniku …*
+> *- f) na výzvu nebo na základě opatření nařízeného příslušným orgánem ochrany veřejného zdraví bezodkladně účast zdravotnických pracovníků při poskytování zdravotních služeb při epidemiích nebo při nebezpečí jejich vzniku; to neplatí, jde-li o Vězeňskou službu.*
+>
+> *(2) Poskytovatel je dále povinen zajistit, aby osoby připravující se na výkon zdravotnického povolání prováděly při klinické a praktické výuce, praktickém vyučování a odborné praxi, která se uskutečňuje na jeho pracovištích, jen činnosti, včetně zdravotních výkonů, které jsou součástí výuky nebo praxe, a to pod přímým vedením zdravotnického pracovníka, který má způsobilost k samostatnému výkonu zdravotnického povolání a je v pracovněprávním nebo obdobném vztahu k tomuto poskytovateli. Uskutečňují-li se klinická a praktická výuka nebo praktické vyučování a odborná praxe za přítomnosti zdravotnického pracovníka, který není v pracovněprávním nebo obdobném vztahu k poskytovateli uvedenému ve větě první a který je*
+>
+> *- a) učitelem praktického vyučování a odborné praxe zdravotnických oborů vzdělávání27), nebo*
+>
+> *- b) akademickým pracovníkem, který je učitelem zdravotnického oboru28),*
+>
+> *je poskytovatel povinen zajistit, aby tento zdravotnický pracovník neposkytoval na jeho pracovišti zdravotní služby a postupoval v součinnosti se zdravotnickým pracovníkem uvedeným ve větě první.*
 
 **Výklad:**
 
@@ -1000,25 +1112,39 @@ Studenti zdravotnických oborů smějí provádět při praktické výuce jen **
 >
 > *(1) Poskytovatel jednodenní nebo lůžkové péče je povinen*
 >
-> *- a) zajistit hospitalizaci [oddělení nezletilých od dospělých do 15 let; oddělení žen od mužů],*
+> *- a) zajistit hospitalizaci*
 >
-> *- b) umožnit pobyt … osob … společně s hospitalizovaným nezletilým pacientem …,*
+> *- 1. nezletilých pacientů odděleně od dospělých pacientů, alespoň v samostatných pokojích, a to do dne, kdy dovrší 15 let věku,*
 >
-> *- c) včas informovat osoby … o propuštění z jednodenní nebo lůžkové péče,*
+> *- 2. žen odděleně od mužů v samostatných pokojích,*
 >
-> *- d) zpracovat traumatologický plán …,*
+> *a to s výjimkou poskytování akutní lůžkové péče intenzivní,*
 >
-> *- f) pacienta vybavit při propuštění léčivými přípravky a zdravotnickými prostředky na 3 dny nebo v odůvodněných případech i na další nezbytně nutnou dobu …*
+> *- b) umožnit pobyt některé z osob uvedených v § 28 odst. 3 písm. e) bodech 1 a 2 společně s hospitalizovaným nezletilým pacientem nebo pacientem s ustanoveným zástupcem, pokud to umožňuje vybavení zdravotnického zařízení nebo nebude narušeno poskytování zdravotních služeb anebo takový pobyt není na základě jiného právního předpisu vyloučen; to neplatí v případě poskytování záchytné služby,*
+>
+> *- c) včas informovat osoby uvedené v § 28 odst. 3 písm. e) bodech 1 a 2 o propuštění z jednodenní nebo lůžkové péče,*
+>
+> *- d) zpracovat traumatologický plán, v němž upraví soubor opatření, která se uplatňují při hromadných neštěstích, a nejméně jednou za 2 roky ho aktualizovat; jedno vyhotovení plánu předat příslušnému správnímu orgánu do 30 dnů ode dne jeho zpracování nebo aktualizace; při jeho zpracování vychází z místních podmínek a možností a z výsledků jeho projednání podle písmene e); traumatologický plán se nezpracovává pro poskytování záchytné služby,*
+>
+> *- e) návrh traumatologického plánu podle písmene d) a návrh jeho aktualizace projednat s příslušným správním orgánem; podrobnosti o obsahu traumatologického plánu a postup při jeho zpracování a projednání s příslušným správním orgánem stanoví prováděcí právní předpis,*
+>
+> *- f) pacienta vybavit při propuštění léčivými přípravky a zdravotnickými prostředky na 3 dny nebo v odůvodněných případech i na další nezbytně nutnou dobu; to neplatí v případě poskytování záchytné služby.*
+>
+> *(2) Pokud není pacient vzhledem ke svému zdravotnímu stavu schopen obejít se bez pomoci další osoby, může být propuštěn z jednodenní nebo lůžkové péče až po předchozím včasném vyrozumění osoby, která tuto péči zajistí. Má-li být propuštěn pacient, u něhož není zajištěna další péče, poskytovatel o tom včas informuje obecní úřad obce s rozšířenou působností příslušný podle adresy místa trvalého pobytu pacienta, a má-li pacient trvalý pobyt na území hlavního města Prahy, informuje místně příslušný úřad městské části hlavního města Prahy; obdobně postupuje u nezletilých pacientů se závažnou sociální problematikou v rodině.*
 >
 > *(3) Poskytovatel je rovněž povinen v rámci zajištění kvality a bezpečí poskytovaných zdravotních služeb*
 >
 > *- a) odůvodnit ve zdravotnické dokumentaci případy, kdy se při poskytování zdravotních služeb odchýlí od uznávaného medicínského postupu,*
 >
-> *- b) zavést interní systém hodnocení kvality a bezpečí poskytovaných zdravotních služeb …,*
+> *- b) zavést interní systém hodnocení kvality a bezpečí poskytovaných zdravotních služeb; minimální požadavky pro zavedení interního systému hodnocení uveřejní ministerstvo ve Věstníku Ministerstva zdravotnictví a na svých internetových stránkách,*
 >
 > *- c) dbát na takové používání antibiotik u konkrétního pacienta, aby došlo k omezování rizika vzestupu antibiotické rezistence,*
 >
-> *- d) vypracovat místní ošetřovatelské postupy …*
+> *- d) vypracovat místní ošetřovatelské postupy pro výkony ošetřovatelské péče, které standardně poskytuje; místní ošetřovatelské postupy vychází z národních ošetřovatelských postupů, které ministerstvo zveřejňuje ve Věstníku Ministerstva zdravotnictví, dále z konkrétních podmínek na pracovišti zdravotnického zařízení a rozsahu poskytované ošetřovatelské péče.*
+>
+> *(4) Poskytovatel lůžkové péče je povinen v rámci prevence a kontroly infekcí zpracovat program pro prevenci a kontrolu infekcí spojených se zdravotní péčí a zajistit jeho činnost. Zaměření tohoto programu musí odpovídat charakteru poskytované zdravotní péče a musí vycházet z průběhu hodnocení rizika vzniku infekcí spojených se zdravotní péčí v konkrétních podmínkách daného poskytovatele.*
+>
+> *(5) Registrující poskytovatel nebo jiný poskytovatel, který pacienta přijal do péče, je povinen, vyžaduje-li to zdravotní stav pacienta, předat mu písemné doporučení k poskytnutí příslušné specializované ambulantní péče, jednodenní péče nebo lůžkové péče. Součástí doporučení je písemné odůvodnění a důležité informace týkající se zdravotního stavu pacienta, včetně výsledků provedených vyšetření a informace o dosud provedené léčbě.*
 
 **Výklad:**
 
@@ -1079,29 +1205,45 @@ Registrující poskytovatel (nebo jiný přijímající) je povinen — vyžaduj
 >
 > *(1) Poskytovatel, kterého si pacient zvolil, může odmítnout přijetí pacienta do péče, pokud*
 >
-> *- a) by přijetím pacienta bylo překročeno únosné pracovní zatížení nebo jeho přijetí brání provozní důvody …,*
+> *- a) by přijetím pacienta bylo překročeno únosné pracovní zatížení nebo jeho přijetí brání provozní důvody, personální zabezpečení nebo technické a věcné vybavení zdravotnického zařízení; překročením únosného pracovního zatížení se rozumí stav, kdy by zajištěním zdravotních služeb o tohoto pacienta došlo ke snížení úrovně kvality a bezpečnosti zdravotních služeb poskytovaných pacientům již přijatým,*
 >
-> *- b) by vzdálenost místa pobytu pacienta neumožňovala v případě poskytování zdravotních služeb v oboru všeobecné praktické lékařství … výkon návštěvní služby, nebo*
+> *- b) by vzdálenost místa pobytu pacienta neumožňovala v případě poskytování zdravotních služeb v oboru všeobecné praktické lékařství, praktické lékařství pro děti a dorost nebo pediatrie, jde-li o registrujícího poskytovatele, výkon návštěvní služby, nebo*
 >
-> *- c) není pojištěncem zdravotní pojišťovny, se kterou má poskytovatel uzavřenu smlouvu …*
+> *- c) není pojištěncem zdravotní pojišťovny, se kterou má poskytovatel uzavřenu smlouvu podle zákona o veřejném zdravotním pojištění; toto právo se nevztahuje na pojištěnce z jiných států Evropské unie, Evropského hospodářského prostoru, Švýcarské konfederace, či ze států, se kterými má Česká republika uzavřenu smlouvu o sociálním zabezpečení, zahrnující ve věcném rozsahu nároky na zdravotní péči.*
 >
 > *(2) Poskytovatel může ukončit péči o pacienta v případě, že*
 >
 > *- a) prokazatelně předá pacienta s jeho souhlasem do péče jiného poskytovatele,*
 >
-> *- b) pominou důvody pro poskytování zdravotních služeb …,*
+> *- b) pominou důvody pro poskytování zdravotních služeb; to neplatí, jde-li o registrujícího poskytovatele; ustanovení § 47 odst. 2 není dotčeno,*
 >
 > *- c) pacient vysloví nesouhlas s poskytováním veškerých zdravotních služeb,*
 >
-> *- d) pacient závažným způsobem omezuje práva ostatních pacientů, úmyslně a soustavně nedodržuje navržený individuální léčebný postup …, nebo se neřídí vnitřním řádem …,*
+> *- d) pacient závažným způsobem omezuje práva ostatních pacientů, úmyslně a soustavně nedodržuje navržený individuální léčebný postup, pokud s poskytováním zdravotních služeb vyslovil souhlas, nebo se neřídí vnitřním řádem a jeho chování není způsobeno zdravotním stavem,*
 >
-> *- e) přestal poskytovat součinnost nezbytnou pro poskytování zdravotních služeb …,*
+> *- e) přestal poskytovat součinnost nezbytnou pro poskytování zdravotních služeb; to neplatí, jestliže neposkytování součinnosti souvisí se zdravotním stavem pacienta,*
 >
-> *- f) pacient se vůči poskytovateli nebo jeho pracovníkům dopustil činu povahy úmyslného trestného činu …;*
+> *- f) pacient se vůči poskytovateli nebo jeho pracovníkům dopustil činu povahy úmyslného trestného činu, pokud spáchání tohoto činu nebylo způsobeno jeho zdravotním stavem;*
 >
 > *ukončením péče nesmí dojít k bezprostřednímu ohrožení života nebo vážnému poškození zdraví pacienta.*
 >
-> *(3) Poskytovatel nesmí odmítnout přijetí pacienta do péče podle odstavce 1 nebo ukončit péči o něj podle odstavce 2 písm. d) nebo e), jde-li o pacienta, kterému je třeba poskytnout neodkladnou péči, jde-li o porod nebo jde o zdravotní služby, které jsou nezbytné z hlediska ochrany veřejného zdraví nebo ochrany zdraví při práci …*
+> *(3) Poskytovatel nesmí odmítnout přijetí pacienta do péče podle odstavce 1 nebo ukončit péči o něj podle odstavce 2 písm. d) nebo e), jde-li o pacienta, kterému je třeba poskytnout neodkladnou péči, jde-li o porod nebo jde o zdravotní služby, které jsou nezbytné z hlediska ochrany veřejného zdraví nebo ochrany zdraví při práci, dále jde-li o krizové situace nebo výkon ochranného léčení nařízeného soudem, pokud jiný právní předpis nestanoví jinak.*
+>
+> *(4) Poskytovatel dále nesmí odmítnout přijetí pacienta do péče podle odstavce 1, jde-li o pacienta*
+>
+> *- a) u kterého bylo poskytování zdravotní péče přerušeno z důvodu ukončení nebo přerušení výkonu vazby, trestu odnětí svobody nebo umístění v ústavu pro výkon zabezpečovací detence, pokud se jedná o zajištění návaznosti při poskytování zdravotních služeb započaté v průběhu výkonu vazby nebo trestu odnětí svobody nebo umístění v ústavu pro výkon zabezpečovací detence; poskytovatel, v jehož zdravotnickém zařízení byly pacientovi poskytovány zdravotní služby, jestliže mu není znám poskytovatel, který převezme pacienta do péče, vybaví tohoto pacienta informací podle § 45 odst. 2 písm. g),*
+>
+> *- b) ve výkonu vazby, výkonu trestu odnětí svobody nebo umístěného v ústavu pro výkon zabezpečovací detence, jde-li o zdravotní služby, které nejsou poskytovány ve zdravotnických zařízeních zřízených Ministerstvem spravedlnosti, a to po dohodě s Vězeňskou službou nebo státní příspěvkovou organizací zřízenou podle jiného právního předpisu73); to neplatí, jde-li o důvody poskytnutí zdravotních služeb podle odstavce 3.*
+>
+> *(5) Důvody odmítnutí přijetí pacienta do péče podle odstavce 1 nebo ukončení péče podle odstavce 2 posuzuje poskytovatel. Poskytovatel o odmítnutí přijetí do péče podle odstavce 1 nebo o ukončení péče podle odstavce 2 písm. d) a e) nebo o odmítnutí poskytnutí zdravotních služeb podle § 50 odst. 2 vydá pacientovi písemnou zprávu, ve které je uveden důvod odmítnutí nebo ukončení.*
+>
+> *(6) Nestanoví-li jiný právní předpis jinak, poskytovatel, kterého si pacient zvolil, nemůže*
+>
+> *- a) požadovat úhradu za poskytnutí zdravotních služeb nebo služeb souvisejících v rozsahu, ve kterém jsou tyto služby hrazeny z veřejného zdravotního pojištění,*
+>
+> *- b) požadovat úhradu poskytnutých zdravotních služeb nebo služeb souvisejících s poskytovanými zdravotními službami nehrazených nebo částečně hrazených z veřejného zdravotního pojištění, jež nejsou v době informování pacienta o jejich ceně uvedeny v seznamu cen zpracovaném podle § 45 odst. 2 písm. b),*
+>
+> *- c) podmínit přijetí tohoto pacienta do péče ani pokračování v poskytování zdravotních služeb tomuto pacientovi poskytnutím platby nebo jiného prospěchu ani nákupem jiného zboží či služeb, které nejsou nezbytné pro poskytnutí zdravotních služeb; to neplatí, jde-li o pacienta podle odstavce 1 písm. c), nevyžaduje-li zdravotní stav tohoto pacienta poskytnutí zdravotních služeb podle odstavce 3.*
 
 **Výklad:**
 
@@ -1201,11 +1343,13 @@ Pokud se zdravotnický pracovník podílel na **konziliu** (§ 2 odst. 5 — spo
 >
 > *(1) Zdravotnický pracovník má právo*
 >
-> *- a) získat od pacienta informace o tom, že pacient … je nosičem infekční nemoci … a o dalších závažných skutečnostech týkajících se pacientova zdravotního stavu,*
+> *- a) získat od pacienta informace o tom, že pacient, kterému má poskytovat zdravotní služby, je nosičem infekční nemoci podle zákona o ochraně veřejného zdraví, a o dalších závažných skutečnostech týkajících se pacientova zdravotního stavu,*
 >
 > *- b) neposkytnout zdravotní služby v případě, že by došlo při jejich poskytování k přímému ohrožení jeho života nebo k vážnému ohrožení jeho zdraví.*
 >
-> *(2) Zdravotnický pracovník může odmítnout poskytnutí zdravotních služeb pacientovi v případě, že by jejich poskytnutí odporovalo jeho svědomí nebo náboženskému vyznání. O této skutečnosti je povinen ihned informovat poskytovatele, který zajistí pacientovi jiného zdravotnického pracovníka. Nemůže-li poskytovatel zajistit jiného zdravotnického pracovníka, zajistí pacientovi jiného poskytovatele, který mu zdravotní služby poskytne, pokud pacient zajištění jiného poskytovatele neodmítne. … Zdravotnický pracovník nemůže odmítnout poskytnutí zdravotních služeb pacientovi z důvodu uvedeného ve větě první, pokud by odmítnutím došlo k ohrožení života pacienta nebo k vážnému ohrožení jeho zdraví a poskytovatel není schopen zajistit poskytnutí zdravotních služeb jiným zdravotnickým pracovníkem.*
+> *(2) Zdravotnický pracovník může odmítnout poskytnutí zdravotních služeb pacientovi v případě, že by jejich poskytnutí odporovalo jeho svědomí nebo náboženskému vyznání. O této skutečnosti je povinen ihned informovat poskytovatele, který zajistí pacientovi jiného zdravotnického pracovníka. Nemůže-li poskytovatel zajistit jiného zdravotnického pracovníka, zajistí pacientovi jiného poskytovatele, který mu zdravotní služby poskytne, pokud pacient zajištění jiného poskytovatele neodmítne. Záznam o odmítnutí zajištění jiného zdravotnického pracovníka nebo poskytovatele je součástí zdravotnické dokumentace; záznam podepíše pacient a zdravotnický pracovník. Zdravotnický pracovník nemůže odmítnout poskytnutí zdravotních služeb pacientovi z důvodu uvedeného ve větě první, pokud by odmítnutím došlo k ohrožení života pacienta nebo k vážnému ohrožení jeho zdraví a poskytovatel není schopen zajistit poskytnutí zdravotních služeb jiným zdravotnickým pracovníkem. Podle věty první až čtvrté se obdobně postupuje, odmítne-li poskytnutí zdravotních služeb poskytovatel.*
+>
+> *(3) Ustanovení odstavců 1 a 2 se použijí obdobně i pro jiné odborné pracovníky vykonávající činnosti v přímé souvislosti s poskytováním zdravotních služeb.*
 
 **Výklad:**
 
@@ -1265,15 +1409,35 @@ Výhrada svědomí je ústavněprávně zakotvena v čl. 15 odst. 1 Listiny (svo
 >
 > *- a) předávání informací nezbytných pro zajištění návaznosti poskytovaných zdravotních služeb,*
 >
-> *- b) sdělování údajů … je-li poskytovatel zproštěn pacientem … mlčenlivosti …,*
+> *- b) sdělování údajů nebo jiných skutečností, je-li poskytovatel zproštěn pacientem, popřípadě zákonným zástupcem pacienta, mlčenlivosti a sděluje-li údaje nebo tyto skutečnosti v rozsahu zproštění,*
 >
-> *- c) sdělování … údajů … podle tohoto zákona nebo jiných právních předpisů, pokud … vyplývá, že údaje … lze sdělit bez souhlasu pacienta,*
+> *- c) sdělování, popřípadě oznamování údajů nebo jiných skutečností podle tohoto zákona nebo jiných právních předpisů, pokud z tohoto zákona nebo jiných právních předpisů vyplývá, že údaje nebo skutečnosti lze sdělit bez souhlasu pacienta,*
 >
-> *- d) sdělování údajů … pro potřeby trestního řízení … sdělování údajů … při plnění zákonem uložené povinnosti překazit nebo oznámit spáchání trestného činu,*
+> *- d) sdělování údajů nebo jiných skutečností pro potřeby trestního řízení způsobem stanoveným právními předpisy upravujícími trestní řízení; za porušení povinné mlčenlivosti se rovněž nepovažuje sdělování údajů nebo jiných skutečností při plnění zákonem uložené povinnosti překazit nebo oznámit spáchání trestného činu,*
 >
-> *- e) sdílení údajů o zdravotním stavu pacienta zdravotnickými pracovníky se sociálními pracovníky a pracovníky v sociálních službách, v jejichž vzájemné koordinaci jsou poskytovány sociálně-zdravotní služby …,*
+> *- e) sdílení údajů o zdravotním stavu pacienta zdravotnickými pracovníky se sociálními pracovníky a pracovníky v sociálních službách70), v jejichž vzájemné koordinaci jsou poskytovány sociálně-zdravotní služby, a to v nezbytném rozsahu pro poskytnutí těchto služeb,*
 >
-> *- f) oznámení údajů … o tom, že pacient, který je osobou omezenou na svobodě, mohl být podroben špatnému zacházení, státnímu zástupci nebo jinému příslušnému státnímu orgánu …*
+> *- f) oznámení údajů nebo jiných skutečností, které vypovídají o tom, že pacient, který je osobou omezenou na svobodě, mohl být podroben špatnému zacházení, státnímu zástupci nebo jinému příslušnému státnímu orgánu; osobou omezenou na svobodě se rozumí osoba omezená na svobodě policistou, ve výkonu vazby, ve výkonu trestu odnětí svobody, ve výkonu zabezpečovací detence, v ochranném léčení ústavním, v ústavní výchově, v ochranné výchově, v zařízení pro zajištění cizinců, v azylovém zařízení a pacient hospitalizovaný bez jeho souhlasu nebo osoba, které je poskytována pobytová sociální služba, aniž by byla schopna smlouvu o poskytování této služby vypovědět.*
+>
+> *(3) Za porušení povinné mlčenlivosti se dále nepovažuje sdělování údajů nebo jiných skutečností poskytovatelem v nezbytném rozsahu pro ochranu vlastních práv v trestním řízení, občanskoprávním řízení, rozhodčím řízení a ve správním řízení nebo sdělování skutečností soudu nebo jinému orgánu, je-li předmětem řízení před soudem nebo jiným orgánem spor mezi poskytovatelem, popřípadě jeho zaměstnancem, a pacientem nebo jinou osobou uplatňující práva na náhradu škody nebo ochranu osobnosti v souvislosti s poskytováním zdravotních služeb; v této souvislosti je poskytovatel oprávněn předat soudnímu znalci, znalecké kanceláři, znaleckému ústavu, komoře nebo odborníkovi, kterého si zvolí, též kopii zdravotnické dokumentace vedené o pacientovi za účelem vypracování znaleckého nebo odborného posudku vyžádaného obhajobou, nebo účastníkem v občanském soudním řízení. To platí obdobně pro sdělování údajů nebo jiných skutečností pro osobu uvedenou v § 64 odst. 1.*
+>
+> *(4) Za porušení povinné mlčenlivosti se též nepovažuje sdělování údajů nebo jiných skutečností zdravotnickým pracovníkem, který je členem komory, nebo poskytovatelem, pro kterého tento zdravotnický pracovník v rozhodné době vykonával zdravotnické povolání, v nezbytném rozsahu pro účely řízení prováděných orgány komory.*
+>
+> *(5) Povinná mlčenlivost podle odstavce 1 platí též pro*
+>
+> *- a) zdravotnické pracovníky a jiné odborné pracovníky, a to v souvislosti s výkonem jejich povolání,*
+>
+> *- b) zdravotnické pracovníky nebo jiné odborné pracovníky, kteří již nevykonávají své povolání, a informace získali v souvislosti s bývalým výkonem povolání zdravotnického pracovníka nebo jiného odborného pracovníka nebo zaměstnání při poskytování zdravotních služeb,*
+>
+> *- c) osoby získávající způsobilost k výkonu povolání zdravotnického pracovníka nebo jiného odborného pracovníka,*
+>
+> *- d) osoby uvedené v § 65 odst. 2 nahlížející bez souhlasu pacienta do zdravotnické dokumentace o něm vedené,*
+>
+> *- e) členy odborných komisí podle zákona o specifických zdravotních službách,*
+>
+> *- f) osoby uvedené v § 28 odst. 7,*
+>
+> *- g) další osoby, které v souvislosti se svou činností vykonávanou na základě tohoto zákona nebo jiných právních předpisů zjistí informace o zdravotním stavu pacienta nebo informace s tím související.*
 
 **Výklad:**
 

@@ -444,7 +444,11 @@ NKM je oprávněno (a povinno) požadavek nepřijmout, pokud chybí kterákoli z
 >
 > *- c) zajišťuje pro pacienty do doby, než si zvolí nového poskytovatele nebo než bude zdravotnická dokumentace týkající se pracovnělékařských služeb předána příslušnému poskytovateli určenému zaměstnavatelem, výpisy nebo kopie zdravotnické dokumentace, a to v rozsahu potřebném pro zajištění návaznosti poskytnutí zdravotních služeb nebo je-li to nezbytné k posouzení zdravotního stavu nebo zdravotní způsobilosti,*
 >
-> *- d) neprodleně prokazatelně zajistí předání zdravotnické dokumentace poskytovateli zvolenému pacientem, a to na základě písemné žádosti pacienta nebo zvoleného poskytovatele; (...)*
+> *- d) neprodleně prokazatelně zajistí předání zdravotnické dokumentace poskytovateli zvolenému pacientem, a to na základě písemné žádosti pacienta nebo zvoleného poskytovatele; poskytovatel zvolený pacientem ke své žádosti připojí písemné vyjádření pacienta o provedené volbě; součástí žádosti je jméno, popřípadě jména, příjmení pacienta, jeho rodné číslo, je-li přiděleno, nebo datum narození, adresa místa trvalého pobytu pacienta nebo místo hlášeného pobytu na území České republiky, popřípadě adresa bydliště mimo území České republiky, je-li pacientem cizinec, a identifikační údaje zvoleného poskytovatele.*
+>
+> *(4) Pokud zemřelý poskytovatel zajišťoval pracovnělékařské služby pro zaměstnavatele, příslušný správní orgán oznámí převzetí zdravotnické dokumentace zaměstnanců tomuto zaměstnavateli, je-li mu znám. Příslušný správní orgán na základě sdělení zaměstnavatele předá tuto zdravotnickou dokumentaci jinému poskytovateli určenému zaměstnavatelem.*
+>
+> *(5) V případě zániku oprávnění k poskytování zdravotních služeb úmrtím poskytovatele, který vedl zdravotnickou dokumentaci pouze v elektronické formě, umožní ten, kdo žil se zemřelým ve společné domácnosti, nebo osoba mu blízká, nebo vlastník objektu, ve kterém byly zdravotní služby poskytovány, příslušnému správnímu orgánu přístup k informačnímu systému, ve kterém je vedena zdravotnická dokumentace pacientů.*
 
 **Výklad:**
 
@@ -541,34 +545,6 @@ Speciální režim pro pracovnělékařské služby: poskytovatel oznámí ukon�
 > *(1) Fyzická nebo právnická osoba, jejíž oprávnění k poskytování zdravotních služeb zaniklo na základě rozhodnutí příslušného správního orgánu, je povinna zajistit předání zdravotnické dokumentace a její soupis příslušnému správnímu orgánu, a to do 10 pracovních dnů ode dne nabytí právní moci rozhodnutí.*
 >
 > *(2) Jestliže nastaly skutečnosti, podle nichž fyzická nebo právnická osoba uvedená v § 58 nemůže pokračovat v poskytování zdravotních služeb, předá neprodleně zdravotnickou dokumentaci a její soupis příslušnému správnímu orgánu.*
->
-> **§ 61**
->
-> *(1) Jde-li o zánik oprávnění k poskytování zdravotních služeb v souvislosti se zrušením organizační složky státu nebo organizační složky územního samosprávného celku a v poskytování zdravotních služeb*
->
-> *- a) pokračuje jiný poskytovatel, je zanikající organizační složka povinna zajistit předání zdravotnické dokumentace a její soupis pokračujícímu poskytovateli,*
->
-> *- b) nepokračuje jiný poskytovatel, použije se ustanovení § 57 odst. 3 a 4 obdobně s tím, že zdravotnickou dokumentaci a její soupis předá příslušnému správnímu orgánu tento poskytovatel.*
->
-> **§ 62**
->
-> *Jestliže poskytovatel předal zdravotnickou dokumentaci právnické nebo fyzické osobě, která hodlá pokračovat v poskytování zdravotních služeb, a dosud nenastaly skutečnosti rozhodné pro pokračování v poskytování zdravotních služeb, postupuje tato osoba podle § 57 odst. 3 písm. a), c) a d) obdobně. (...)*
->
-> **§ 63**
->
-> *(1) Příslušný správní orgán při převzetí zdravotnické dokumentace podle*
->
-> *- a) § 59 odst. 2 postupuje obdobně podle § 57 odst. 3 písm. c) a d),*
->
-> *- b) § 59 odst. 3 postupuje obdobně podle § 57 odst. 4, nebo*
->
-> *- c) § 60 nebo § 61 odst. 1 písm. b) postupuje obdobně podle § 57 odst. 3, popřípadě podle § 57 odst. 4.*
->
-> *(2) Příslušný správní orgán může pro zajištění úkolů podle § 57 odst. 3 písm. c) a d) předat zdravotnickou dokumentaci jinému poskytovateli, pokud s tím tento poskytovatel souhlasí, a to na dobu, než si pacient zvolí jiného poskytovatele.*
->
-> *(...)*
->
-> *(5) Zdravotnická dokumentace a její soupis musí být předány příslušnému správnímu orgánu nebo poskytovateli nebo oprávněné fyzické nebo právnické osobě do 10 pracovních dnů ode dne, kdy nastala skutečnost rozhodná pro její předání, pokud tento zákon nestanoví jinak.*
 
 **Výklad — shrnutí § 60–63:**
 
@@ -602,13 +578,17 @@ Speciální režim pro pracovnělékařské služby: poskytovatel oznámí ukon�
 >
 > *- d) řešení sporu se zdravotní pojišťovnou.*
 >
-> *(...)*
+> *Obdobně se postupuje, jde-li o fyzickou osobu, která pozbyla způsobilost k výkonu zdravotnického povolání.*
 >
 > *(2) Osoby, jimž byl podle odstavce 1 umožněn přístup do zdravotnické dokumentace,*
 >
 > *- a) nemají přístup k údajům, které nesouvisí s účelem, pro který byl přístup umožněn,*
 >
-> *- b) jsou povinny zachovávat mlčenlivost (...)*
+> *- b) jsou povinny zachovávat mlčenlivost o všech údajích, o nichž se v souvislosti s přístupem do zdravotnické dokumentace dozvěděly o pacientech, zdravotnických pracovnících, popřípadě jiných odborných pracovnících, nebo poskytovateli, s výjimkou údajů sdělovaných příslušným orgánům v trestním řízení, soudům nebo jiným orgánům při řízeních uvedených v odstavci 1.*
+>
+> *(3) Příslušný správní orgán nebo poskytovatel poučí osoby, jimž byl podle odstavce 1 umožněn přístup do zdravotnické dokumentace, o povinnosti podle odstavce 2 písm. b).*
+>
+> *Nahlížení do zdravotnické dokumentace, pořizování jejích výpisů nebo kopií*
 
 **Výklad:**
 
@@ -636,15 +616,69 @@ Speciální režim pro pracovnělékařské služby: poskytovatel oznámí ukon�
 >
 > *(1) Do zdravotnické dokumentace vedené o pacientovi mohou v přítomnosti zaměstnance pověřeného poskytovatelem nahlížet, pořizovat si její výpisy nebo kopie*
 >
-> *- a) pacient, zákonný zástupce, opatrovník pacienta nebo jiná osoba, která je na základě rozhodnutí soudu oprávněná pacienta zastupovat v právním jednání vztahujícím se k poskytování zdravotních služeb; do záznamů autorizovaných psychologických metod a popisu léčby psychoterapeutickými prostředky mohou tyto osoby nahlížet nebo si pořizovat výpisy nebo kopie pouze v rozsahu záznamu popisu příznaků onemocnění, diagnózy, popisu terapeutického přístupu a interpretace výsledků testů,*
+> *- a) pacient, zákonný zástupce, opatrovník pacienta nebo jiná osoba, která je na základě rozhodnutí soudu oprávněná pacienta zastupovat70) v právním jednání vztahujícím se k poskytování zdravotních služeb; do záznamů autorizovaných psychologických metod a popisu léčby psychoterapeutickými prostředky mohou tyto osoby nahlížet nebo si pořizovat výpisy nebo kopie pouze v rozsahu záznamu popisu příznaků onemocnění, diagnózy, popisu terapeutického přístupu a interpretace výsledků testů,*
 >
-> *- b) osoby určené pacientem, zákonným zástupcem nebo opatrovníkem pacienta, pěstoun nebo jiná pečující osoba; (...)*
+> *- b) osoby určené pacientem, zákonným zástupcem nebo opatrovníkem pacienta, pěstoun nebo jiná pečující osoba; v případě záznamů autorizovaných psychologických metod a popisu léčby psychoterapeutickými prostředky se postupuje podle písmene a),*
 >
 > *- c) osoby blízké zemřelému pacientovi v rozsahu stanoveném v § 33 odst. 4;*
 >
 > *postupy podle písmene a), b) nebo c) nesmí narušit poskytování zdravotních služeb.*
 >
-> *(2) Do zdravotnické dokumentace vedené o pacientovi mohou bez jeho souhlasu nahlížet, jestliže je to v zájmu pacienta nebo jestliže je to potřebné k naplnění účelů plynoucích z jejich pověření nebo k výkonu působnosti svěřené podle tohoto zákona nebo jiných právních předpisů, a to v nezbytném rozsahu, [seznam písmen a) až s)]*
+> *(2) Do zdravotnické dokumentace vedené o pacientovi mohou bez jeho souhlasu nahlížet, jestliže je to v zájmu pacienta nebo jestliže je to potřebné k naplnění účelů plynoucích z jejich pověření nebo k výkonu působnosti svěřené podle tohoto zákona nebo jiných právních předpisů, a to v nezbytném rozsahu,*
+>
+> *- a) pracovník poskytovatele a osoba v obdobném postavení k poskytovateli, jsou-li*
+>
+> *- 1. osobou se způsobilostí k výkonu zdravotnického povolání nebo jiným odborným pracovníkem a podílí-li se na poskytování zdravotních služeb pacientovi, nebo*
+>
+> *- 2. osobou plnící další úkoly podle tohoto zákona nebo jiných právních předpisů64),*
+>
+> *- b) osoby podílející se na výkonu působnosti příslušného správního orgánu v souvislosti s přezkoumáním lékařského posudku podle jiného právního předpisu,*
+>
+> *- c) osoby se způsobilostí k výkonu zdravotnického povolání pověřené příslušným správním orgánem vypracováním odborného stanoviska k návrhu na přezkoumání lékařského posudku,*
+>
+> *- d) osoby, které se podílejí na výkonu působnosti správních orgánů a které jsou*
+>
+> *- 1. oprávněné k výkonu kontroly v rozsahu jejich pověření podle tohoto zákona nebo jiných právních předpisů,*
+>
+> *- 2. osobami se způsobilostí k výkonu zdravotnického povolání pověřenými a přizvanými ke kontrole v rozsahu jejich pověření podle tohoto zákona nebo jiných právních předpisů,*
+>
+> *- 3. pověřené k vyřízení stížnosti podle části osmé tohoto zákona v souvislosti s touto stížností,*
+>
+> *- 4. ustavené jako nezávislý odborník nebo jmenované členem nezávislé odborné komise podle § 94 odst. 3, nebo*
+>
+> *- 5. pověřené příslušným správním orgánem, který převzal podle tohoto zákona zdravotnickou dokumentaci, pořizováním výpisů nebo kopií zdravotnické dokumentace pro zajištění návaznosti zdravotních služeb o pacienta,*
+>
+> *- e) osoby se způsobilostí k výkonu zdravotnického povolání pověřené zdravotními pojišťovnami k provádění činností v rozsahu stanoveném zákonem o veřejném zdravotním pojištění,*
+>
+> *- f) zdravotničtí pracovníci příslušní podle jiných právních předpisů k posuzování zdravotního stavu pro účely sociálního zabezpečení, zejména nemocenského nebo důchodového pojištění, státní sociální podpory, zaměstnanosti, sociálně-právní ochrany dětí, sociálních služeb, dávek pro osoby se zdravotním postižením a pomoci v hmotné nouzi, a to včetně pověřených lékařských zdravotnických pracovníků Ministerstva práce a sociálních věcí za účelem plnění jeho koncepční, kontrolní a metodické činnosti,*
+>
+> *- g) osoby Státním ústavem pro kontrolu léčiv pověřené a přizvané ke kontrole podle tohoto zákona nebo jiných právních předpisů v rozsahu stanoveném těmito právními předpisy,*
+>
+> *- h) osoby podílející se na evidenci údajů nebo na kontrole sdělování údajů do Národního zdravotnického informačního systému podle tohoto zákona,*
+>
+> *- i) soudní znalci ve zdravotnických oborech a osoby se způsobilostí k výkonu zdravotnického povolání, které byly pověřeny vypracováním znaleckého posudku znaleckým ústavem nebo znaleckou kanceláří30), poskytovatelem nebo zdravotnickým pracovníkem, v rozsahu nezbytném pro vypracování znaleckého posudku zadaného orgánem činným v trestním řízení, obhajobou nebo zmocněncem v trestním řízení nebo soudem,*
+>
+> *- j) zdravotničtí pracovníci způsobilí k ověřování podmínek vzniku nemocí z povolání pověření k této činnosti Státním úřadem pro jadernou bezpečnost, jde-li o podezření na vznik nemoci z povolání v souvislosti s prací v podmínkách ionizujícího záření,*
+>
+> *- k) osoby se způsobilostí k výkonu zdravotnického povolání, které jsou zaměstnanci orgánů ochrany veřejného zdraví, při výkonu státního zdravotního dozoru,*
+>
+> *- l) osoby se způsobilostí k výkonu zdravotnického povolání provádějící hodnocení kvality a bezpečí podle tohoto zákona a osoby se způsobilostí k výkonu zdravotnického povolání provádějící externí klinické audity lékařského ozáření podle zákona o specifických zdravotních službách,*
+>
+> *- m) veřejný ochránce práv, ochránce práv dětí, jejich zástupce a jimi pověření zaměstnanci Kanceláře veřejného ochránce práv a ochránce práv dětí v souvislosti s plněním úkolů při výkonu jim svěřené působnosti podle jiného zákona tak, aby byla zajištěna ochrana citlivých údajů třetích osob,*
+>
+> *- n) členové delegace Evropského výboru pro zabránění mučení a nelidskému či ponižujícímu zacházení nebo trestání nebo členové delegace Podvýboru pro prevenci mučení a jiného krutého, nelidského či ponižujícího zacházení nebo trestání, a to v rozsahu nezbytném pro splnění úkolu vyplývajícího z mezinárodních smluv, kterými je Česká republika vázána a které upravují činnost výboru nebo podvýboru32),*
+>
+> *- o) inspektoři oprávnění k provádění inspekcí souvisejících s klinickým hodnocením humánních léčivých přípravků v souladu s přímo použitelným předpisem Evropské unie upravujícím podrobná pravidla pro provádění inspekčních postupů správné klinické praxe55),*
+>
+> *- p) jde-li o pacientský souhrn nebo část zdravotnické dokumentace jinou než pacientský souhrn, pracovníci poskytovatele jiného státu Evropské unie prostřednictvím příslušného národního kontaktního místa státu Evropské unie, a to za účelem poskytnutí zdravotních služeb pacientovi, který se nachází v péči poskytovatele jiného státu Evropské unie a o němž jsou pacientský souhrn nebo část zdravotnické dokumentace jiná než pacientský souhrn, vedeny, pokud pacient, popřípadě jiná k tomu oprávněná osoba, nevyslovil nesouhlas podle § 56c odst. 2 nebo 3,*
+>
+> *- q) státní zástupci při výkonu dozoru nad dodržováním právních předpisů při výkonu ústavní výchovy a ochranné výchovy74),*
+>
+> *- r) pověřený člen nebo zaměstnanec komory v rámci výkonu disciplinární pravomoci podle zákona o České lékařské komoře, České stomatologické komoře a České lékárnické komoře,*
+>
+> *- s) osoby provádějící monitoring nebo audit klinického hodnocení humánních léčivých přípravků podle přímo použitelného předpisu Evropské unie75) upravujícího klinická hodnocení humánních léčivých přípravků a členové etické komise, která vykonává dohled nad klinickým hodnocením léčivého přípravku, klinickou zkouškou zdravotnického prostředku nebo studií funkční způsobilosti diagnostického zdravotnického prostředku in vitro.*
+>
+> *Osoby uvedené v písmenech b) až o), q) až s) si mohou pořizovat výpisy nebo kopie zdravotnické dokumentace v rozsahu nezbytném pro splnění účelu nahlížení.*
 >
 > *(3) Osoby získávající způsobilost k výkonu povolání zdravotnického pracovníka nebo jiného odborného pracovníka a zdravotničtí pracovníci uvedení v § 46 odst. 2 mohou do zdravotnické dokumentace vedené o pacientovi nahlížet v rozsahu nezbytně nutném pro zajištění výuky; to neplatí, jestliže pacient nahlížení prokazatelně zakázal.*
 
@@ -708,19 +742,23 @@ Nahlížení musí probíhat **v přítomnosti pověřeného zaměstnance poskyt
 
 > **§ 66**
 >
-> *(1) Pokud si osoba, která je podle § 65 odst. 1 nebo odst. 2 písm. b) až k) oprávněná k pořízení výpisu nebo kopie zdravotnické dokumentace, nepořídí výpis nebo kopii vlastními prostředky na místě, pořídí kopii zdravotnické dokumentace poskytovatel. (...) Poskytovatel pořídí výpis nebo kopii zdravotnické dokumentace*
+> *(1) Pokud si osoba, která je podle § 65 odst. 1 nebo odst. 2 písm. b) až k) oprávněná k pořízení výpisu nebo kopie zdravotnické dokumentace, nepořídí výpis nebo kopii vlastními prostředky na místě, pořídí kopii zdravotnické dokumentace poskytovatel. Výpis zdravotnické dokumentace pro osoby uvedené ve větě první poskytovatel pořídí pouze v případě, je-li to účelnější než pořízení kopie, a to po dohodě s oprávněnou osobou. Poskytovatel pořídí výpis nebo kopii zdravotnické dokumentace*
 >
 > *- a) pro osoby uvedené v § 65 odst. 1 do 30 dnů od obdržení žádosti pacienta nebo jiné k tomu oprávněné osoby,*
 >
-> *- b) pro osoby uvedené v § 65 odst. 2 písm. b) až k) v rozsahu nezbytném pro splnění účelu nahlížení do 15 dnů od obdržení písemné žádosti, (...)*
+> *- b) pro osoby uvedené v § 65 odst. 2 písm. b) až k) v rozsahu nezbytném pro splnění účelu nahlížení do 15 dnů od obdržení písemné žádosti,*
 >
-> *(3) Poskytovatel nemůže po osobě uvedené v § 65 odst. 1 písm. a) v souvislosti s pořízením výpisu nebo kopie zdravotnické dokumentace na její žádost požadovat úhradu; to neplatí, žádá-li tato osoba o pořízení výpisu nebo kopie zdravotnické dokumentace opakovaně. V případě opakované žádosti podle věty první nebo žádosti osoby uvedené v § 65 odst. 1 písm. b) nebo c) může poskytovatel požadovat úhradu (...)*
+> *pokud z jiného právního předpisu nevyplývá jiný postup nebo pokud nebyla dohodnuta jiná lhůta.*
+>
+> *(2) Pokud poskytovatel není schopen osobám uvedeným v § 65 odst. 1 zajistit nahlížení do zdravotnické dokumentace, pořídí pro ně kopii zdravotnické dokumentace do 5 dnů ode dne, kdy oprávněné osobě sdělil, že nahlížení do zdravotnické dokumentace nelze zajistit, jestliže nebyla dohodnuta lhůta jiná. Za pořízení kopie nelze požadovat úhradu.*
+>
+> *(3) Poskytovatel nemůže po osobě uvedené v § 65 odst. 1 písm. a) v souvislosti s pořízením výpisu nebo kopie zdravotnické dokumentace na její žádost požadovat úhradu; to neplatí, žádá-li tato osoba o pořízení výpisu nebo kopie zdravotnické dokumentace opakovaně. V případě opakované žádosti podle věty první nebo žádosti osoby uvedené v § 65 odst. 1 písm. b) nebo c) může poskytovatel požadovat úhradu ve výši, která nesmí přesáhnout součet účelně vynaložených nákladů na pořízení výpisu nebo kopie zdravotnické dokumentace a za jejich odeslání. Poskytovatel nemůže poskytnutí výpisu nebo kopie ze zdravotnické dokumentace podmínit předchozím poskytnutím úhrady podle věty druhé.*
 >
 > *(4) V případě, že je zdravotnická dokumentace vedena v elektronické podobě, má pacient nebo jiná osoba oprávněná podle § 65 právo nahlížet dálkovým přístupem, nebrání-li tomu technické možnosti poskytovatele, nebo na pořízení její kopie na technickém nosiči dat; to neplatí, požaduje-li listinnou podobu.*
 >
-> *(...)*
+> *(5) Osoby uvedené v § 65 odst. 2 písm. b) až n) jsou povinny před nahlédnutím do zdravotnické dokumentace prokázat svou totožnost průkazem totožnosti nebo jiným dokladem obsahujícím fotografii a příslušnost ke správnímu orgánu nebo instituci nebo předložit písemné pověření. Jde-li o osoby uvedené v § 65 odst. 1 použije se obdobně § 41 odst. 3 a 4.*
 >
-> *(6) Každé nahlédnutí do zdravotnické dokumentace nebo pořízení jejích výpisů nebo kopií podle tohoto zákona nebo jiných právních předpisů, s výjimkou nahlédnutí podle § 65 odst. 2 písm. a) a odst. 3, se do zdravotnické dokumentace vedené o pacientovi zaznamená. (...)*
+> *(6) Každé nahlédnutí do zdravotnické dokumentace nebo pořízení jejích výpisů nebo kopií podle tohoto zákona nebo jiných právních předpisů, s výjimkou nahlédnutí podle § 65 odst. 2 písm. a) a odst. 3, se do zdravotnické dokumentace vedené o pacientovi zaznamená. Podle věty první se postupuje obdobně, jestliže byly oprávněnému subjektu poskytnuty podle tohoto zákona nebo jiných právních předpisů bez souhlasu pacienta údaje nebo jiné informace vztahující se k osobě pacienta.*
 
 **Výklad:**
 
@@ -756,7 +794,7 @@ Každé nahlédnutí (s výjimkou nahlédnutí klinickými pracovníky vlastníh
 
 > **§ 67**
 >
-> *Jestliže jsou ve zdravotnické dokumentaci vedené o nezletilém pacientovi zaznamenány takové údaje o jeho zákonném zástupci, pěstounovi nebo jiné pečující osobě, o kterých se zdravotnický pracovník dozvěděl při poskytování zdravotních služeb a z nichž lze vyvodit podezření na zneužívání nebo týrání pacienta nebo ohrožování jeho zdravého vývoje, může poskytovatel omezit zpřístupnění zdravotnické dokumentace tomuto zákonnému zástupci, popřípadě oběma zákonným zástupcům, pěstounovi nebo jiné pečující osobě, pokud uzná, že toto omezení je v zájmu pacienta. Přístup do zdravotnické dokumentace lze omezit pouze ve vztahu k údajům, z nichž vyplývají skutečnosti uvedené ve větě první. (...)*
+> *Jestliže jsou ve zdravotnické dokumentaci vedené o nezletilém pacientovi zaznamenány takové údaje o jeho zákonném zástupci, pěstounovi nebo jiné pečující osobě, o kterých se zdravotnický pracovník dozvěděl při poskytování zdravotních služeb a z nichž lze vyvodit podezření na zneužívání nebo týrání pacienta nebo ohrožování jeho zdravého vývoje, může poskytovatel omezit zpřístupnění zdravotnické dokumentace tomuto zákonnému zástupci, popřípadě oběma zákonným zástupcům, pěstounovi nebo jiné pečující osobě, pokud uzná, že toto omezení je v zájmu pacienta. Přístup do zdravotnické dokumentace lze omezit pouze ve vztahu k údajům, z nichž vyplývají skutečnosti uvedené ve větě první. Obdobně se postupuje, má-li zdravotnický pracovník podezření na domácí nebo sexuální násilí nebo jiné zneužívání nebo týrání pacienta s ustanoveným zástupcem, nebo jiného pacienta, který není nezletilým pacientem nebo pacientem s ustanoveným zástupcem.*
 
 **Výklad:**
 
@@ -814,11 +852,19 @@ Archivem se rozumí Národní archiv nebo státní oblastní archiv ve smyslu z�
 >
 > *Prováděcí právní předpis stanoví*
 >
-> *- a) obsah a náležitosti zdravotnické dokumentace a jejích jednotlivých částí, včetně způsobu tvorby, obsahu a struktury pacientského souhrnu, (...)*
+> *- a) obsah a náležitosti zdravotnické dokumentace a jejích jednotlivých částí, včetně způsobu tvorby, obsahu a struktury pacientského souhrnu,*
 >
-> *- d) podrobnosti způsobu vedení a zpracovávání zdravotnické dokumentace v jednotlivých jejich podobách, včetně požadavků na technické prostředky pro vedení a zpracování zdravotnické dokumentace v elektronické podobě, (...)*
+> *- b) náležitosti požadavku o pacientský souhrn nebo části zdravotnické dokumentace jiné než pacientský souhrn podaného prostřednictvím Národního kontaktního místa, včetně způsobu jeho vyžádání u poskytovatele a jeho předání poskytovateli jiného státu Evropské unie prostřednictvím Národního kontaktního místa,*
 >
-> *- f) dobu uchování zdravotnické dokumentace, postup při vyřazování zdravotnické dokumentace a způsob jejího zničení po uplynutí doby uchování a podrobnosti postupu při výběru archiválií ze zdravotnické dokumentace, (...)*
+> *- c) části zdravotnické dokumentace jiné než pacientský souhrn, které lze prostřednictvím Národního kontaktního místa předat národnímu kontaktnímu místu státu Evropské unie,*
+>
+> *- d) podrobnosti způsobu vedení a zpracovávání zdravotnické dokumentace v jednotlivých jejich podobách, včetně požadavků na technické prostředky pro vedení a zpracování zdravotnické dokumentace v elektronické podobě,*
+>
+> *- e) lhůty pro provádění záznamů a autorizaci zdravotnické dokumentace v návaznosti na druhy a formy zdravotní péče,*
+>
+> *- f) dobu uchování zdravotnické dokumentace, postup při vyřazování zdravotnické dokumentace a způsob jejího zničení po uplynutí doby uchování a podrobnosti postupu při výběru archiválií ze zdravotnické dokumentace,*
+>
+> *- g) formu a způsob podepisování pacienta v případě záznamu do zdravotnické dokumentace.*
 
 **Výklad:**
 
@@ -843,7 +889,11 @@ Vyhláška je nezbytným provozním předpisem — bez ní by řada povinností 
 >
 > *(2) Služby Národního kontaktního místa podle odstavce 1 jsou oprávněny využívat poskytovatelé a poskytovatelé jiného státu Evropské unie.*
 >
-> *(3) Národní kontaktní místo dále slouží pro zajištění komunikace s národními kontaktními místy států Evropské unie při předávání informací nutných pro výdej léčivého přípravku (...)*
+> *(3) Národní kontaktní místo dále slouží pro zajištění komunikace s národními kontaktními místy států Evropské unie při předávání informací nutných pro výdej léčivého přípravku*
+>
+> *- a) v České republice na základě elektronického receptu vystaveného v jiném členském státě Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederaci a*
+>
+> *- b) v jiném členském státě Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederaci na základě elektronického receptu vystaveného v České republice. Při předávání informací prostřednictvím Národního kontaktního místa při výdeji léčivých přípravků se postupuje podle zákona o léčivech.*
 >
 > *(4) Správcem Národního kontaktního místa je ministerstvo.*
 
@@ -894,13 +944,21 @@ Vyhláška je nezbytným provozním předpisem — bez ní by řada povinností 
 >
 > *- e) pro potřeby vědy a výzkumu v oblasti zdravotnictví, a*
 >
-> *- f) ke zpracování údajů (...) pro statistické účely a k poskytování údajů a statistických informací v rozsahu určeném tímto nebo jinými právními předpisy, včetně poskytování informací pro mezinárodní instituce, a dále ke zpracování národních statistických ukazatelů o resortu zdravotnictví (dále jen „resortní referenční statistiky"),*
+> *- f) ke zpracování údajů podle písmen a) a d) jakož i v registrech podle písmen b) a c) pro statistické účely a k poskytování údajů a statistických informací v rozsahu určeném tímto nebo jinými právními předpisy, včetně poskytování informací pro mezinárodní instituce, a dále ke zpracování národních statistických ukazatelů o resortu zdravotnictví (dále jen „resortní referenční statistiky“),*
 >
 > *- g) k vývoji a optimalizaci klasifikačního systému pro nastavení systému úhrad akutní lůžkové péče.*
 >
-> *(2) Pro zpracování osobních údajů v Národním zdravotnickém informačním systému podle odstavce 1 písm. b) až d) se předávají bez souhlasu subjektu údajů, pokud dále není stanoveno jinak, údaje, kterými jsou, je-li subjektem údajů*
+> *(2) Pro zpracování osobních údajů v Národním zdravotnickém informačním systému podle odstavce 1 písm. b) až d) se předávají bez souhlasu subjektu údajů33), pokud dále není stanoveno jinak, údaje, kterými jsou, je-li subjektem údajů*
 >
-> *- a) pacient, (...) [demografické, klinické a identifikační údaje pacienta]*
+> *- a) pacient,*
+>
+> *- 1. údaje potřebné k jeho identifikaci, a to číslo pojištěnce, je-li přiděleno, nebo rodné číslo, identifikátor pacienta, není-li tímto číslem číslo pojištěnce, anebo datum narození, není-li přiděleno rodné číslo, identifikátor pacienta, dále název obce a popřípadě název městské části nebo městského obvodu, adresa místa trvalého pobytu, a jde-li o cizince, adresa místa hlášeného pobytu a státní občanství,*
+>
+> *- 2. údaje související s jeho zdravotním stavem ve vztahu k onemocnění a jeho léčbě, a to zejména údaje socio-demografické a diagnostické, osobní, rodinná a pracovní anamnéza pacienta související s onemocněním včetně posouzení jeho aktuálního zdravotního stavu, údaje o poskytovaných zdravotních službách pacientovi, dále údaje o výkonu povolání nebo zaměstnání, popřípadě o výkonu služebního poměru, potřebné pro posouzení zdravotního stavu pacienta,*
+>
+> *- 3. identifikační údaje poskytovatele, který zdravotní služby poskytoval, včetně oddělení a pracoviště,*
+>
+> *- 4. identifikační údaje posledního zaměstnavatele, u kterého pacient, u něhož nemoc z povolání vznikla, naposledy pracoval za podmínek, za kterých nemoc z povolání vzniká,*
 >
 > *- b) poskytovatel, údaje uvedené v § 74 odst. 1,*
 >
@@ -908,7 +966,61 @@ Vyhláška je nezbytným provozním předpisem — bez ní by řada povinností 
 >
 > *- d) osoba poskytující zdravotní služby podle § 20, údaje uvedené v § 74 odst. 2.*
 >
-> *(3) Ministerstvo zřizuje Ústav zdravotnických informací a statistiky České republiky (dále jen „statistický ústav") jako organizační složku státu k plnění svých úkolů v oblasti zajištění Národního zdravotnického informačního systému podle tohoto zákona a zákona o státní statistické službě. V čele statistického ústavu je ředitel, kterého jmenuje a odvolává ministr zdravotnictví. Statistický ústav je správcem Národního zdravotnického informačního systému.*
+> *(3) Ministerstvo zřizuje Ústav zdravotnických informací a statistiky České republiky (dále jen „statistický ústav“) jako organizační složku státu k plnění svých úkolů v oblasti zajištění Národního zdravotnického informačního systému podle tohoto zákona a zákona o státní statistické službě. V čele statistického ústavu je ředitel, kterého jmenuje a odvolává ministr zdravotnictví. Statistický ústav je správcem Národního zdravotnického informačního systému.*
+>
+> *(4) Údaje podle odstavce 2 předávají do Národního zdravotnického informačního systému, pokud je neposkytují podle jiného právního předpisu34),*
+>
+> *- a) poskytovatelé; poskytovatelé, kteří jsou zároveň zpravodajskou službou, údaje do Národního zdravotnického informačního systému nepředávají,*
+>
+> *- b) zdravotní pojišťovny,*
+>
+> *- c) příslušní správci nebo jimi pověření zpracovatelé těchto údajů, pokud se jedná o údaje shromažďované podle tohoto zákona nebo jiných zákonů,*
+>
+> *- d) v případě Národního registru poskytovatelů podle § 74 též příslušné správní orgány, krajské úřady a osoba pověřená správcem Národního zdravotnického informačního systému,*
+>
+> *- e) v případě Národního registru zdravotnických pracovníků podle § 76 též*
+>
+> *- 1. školy poskytující střední vzdělávání ve skupině oborů zdravotnického vzdělávání, vyšší odborné a vysoké školy, které mají akreditovaný vzdělávací nebo studijní program, jejichž absolvováním získává absolvent odbornou způsobilost k výkonu zdravotnického povolání podle jiných právních předpisů (dále jen „vzdělávací zařízení“),*
+>
+> *- 2. akreditovaná zařízení podle zákonů upravujících způsobilost k výkonu zdravotnických povolání (dále jen „akreditovaná zařízení“),*
+>
+> *- 3. právnické osoby, které jsou pověřenými organizacemi podle zákonů upravujících způsobilost k výkonu zdravotnických povolání (dále jen „pověřená organizace“),*
+>
+> *- 4. komory,*
+>
+> *- 5. zdravotnický pracovník,*
+>
+> *- 6. ministerstvo,*
+>
+> *- 7. Ministerstvo práce a sociálních věcí,*
+>
+> *- 8. Česká správa sociálního zabezpečení,*
+>
+> *- f) v případě Národního registru léčby uživatelů drog též zařízení služeb sociální péče, zařízení poskytující služby sociální prevence a programy sociálního poradenství poskytované podle zákona upravujícího poskytování sociálních služeb, jejichž cílovou skupinou jsou osoby ohrožené závislostí nebo závislé na návykových látkách,*
+>
+> *- g) v případě příjemců příspěvku na péči35) Ministerstvo práce a sociálních věcí.*
+>
+> *(5) Osoby uvedené v odstavci 4*
+>
+> *- a) nemají nárok na úhradu nákladů, které jsou spojené s poskytováním údajů do Národního zdravotnického informačního systému,*
+>
+> *- b) jsou povinny umožnit statistickému ústavu a ministerstvu kontrolu správnosti a úplnosti sdělování údajů do Národního zdravotnického informačního systému,*
+>
+> *- c) jsou povinny zajistit správnost údajů předávaných do Národního zdravotnického informačního systému.*
+>
+> *(6) Údaje do Národního zdravotnického informačního systému se předávají pouze v elektronické podobě přímým zápisem nebo na technických nosičích způsobem stanoveným prováděcím právním předpisem a ve struktuře podle datového rozhraní. Datové rozhraní zveřejní statistický ústav na svých internetových stránkách.*
+>
+> *(7) V Národním zdravotnickém informačním systému se v případech stanovených tímto zákonem vede za účelem identifikace subjektu údajů*
+>
+> *- a) identifikátor pacienta,*
+>
+> *- b) identifikátor zdravotnického pracovníka přidělený podle zákona o elektronizaci zdravotnictví (dále jen „identifikátor zdravotnického pracovníka“), a*
+>
+> *- c) agendový identifikátor fyzické osoby přidělený podle zákona upravujícího informační systém základních registrů18); agendový identifikátor fyzické osoby předává, pokud tento zákon nestanoví jinak, do Národního informačního systému, statistický ústav.*
+>
+> *(8) Pokud statistický ústav zjistí při kontrole podle odstavce 5 písm. b) nebo při plnění úkolů v oblasti zajištění Národního zdravotnického informačního systému nesprávné nebo neúplné údaje, tyto údaje v Národním zdravotnickém informačním systému označí za nesprávné nebo neúplné a informaci o tom předá bez zbytečného odkladu, nejpozději však do 3 pracovních dnů ode dne, kdy nesprávnost nebo neúplnost údaje zjistí, osobě, která tyto údaje do Národního zdravotnického informačního systému předala, k prověření a nápravě, anebo v uvedené lhůtě neúplný údaj doplní nebo nesprávný údaj opraví, pokud je schopen jej ověřit z jiných zdrojů podle tohoto zákona. Osoba, které byla předána informace podle věty první, údaj označený za neúplný doplní nebo údaj označený za nesprávný opraví bez zbytečného odkladu, nejpozději však do 3 pracovních dnů ode dne, kdy jí byla informace předána.*
+>
+> *(9) V rámci zpracování osobních údajů v Národním zdravotnickém informačním systému lze využívat rodné číslo pacienta.*
 
 **Výklad:**
 
@@ -1092,15 +1204,15 @@ Národní zdravotní registry uvedené v příloze (odst. 1 písm. b) vždy obsa
 >
 > *(1) Účelem zdravotnických registrů je*
 >
-> *- a) sběr informací k hodnocení zdravotního stavu obyvatelstva a jeho vývoje, ke sledování incidence, okolností vzniku a šíření společensky závažných nemocí a jejich důsledků; (...)*
+> *- a) sběr informací k hodnocení zdravotního stavu obyvatelstva a jeho vývoje, ke sledování incidence, okolností vzniku a šíření společensky závažných nemocí a jejich důsledků; zároveň slouží jako podklad pro hodnocení kvality, účelnosti a efektivity diagnostických a léčebných postupů, včetně klinických doporučených postupů, a podporu nebo usměrnění jejich rozvoje s návazně možnou podporou vybavenosti zdravotnických zařízení přístrojovou technikou,*
 >
-> *- b) sledovat vývoj, příčiny a důsledky nejenom závažných onemocnění (...) jejich dopady do sociální sféry a ekonomiky sociálního systému,*
+> *- b) sledovat vývoj, příčiny a důsledky nejenom závažných onemocnění, a to včetně důsledků ekonomických, a jejich dopady do sociální sféry a ekonomiky sociálního systému,*
 >
-> *- c) evidence a sledování pacientů, včetně zemřelých, s vybranými společensky závažnými nemocemi (...)*
+> *- c) evidence a sledování pacientů, včetně zemřelých, s vybranými společensky závažnými nemocemi, sledování výskytu, vývoje, příčin a důsledků těchto nemocí a návaznosti další péče, a evidence a sledování pacientů s úrazy, a dále statistická a vědecká zpracování dat registrů zaměřená zejména na analýzy zdravotního stavu obyvatel a kvalitu a využívání zdravotní péče s cílem zlepšovat zdraví populace,*
 >
-> *- d) evidence poskytovatelů (...)*
+> *- d) evidence poskytovatelů a osob poskytujících zdravotní služby podle § 20, personálního zabezpečení poskytovaných zdravotních služeb a technického a věcného vybavení,*
 >
-> *- e) evidence zdravotnických pracovníků (...)*
+> *- e) evidence zdravotnických pracovníků z hlediska jejich oprávnění k výkonu zdravotnického povolání, věku, pohlaví a dosaženého vzdělání,*
 >
 > *- f) získávání potřebných údajů pro resortní referenční statistiky, statistické účely a poskytování informací,*
 >
@@ -1108,9 +1220,65 @@ Národní zdravotní registry uvedené v příloze (odst. 1 písm. b) vždy obsa
 >
 > *- h) sběr informací k zajištění kvality a udržitelnosti systému úhrad zdravotních služeb hrazených z veřejného zdravotního pojištění,*
 >
-> *- i) sběr informací ke sledování demografického vývoje, reprodukčního zdraví a důsledků stárnutí obyvatelstva (...)*
+> *- i) sběr informací ke sledování demografického vývoje, reprodukčního zdraví a důsledků stárnutí obyvatelstva na poskytování zdravotních služeb,*
 >
 > *- j) evidence zemřelých na základě Listu o prohlídce zemřelého.*
+>
+> *(2) Přístup k osobním údajům a dalším údajům vedeným ve zdravotnických registrech má, nestanoví-li tento zákon jinak,*
+>
+> *- a) oprávněný pracovník správce nebo provozovatele zdravotnického registru,*
+>
+> *- b) oprávněný zdravotnický pracovník poskytovatele, který*
+>
+> *- 1. poskytuje pacientovi zdravotní služby, které jsou sledovány ve zdravotnickém registru, jde-li o registry uvedené v § 72 odst. 1 písm. b), e) nebo f),*
+>
+> *- 2. je zdravotnickou záchrannou službou, jde-li o registr uvedený v § 72 odst. 1 písm. c), a to pro účely plnění úkolů podle tohoto zákona a zákona o zdravotnické záchranné službě,*
+>
+> *- 3. je registrujícím poskytovatelem v oboru všeobecné praktické lékařství nebo praktické lékařství pro děti a dorost, jde-li o údaje o poskytnutých zdravotních službách v souvislosti se screeningovým programem,*
+>
+> *- 4. je registrujícím poskytovatelem v oboru gynekologie a porodnictví, jde-li o údaje o poskytnutých zdravotních službách v souvislosti se screeningovým programem, který je oprávněn indikovat,*
+>
+> *- c) oprávněný zaměstnanec osoby poskytující do zdravotnického registru údaje, jde-li o registr uvedený v § 72 odst. 1 písm. c), a zdravotnický pracovník poskytující do zdravotnického registru údaje o své osobě, jde-li o registr uvedený v § 72 odst. 1 písm. d), a to v rozsahu jimi poskytovaných údajů; tím není dotčen přístup k veřejným částem zdravotnických registrů,*
+>
+> *- d) oprávněný pracovník Koordinačního střediska transplantací pro potřeby využití anamnestických dat vedených ve zdravotnických registrech o zemřelém pacientovi, u něhož byla prokázána mozková smrt a který je potenciálním dárcem, a to pro účely transplantací,*
+>
+> *- e) oprávněný pracovník instituce, která má ze zákona právo využívat data určeného zdravotnického registru pro svoji činnost,*
+>
+> *- f) oprávněný pracovník orgánu ochrany veřejného zdraví, jde-li o registr uvedený v § 72 odst. 1 písm. c) a d), a to pro účely plnění úkolů podle zákona o ochraně veřejného zdraví,*
+>
+> *(dále jen „oprávněný pracovník“); oprávněného pracovníka určují a žádost podle odstavce 2 předkládají subjekty uvedené v písmenech a) až f). Subjektem oprávněným podat žádost podle odstavce 3 se též rozumí zdravotnický pracovník podle písmene c), který poskytuje do zdravotnického registru údaje o své osobě.*
+>
+> *(3) Přístup k osobním údajům a dalším údajům vedeným ve zdravotnických registrech zajistí oprávněnému pracovníkovi statistický ústav, a to na základě žádosti předložené k tomu oprávněným subjektem podle odstavce 2. Žádost se překládá způsobem umožňujícím dálkový přístup. V žádosti musí být uvedeny identifikační údaje subjektu, který předkládá žádost, a oprávněného pracovníka, účel, pro který jsou údaje, k nimž má být v rámci příslušného zdravotnického registru umožněn přístup, požadovány, a rozsah požadovaných přístupových práv. Statistický ústav sdělí oprávněnému subjektu rozsah přístupových práv k osobním a dalším údajům vedeným v příslušném zdravotnickém registru. Jestliže statistický ústav přístup k osobním údajům a dalším údajům vedeným v příslušném zdravotnickém registru nezajistí, sdělí subjektu, který žádost podal, důvody, které ho k tomu vedly.*
+>
+> *(4) Subjekt podle odstavce 2 je povinen bez zbytečného odkladu oznámit statistickému ústavu změny skutečností, na základě kterých byl zajištěn oprávněnému pracovníkovi přístup k osobním a dalším údajům vedeným ve zdravotnickém registru. Statistický ústav podle závažnosti změn přístup zruší nebo změní. Statistický ústav přístup zruší též na základě žádosti oprávněného subjektu.*
+>
+> *(5) Statistický ústav poskytne na základě žádosti poskytovatele informaci o úmrtí pacienta a skutečnostech s tím souvisejících. Žádost podle věty první obsahuje*
+>
+> *- a) základní identifikační údaje poskytovatele,*
+>
+> *- b) základní identifikaci subjektu údajů, o kterém mají být údaje předány,*
+>
+> *- c) požadovaný rozsah údajů o subjektu údajů,*
+>
+> *- d) účel, ke kterému je informace o úmrtí pacienta a skutečnostech s tím souvisejících požadována,*
+>
+> *- e) další informace potřebné k vyhledání požadovaných údajů, pokud nebyl subjekt údajů označen jednoznačným způsobem.*
+>
+> *Žádost podepíše statutární orgán způsobem, se kterým jiný právní předpis spojuje účinky vlastnoručního podpisu51).*
+>
+> *(6) Statistický ústav ověří identitu žadatele uvedeného v odstavci 5 v Národním registru poskytovatelů. Statistický ústav dále posoudí podle sděleného účelu, ke kterému jsou údaje požadovány, oprávněnost žádosti a odůvodněnost požadovaného rozsahu údajů a v případě kladného vyhodnocení předá žadateli požadované údaje. Pokud statistický ústav žádost vyhodnotí jako nedůvodnou nebo omezí rozsah požadovaných údajů, sdělí tuto skutečnost žadateli.*
+>
+> *(7) Statistický ústav poskytne na základě žádosti podle zákona o svobodném přístupu k informacím61), pokud se jedná o údaje v Národním zdravotnickém informačním systému, pouze informace o struktuře dat.*
+>
+> *(8) Pro statistické a vědecké účely poskytuje statistický ústav z národních zdravotních registrů údaje pouze v podobě, ze které nelze určit konkrétní fyzickou nebo právnickou osobu. Statistický ústav je oprávněn žádat za poskytnutí těchto údajů úhradu ve výši, která nesmí přesáhnout náklady spojené s pořízením výpisů, kopií, s opatřením technických nosičů dat a s odesláním údajů oprávněnému subjektu podle odstavce 2. Statistický ústav si může vyžádat i úhradu za mimořádně rozsáhlé vyhledávání údajů.*
+>
+> *(9) V případě, že bude statistický ústav za poskytnutí údajů podle odstavce 8 požadovat úhradu, písemně oznámí tuto skutečnost spolu s výší úhrady oprávněnému subjektu, který předložil žádost podle odstavce 3, před poskytnutím údajů podle odstavce 8. Z oznámení musí být zřejmé, na základě jakých skutečností a jakým způsobem byla výše úhrady statistickým ústavem vyčíslena.*
+>
+> *(10) Nesplní-li statistický ústav vůči oprávněnému subjektu, který předložil žádost podle odstavce 3, oznamovací povinnost podle odstavce 9, ztrácí nárok na úhradu nákladů.*
+>
+> *(11) Poskytnutí údajů podle odstavce 8 je podmíněno zaplacením požadované úhrady. Pokud oprávněný subjekt, který předložil žádost podle odstavce 3, do 60 dnů ode dne oznámení výše požadované úhrady úhradu nezaplatí, statistický ústav žádost odloží. Po dobu vyřizování stížnosti proti výši požadované úhrady lhůta podle věty druhé neběží.*
+>
+> *(12) Úhrada je příjmem statistického ústavu.*
 
 **Výklad:**
 
@@ -1180,43 +1348,85 @@ Pro **statistické a vědecké účely** poskytuje ÚZIS data **jen v podobě, z
 >
 > *(1) Národní registr poskytovatelů obsahuje strukturované údaje o poskytovatelích, a to*
 >
-> *- a) identifikační údaje poskytovatele (...)*
+> *- a) identifikační údaje poskytovatele v rozsahu uvedeném v rozhodnutí o oprávnění k poskytování zdravotních služeb,*
 >
-> *- b) údaje o odborném zástupci (...)*
+> *- b) údaje o odborném zástupci v rozsahu uvedeném v rozhodnutí o oprávnění k poskytování zdravotních služeb,*
 >
-> *- c) adresu místa nebo míst poskytování zdravotních služeb a další kontaktní údaje (...)*
+> *- c) adresu místa nebo míst poskytování zdravotních služeb a další kontaktní údaje poskytovatele, například telefon, fax, adresu elektronické pošty, adresu internetových stránek a identifikátor datové schránky,*
 >
-> *- d) rozsah poskytované zdravotní péče (...)*
+> *- d) rozsah poskytované zdravotní péče podle § 19 odst. 1 písm. b), a to pro každé místo poskytování zdravotních služeb,*
 >
 > *- e) datum zahájení poskytování zdravotních služeb,*
 >
-> *- f) údaj o přerušení (...)*
+> *- f) údaj o přerušení poskytování zdravotních služeb,*
 >
-> *- g) údaj o pozastavení (...)*
+> *- g) údaj o pozastavení poskytování zdravotních služeb,*
 >
-> *- h) údaj o zániku oprávnění (...)*
+> *- h) údaj o zániku oprávnění k poskytování zdravotních služeb,*
 >
-> *- i) údaj o pokračování v poskytování (...)*
+> *- i) údaj o pokračování v poskytování zdravotních služeb podle § 27,*
 >
 > *- j) provozní a ordinační dobu,*
 >
-> *- k) seznam zdravotních pojišťoven, s nimiž má uzavřenu smlouvu (...)*
+> *- k) seznam zdravotních pojišťoven, s nimiž má uzavřenu smlouvu podle zákona o veřejném zdravotním pojištění,*
 >
-> *- l) údaj o získání potvrzení o splnění podmínek hodnocení kvality a bezpečí (...)*
+> *- l) údaj o získání potvrzení o splnění podmínek hodnocení kvality a bezpečí poskytovaných zdravotních služeb podle tohoto zákona,*
 >
-> *- m) počet lůžek (...) a údaje o obsazenosti lůžek (...)*
+> *- m) počet lůžek podle formy a oboru zdravotní péče, popřípadě druhu zdravotní péče podle § 5 odst. 2 písm. f) až h), a údaje o obsazenosti lůžek vymezených pro každé místo poskytování zdravotních služeb podle formy nebo oboru zdravotní péče, popřípadě též podle jejich vybavení, stanovených prováděcím právním předpisem podle § 78,*
 >
-> *- n) přepočtený počet zdravotnických pracovníků (...)*
+> *- n) přepočtený počet zdravotnických pracovníků v členění podle odborné způsobilosti, specializované způsobilosti, zvláštní odborné a zvláštní specializované způsobilosti,*
 >
-> *- o) zdravotnické prostředky-přístroje (...)*
+> *- o) zdravotnické prostředky, které jsou přístrojem, používané poskytovatelem při poskytování zdravotních služeb a jsou významné pro dostupnost zdravotních služeb, včetně adresy zdravotnického zařízení, ve kterém jsou umístěny; seznam skupin takových zdravotnických prostředků a rozsah údajů o nich předávaných do Národního registru poskytovatelů stanoví prováděcí právní předpis,*
 >
-> *- p) stejnopis rozhodnutí o udělení oprávnění (...)*
+> *- p) stejnopis*
 >
-> *- q) technické údaje pro komunikaci (...)*
+> *- 1. rozhodnutí o udělení oprávnění k poskytování zdravotních služeb podle § 19 odst. 4 a rozhodnutí týkající se jeho změn, odejmutí, pozastavení nebo zániku podle § 25 odst. 4,*
 >
-> *- r) údaj o udělení statusu centra vysoce specializované péče (...)*
+> *- 2. osvědčení o pokračování zdravotních služeb podle § 27 odst. 4,*
 >
-> *- s) informace o přerušení a pokračování poskytování (...)*
+> *- q) technické údaje pro komunikaci podle zákona o elektronizaci zdravotnictví,*
+>
+> *- r) údaj o udělení statusu centra vysoce specializované zdravotní péče podle § 112, centra vysoce specializované zdravotní péče pro pacienty se vzácným onemocněním podle § 113a a screeningového pracoviště podle § 113c,*
+>
+> *- s) informace o přerušení poskytování zdravotních služeb podle § 26 odst. 2 včetně uvedení dne, od kterého dojde k přerušení, a informace o pokračování v poskytování zdravotních služeb po tomto přerušení podle § 26 odst. 4 včetně uvedení dne, od kterého dojde k pokračování.*
+>
+> *(2) Do Národního registru poskytovatelů se zaznamenávají též údaje o osobách poskytujících zdravotní služby podle § 20, a to údaje uvedené v dokladu prokazujícím jejich oprávnění poskytovat zdravotní služby v jiném členském státě Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederaci, kontaktní adresa a další kontaktní údaje podle odstavce 1 písm. c), datum zahájení a ukončení poskytování zdravotních služeb na území České republiky, zákaz poskytování zdravotních služeb na území České republiky a doba jeho trvání.*
+>
+> *(3) Obsah Národního registru poskytovatelů je*
+>
+> *- a) veřejně přístupný na internetových stránkách ministerstva, s výjimkou*
+>
+> *- 1. adresy místa trvalého nebo hlášeného pobytu a datu narození fyzické osoby,*
+>
+> *- 2. stejnopisů dokumentů uvedených v odstavci 1 písm. p),*
+>
+> *- 3. údajů o poskytovateli, o jehož oprávnění k poskytování zdravotních služeb rozhodlo Ministerstvo obrany a zároveň je jeho provozovatelem, Ministerstvo spravedlnosti nebo Ministerstvo vnitra,*
+>
+> *- 4. údajů o obsazenosti lůžek podle odstavce 1 písm. m),*
+>
+> *- b) přístupný oprávněnému pracovníkovi poskytovatele a osobě poskytující zdravotní služby podle § 20, a to v rozsahu údajů o nich zpracovávaných,*
+>
+> *- c) přístupný oprávněným zaměstnancům příslušného správního úřadu a dále krajského úřadu, jemuž bylo oznámeno poskytování zdravotních služeb podle § 20 odst. 2, v rozsahu všech údajů zpracovávaných v registru, a to za účelem výkonu státní správy v oblasti zdravotnictví,*
+>
+> *- d) přístupný oprávněným zaměstnancům právnických osob zajišťujícím sběr dat do Národního zdravotnického informačního systému s výjimkou údajů o obsazenosti lůžek podle odstavce 1 písm. m),*
+>
+> *- e) přístupný oprávněným zaměstnancům zdravotních pojišťoven v rozsahu všech údajů zpracovávaných v registru, a to za účelem provádění veřejného zdravotního pojištění,*
+>
+> *- f) přístupný oprávněnému pracovníkovi komory, jde-li o člena komory, který je poskytovatelem nebo odborným zástupcem, a to v rozsahu údajů o nich vedených,*
+>
+> *- g) přístupný oprávněnému zaměstnanci ministerstva za účelem výkonu státní správy,*
+>
+> *- h) přístupný oprávněnému zaměstnanci Státního ústavu pro kontrolu léčiv, a to za účelem plnění úkolů Státního ústavu pro kontrolu léčiv podle zákona o léčivech s výjimkou údajů o obsazenosti lůžek podle odstavce 1 písm. m),*
+>
+> *- i) přístupný oprávněnému zaměstnanci České správy sociálního zabezpečení nebo služebním orgánům nemocenského pojištění, a to za účelem výkonu státní správy v oblasti nemocenského pojištění,*
+>
+> *- j) přístupný oprávněnému pracovníkovi zdravotnické záchranné služby, a to za účelem plnění úkolů zdravotnické záchranné služby podle tohoto zákona a zákona o zdravotnické záchranné službě,*
+>
+> *- k) přístupný oprávněnému pracovníkovi orgánu ochrany veřejného zdraví, a to za účelem plnění úkolů orgánu ochrany veřejného zdraví podle zákona o ochraně veřejného zdraví,*
+>
+> *- l) přístupný oprávněnému pracovníkovi poskytovatele akutní lůžkové péče v oboru intenzivní medicína k údajům podle odstavce 1 písm. m), pokud jde o údaje o obsazenosti lůžek za účelem koordinace příjmu pacientů a plnění úkolů podle zákona o zdravotních službách, a*
+>
+> *- m) přístupný oprávněnému pracovníkovi Ministerstva práce a sociálních věcí a Institutu posuzování zdravotního stavu za účelem výkonu státní správy v oblasti sociálního zabezpečení podle zákona o organizaci a provádění sociálního zabezpečení a zákona o nemocenském pojištění.*
 
 **Výklad:**
 
@@ -1247,15 +1457,17 @@ Pro jednotlivé okruhy oprávněných subjektů (správní úřady, ZP, ÚZIS, m
 >
 > *(1) Do Národního registru poskytovatelů předává údaje nebo jejich změnu podle*
 >
-> *- a) § 74 odst. 1 písm. a) až i), p) a s) příslušný správní orgán (...)*
+> *- a) § 74 odst. 1 písm. a) až i), p) a s) příslušný správní orgán s tím, že další kontaktní údaje podle § 74 odst. 1 písm. c) předává, pokud jsou mu známé,*
 >
-> *- b) § 74 odst. 2 krajský úřad, jemuž bylo oznámeno poskytování zdravotních služeb podle § 20 odst. 2,*
+> *- b) § 74 odst. 2 krajský úřad, jemuž bylo oznámeno poskytování zdravotních služeb podle § 20 odst. 2, s tím, že další kontaktní údaje podle § 74 odst. 1 písm. c) předává, pokud jsou mu známé,*
 >
 > *- c) § 74 odst. 1 písm. c), jde-li o kontaktní údaje, a podle § 74 odst. 1 písm. j) až o) a q) poskytovatel,*
 >
 > *- d) § 74 odst. 1 písm. r) ministerstvo.*
 >
-> *(2) Správní orgány a osoby uvedené v odstavci 1 předávají údaje do Národního registru poskytovatelů nebo jejich změny, s výjimkou údajů podle § 74 odst. 1 písm. o), bez zbytečného odkladu, nejpozději však do 3 pracovních dnů ode dne, kdy se o vzniku údaje nebo jeho změně dozví; to neplatí pro osoby, které předávají údaje (...) o obsazenosti lůžek, které předávají údaje bez zbytečného odkladu, nejpozději do 24 hodin (...)*
+> *(2) Správní orgány a osoby uvedené v odstavci 1 předávají údaje do Národního registru poskytovatelů nebo jejich změny, s výjimkou údajů podle § 74 odst. 1 písm. o), bez zbytečného odkladu, nejpozději však do 3 pracovních dnů ode dne, kdy se o vzniku údaje nebo jeho změně dozví; to neplatí pro osoby, které předávají údaje do Národního registru poskytovatelů podle § 74 odst. 1 písm. m), pokud jde o údaje o obsazenosti lůžek, které předávají údaje bez zbytečného odkladu, nejpozději do 24 hodin od okamžiku, kdy se o vzniku údaje nebo jeho změně dozví. Tím není dotčen postup podle § 26 odst. 2 nebo 4.*
+>
+> *Národní registr zdravotnických pracovníků*
 
 **Výklad:**
 
@@ -1276,37 +1488,63 @@ Pro jednotlivé okruhy oprávněných subjektů (správní úřady, ZP, ÚZIS, m
 >
 > *(1) Národní registr zdravotnických pracovníků způsobilých k výkonu zdravotnického povolání obsahuje údaje o zdravotnických pracovnících, včetně hostujících osob a osob, které způsobilost k výkonu zdravotnického povolání získaly mimo území České republiky, a to*
 >
-> *- a) jméno (...) akademický titul, vědecká hodnost a vědecko-pedagogický titul,*
+> *- a) jméno, popřípadě jména, a příjmení zdravotnického pracovníka a jeho akademický titul, vědecká hodnost a vědecko-pedagogický titul,*
 >
 > *- b) datum a místo narození,*
 >
 > *- c) pohlaví,*
 >
-> *- d) rodné číslo (...) v případě cizinců číslo cestovního dokladu (...)*
+> *- d) rodné číslo, bylo-li přiděleno, v případě cizinců číslo cestovního dokladu nebo jiného průkazu totožnosti,*
 >
 > *- e) státní občanství,*
 >
-> *- f) údaj o zařazení do specializačního vzdělávání (...)*
+> *- f) údaj o zařazení zdravotnického pracovníka do specializačního vzdělávání ve specializačním oboru nebo v nástavbovém oboru s uvedením oboru, data zařazení a vzdělávacího zařízení, které o zařazení rozhodlo,*
 >
-> *- g) údaj o absolvování základního kmene specializačního vzdělávání (...)*
+> *- g) údaj o absolvování základního kmene specializačního vzdělávání s uvedením oboru, data ukončení, čísla certifikátu a vzdělávacího zařízení, které certifikát vydalo,*
 >
-> *- h) označení odborné způsobilosti, specializované způsobilosti (...)*
+> *- h) označení odborné způsobilosti, specializované způsobilosti a zvláštní odborné nebo zvláštní specializované způsobilosti, číslo diplomu a datum jejího získání podle jiných právních předpisů, v případě uznání způsobilosti k výkonu zdravotnického povolání podle jiných právních předpisů označení způsobilosti a datum jejího uznání,*
 >
-> *- i) identifikační údaje vzdělávacího zařízení, akreditovaného zařízení nebo pověřené organizace (...)*
+> *- i) identifikační údaje vzdělávacího zařízení, akreditovaného zařízení nebo pověřené organizace, ve kterých zdravotnický pracovník získal odbornou, specializovanou nebo zvláštní odbornou způsobilost, v případě uznání způsobilosti k výkonu zdravotnického povolání podle jiných právních předpisů identifikační údaj uznávajícího orgánu,*
 >
 > *- j) údaj, zda se jedná o hostující nebo usazenou osobu,*
 >
-> *- k) v případě hostující osoby datum oznámení (...)*
+> *- k) v případě hostující osoby datum oznámení, na základě kterého může podle jiného právního předpisu vykonávat zdravotnické povolání,*
 >
-> *- l) v případě (...) specializační přípravy nebo aprobačního řízení, údaj o specializačním vzdělávání nebo aprobační zkoušce,*
+> *- l) v případě zdravotnických pracovníků, kterých se týká specializační příprava nebo kteří jsou v průběhu aprobačního řízení, údaj, zda se jedná o zdravotnického pracovníka zařazeného do specializačního vzdělávání nebo přípravy k aprobační zkoušce, a obor specializačního vzdělávání nebo aprobační zkoušky,*
 >
-> *- m) identifikační údaje poskytovatele, u kterého zdravotnický pracovník vykonává zdravotnické povolání (...)*
+> *- m) identifikační údaje poskytovatele, u kterého zdravotnický pracovník vykonává zdravotnické povolání, obor, druh a forma zdravotní péče, ve kterém zdravotnické povolání vykonává, druh pracovněprávního vztahu a rozsah stanovené týdenní pracovní doby v případě, že vykonává zdravotnické povolání na základě pracovního poměru,*
 >
-> *- n) adresu místa trvalého pobytu (...)*
+> *- n) adresu místa trvalého pobytu zdravotnického pracovníka, jde-li o cizince, adresu hlášeného pobytu, a další kontaktní údaje, například telefonní číslo, adresu elektronické pošty nebo identifikátor datové schránky, pokud adresu a další kontaktní údaje zdravotnický pracovník sdělil,*
 >
-> *- o) záznamy o zákazu výkonu povolání a o zápisu/vyloučení z komory,*
+> *- o) záznamy o*
+>
+> *- 1. pravomocných rozhodnutích o zákazu výkonu zdravotnického povolání,*
+>
+> *- 2. zápisu do seznamu členů komory a vyloučení z komory,*
 >
 > *- p) identifikátor zdravotnického pracovníka.*
+>
+> *(2) Obsah Národního registru zdravotnických pracovníků je přístupný*
+>
+> *- a) vzdělávacímu zařízení, akreditovanému zařízení, ministerstvu nebo pověřené organizaci, které jsou editorem údajů o zdravotnickém pracovníkovi v rozsahu odstavce 1 písm. f) až k) a p),*
+>
+> *- b) poskytovateli v rozsahu údajů o jeho zaměstnancích, včetně hostujících osob, podle odstavce 1 písm. a) až l) a n) až p), a to za účelem zajištění poskytování zdravotních služeb a ověřování plnění požadavků na personální zabezpečení poskytovaných zdravotních služeb,*
+>
+> *- c) komoře v rozsahu údajů podle odstavce 1 vedených o jejích členech, za účelem výkonu její činnosti,*
+>
+> *- d) zdravotní pojišťovně v rozsahu údajů podle odstavce 1 písm. a), b), d, f) až i), k) až p), a to za účelem provádění veřejného zdravotního pojištění,*
+>
+> *- e) ministerstvu v rozsahu údajů podle odstavce 1, a to za účelem výkonu státní správy,*
+>
+> *- f) příslušnému správnímu orgánu v rozsahu údajů podle odstavce 1 písm. a), b), f) až p), a to za účelem výkonu jeho činnosti,*
+>
+> *- g) Státnímu ústavu pro kontrolu léčiv v rozsahu údajů o lékařích, zubních lékařích a farmaceutech podle odstavce 1 písm. a), b), h) až j), l), n) a p), a to za účelem výkonu státní správy v oblasti lékové politiky,*
+>
+> *- h) zdravotnickému pracovníkovi v rozsahu údajů o něm vedených,*
+>
+> *- i) osobám uvedeným v § 77 odst. 1 k údajům, které do Národního registru zdravotnických pracovníků předávají,*
+>
+> *- j) Ministerstvu práce a sociálních věcí, České správě sociálního zabezpečení a služebním orgánům nemocenského pojištění v rozsahu údajů podle odstavce 1, a to za účelem výkonu státní správy v oblasti nemocenského pojištění.*
 
 **Výklad:**
 
@@ -1348,15 +1586,61 @@ Přístupní jsou: vzdělávací zařízení, akreditovaná zařízení, ministe
 >
 > *(1) Národní registr hrazených zdravotních služeb obsahuje údaje o obsahu, datu a čase poskytnutí zdravotní služby, o fyzické nebo právnické osobě, která zdravotní službu poskytla, pojištěnci, kterému byla zdravotní služba poskytnuta, a o provedených úhradách zdravotních služeb z veřejného zdravotního pojištění.*
 >
-> *(2) Do Národního registru hrazených zdravotních služeb předává údaje (...) zdravotní pojišťovna (...) [identifikační údaje, rozsah, výše úhrady, typ úhrady, období]*
+> *(2) Do Národního registru hrazených zdravotních služeb předává údaje podle odstavce 1 zdravotní pojišťovna, která zdravotní službu uhradila, a to*
 >
-> *(3) (...) také agendový identifikátor fyzické osoby (...) pojištěnce, kterému byla poskytnuta zdravotní služba (...) pohlaví, rok narození, kód obce pobytu a specifikace poskytnuté služby s datem.*
+> *- a) identifikační údaje zdravotní pojišťovny, která úhradu zdravotních služeb provedla,*
 >
-> *(4) Do Národního registru hrazených zdravotních služeb rovněž předává údaje poskytovatel, který provedl laboratorní vyšetření (...) [výsledky laboratorních vyšetření hematologických, biochemických, mikrobiologických, molekulárně biologických, molekulárně patologických, multiomických, imunologických, histopatologických, cytologických, genetických, cytogenetických a multiomických]*
+> *- b) identifikační údaje*
 >
-> *(...)*
+> *- 1. poskytovatele, včetně identifikace pracoviště,*
+>
+> *- 2. v rozsahu identifikátor zdravotnického pracovníka uvedeného ve smlouvě o poskytování a úhradě hrazených zdravotních služeb uzavřené mezi poskytovatelem a zdravotní pojišťovnou podle zákona o veřejném zdravotním pojištění,*
+>
+> *- c) rozsah zdravotních služeb, o jejichž poskytování a úhradě uzavřela zdravotní pojišťovna s poskytovatelem smlouvu podle zákona o veřejném zdravotním pojištění,*
+>
+> *- d) údaje o personálním zabezpečení včetně identifikátorů zdravotnických pracovníků, prostřednictvím kterých poskytovatel poskytuje zdravotní služby, a uvedených ve smlouvě o poskytování a úhradě hrazených zdravotních služeb uzavřené mezi poskytovatelem a zdravotní pojišťovnou podle zákona o veřejném zdravotním pojištění, a pokud je nemá k dispozici, tak včetně jejich rodných čísel, a věcném a technickém vybavení poskytovatele, k jejichž zajištění se zavázal zdravotní pojišťovně ve smlouvě o poskytování a úhradě zdravotních služeb uzavřené podle zákona o veřejném zdravotním pojištění,*
+>
+> *- e) vymezení zdravotních služeb, za které byla úhrada provedena,*
+>
+> *- f) výši úhrady za zdravotní služby vymezené podle písmene e), poskytnuté zdravotní pojišťovnou,*
+>
+> *- g) typ úhrady a*
+>
+> *- h) období, v němž byly poskytnuty zdravotní služby vymezené podle písmene e), za které zdravotní pojišťovna poskytla úhradu ve výši uvedené podle písmene f).*
+>
+> *(3) Do Národního registru hrazených zdravotních služeb dále zdravotní pojišťovna uvedená v odstavci 2 předává*
+>
+> *- a) agendový identifikátor fyzické osoby přidělený podle zákona upravujícího informační systém základních registrů18) k pojištěnci, kterému byla poskytnuta zdravotní služba specifikovaná podle písmene d) a uhrazená zdravotní pojišťovnou poskytovateli; pokud agendový identifikátor fyzické osoby nebyl přidělen, identifikační číslo tohoto pojištěnce,*
+>
+> *- b) údaj o pohlaví pojištěnce uvedeného v písmenu a) a rok jeho narození,*
+>
+> *- c) kód obce adresy místa pobytu pojištěnce uvedeného v písmenu a) ze základního registru územní identifikace, adres a nemovitostí54) a*
+>
+> *- d) specifikaci zdravotní služby poskytnuté pojištěnci, včetně uvedení data poskytnutí zdravotní služby.*
+>
+> *(4) Do Národního registru hrazených zdravotních služeb rovněž předává údaje poskytovatel, který provedl laboratorní vyšetření a tuto zdravotní službu vykázal zdravotní pojišťovně, a to*
+>
+> *- a) výsledky odborných laboratorních hematologických, biochemických, mikrobiologických, molekulárně biologických, molekulárně patologických, multiomických, imunologických, histopatologických a cytologických vyšetření v rozsahu stanoveném prováděcím právním předpisem,*
+>
+> *- b) údaje o provedených odborných laboratorních genetických, cytogenetických a multiomických vyšetřeních zahrnující data zárodečného genomu; jde-li o genetická prediktivní, presymptomatická, prenatální a preimplantační vyšetření, poskytovatel předává pouze údaj o typu provedeného vyšetření v rozsahu stanoveném prováděcím právním předpisem,*
+>
+> *- c) výsledky jiných laboratorních odborných vyšetření než uvedených v písmenech a) a b), pokud si takové laboratorní vyšetření vyžádalo centrum vysoce specializované zdravotní péče v rozsahu stanoveném prováděcím právním předpisem,*
+>
+> *- d) identifikační údaje zdravotní pojišťovny, které byla úhrada zdravotních služeb podle písmene a), b) nebo c) vykázána,*
+>
+> *- e) identifikační údaje poskytovatele, včetně identifikace pracoviště, který laboratorní vyšetření podle písmene a), b) nebo c) provedl,*
+>
+> *- f) číslo pojištěnce nebo identifikátor pacienta.*
+>
+> *(5) Obsah Národního registru hrazených zdravotních služeb je přístupný*
+>
+> *- a) zdravotní pojišťovně v rozsahu údajů o zdravotních službách, které uhradila, a to za účelem provádění veřejného zdravotního pojištění,*
+>
+> *- b) oprávněným zaměstnancům ministerstva, a to za účelem výkonu státní správy v oblasti veřejného zdravotního pojištění.*
 >
 > *(6) Osobní údaje vedené v Národním registru hrazených zdravotních služeb se po uplynutí 50 let od roku úmrtí subjektu údajů nebo jeho prohlášení za mrtvého anonymizují.*
+>
+> *(7) Statistický ústav je povinen předat Ministerstvu financí nebo ministerstvu na základě jeho žádosti informace podle odstavce 2 v anonymizované podobě, které si Ministerstvo financí nebo ministerstvo vyžádá pro účely výkonu veřejnosprávní kontroly zdravotních pojišťoven.*
 
 **Výklad:**
 
@@ -1410,17 +1694,17 @@ NR-HZS je přístupný **zdravotní pojišťovně** (vlastní úhrady) a **minis
 >
 > *- a) okruh poskytovatelů a dalších osob předávajících osobní a další údaje do zdravotnických registrů,*
 >
-> *- b) postup, způsob, strukturu a formu předávání požadovaných osobních a dalších údajů (...)*
+> *- b) postup, způsob, strukturu a formu předávání požadovaných osobních a dalších údajů do zdravotnických registrů, a dále vymezení lůžek podle formy nebo oboru poskytované zdravotní péče, popřípadě též podle jejich vybavení, u nichž se oznamuje do Národního registru poskytovatelů údaj o jejich obsazenosti,*
 >
-> *- c) periodicitu a lhůty předávání (...)*
+> *- c) periodicitu a lhůty předávání požadovaných osobních a dalších údajů do zdravotnických registrů, pokud tento zákon nestanoví jinak,*
 >
-> *- d) náležitosti žádosti o oprávnění k přístupu (...)*
+> *- d) náležitosti žádosti o oprávnění k přístupu k osobním údajům a dalším údajům vedeným ve zdravotnických registrech a o zrušení tohoto oprávnění,*
 >
-> *- e) způsob vymezení a specifikace zdravotních služeb, za které byla úhrada provedena (...)*
+> *- e) způsob vymezení a způsob specifikace zdravotních služeb, za které byla úhrada provedena, a typ úhrady pro účely předávání údajů do Národního registru hrazených zdravotních služeb,*
 >
-> *- f) seznam konkrétních resortních referenčních statistik, lhůty jejich zveřejnění (...)*
+> *- f) seznam konkrétních resortních referenčních statistik, lhůty jejich zveřejnění a případy, kdy lze v dané referenční statistice označit konkrétního poskytovatele nebo zdravotní pojišťovnu,*
 >
-> *- g) údaje o výsledcích a typu provedených laboratorních vyšetření (...)*
+> *- g) údaje o výsledcích a typu provedených laboratorních vyšetření podle § 77a odst. 4 písm. a), b) a c).*
 
 **Výklad:**
 

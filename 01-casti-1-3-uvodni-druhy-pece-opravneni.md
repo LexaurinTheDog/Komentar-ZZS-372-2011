@@ -56,33 +56,45 @@ K této trojici přistupují **zákon č. 48/1997 Sb. o veřejném zdravotním p
 >
 > *(2) Zdravotními službami se rozumí*
 >
-> *- a) poskytování zdravotní péče podle tohoto zákona zdravotnickými pracovníky, a dále činnosti vykonávané jinými odbornými pracovníky, jsou-li tyto činnosti vykonávány v přímé souvislosti s poskytováním zdravotní péče,*
+> *- a) poskytování zdravotní péče podle tohoto zákona zdravotnickými pracovníky1),2), a dále činnosti vykonávané jinými odbornými pracovníky2), jsou-li tyto činnosti vykonávány v přímé souvislosti s poskytováním zdravotní péče,*
 >
-> *- b) konzultační služby (...),*
+> *- b) konzultační služby, jejichž účelem je posouzení individuálního léčebného postupu, popřípadě navržení jeho změny nebo doplnění, a další konzultace podporující rozhodování pacienta ve věci poskytnutí zdravotních služeb prováděné dalším poskytovatelem zdravotních služeb (dále jen „poskytovatel“) nebo zdravotnickým pracovníkem, kterého si pacient zvolil,*
 >
-> *- c) nakládání s tělem zemřelého (...),*
+> *- c) nakládání s tělem zemřelého v rozsahu stanoveném tímto zákonem, včetně převozu těla zemřelého na patologicko-anatomickou pitvu nebo zdravotní pitvu a z patologicko-anatomické pitvy nebo ze zdravotní pitvy prováděné poskytovatelem podle zákona o pohřebnictví4),*
 >
-> *- d) zdravotnická záchranná služba,*
+> *- d) zdravotnická záchranná služba5),*
 >
-> *- e) zdravotnická dopravní služba (...),*
+> *- e) zdravotnická dopravní služba, jejímž účelem je*
 >
-> *- f) přeprava pacientů neodkladné péče (...),*
+> *- 1. přeprava pacientů mezi poskytovateli nebo k poskytovateli a zpět do vlastního sociálního prostředí, je-li to nezbytné k zajištění poskytnutí zdravotních služeb,*
 >
-> *- g) zdravotní služby v rozsahu činnosti odběrových nebo tkáňových zařízení (...),*
+> *- 2. rychlá přeprava zdravotnických pracovníků k zabezpečení neodkladné péče u poskytovatele,*
 >
-> *- h) zdravotní služby v rozsahu činnosti zařízení transfuzní služby nebo krevní banky (...),*
+> *- 3. přeprava osob včetně zemřelého pacienta související s prováděním transplantací, neodkladná přeprava tkání a buněk určených k použití u člověka, přeprava léčivých přípravků, krve a jejích složek a dále zdravotnických prostředků a diagnostických zdravotnických prostředků in vitro (dále jen „zdravotnický prostředek“) nezbytných pro poskytnutí neodkladné péče nebo přeprava dalšího biologického materiálu,*
 >
-> *- i) protialkoholní a protitoxikomanická záchytná služba (...),*
+> *- f) přeprava pacientů neodkladné péče, kterou se rozumí jejich přeprava mezi poskytovateli výhradně za podmínek soustavného poskytování neodkladné péče během přepravy,*
 >
-> *- j) pohotovostní služba (...).*
+> *- g) zdravotní služby v rozsahu činnosti odběrových zařízení nebo tkáňových zařízení podle jiných právních předpisů upravujících postupy pro zajištění jakosti a bezpečnosti lidských orgánů, tkání a buněk6),*
 >
-> *(3) Zdravotními službami se rovněž rozumí specifické zdravotní služby podle zákona o specifických zdravotních službách, zdravotní služby podle zákona upravujícího transplantace nebo zákona upravujícího umělé přerušení těhotenství.*
+> *- h) zdravotní služby v rozsahu činnosti zařízení transfuzní služby nebo krevní banky podle právního předpisu upravujícího výrobu transfuzních přípravků, jejich skladování a výdej7),*
+>
+> *- i) protialkoholní a protitoxikomanická záchytná služba52) (dále jen „záchytná služba“),*
+>
+> *- j) pohotovostní služba, jejímž účelem je poskytování ambulantní péče pacientům mimo pravidelnou ordinační dobu v případech náhlé změny jejich zdravotního stavu nebo zhoršení průběhu onemocnění; pohotovostní službou je*
+>
+> *- 1. lékařská pohotovostní služba,*
+>
+> *- 2. pohotovostní služba v oboru zubní lékařství,*
+>
+> *- 3. lékárenská pohotovostní služba.*
+>
+> *(3) Zdravotními službami se rovněž rozumí specifické zdravotní služby podle zákona o specifických zdravotních službách, zdravotní služby podle zákona upravujícího transplantace nebo zákona upravujícího umělé přerušení těhotenství8).*
 >
 > *(4) Zdravotní péčí se rozumí*
 >
 > *- a) soubor činností a opatření prováděných u fyzických osob za účelem*
 >
-> *- 1. předcházení, odhalení a odstranění nemoci, vady nebo zdravotního stavu (dále jen „nemoc"),*
+> *- 1. předcházení, odhalení a odstranění nemoci, vady nebo zdravotního stavu (dále jen „nemoc“),*
 >
 > *- 2. udržení, obnovení nebo zlepšení zdravotního a funkčního stavu,*
 >
@@ -92,13 +104,13 @@ K této trojici přistupují **zákon č. 48/1997 Sb. o veřejném zdravotním p
 >
 > *- 5. posuzování zdravotního stavu,*
 >
-> *- b) preventivní, diagnostické, léčebné, léčebně rehabilitační, ošetřovatelské nebo jiné zdravotní výkony prováděné zdravotnickými pracovníky za účelem podle písmene a) (dále jen „zdravotní výkon"),*
+> *- b) preventivní, diagnostické, léčebné, léčebně rehabilitační, ošetřovatelské nebo jiné zdravotní výkony prováděné zdravotnickými pracovníky za účelem podle písmene a) (dále jen „zdravotní výkon“),*
 >
-> *- c) odborné lékařské vyšetření podle zákona o ochraně zdraví před škodlivými účinky návykových látek,*
+> *- c) odborné lékařské vyšetření podle zákona o ochraně zdraví před škodlivými účinky návykových látek53),*
 >
 > *- d) výkony, jejichž účelem je na žádost pacienta dosažení změny jeho vzhledu, aniž by jejich provedení vyžadoval jeho zdravotní stav, a k jejichž provedení jsou způsobilí pouze zdravotničtí pracovníci.*
 >
-> *(5) Konziliem se rozumí konzultace a posouzení zejména individuálního léčebného postupu, na kterých se na žádost poskytovatele podílí další poskytovatel nebo zdravotnický pracovník. (...)*
+> *(5) Konziliem se rozumí konzultace a posouzení zejména individuálního léčebného postupu, na kterých se na žádost poskytovatele podílí další poskytovatel nebo zdravotnický pracovník. Poskytovatel nebo zdravotnický pracovník podílející se na konziliu je oprávněn v místě poskytování zdravotních služeb poskytovatele, jenž o konzilium požádal, provádět zdravotní výkony diagnostické péče.*
 
 **Výklad:**
 
@@ -193,9 +205,9 @@ Konzilium je legální procesní institut, který opravňuje **konsultujícího 
 >
 > *(1) Pacientem se rozumí fyzická osoba, které jsou poskytovány zdravotní služby.*
 >
-> *(2) Ošetřujícím zdravotnickým pracovníkem se rozumí zdravotnický pracovník, který navrhuje, koordinuje, poskytuje a vyhodnocuje individuální léčebný postup u konkrétního pacienta (...)*
+> *(2) Ošetřujícím zdravotnickým pracovníkem se rozumí zdravotnický pracovník, který navrhuje, koordinuje, poskytuje a vyhodnocuje individuální léčebný postup u konkrétního pacienta a koordinuje poskytování dalších potřebných zdravotních služeb.*
 >
-> *(3) Individuálním léčebným postupem se rozumí poskytování zdravotních služeb, včetně jednotlivých zdravotních výkonů, v logické a časové posloupnosti konkrétnímu pacientovi (...)*
+> *(3) Individuálním léčebným postupem se rozumí poskytování zdravotních služeb, včetně jednotlivých zdravotních výkonů, v logické a časové posloupnosti konkrétnímu pacientovi, včetně jejich možných variant a metod. Součástí individuálního léčebného postupu je zejména diagnostická rozvaha, návrh léčby, včetně léčebně rehabilitační péče a doporučení dalšího postupu při poskytování zdravotních služeb. Součástí individuálního léčebného postupu je i léčebný režim, kterým se rozumí soubor opatření, která podporují léčbu a minimalizují její možná rizika, včetně doporučení úpravy životního stylu.*
 >
 > *(4) Hospitalizací se rozumí doba zpravidla delší než 24 hodin, po kterou je pacientovi přijatému na lůžko ve zdravotnickém zařízení poskytovatele lůžkové péče poskytována lůžková péče.*
 >
@@ -272,15 +284,15 @@ Zákon definuje **čtyři obory**, ve kterých existuje formálně-právní inst
 >
 > *(1) Zdravotnickým zařízením se rozumí prostory určené pro poskytování zdravotních služeb.*
 >
-> *(2) Návštěvní službou se rozumí poskytování zdravotní péče ve vlastním sociálním prostředí pacienta (...)*
+> *(2) Návštěvní službou se rozumí poskytování zdravotní péče ve vlastním sociálním prostředí pacienta, a to zejména v případech, kdy se pacient s ohledem na svůj zdravotní stav nemůže dostavit do zdravotnického zařízení poskytovatele a poskytnutí zdravotní péče tímto způsobem je s ohledem na její charakter možné.*
 >
-> *(3) Vlastním sociálním prostředím pacienta se pro účely tohoto zákona rozumí domácí prostředí pacienta nebo prostředí nahrazující domácí prostředí pacienta, například zařízení sociálních služeb (...), věznice (...), zařízení pro zajištění cizinců a azylové zařízení.*
+> *(3) Vlastním sociálním prostředím pacienta se pro účely tohoto zákona rozumí domácí prostředí pacienta nebo prostředí nahrazující domácí prostředí pacienta, například zařízení sociálních služeb9), zařízení pro děti vyžadující okamžitou pomoc, školy a školská zařízení zapsaná do rejstříku škol a školských zařízení, s výjimkou zařízení pro další vzdělávání pedagogických pracovníků, školských poradenských zařízení a zařízení školního stravování, nebo jiná obdobná zařízení, věznice pro výkon vazby a výkon trestu odnětí svobody, ústavy pro výkon zabezpečovací detence, zařízení pro zajištění cizinců10) a azylové zařízení11).*
 >
 > *(4) Oborem zdravotní péče se pro účely tohoto zákona rozumí*
 >
-> *- a) zubní lékařství, farmacie, obory specializačního vzdělávání, nástavbové obory nebo obory certifikovaných kurzů lékařů, zubních lékařů nebo farmaceutů podle jiného právního předpisu,*
+> *- a) zubní lékařství, farmacie, obory specializačního vzdělávání, nástavbové obory nebo obory certifikovaných kurzů lékařů, zubních lékařů nebo farmaceutů podle jiného právního předpisu1),*
 >
-> *- b) odbornosti nelékařských zdravotnických pracovníků nebo obory specializačního vzdělávání nebo obory certifikovaných kurzů nelékařských zdravotnických pracovníků podle jiného právního předpisu.*
+> *- b) odbornosti nelékařských zdravotnických pracovníků nebo obory specializačního vzdělávání nebo obory certifikovaných kurzů nelékařských zdravotnických pracovníků podle jiného právního předpisu2).*
 >
 > *(5) Náležitou odbornou úrovní se rozumí poskytování zdravotních služeb podle pravidel vědy a uznávaných medicínských postupů, při respektování individuality pacienta, s ohledem na konkrétní podmínky a objektivní možnosti.*
 
@@ -353,31 +365,49 @@ Tato definice je **právním standardem péče** (*lex artis medicinae*). Tři k
 >
 > *- a) neodkladná péče, jejímž účelem je zamezit nebo omezit vznik náhlých stavů, které bezprostředně ohrožují život nebo by mohly vést k náhlé smrti nebo vážnému ohrožení zdraví, nebo způsobují náhlou nebo intenzivní bolest nebo náhlé změny chování pacienta, který ohrožuje sebe nebo své okolí,*
 >
-> *- b) akutní péče, jejímž účelem je odvrácení vážného zhoršení zdravotního stavu nebo snížení rizika vážného zhoršení zdravotního stavu (...),*
+> *- b) akutní péče, jejímž účelem je odvrácení vážného zhoršení zdravotního stavu nebo snížení rizika vážného zhoršení zdravotního stavu tak, aby byly včas zjištěny skutečnosti nutné pro stanovení nebo změnu individuálního léčebného postupu nebo aby se pacient nedostal do stavu, ve kterém by ohrozil sebe nebo své okolí,*
 >
-> *- c) nezbytná péče, kterou z lékařského hlediska vyžaduje zdravotní stav pacienta, který je zahraničním pojištěncem (...),*
+> *- c) nezbytná péče, kterou z lékařského hlediska vyžaduje zdravotní stav pacienta, který je zahraničním pojištěncem, s přihlédnutím k povaze dávek a k délce pobytu na území České republiky; v případě zahraničních pojištěnců z členského státu Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederace musí být zdravotní péče poskytnuta v takovém rozsahu, aby zahraniční pojištěnec nemusel vycestovat do země pojištění dříve, než původně zamýšlel,*
 >
 > *- d) plánovaná péče, která není zdravotní péčí uvedenou v písmenech a), b) nebo c).*
 >
 > *(2) Druhy zdravotní péče podle účelu jejího poskytnutí jsou*
 >
-> *- a) preventivní péče (...),*
+> *- a) preventivní péče, jejímž účelem je včasné vyhledávání faktorů, které jsou v příčinné souvislosti se vznikem nemoci nebo zhoršením zdravotního stavu, a provádění opatření směřujících k odstraňování nebo minimalizaci vlivu těchto faktorů a předcházení jejich vzniku,*
 >
-> *- b) diagnostická péče (...),*
+> *- b) diagnostická péče, jejímž účelem je zjišťování zdravotního stavu pacienta a okolností, jež mají na zdravotní stav pacienta vliv, informací nutných ke zjištění nemoci, jejího stavu a závažnosti, dalších informací potřebných ke stanovení diagnózy, individuálního léčebného postupu a informací o účinku léčby,*
 >
-> *- c) dispenzární péče (...),*
+> *- c) dispenzární péče, jejímž účelem je aktivní a dlouhodobé sledování zdravotního stavu pacienta ohroženého nebo trpícího nemocí nebo zhoršením zdravotního stavu, u kterého lze podle vývoje nemoci důvodně předpokládat takovou změnu zdravotního stavu, jejíž včasné zjištění může zásadním způsobem ovlivnit další léčbu a vývoj nemoci,*
 >
-> *- d) léčebná péče (...),*
+> *- d) léčebná péče, jejímž účelem je příznivé ovlivnění zdravotního stavu na základě realizace individuálního léčebného postupu, s cílem vyléčení nebo zmírnění důsledků nemoci a zabránění vzniku invalidity nebo nesoběstačnosti nebo zmírnění jejich rozsahu,*
 >
-> *- e) posudková péče (...),*
+> *- e) posudková péče, jejímž účelem je zjištění, zda*
 >
-> *- f) léčebně rehabilitační péče (...),*
+> *- 1. nebude stabilizovaný zdravotní stav pacienta negativně ovlivněn nároky, které na něho klade výkon práce, služby, povolání nebo jiných činností v konkrétních podmínkách, nebo*
 >
-> *- g) ošetřovatelská péče (...),*
+> *- 2. zdravotní stav pacienta je v souladu s předpoklady nebo požadavky stanovenými pro výkon práce, služby, povolání, jiných činností nebo pro jiné účely,*
 >
-> *- h) paliativní péče (...),*
+> *- f) léčebně rehabilitační péče, jejímž účelem je*
 >
-> *- i) farmaceutická péče (...).*
+> *- 1. obnovení nebo zlepšení fyzických, poznávacích, řečových, smyslových a psychických funkcí pacienta nebo zmírnění trvalých následků jejich poškození,*
+>
+> *- 2. zpomalení nebo zastavení projevů nemoci a stabilizace zdravotního stavu pacienta k dosažení potřebné míry nezávislosti a kvality života pacienta v jeho vlastním sociálním prostředí, nebo*
+>
+> *- 3. zlepšení vědomí pacienta, navázání komunikace a spolupráce u pacienta s omezením vědomí nebo neuropsychiatrickým nebo kognitivním deficitem vzniklým v důsledku mozkového poškození;*
+>
+> *v případě, že jsou při poskytování léčebně rehabilitační péče využívány přírodní léčivé zdroje nebo klimatické podmínky příznivé k léčení podle lázeňského zákona12), jde o lázeňskou léčebně rehabilitační péči,*
+>
+> *- g) ošetřovatelská péče, jejímž účelem je udržení, podpora a navrácení zdraví a uspokojování biologických, psychických a sociálních potřeb změněných nebo vzniklých v souvislosti s poruchou zdravotního stavu jednotlivců nebo skupin nebo v souvislosti s těhotenstvím a porodem, a dále rozvoj, zachování nebo navrácení soběstačnosti; její součástí je péče o nevyléčitelně nemocné, zmírňování jejich utrpení a zajištění klidného umírání a důstojné přirozené smrti,*
+>
+> *- h) paliativní péče, jejímž účelem je zmírnění utrpení a zachování kvality života pacienta, který trpí nevyléčitelnou nemocí,*
+>
+> *- i) farmaceutická péče, kterou se rozumí zejména péče lékárenská a klinickofarmaceutická (dále jen „farmaceutická péče“), jejímž účelem je maximalizace účinku a minimalizace rizik farmakoterapie, směřující ke zlepšení kvality života pacienta; farmaceutická péče sestává zejména ze zajišťování, přípravy, úpravy, uchovávání, kontroly jakosti, výdeje léčivých přípravků s výjimkou transfuzních přípravků a surovin pro výrobu krevních derivátů podle zákona o léčivech, zajišťování, uchovávání, výdeje a prodeje potravin pro zvláštní lékařské účely a zdravotnických prostředků a diagnostických zdravotnických prostředcích in vitro; dále je farmaceutickou péčí optimalizace farmakoterapie pacienta včetně hodnocení vlivu farmakoterapie na diagnostické metody, posuzování a kontrola účelného, bezpečného a hospodárného užívání léčivých přípravků a používání zdravotnických prostředků, konzultační a konziliární činnosti a poradenství; je-li farmaceutická péče poskytována v lékárně, jedná se o lékárenskou péči.*
+>
+> *(3) Prováděcí právní předpis stanoví*
+>
+> *- a) druhy, obsah a časové rozmezí preventivních prohlídek, okruhy osob, kterým jsou jednotlivé druhy preventivních prohlídek poskytovány, a okruhy poskytovatelů, kteří preventivní prohlídky provádějí,*
+>
+> *- b) nemoci, u nichž se poskytuje dispenzární péče, časové rozmezí prováděných prohlídek a okruhy poskytovatelů provádějících dispenzární péči.*
 
 **Výklad:**
 
@@ -452,11 +482,11 @@ Tato definice je **právním standardem péče** (*lex artis medicinae*). Tři k
 >
 > *(2) Ambulantní péče je poskytována jako*
 >
-> *- a) primární ambulantní péče (...) — tuto zdravotní péči pacientovi poskytuje registrující poskytovatel,*
+> *- a) primární ambulantní péče, jejímž účelem je poskytování preventivní, diagnostické, léčebné a posudkové péče a konzultací, dále koordinace a návaznost poskytovaných zdravotních služeb jinými poskytovateli; tuto zdravotní péči pacientovi poskytuje registrující poskytovatel,*
 >
-> *- b) specializovaná ambulantní péče (...),*
+> *- b) specializovaná ambulantní péče, která je poskytovaná v rámci jednotlivých oborů zdravotní péče podle § 4 odst. 4,*
 >
-> *- c) stacionární péče (...).*
+> *- c) stacionární péče, jejímž účelem je poskytování zdravotní péče pacientům, jejichž zdravotní stav vyžaduje opakované denní poskytování ambulantní péče.*
 >
 > *(3) Součástí primární ambulantní péče poskytované registrujícími poskytovateli v oboru všeobecné praktické lékařství, praktické lékařství pro děti a dorost nebo pediatrie je vždy návštěvní služba.*
 
@@ -492,9 +522,9 @@ Pro zubaře a gynekology obligatorní návštěvní služba **není** stanovena,
 >
 > *(2) Pohotovostní služba je poskytována jako*
 >
-> *- a) lékařská pohotovostní služba pro dospělé; (...) poskytuje poskytovatel, který má zřízen urgentní příjem dle § 44g,*
+> *- a) lékařská pohotovostní služba pro dospělé; lékařskou pohotovostní službu pro dospělé poskytuje poskytovatel, který má zřízen urgentní příjem dle § 44g,*
 >
-> *- b) lékařská pohotovostní služba pro děti; (...) poskytuje poskytovatel akutní lůžkové péče v oboru pediatrie nebo dětské lékařství,*
+> *- b) lékařská pohotovostní služba pro děti; lékařskou pohotovostní službu pro děti poskytuje poskytovatel akutní lůžkové péče v oboru pediatrie nebo dětské lékařství,*
 >
 > *- c) pohotovostní služba v oboru zubní lékařství.*
 >
@@ -548,15 +578,27 @@ Jednodenní péče je **hybridní formou** mezi ambulantní a lůžkovou péčí
 >
 > *(2) Lůžkovou péčí je*
 >
-> *- a) akutní lůžková péče intenzivní (...),*
+> *- a) akutní lůžková péče intenzivní, která je poskytována pacientovi v případech náhlého selhávání nebo náhlého ohrožení základních životních funkcí nebo v případech, kdy lze tyto stavy důvodně předpokládat,*
 >
-> *- b) akutní lůžková péče standardní (...),*
+> *- b) akutní lůžková péče standardní, která je poskytována pacientovi*
 >
-> *- c) následná lůžková péče (...),*
+> *- 1. s náhlým onemocněním nebo náhlým zhoršením chronické nemoci, které vážně ohrožují jeho zdraví, ale nevedou bezprostředně k selhávání životních funkcí, nebo*
 >
-> *- d) dlouhodobá lůžková péče (...),*
+> *- 2. za účelem provedení zdravotních výkonů, které nelze provést ambulantně;*
 >
-> *- e) sociálně-zdravotní lůžková péče (...).*
+> *v rámci akutní lůžkové péče je poskytována též včasná léčebná rehabilitace,*
+>
+> *- c) následná lůžková péče, která je poskytována pacientovi, u kterého byla stanovena hlavní diagnóza a*
+>
+> *- 1. poskytováním akutní lůžkové péče došlo ke stabilizaci jeho zdravotního stavu, zvládnutí náhlé nemoci nebo náhlého zhoršení chronické nemoci, přičemž k jeho zlepšení se vyžaduje poskytování další plánované lůžkové péče, zejména léčebně rehabilitační péče,*
+>
+> *- 2. zdravotní stav pacienta je stabilizovaný, s funkčním potenciálem ke zlepšení, přičemž k jeho zlepšení nebo udržení se vyžaduje poskytování plánované lůžkové péče, zejména léčebně rehabilitační péče, nebo*
+>
+> *- 3. jde o pacienta částečně nebo úplně závislého na podpoře základních životních funkcí; tomuto pacientovi je poskytována následná intenzivní péče,*
+>
+> *- d) dlouhodobá lůžková péče, která je poskytována pacientovi, jehož zdravotní stav nelze léčebnou péčí podstatně zlepšit a bez soustavného poskytování ošetřovatelské péče se zhoršuje; v rámci této lůžkové péče může být poskytována též intenzivní ošetřovatelská péče pacientům s poruchou základních životních funkcí,*
+>
+> *- e) sociálně-zdravotní lůžková péče, která je poskytována pacientovi s dlouhodobým chronickým onemocněním nebo zdravotním postižením vyžadujícímu pravidelnou pomoc jiné fyzické osoby při zvládání základních životních potřeb, jehož zdravotní stav se bez soustavného poskytování ošetřovatelské péče zhoršuje; tuto péči nelze poskytovat jako součást sociálně-zdravotních služeb komunitního charakteru.*
 
 **Výklad:**
 
@@ -645,21 +687,45 @@ Ve VSP lze provádět jen takové výkony, jejichž provedení **není podmíně
 >
 > *- a) poskytovat odbornou první pomoc,*
 >
-> *- b) zajistit převoz osoby (...),*
+> *- b) zajistit převoz osoby, jejíž zdravotní stav to vyžaduje, ze zahraničí do České republiky nebo z České republiky do zahraničí osobou oprávněnou k této činnosti podle právních předpisů jiného státu, z jehož území nebo na jehož území se převoz uskutečňuje a jde-li o činnost na území České republiky dočasnou,*
 >
 > *- c) poskytovat zdravotní služby podle § 20.*
 >
-> *(3) Zdravotní služby lze poskytovat pouze prostřednictvím osob způsobilých k výkonu zdravotnického povolání (...).*
+> *(3) Zdravotní služby lze poskytovat pouze prostřednictvím osob způsobilých k výkonu zdravotnického povolání nebo k výkonu činností souvisejících s poskytováním zdravotních služeb.*
 >
-> *(4) Personální zabezpečení zdravotních služeb musí odpovídat oborům, druhu a formě poskytované zdravotní péče (...).*
+> *(4) Personální zabezpečení zdravotních služeb musí odpovídat oborům, druhu a formě poskytované zdravotní péče a zdravotním službám podle § 2 odst. 2 písm. d) až f), i) a j). Požadavky na minimální personální zabezpečení zdravotních služeb, týkající se odborné, specializované, popřípadě zvláštní odborné nebo zvláštní specializované způsobilosti zdravotnických pracovníků a jiných odborných pracovníků a jejich počtu stanoví prováděcí právní předpis.*
 >
-> *(5) Zdravotní služby mohou být poskytovány pouze ve zdravotnických zařízeních v místech uvedených v oprávnění k poskytování zdravotních služeb, pokud dále není stanoveno jinak. (...)*
+> *(5) Zdravotní služby mohou být poskytovány pouze ve zdravotnických zařízeních v místech uvedených v oprávnění k poskytování zdravotních služeb, pokud dále není stanoveno jinak. Mimo zdravotnické zařízení lze poskytovat*
 >
-> *(6) Zdravotnické zařízení musí být pro poskytování zdravotních služeb technicky a věcně vybaveno. (...)*
+> *- a) konzultační služby,*
 >
-> *(7) Poskytovatel zdravotnické záchranné služby, poskytovatel zdravotnické dopravní služby a poskytovatel přepravy pacientů neodkladné péče musí být pro poskytovanou zdravotní službu vybaven odpovídajícími dopravními prostředky. (...)*
+> *- b) zdravotní služby poskytované centrem duševního zdraví podle § 44b,*
 >
-> *(8) Poskytovatel sociálně-zdravotní lůžkové péče podle § 9 odst. 2 písm. e) musí být držitelem registrace k poskytování sociálních služeb (...).*
+> *- c) preventivní péči podle § 11a,*
+>
+> *- d) zdravotní péči poskytovanou ve vlastním sociálním prostředí pacienta,*
+>
+> *- e) zdravotnickou dopravní službu a přepravu pacientů neodkladné péče,*
+>
+> *- f) přednemocniční neodkladnou péči poskytovanou v rámci zdravotnické záchranné služby,*
+>
+> *- g) zdravotní služby poskytované za krizových situací a při zdravotnickém zabezpečení vojenského výcviku v mobilních zařízeních ozbrojených sil určených k poskytování zdravotních služeb za takových situací,*
+>
+> *- h) prohlídku těla zemřelého mimo zdravotnická zařízení podle § 84 odst. 2 písm. a) nebo b),*
+>
+> *- i) převoz těla zemřelého na pitvu a z pitvy podle zákona o pohřebnictví, nebo*
+>
+> *- j) telemedicínské zdravotní služby podle § 11c odst. 2.*
+>
+> *Konzultační služby mimo zdravotnické zařízení lze poskytovat prostřednictvím dálkového přístupu nebo ve vlastním sociálním prostředí pacienta. Poskytovatel, který poskytuje pouze domácí péči nebo pouze prohlídky těl zemřelých mimo zdravotnické zařízení, musí mít kontaktní pracoviště. Ošetřovatelskou péči v zařízeních sociálních služeb podle § 10 odst. 1 písm. c) lze poskytovat pouze v centrech denních služeb, denních stacionářích, týdenních stacionářích, domovech pro seniory, domovech se zvláštním režimem, domovech pro osoby se zdravotním postižením a v zařízeních odlehčovacích služeb podle zákona o sociálních službách66). Poskytovatel poskytující ošetřovatelskou péči v zařízeních sociálních služeb podle § 10 odst. 1 písm. c) musí mít kontaktní pracoviště.*
+>
+> *(6) Zdravotnické zařízení musí být pro poskytování zdravotních služeb technicky a věcně vybaveno. Technické a věcné vybavení zdravotnických zařízení musí odpovídat oborům, druhu a formě poskytované zdravotní péče a zdravotním službám podle § 2 odst. 2 písm. d) až f) a i). Požadavky na minimální technické a věcné vybavení zdravotnických zařízení, týkající se stavebně technického, funkčního a dispozičního uspořádání prostor a vybavení vybranými zdravotnickými prostředky, jinými přístroji a zařízením, na vybavení kontaktního pracoviště, a v případě lékárenské péče poskytované v odloučeném oddělení výdeje léčiv i na místo poskytování péče, stanoví prováděcí právní předpis. Tímto nejsou dotčeny požadavky na zdravotnická zařízení podle jiných právních předpisů.*
+>
+> *(7) Poskytovatel zdravotnické záchranné služby, poskytovatel zdravotnické dopravní služby a poskytovatel přepravy pacientů neodkladné péče musí být pro poskytovanou zdravotní službu vybaven odpovídajícími dopravními prostředky. Požadavky na vybavení poskytovatele dopravními prostředky a požadavky na technické a věcné vybavení těchto dopravních prostředků a na jejich označení a barevné provedení stanoví prováděcí právní předpis. Tímto nejsou dotčeny požadavky na dopravní prostředky stanovené jinými právními předpisy. Jde-li o přepravu pacientů neodkladné péče, v průběhu této přepravy může neodkladnou péči přepravovanému pacientovi poskytovat i poskytovatel odlišný od poskytovatele přepravy pacientů neodkladné péče, oprávněný k poskytování zdravotních služeb v příslušném oboru zdravotní péče, a to i bez oprávnění k poskytování přepravy pacientů neodkladné péče.*
+>
+> *(8) Poskytovatel sociálně-zdravotní lůžkové péče podle § 9 odst. 2 písm. e) musí být držitelem registrace k poskytování sociálních služeb v týdenních stacionářích, domovech pro seniory, domovech se zvláštním režimem, domovech pro osoby se zdravotním postižením nebo v pobytových zařízeních odlehčovacích služeb67) se shodným místem poskytování, jaké má uvedeno v oprávnění k poskytování zdravotních služeb. Poskytovatel ošetřovatelské péče v zařízeních sociálních služeb podle § 10 odst. 1 písm. c) musí být držitelem registrace k poskytování sociálních služeb v centrech denních služeb, denních stacionářích, týdenních stacionářích, domovech pro seniory, domovech se zvláštním režimem, domovech pro osoby se zdravotním postižením nebo v zařízeních odlehčovacích služeb67).*
+>
+> *Poskytování preventivní péče mimo zdravotnické zařízení*
 
 **Výklad:**
 
@@ -736,17 +802,29 @@ Jak zmíněno u § 2a — kumulativní podmínka registrace u sociální i zdrav
 >
 > *(1) Mimo zdravotnické zařízení mohou být poskytovány zdravotní výkony v rámci preventivní péče zaměřené na předcházení onemocnění a jeho včasné rozpoznání, a to na základě povolení uděleného krajským úřadem.*
 >
-> *(...)*
+> *(2) Povolení se udělí poskytovateli, který je oprávněn poskytovat zdravotní služby, v jejichž rámci budou zdravotní výkony podle odstavce 1 poskytovány mimo zdravotnické zařízení. Mimo zdravotnické zařízení lze poskytovat jen takové zdravotní výkony v rámci preventivní péče, jejichž poskytnutí není podmíněno technickým a věcným vybavením nutným k jejich provedení ve zdravotnickém zařízení.*
 >
-> **§ 11b**
+> *(3) O udělení povolení a době trvání jeho platnosti rozhoduje krajský úřad, v jehož správním obvodu budou zdravotní výkony poskytovány mimo zdravotnické zařízení.*
 >
-> *(1) Povolení zaniká*
+> *(4) Povolení lze udělit jen na základě souhlasného závazného stanoviska krajské hygienické stanice, v jejímž správním obvodu budou zdravotní výkony poskytovány mimo zdravotnické zařízení. Žádost poskytovatele o vydání závazného stanoviska musí obsahovat náležitosti uvedené v odstavci 5. V žádosti musí být dále uvedena hygienická a protiepidemická opatření k předcházení vzniku a šíření infekčních onemocnění při činnostech podle věty první.*
 >
-> *- a) zánikem oprávnění k poskytování zdravotních služeb,*
+> *(5) Žádost o udělení povolení kromě náležitostí stanovených správním řádem obsahuje*
 >
-> *- b) uplynutím doby, na kterou bylo uděleno, nebo*
+> *- a) identifikační údaje poskytovatele v rozsahu uvedeném v rozhodnutí o udělení oprávnění k poskytování zdravotních služeb,*
 >
-> *- c) odejmutím povolení rozhodnutím krajského úřadu, který povolení vydal. (...)*
+> *- b) vymezení činností, které budou poskytovány mimo zdravotnické zařízení,*
+>
+> *- c) místo, kde budou zdravotní výkony poskytovány mimo zdravotnické zařízení,*
+>
+> *- d) dobu, na kterou má být povolení uděleno, určenou konkrétním datem.*
+>
+> *(6) Žadatel k žádosti o udělení povolení předloží*
+>
+> *- a) kopii rozhodnutí o udělení oprávnění k poskytování zdravotních služeb, pokud rozhodnutí nevydal krajský úřad příslušný k udělení povolení,*
+>
+> *- b) závazné stanovisko krajské hygienické stanice.*
+>
+> *(7) Rozhodnutí o udělení povolení kromě náležitostí stanovených správním řádem obsahuje údaje uvedené v odstavci 5. Krajský úřad zašle kopii pravomocného rozhodnutí neprodleně krajské hygienické stanici, která vydala závazné stanovisko podle odstavce 4.*
 
 **Výklad:**
 
@@ -769,13 +847,21 @@ Jak zmíněno u § 2a — kumulativní podmínka registrace u sociální i zdrav
 
 > **§ 11c**
 >
-> *(1) Telemedicínskými zdravotními službami se rozumí zdravotní služby, které jsou poskytovány na dálku za použití informačních a telekomunikačních technologií nebo zdravotnického prostředku. Telemedicínské zdravotní služby mohou být poskytovány pouze tehdy, jsou-li splněny technické požadavky na kvalitu a bezpečnost komunikace, komunikační kanál je šifrovaný a je zajištěno prokázání identity komunikujících stran. (...)*
+> *(1) Telemedicínskými zdravotními službami se rozumí zdravotní služby, které jsou poskytovány na dálku za použití informačních a telekomunikačních technologií nebo zdravotnického prostředku. Telemedicínské zdravotní služby mohou být poskytovány pouze tehdy, jsou-li splněny technické požadavky na kvalitu a bezpečnost komunikace, komunikační kanál je šifrovaný a je zajištěno prokázání identity komunikujících stran. Záznam komunikace může být poskytovatelem nahráván jen se souhlasem pacienta.*
 >
 > *(2) Telemedicínské zdravotní služby lze poskytovat i mimo zdravotnické zařízení, pokud*
 >
 > *- a) jejich poskytování bez přítomnosti pacienta spočívá pouze v použití informačních a telekomunikačních technologií, případně i za pomoci vzdáleného přístupu nebo zdravotnického prostředku, nebo*
 >
-> *- b) jejich poskytování spočívá pouze v tom, že jsou vzdáleně nebo za pomoci zdravotnického prostředku získány informace podle § 53 odst. 1 (...).*
+> *- b) jejich poskytování spočívá pouze v tom, že jsou vzdáleně nebo za pomoci zdravotnického prostředku získány informace podle § 53 odst. 1 a tyto informace jsou automaticky zasílány poskytovateli.*
+>
+> *(3) Prováděcí právní předpis stanoví*
+>
+> *- a) technické požadavky na kvalitu a bezpečnost komunikace a šifrování komunikačního kanálu,*
+>
+> *- b) způsob prokázání identity komunikujících stran,*
+>
+> *- c) způsob projevení a záznamu souhlasu nebo nesouhlasu pacienta s nahráváním záznamu komunikace mezi poskytovatelem a pacientem.*
 
 **Výklad:**
 
@@ -809,11 +895,19 @@ Telemedicínské služby lze poskytovat **i mimo ZZ** ve dvou scénářích:
 
 > **§ 12**
 >
-> *(1) Způsobilostí k samostatnému výkonu zdravotnického povolání se pro účely tohoto zákona rozumí způsobilost k samostatnému výkonu povolání lékaře, zubního lékaře nebo farmaceuta nebo způsobilost k výkonu povolání zdravotnického pracovníka nelékařského povolání bez přímého vedení a odborného dohledu podle jiných právních předpisů.*
+> *(1) Způsobilostí k samostatnému výkonu zdravotnického povolání se pro účely tohoto zákona rozumí způsobilost k samostatnému výkonu povolání lékaře, zubního lékaře nebo farmaceuta nebo způsobilost k výkonu povolání zdravotnického pracovníka nelékařského povolání bez přímého vedení a odborného dohledu podle jiných právních předpisů1),2).*
 >
-> *(2) Poskytovatel, který je fyzickou osobou, musí být způsobilý k samostatnému výkonu zdravotnického povolání podle odstavce 3 anebo je povinen ustanovit odborného zástupce s touto způsobilostí; (...) Poskytovatel, který je právnickou osobou, je povinen ustanovit odborného zástupce se způsobilostí k samostatnému výkonu zdravotnického povolání podle odstavce 3 vždy.*
+> *(2) Poskytovatel, který je fyzickou osobou, musí být způsobilý k samostatnému výkonu zdravotnického povolání podle odstavce 3 anebo je povinen ustanovit odborného zástupce s touto způsobilostí; ustanovení odborného zástupce se nepřipouští, jde-li o poskytování zdravotních služeb na základě oprávnění podle § 16 odst. 2. Poskytovatel, který je právnickou osobou, je povinen ustanovit odborného zástupce se způsobilostí k samostatnému výkonu zdravotnického povolání podle odstavce 3 vždy.*
 >
-> *(3) Jsou-li poskytovány zdravotní služby (...) — taxativní výčet požadovaných kvalifikací podle oborů.*
+> *(3) Jsou-li poskytovány zdravotní služby*
+>
+> *- a) v oborech specializačního vzdělávání lékařů, vyžaduje se způsobilost k samostatnému výkonu povolání lékaře alespoň v jednom z těchto oborů; to neplatí v případě poskytování zdravotních služeb, kdy jiný právní předpis1) připouští, aby v daném oboru poskytoval zdravotní služby též lékař se specializovanou způsobilostí nebo zvláštní odbornou nebo zvláštní specializovanou způsobilostí v jiném oboru,*
+>
+> *- b) v oboru zubní lékařství, vyžaduje se způsobilost k samostatnému výkonu povolání zubního lékaře; jde-li o poskytování zdravotních služeb v oborech specializačního vzdělávání zubních lékařů1), vyžaduje se způsobilost k samostatnému výkonu povolání zubního lékaře alespoň v jednom z těchto oborů,*
+>
+> *- c) v oboru farmacie nebo v oborech specializačního vzdělávání farmaceutů, vyžaduje se způsobilost k samostatnému výkonu povolání farmaceuta alespoň v jednom z oborů specializačního vzdělávání farmaceutů,*
+>
+> *- d) pouze v oborech vzdělávání zdravotnických pracovníků nelékařského povolání nebo jiných odborných pracovníků, vyžaduje se způsobilost k samostatnému výkonu zdravotnického povolání alespoň v jednom z těchto oborů; odborným zástupcem může být též lékař, zubní lékař nebo farmaceut, pokud je způsobilý vykonávat alespoň v jednom z těchto oborů přímé vedení nebo odborný dohled vůči těmto pracovníkům podle jiného právního předpisu.*
 
 **Výklad:**
 
@@ -881,7 +975,7 @@ Standardní doklad: **výpis z rejstříku trestů** (ne starší 3 měsíců). 
 >
 > *- a) může být ustanovena fyzická osoba, která je*
 >
-> *- 1. způsobilá k samostatnému výkonu zdravotnického povolání podle § 12 a je členem České lékařské komory, České stomatologické komory nebo České lékárnické komory (...),*
+> *- 1. způsobilá k samostatnému výkonu zdravotnického povolání podle § 12 a je členem České lékařské komory, České stomatologické komory nebo České lékárnické komory (dále jen „komora“), jestliže členství v komoře je podmínkou pro výkon tohoto povolání,*
 >
 > *- 2. plně svéprávná,*
 >
@@ -889,13 +983,19 @@ Standardní doklad: **výpis z rejstříku trestů** (ne starší 3 měsíců). 
 >
 > *- 4. držitelem povolení k pobytu na území České republiky, pokud má povinnost takové povolení mít, a*
 >
-> *- b) nemůže být ustanovena fyzická osoba, u níž trvá některá z překážek pro udělení oprávnění (...).*
+> *- b) nemůže být ustanovena fyzická osoba, u níž trvá některá z překážek pro udělení oprávnění uvedených v*
 >
-> *(2) Funkce odborného zástupce musí být vykonávána v pracovněprávním nebo obdobném vztahu k poskytovateli. (...)*
+> *- 1. § 17 písm. a), nebo*
+>
+> *- 2. § 17 písm. b), bylo-li oprávnění odňato podle § 24 odst. 2 písm. b), § 24 odst. 3 písm. a), b) nebo c) nebo § 24 odst. 4 písm. a), b), c), d) nebo e).*
+>
+> *(2) Funkce odborného zástupce musí být vykonávána v pracovněprávním nebo obdobném vztahu k poskytovateli. Tato podmínka neplatí, je-li odborný zástupce statutárním orgánem nebo členem statutárního orgánu poskytovatele nebo je-li odborný zástupce manželem nebo registrovaným partnerem poskytovatele; i v tomto případě musí být odborný zástupce k poskytovateli ve smluvním vztahu.*
 >
 > *(3) Odborný zástupce musí vykonávat svou funkci v rozsahu nezbytném pro řádné odborné řízení poskytovaných zdravotních služeb. Stejná osoba nemůže vykonávat funkci odborného zástupce pro více než 2 poskytovatele.*
 >
-> *(4)–(5) (oznamovací povinnost, výměna odborného zástupce).*
+> *(4) Odborný zástupce je povinen písemně oznámit poskytovateli všechny změny údajů uvedených o něm v rozhodnutí o udělení oprávnění k poskytování zdravotních služeb, v žádosti o udělení tohoto oprávnění a v dokladech předkládaných s touto žádostí a změny a doplnění údajů týkajících se podmínek pro výkon funkce odborného zástupce a předložit doklady o nich. Změny a doplnění údajů podle věty první musí odborný zástupce oznámit do 10 dnů ode dne, kdy k nim došlo.*
+>
+> *(5) Přestane-li odborný zástupce vykonávat svou funkci nebo přestane-li splňovat podmínky pro výkon této funkce, je poskytovatel povinen ustanovit nového odborného zástupce nejpozději do 10 dnů ode dne, kdy se o některé z těchto skutečností dozvěděl. Poskytovatel je povinen bez zbytečného odkladu požádat o změnu oprávnění k poskytování zdravotních služeb.*
 
 **Výklad:**
 
@@ -944,17 +1044,17 @@ Odborný zástupce má **vlastní oznamovací povinnost** vůči poskytovateli (
 >
 > *- a) krajský úřad, v jehož správním obvodu je zdravotnické zařízení, v němž budou zdravotní služby poskytovány,*
 >
-> *- b) Ministerstvo obrany (...),*
+> *- b) Ministerstvo obrany, pokud je žadatelem právnická osoba zřízená tímto ministerstvem nebo jde-li o zdravotní služby poskytované ve zdravotnických zařízeních zřízených tímto ministerstvem, s výjimkou oprávnění podle § 16 odst. 2,*
 >
-> *- c) Ministerstvo spravedlnosti (...),*
+> *- c) Ministerstvo spravedlnosti, pokud je žadatelem právnická osoba zřízená tímto ministerstvem nebo Vězeňská služba České republiky nebo jde-li o zdravotní služby poskytované ve zdravotnických zařízeních zřízených tímto ministerstvem, s výjimkou oprávnění podle § 16 odst. 2, nebo*
 >
-> *- d) Ministerstvo vnitra (...),*
+> *- d) Ministerstvo vnitra, pokud je žadatelem právnická osoba zřízená tímto ministerstvem nebo jde-li o zdravotní služby poskytované ve zdravotnických zařízeních zřízených tímto ministerstvem nebo ve zdravotnických zařízeních zřízených Úřadem pro zahraniční styky a informace, Bezpečnostní informační službou nebo Hasičským záchranným sborem České republiky, s výjimkou oprávnění podle § 16 odst. 2,*
 >
-> *(dále jen „příslušný správní orgán").*
+> *(dále jen „příslušný správní orgán“).*
 >
-> *(2) Oprávnění k poskytování lékárenské péče lze udělit jen na základě souhlasného závazného stanoviska Státního ústavu pro kontrolu léčiv k technickému a věcnému vybavení zdravotnického zařízení (...).*
+> *(2) Oprávnění k poskytování lékárenské péče lze udělit jen na základě souhlasného závazného stanoviska Státního ústavu pro kontrolu léčiv k technickému a věcnému vybavení zdravotnického zařízení, v němž bude tato péče poskytována, a to pouze v rozsahu vymezeném v závazném stanovisku. Státní ústav pro kontrolu léčiv vydá závazné stanovisko na základě písemné žádosti do 30 dnů ode dne jejího doručení. Žádost o vydání závazného stanoviska musí obsahovat náležitosti uvedené v § 18 odst. 1.*
 >
-> *(3) Oprávnění k poskytování lázeňské léčebně rehabilitační péče lze udělit jen na základě rozhodnutí Ministerstva zdravotnictví o udělení povolení k využívání zdroje nebo povolení k využívání klimatických podmínek příznivých k léčení (...).*
+> *(3) Oprávnění k poskytování lázeňské léčebně rehabilitační péče lze udělit jen na základě rozhodnutí Ministerstva zdravotnictví (dále jen „ministerstvo“) o udělení povolení k využívání zdroje nebo povolení k využívání klimatických podmínek příznivých k léčení, vydaného podle lázeňského zákona12), a to pouze v rozsahu vymezeném v tomto rozhodnutí.*
 
 **Výklad:**
 
@@ -1004,11 +1104,11 @@ K dalším závazným stanoviskům viz **§ 16 odst. 1 písm. i)** — schválen
 >
 > *- h) Státní ústav pro kontrolu léčiv vydal souhlasné závazné stanovisko podle § 15 odst. 2, jde-li o poskytování lékárenské péče,*
 >
-> *- i) orgán ochrany veřejného zdraví schválil provozní řád zdravotnického zařízení podle zákona o ochraně veřejného zdraví,*
+> *- i) orgán ochrany veřejného zdraví schválil provozní řád zdravotnického zařízení podle zákona o ochraně veřejného zdraví16),*
 >
 > *- j) ministerstvo vydalo rozhodnutí o udělení povolení podle § 15 odst. 3, jde-li o poskytování lázeňské léčebně rehabilitační péče,*
 >
-> *- k) splňuje podmínky podle § 11 odst. 8, jde-li o poskytování sociálně-zdravotní lůžkové péče nebo ošetřovatelské péče v zařízeních sociálních služeb,*
+> *- k) splňuje podmínky podle § 11 odst. 8, jde-li o poskytování sociálně-zdravotní lůžkové péče podle § 9 odst. 2 písm. e) nebo ošetřovatelské péče v zařízeních sociálních služeb podle § 10 odst. 1 písm. c),*
 >
 > *- l) netrvá žádná z překážek pro udělení oprávnění uvedených v § 17 písm. a) až f),*
 >
@@ -1016,11 +1116,19 @@ K dalším závazným stanoviskům viz **§ 16 odst. 1 písm. i)** — schválen
 >
 > *- n) jsou splněny podmínky podle § 44g odst. 2 a 3, jde-li o urgentní příjem.*
 >
-> *(2) Fyzické osobě, která bude poskytovat zdravotní služby pouze ve zdravotnickém zařízení provozovaném jiným poskytovatelem (...).*
+> *(2) Fyzické osobě, která bude poskytovat zdravotní služby pouze ve zdravotnickém zařízení provozovaném jiným poskytovatelem, se udělí oprávnění k poskytování zdravotních služeb na její písemnou žádost, jestliže*
+>
+> *- a) je způsobilá k samostatnému výkonu zdravotnického povolání v oboru zdravotní péče, kterou bude poskytovat jako zdravotní službu, a je členem komory, jestliže členství v komoře je podmínkou pro výkon tohoto povolání, a splňuje podmínky uvedené v odstavci 1 písm. a) až d) a l),*
+>
+> *- b) je oprávněna užívat k poskytování zdravotních služeb zdravotnické zařízení užívané jiným poskytovatelem, které splňuje požadavky na technické a věcné vybavení,*
+>
+> *- c) jsou splněny podmínky uvedené v odstavci 1 písm. g) až j).*
+>
+> *Oprávnění podle věty první nelze udělit pro poskytování zdravotní péče v oboru všeobecné praktické lékařství, praktické lékařství pro děti a dorost nebo pediatrie, zubní lékařství a gynekologie a porodnictví, jde-li o výkon činnosti registrujícího poskytovatele, a pro poskytování farmaceutické péče.*
 >
 > *(3) Právnické osobě se udělí oprávnění k poskytování zdravotních služeb na její písemnou žádost, jestliže*
 >
-> *- a) statutární orgán právnické osoby nebo jeho členové nebo vedoucí organizační složky státu nebo organizační složky územního samosprávného celku (...) jsou bezúhonní,*
+> *- a) statutární orgán právnické osoby nebo jeho členové nebo vedoucí organizační složky státu nebo organizační složky územního samosprávného celku, bude-li poskytování zdravotních služeb zajišťováno touto organizační složkou, jsou bezúhonní,*
 >
 > *- b) ustanovila odborného zástupce, který splňuje podmínky v § 14 odst. 1 až 3,*
 >
@@ -1028,9 +1136,9 @@ K dalším závazným stanoviskům viz **§ 16 odst. 1 písm. i)** — schválen
 >
 > *- d) netrvá žádná z překážek pro udělení oprávnění uvedených v § 17 písm. a) až e) a g),*
 >
-> *- e) byla zřízena krajem jako příspěvková organizace podle zákona o zdravotnické záchranné službě (...) jde-li o poskytování zdravotnické záchranné služby.*
+> *- e) byla zřízena krajem jako příspěvková organizace podle zákona o zdravotnické záchranné službě a je oprávněna využívat linku národního tísňového čísla 155, jde-li o poskytování zdravotnické záchranné služby.*
 >
-> *(4) Oprávnění k poskytování zdravotních služeb nelze převést ani nepřechází na jinou osobu. (...)*
+> *(4) Oprávnění k poskytování zdravotních služeb nelze převést ani nepřechází na jinou osobu. Jiná osoba může na základě oprávnění poskytovat zdravotní služby, jen pokračuje-li v poskytování zdravotních služeb podle § 27.*
 
 **Výklad:**
 
@@ -1064,17 +1172,33 @@ ZZS rozlišuje **tři druhy poskytovatelů** s odlišnými registračními poža
 >
 > *- a) fyzické nebo právnické osobě, které byl uložen soudem nebo správním orgánem zákaz činnosti spočívající v poskytování zdravotních služeb, a to po dobu trvání tohoto zákazu,*
 >
-> *- b) fyzické nebo právnické osobě, které bylo odňato oprávnění (...) a to po dobu 3 let ode dne nabytí právní moci rozhodnutí o odnětí oprávnění,*
+> *- b) fyzické nebo právnické osobě, které bylo odňato oprávnění podle § 24 odst. 2 písm. b), § 24 odst. 3 písm. a), b), c) nebo d) nebo § 24 odst. 4 písm. a), b), c), d) nebo e), a to po dobu 3 let ode dne nabytí právní moci rozhodnutí o odnětí oprávnění,*
 >
-> *- c) fyzické nebo právnické osobě po dobu 3 let ode dne nabytí právní moci rozhodnutí o zamítnutí insolvenčního návrhu (...),*
+> *- c) fyzické nebo právnické osobě po dobu 3 let ode dne nabytí právní moci rozhodnutí o zamítnutí insolvenčního návrhu proto, že majetek dlužníka nepostačuje k úhradě nákladů insolvenčního řízení nebo po dobu 3 let ode dne nabytí právní moci rozhodnutí o zrušení konkursu proto, že majetek dlužníka je zcela nepostačující pro uspokojení věřitelů,*
 >
-> *- d) fyzické nebo právnické osobě, jestliže soud v insolvenčním řízení nařídil předběžné opatření (...),*
+> *- d) fyzické nebo právnické osobě, jestliže soud v insolvenčním řízení nařídil předběžné opatření, jímž tuto osobu, jejíž úpadek nebo hrozící úpadek se v tomto řízení řeší, omezil v nakládání s majetkovou podstatou a předběžný insolvenční správce nedal k úkonům této osoby souvisejícím se vznikem oprávnění písemný souhlas,*
 >
-> *- e) fyzické nebo právnické osobě v průběhu insolvenčního řízení, na jejíž majetek byl prohlášen konkurs (...),*
+> *- e) fyzické nebo právnické osobě v průběhu insolvenčního řízení, na jejíž majetek byl prohlášen konkurs, a insolvenční správce nedal k úkonům této osoby souvisejícím se vznikem oprávnění písemný souhlas,*
 >
-> *- f) fyzické osobě, která — byla statutárním orgánem PO s některou z překážek (...),*
+> *- f) fyzické osobě, která*
 >
-> *- g) právnické osobě, jejímž jediným/většinovým společníkem, statutárním orgánem nebo členem statutárního/kontrolního orgánu je osoba s některou z překážek (...).*
+> *- 1. byla jediným nebo většinovým společníkem, statutárním orgánem nebo členem statutárního orgánu nebo členem kontrolního orgánu právnické osoby, u které trvá některá z překážek podle písmen a) až c), nebo u které by tato překážka trvala, pokud by nedošlo k zániku této právnické osoby,*
+>
+> *- 2. byla jediným nebo většinovým společníkem, statutárním orgánem nebo členem statutárního orgánu nebo členem kontrolního orgánu právnické osoby, u které trvá některá z překážek podle písmene d) nebo e), nebo*
+>
+> *- 3. vykonávala funkci odborného zástupce u osoby, u které trvá některá z překážek podle písmene a) nebo b), bylo-li oprávnění odňato podle § 24 odst. 2 písm. b), § 24 odst. 3 písm. a), b) nebo c) nebo § 24 odst. 4 písm. a), b), c), d) nebo e), nebo u které by tato překážka trvala, pokud by nedošlo ke smrti nebo zániku této osoby,*
+>
+> *v době, kdy nastala okolnost, která vedla ke vzniku této překážky,*
+>
+> *- g) právnické osobě, jejímž jediným nebo většinovým společníkem, statutárním orgánem nebo členem statutárního orgánu nebo členem kontrolního orgánu je osoba, u které trvá některá z překážek podle písmen a) až e), nebo osoba, která*
+>
+> *- 1. byla jediným nebo většinovým společníkem, statutárním orgánem nebo členem statutárního orgánu nebo členem kontrolního orgánu právnické osoby, u které trvá některá z překážek podle písmen a) až c), nebo u které by tato překážka trvala, pokud by nedošlo k zániku této právnické osoby,*
+>
+> *- 2. byla jediným nebo většinovým společníkem, statutárním orgánem nebo členem statutárního orgánu nebo členem kontrolního orgánu právnické osoby, u které trvá některá z překážek podle písmene d) nebo e), nebo*
+>
+> *- 3. byla odborným zástupcem osoby, u které trvá některá z překážek podle písmene a) nebo b), bylo-li oprávnění odňato podle § 24 odst. 2 písm. b), § 24 odst. 3 písm. a), b) nebo c) nebo § 24 odst. 4 písm. a), b), c), d) nebo e), nebo u které by tato překážka trvala, pokud by nedošlo ke smrti nebo zániku této osoby,*
+>
+> *v době, kdy nastala okolnost, která vedla ke vzniku této překážky.*
 
 **Výklad:**
 

@@ -135,15 +135,43 @@ Porušení je přestupkem podle § 114 odst. 1 písm. h), § 115 odst. 1 písm. 
 >
 > *- e) pro potřeby stanovené jiným právním předpisem.*
 >
-> *(2) Pro potřeby podle [písmen výše uvedených] lze část těla odebranou pacientovi při poskytování zdravotní péče nebo tělo zemřelého použít, pokud byla podána informace a vysloven prokazatelný souhlas...*
+> *(2) Pro potřeby podle*
 >
-> *(5) Prokazatelným vyslovením souhlasu... se rozumí*
+> *- a) odstavce 1 písm. a), b), d) nebo e) lze část těla odebranou pacientovi při poskytování zdravotní péče použít, pokud*
+>
+> *- 1. byla pacientovi o možnosti jejího uchování, darování a použití podána poskytovatelem informace a pacient s tím vyslovil podle tohoto zákona prokazatelný souhlas a*
+>
+> *- 2. v případě použití pro potřeby podle odstavce 1 písm. b) nebo d) byly splněny podmínky podle zákona o lidských tkáních a buňkách,*
+>
+> *- b) odstavce 1 písm. a), b), d) nebo e) lze tělo zemřelého, včetně odebraných částí z těla zemřelého použít, pokud*
+>
+> *- 1. s tím zemřelý za svého života vyslovil podle tohoto zákona prokazatelný souhlas,*
+>
+> *- 2. v případě použití pro potřeby podle odstavce 1 písm. b) nebo d) byla zemřelému za jeho života podána informace o možnosti darování tkání nebo buněk pro tyto účely, jejich odběru, uchování a použití a byly splněny podmínky podle zákona o lidských tkáních a buňkách a*
+>
+> *- 3. nebude zmařen účel pitvy, a to zejména v případech, kdy vzniklo podezření, že příčinou úmrtí je trestný čin nebo sebevražda;*
+>
+> *jestliže zemřelý za svého života nevyjádřil prokazatelný souhlas, může prokazatelný souhlas vyslovit osoba blízká zemřelému.*
+>
+> *(3) Na základě žádosti ošetřujícího lékaře nebo zákonného zástupce nebo opatrovníka pacienta poskytne poskytovatel provádějící patologicko-anatomickou pitvu odebraný biologický materiál k poskytnutí konzilia jinému poskytovateli v oboru patologická anatomie.*
+>
+> *(4) Souhlas se nevyžaduje, jde-li o*
+>
+> *- a) použití biologického materiálu pro potřeby výuky, vědy nebo výzkumu odebraného pacientovi při poskytování zdravotní péče nebo v souvislosti s pitvou z těla zemřelého, pokud u biologického materiálu nebo v souvislosti s jeho používáním ve výuce, vědě nebo výzkumu nebudou uvedeny takové údaje, z nichž by bylo možné identifikovat pacienta nebo zemřelou osobu; jde-li o použití biologického materiálu pro výuku, vědu nebo výzkum v oblasti genetiky, postupuje se podle jiného právního předpisu upravujícího specifické zdravotní služby,*
+>
+> *- b) nácvik život zachraňujícího zdravotního výkonu koniotomie nebo punkce tenzního pneumotoraxu, přičemž nácvik lze provádět pouze v rámci patologicko-anatomické pitvy nebo zdravotní pitvy a za podmínky, že nebude zmařen účel této pitvy, a to zejména v případech, kdy vzniklo podezření, že příčinou úmrtí je trestný čin nebo sebevražda.*
+>
+> *(5) Prokazatelným vyslovením souhlasu s uchováním a použitím části těla pacienta nebo těla zemřelého, včetně odebraných částí z těla zemřelého, se rozumí*
 >
 > *- a) písemný souhlas pacienta nebo zemřelého vyslovený za jeho života nebo osoby blízké zemřelému s jejich úředně ověřeným podpisem, nebo*
 >
-> *- b) záznam o souhlasu pacienta vysloveného ve zdravotnickém zařízení; záznam podepíše pacient a zdravotnický pracovník...*
+> *- b) záznam o souhlasu pacienta vysloveného ve zdravotnickém zařízení; záznam podepíše pacient a zdravotnický pracovník; pokud pacient s ohledem na svůj zdravotní stav nemůže záznam podepsat, stvrdí jeho nepochybný projev vůle svým podpisem zdravotnický pracovník a osoba blízká pacientovi, a není-li přítomna, svědek; v záznamu se uvede způsob, jakým pacient svou vůli projevil a zdravotní důvody bránící podpisu pacienta.*
 >
-> *(7) Použití části těla pacienta nebo tělo zemřelého, včetně odebraných částí z těla zemřelého, nemůže být pro nikoho zdrojem finanční ani jiné náhrady, popřípadě jiných výhod...*
+> *Písemný souhlas nebo záznam o vyslovení souhlasu a záznam o podání informace podle odstavce 2 písm. a) bodu 1 nebo odstavce 2 písm. b) bodu 2 je součástí zdravotnické dokumentace vedené o pacientovi; součástí souhlasu je určení účelu použití.*
+>
+> *(6) Část těla pacienta nebo tělo zemřelého, včetně odebraných částí z těla zemřelého, lze uchovat a použít, pouze pokud nedojde k ohrožení zdraví jiného člověka. Za tím účelem se posoudí zdravotní způsobilost pacienta nebo zemřelého. Za posouzení zdravotní způsobilosti, pokud z jiných právních předpisů nevyplývá jinak, odpovídá poskytovatel, který poskytuje zdravotní služby, v rámci kterých byl proveden odběr.*
+>
+> *(7) Použití části těla pacienta nebo tělo zemřelého, včetně odebraných částí z těla zemřelého, nemůže být pro nikoho zdrojem finanční ani jiné náhrady, popřípadě jiných výhod. To nebrání poskytnutí úhrady účelně, hospodárně a prokazatelně vynaložených výdajů vzniklých v přímé souvislosti s nakládáním s částí těla pacienta nebo tělem zemřelého, včetně částí z těla zemřelého, to je s jejich opatřováním, vyšetřením, skladováním a zpracováním.*
 
 **Výklad:**
 
@@ -350,11 +378,21 @@ Důležitá výhrada: provedení prohlídky **nesmí vést k narušení poskytov
 >
 > *- g) neprodleně informuje Policii České republiky, jde-li o*
 >
-> *  - 1. podezření, že úmrtí bylo způsobeno trestným činem nebo sebevraždou,*
+> *- 1. podezření, že úmrtí bylo způsobeno trestným činem nebo sebevraždou,*
 >
-> *  - 2. zemřelého neznámé totožnosti,*
+> *- 2. zemřelého neznámé totožnosti,*
 >
-> *  - 3. úmrtí, ke kterému došlo za nejasných okolností...*
+> *- 3. úmrtí, ke kterému došlo za nejasných okolností;*
+>
+> *lékař provádějící prohlídku těla zemřelého provede jen nezbytné úkony tak, aby nedošlo ke zničení nebo poškození možných důkazů nasvědčujících tomu, že byl spáchán trestný čin, nebo že jde o sebevraždu,*
+>
+> *- h) informuje Policii České republiky, jestliže mu není známa osoba blízká zemřelému nebo ji nebylo možné o úmrtí vyrozumět, a to za účelem vyhledání osoby blízké zemřelému a předání informace o úmrtí.*
+>
+> *(2) Prostřednictvím Listu o prohlídce zemřelého je rodné číslo zemřelého pacienta předáváno matrice ve lhůtě podle jiného právního předpisu38), statistickému ústavu, Českému statistickému úřadu a provozovateli pohřební služby.*
+>
+> *(3) Má-li lékař provádějící prohlídku těla zemřelého podezření, že příčinou úmrtí je nebezpečná infekční nemoc nebo že jde o pacienta s touto nemocí, byla-li příčinou úmrtí taková nemoc, nebo jde-li o úmrtí pacienta s touto nemocí, neprodleně oznámí tuto skutečnost příslušnému orgánu ochrany veřejného zdraví. Orgán ochrany veřejného zdraví neprodleně stanoví podmínky pro přepravu zemřelého, provedení pitvy a pro pohřbení; do doby stanovení těchto podmínek nesmí být tělo pohřební službě vydáno.*
+>
+> *(4) Má-li lékař provádějící prohlídku těla zemřelého podezření na kontaminaci zemřelého radioaktivní látkou, nebo v případě, že má podezření, že byla příčinou úmrtí pacienta kontaminace radioaktivní látkou, nebo jde-li o úmrtí pacienta kontaminovaného radioaktivní látkou, neprodleně oznámí tuto skutečnost Státnímu úřadu pro jadernou bezpečnost a orgánu ochrany veřejného zdraví. Státní úřad pro jadernou bezpečnost neprodleně stanoví podmínky pro přepravu zemřelého, provedení pitvy a pro pohřbení; do doby stanovení těchto podmínek nesmí být tělo pohřební službě vydáno.*
 
 **Výklad:**
 
@@ -403,13 +441,15 @@ Smyslem těchto ustanovení je **ochrana veřejného zdraví a životního prost
 >
 > *- a) v místě nálezu těl, nebo*
 >
-> *- b) ve vnější zóně, kde*
+> *- b) ve vnější zóně39), kde*
 >
-> *  - 1. třídí oběti podle stupně postižení, nebo*
+> *- 1. třídí oběti podle stupně postižení, nebo*
 >
-> *  - 2. konstatují smrt.*
+> *- 2. konstatují smrt.*
 >
-> *(2) Policie České republiky provede identifikaci zemřelých, zajištění místa jejich nálezu nebo místa shromáždění těl zemřelých. Velitel složky Policie České republiky zajistí přivolání lékaře se způsobilostí v oboru soudní lékařství a lékaře podle § 84 odst. 2 písm. b), který zajistí prohlídky těl zemřelých...*
+> *(2) Policie České republiky provede identifikaci zemřelých, zajištění místa jejich nálezu nebo místa shromáždění těl zemřelých. Velitel složky Policie České republiky40) zajistí přivolání lékaře se způsobilostí v oboru soudní lékařství a lékaře podle § 84 odst. 2 písm. b), který zajistí prohlídky těl zemřelých. V případě, že je důvodné podezření, že těla zemřelých jsou kontaminována chemickými, radioaktivními nebo nebezpečnými biologickými materiály, zajistí přivolání policejního nebo armádního specialisty na danou problematiku.*
+>
+> *Pitvy*
 
 **Výklad:**
 
@@ -452,15 +492,47 @@ Pro kontaminované oběti (chemické, radioaktivní, biologické nebezpečí) je
 >
 > *- b) zdravotní, které se provádějí za účelem zjištění příčiny smrti a objasnění dalších ze zdravotního hlediska závažných okolností a mechanismu úmrtí u osob, které zemřely mimo zdravotnické zařízení nebo v něm náhlým, neočekávaným nebo násilným úmrtím, včetně sebevraždy,*
 >
-> *- c) soudní, které se provádějí při podezření, že úmrtí bylo způsobeno trestným činem, a to podle jiného právního předpisu,*
+> *- c) soudní, které se provádějí při podezření, že úmrtí bylo způsobeno trestným činem, a to podle jiného právního předpisu37),*
 >
 > *- d) anatomické, které se provádějí k výukovým účelům nebo pro účely vědy a výzkumu v oblasti zdravotnictví.*
 >
 > *(2) Patologicko-anatomické pitvy provádí poskytovatelé v oboru patologická anatomie. Nestanoví-li tento zákon jinak, patologicko-anatomická pitva se vždy provádí*
 >
-> *- a) u žen, které zemřely v souvislosti s těhotenstvím, porodem, potratem, umělým přerušením těhotenství nebo v šestinedělí, [...]*
+> *- a) u žen, které zemřely v souvislosti s těhotenstvím, porodem, potratem, umělým přerušením těhotenství nebo v šestinedělí,*
 >
-> *(4) Patologicko-anatomické pitvy podle odstavce 2 a zdravotní pitvy podle odstavce 3 se provádějí i bez souhlasu zemřelého. Jde-li současně o povinnou pitvu patologicko-anatomickou a zdravotní, provede se pitva zdravotní.*
+> *- b) u plodů z uměle přerušených těhotenství provedených z důvodů genetické indikace nebo indikace vrozené vývojové vady plodu,*
+>
+> *- c) u dětí mrtvě narozených a u dětí zemřelých do 18 let věku,*
+>
+> *- d) u pacientů, kteří zemřeli při operaci, při nechirurgickém intervenčním výkonu, v souvislosti s komplikací navazující na operaci nebo nechirurgický intervenční výkon nebo při úvodu do anestézie,*
+>
+> *- e) jestliže byl z těla zemřelého proveden odběr orgánu pro účely transplantací, tkání nebo buněk pro použití u člověka nebo odebrána část těla pro výzkum nebo k výukovým účelům; v případech, kdy transplantační zákon stanoví provádění pitev jinak, postupuje se podle transplantačního zákona,*
+>
+> *- f) v případě, že k úmrtí došlo v souvislosti se závažnou nežádoucí příhodou při klinickém hodnocení humánního léčivého přípravku nebo s nežádoucí příhodou při klinických zkouškách zdravotnického prostředku nebo při studiích funkční způsobilosti diagnostického zdravotnického prostředku in vitro nebo v souvislosti s ověřováním nových poznatků použitím metod, které dosud nebyly v klinické praxi na živém člověku zavedeny, nebo v případě podezření na tyto skutečnosti,*
+>
+> *- g) v případě podezření, že k úmrtí došlo v souvislosti s odběrem orgánu za účelem transplantace nebo tkání nebo buněk pro použití u člověka,*
+>
+> *- h) v případě, kdy není dostatečně objasněna příčina smrti, základní nemoci, dalších nemocí nebo jejich komplikací nebo klinická diagnóza.*
+>
+> *(3) Zdravotní pitvy provádí poskytovatelé v oboru soudní lékařství. Nestanoví-li tento zákon jinak, zdravotní pitva se vždy provádí*
+>
+> *- a) při náhlých a neočekávaných úmrtích, jestliže při prohlídce těla zemřelého nedošlo ke stanovení příčiny smrti nebo nebyla příčina smrti dostatečně objasněna,*
+>
+> *- b) při všech násilných úmrtích včetně sebevraždy,*
+>
+> *- c) při podezření, že úmrtí může být v příčinné souvislosti s nesprávným postupem při poskytování zdravotních služeb, které vyslovil zdravotnický pracovník zúčastněný na poskytování zdravotních služeb, lékař, který provedl prohlídku těla zemřelého, nebo osoba blízká zemřelému,*
+>
+> *- d) při podezření, že úmrtí mohlo být způsobeno v souvislosti se zneužíváním návykových látek,*
+>
+> *- e) u osob, které zemřely ve výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence.*
+>
+> *(4) Patologicko-anatomické pitvy podle odstavce 2 a zdravotní pitvy podle odstavce 3 se provádějí i bez souhlasu zemřelého51). Jde-li současně o povinnou pitvu patologicko-anatomickou a zdravotní, provede se pitva zdravotní.*
+>
+> *(5) Soudní pitvy provádí poskytovatelé v oboru soudní lékařství. Převoz těla zemřelého k soudní pitvě a zpět zabezpečuje a hradí orgán činný v trestním řízení, který ji nařídil. Rovněž hradí i veškeré další náklady s pitvou spojené.*
+>
+> *(6) Anatomické pitvy mohou provádět pouze univerzitní vysoké školy, které mají akreditovaný bakalářský nebo magisterský studijní program, jehož absolvováním se získává odborná způsobilost k výkonu zdravotnického povolání, na k tomu určených pracovištích; lze je provádět, pokud byly splněny podmínky pro použití těla zemřelého podle tohoto zákona. Převoz těla zemřelého k anatomické pitvě a zpět, provedení této pitvy a uložení těla zabezpečuje a náklady hradí univerzitní vysoká škola.*
+>
+> *(7) Pokud v rámci pitvy prováděné podle odstavce 2, 3 nebo 6 nastane podezření, že úmrtí bylo způsobeno trestným činem, nebo že okolnosti úmrtí jsou nejasné, pitva se přeruší. Tuto skutečnost oznámí poskytovatel neprodleně Policii České republiky; pokud orgán činný v trestním řízení nenařídí do 2 hodin od tohoto oznámení pitvu podle jiného právního předpisu, může poskytovatel přerušenou pitvu dokončit.*
 
 **Výklad:**
 
@@ -533,9 +605,7 @@ Tento mechanismus chrání důkazní hodnotu těla pro případné trestní ří
 
 ### § 88a — Možnost neprovedení pitvy
 
-> **§ 88a**
->
-> *(1) Lékař provádějící prohlídku těla zemřelého může rozhodnout, že se neprovede patologicko-anatomická pitva v případech podle § 88 odst. 2 písm. a), b) nebo c) nebo zdravotní pitva v případech podle § 88 odst. 3 písm. b) nebo d), jestliže jde o úmrtí, jehož příčina je zřejmá, a zemřelý pacient za svého života vyslovil prokazatelný nesouhlas s provedením pitvy nebo zákonný zástupce nebo opatrovník zemřelého pacienta anebo osoba pacientovi blízká požádali o neprovedení pitvy...*
+> *(1) Lékař provádějící prohlídku těla zemřelého může rozhodnout, že se neprovede patologicko-anatomická pitva v případech podle § 88 odst. 2 písm. a), b) nebo c) nebo zdravotní pitva v případech podle § 88 odst. 3 písm. b) nebo d), jestliže jde o úmrtí, jehož příčina je zřejmá, a zemřelý pacient za svého života vyslovil prokazatelný nesouhlas s provedením pitvy nebo zákonný zástupce nebo opatrovník zemřelého pacienta anebo osoba pacientovi blízká požádali o neprovedení pitvy. Pro způsob vyslovení prokazatelného nesouhlasu pacientem s provedením pitvy se použije obdobně § 81 odst. 5.*
 
 **Výklad:**
 
@@ -615,7 +685,7 @@ Toto pravidlo odráží standardy hygieny mortuárních prostor a slouží jak o
 
 > **§ 91**
 >
-> *Části těla odebrané v souvislosti s poskytováním zdravotních služeb, plodové vejce, plodové lůžko (placenta) nebo těhotenská sliznice, odebrané části těla zemřelého nebo tkáně a buňky, které byly určeny pro výrobu léčiv, k vědeckým, výzkumným nebo výukovým účelům, nebo orgány, tkáně a buňky určené pro použití podle zákonů upravujících nakládání s lidskými orgány, tkáněmi nebo buňkami a nebyly pro tyto účely použity (dále jen „anatomicko-patologický odpad"), se spalují ve spalovně poskytovatele, nemá-li poskytovatel vlastní spalovnu, ve spalovně jiného poskytovatele nebo v krematoriu, a to na základě smlouvy uzavřené s jiným poskytovatelem nebo provozovatelem krematoria...*
+> *Části těla odebrané v souvislosti s poskytováním zdravotních služeb, plodové vejce, plodové lůžko (placenta) nebo těhotenská sliznice, odebrané části těla zemřelého nebo tkáně a buňky, které byly určeny pro výrobu léčiv, k vědeckým, výzkumným nebo výukovým účelům, nebo orgány, tkáně a buňky určené pro použití podle zákonů upravujících nakládání s lidskými orgány, tkáněmi nebo buňkami a nebyly pro tyto účely použity (dále jen „anatomicko-patologický odpad“), se spalují ve spalovně poskytovatele, nemá-li poskytovatel vlastní spalovnu, ve spalovně jiného poskytovatele nebo v krematoriu, a to na základě smlouvy uzavřené s jiným poskytovatelem nebo provozovatelem krematoria. Obdobně se postupuje, jde-li o odebrané části těla zemřelého, které byly použity k vědeckým, výzkumným nebo výukovým účelům s tím, že jejich spálení zajišťuje a hradí ten, kdo je použil. Plody po potratu, které nebyly jako jiné lidské pozůstatky vydány k pohřbení postupem podle zákona o pohřebnictví, se zpopelňují v krematoriu odděleně od anatomicko-patologického odpadu, a to na základě smlouvy uzavřené mezi poskytovatelem a provozovatelem krematoria.*
 
 **Výklad:**
 
@@ -674,7 +744,7 @@ Zmocňovací norma pro vydání vyhlášky upravující **náležitosti Listu o 
 >
 > *- a) pacient,*
 >
-> *- b) zákonný zástupce, opatrovník pacienta nebo jiná osoba, která je na základě rozhodnutí soudu oprávněna pacienta zastupovat v právním jednání vztahujícím se k poskytování zdravotních služeb,*
+> *- b) zákonný zástupce, opatrovník pacienta nebo jiná osoba, která je na základě rozhodnutí soudu oprávněna pacienta zastupovat70) v právním jednání vztahujícím se k poskytování zdravotních služeb,*
 >
 > *- c) osoba blízká v případě, že pacient tak nemůže učinit s ohledem na svůj zdravotní stav nebo pokud zemřel, nebo*
 >
@@ -682,13 +752,41 @@ Zmocňovací norma pro vydání vyhlášky upravující **náležitosti Listu o 
 >
 > *Stížnost se podává poskytovateli, proti kterému směřuje; tím není dotčena možnost podat stížnost podle jiných právních předpisů. Podání stížnosti nesmí být osobě, která ji podala, nebo pacientovi, jehož se stížnost týká, na újmu.*
 >
-> *(2) Pokud osoba, která podala stížnost podle odstavce 1 (dále jen „stěžovatel"), s jejím vyřízením nesouhlasí, může ve lhůtě 60 dnů ode dne doručení jejího vyřízení podat stížnost příslušnému správnímu orgánu...*
+> *(2) Pokud osoba, která podala stížnost podle odstavce 1 (dále jen „stěžovatel“), s jejím vyřízením nesouhlasí, může ve lhůtě 60 dnů ode dne doručení jejího vyřízení podat stížnost příslušnému správnímu orgánu. Zároveň uvede důvody nesouhlasu s vyřízením stížnosti podle odstavce 1. Stížnost podle věty první lze podat i tehdy, není-li stížnost podle odstavce 1 vyřízena ve lhůtě podle odstavce 3 písm. b).*
 >
 > *(3) Poskytovatel je povinen*
 >
 > *- a) navrhnout stěžovateli ústní projednání stížnosti, pokud je to s ohledem na charakter stížnosti vhodné,*
 >
-> *- b) vyřídit stížnost do 30 dnů ode dne jejího obdržení; tuto lhůtu může odůvodněně prodloužit o dalších 30 dnů...*
+> *- b) vyřídit stížnost do 30 dnů ode dne jejího obdržení; tuto lhůtu může odůvodněně prodloužit o dalších 30 dnů; jde-li o stížnost, k jejímuž vyřízení je nepříslušný, je povinen ji do 5 dnů ode dne jejího obdržení prokazatelně postoupit věcně příslušnému subjektu nebo správnímu orgánu; o prodloužení lhůty a postoupení stížnosti je povinen informovat stěžovatele,*
+>
+> *- c) vést evidenci o podání stížností a o způsobu jejich vyřízení, jejímž obsahem jsou alespoň údaje o*
+>
+> *- 1. datu obdržení a datu vyřízení stížnosti,*
+>
+> *- 2. předmětu stížnosti,*
+>
+> *- 3. způsobu vyřízení stížnosti,*
+>
+> *- 4. ústním projednání stížnosti, bylo-li navrženo,*
+>
+> *- 5. přijatých nápravných opatřeních;*
+>
+> *identifikační údaje stěžovatelů se v evidenci o podání stížností neuvádějí,*
+>
+> *- d) poskytnout evidenci podle písmene c) správnímu orgánu podle odstavce 2 nebo ministerstvu, pokud o to požádají,*
+>
+> *- e) umožnit stěžovateli nahlížet do konkrétního stížnostního spisu a pořizovat z něj kopie,*
+>
+> *- f) jde-li o šetření stížnosti příslušným správním orgánem, poskytnout mu na jeho vyžádání včasnou a nutnou součinnost; to platí i pro poskytovatele, který poskytl související zdravotní služby.*
+>
+> *(4) Poskytovatel lůžkové nebo jednodenní péče je dále povinen ustanovit osobu pověřenou vyřizováním stížností a dále na svých internetových stránkách a na veřejně přístupném místě ve svém zdravotnickém zařízení uveřejnit informaci o*
+>
+> *- a) kontaktních údajích na osobu pověřenou vyřizováním stížností a*
+>
+> *- b) možnosti podat stížnost podle odstavců 1 a 2.*
+>
+> *(5) K šetření stížností osob proti postupu při poskytování zdravotních služeb, jejichž poskytovatelem je Vězeňská služba, je příslušný ředitel organizační jednotky Vězeňské služby, pokud generální ředitel Vězeňské služby nepověří šetřením stížnosti jinou osobu.*
 
 **Výklad:**
 
@@ -760,13 +858,47 @@ K **šetření stížností proti Vězeňské službě jako poskytovateli** je p
 >
 > *- a) vyřídit stížnost*
 >
-> *  - 1. do 30 dnů ode dne jejího obdržení,*
+> *- 1. do 30 dnů ode dne jejího obdržení,*
 >
-> *  - 2. do 90 dnů ode dne jejího obdržení, jestliže jde o stížnost, k jejímuž vyřízení je třeba ustavit nezávislého odborníka,*
+> *- 2. do 90 dnů ode dne jejího obdržení, jestliže jde o stížnost, k jejímuž vyřízení je třeba ustavit nezávislého odborníka,*
 >
-> *  - 3. do 120 dnů ode dne jejího obdržení, jestliže jde o stížnost, k jejímuž vyřízení je třeba ustavit nezávislou odbornou komisi;*
+> *- 3. do 120 dnů ode dne jejího obdržení, jestliže jde o stížnost, k jejímuž vyřízení je třeba ustavit nezávislou odbornou komisi;*
 >
-> *lhůta pro vyřízení stížnosti podle bodu 2 nebo 3 počíná běžet dnem, kdy příslušný správní orgán ustavil nezávislého odborníka nebo nezávislou odbornou komisi; lhůtu podle bodu 1 může správní orgán odůvodněně prodloužit o dalších 30 dnů a lhůtu podle bodu 2 nebo 3 o dalších 60 dnů...*
+> *lhůta pro vyřízení stížnosti podle bodu 2 nebo 3 počíná běžet dnem, kdy příslušný správní orgán ustavil nezávislého odborníka nebo nezávislou odbornou komisi; lhůtu podle bodu 1 může správní orgán odůvodněně prodloužit o dalších 30 dnů a lhůtu podle bodu 2 nebo 3 o dalších 60 dnů; správní orgán ustaví nezávislého odborníka nebo nezávislou odbornou komisi bez zbytečného odkladu; jde-li o stížnost, k jejímuž vyřízení je nepříslušný, je povinen ji do 5 pracovních dnů ode dne jejího obdržení prokazatelně postoupit věcně příslušnému subjektu nebo správnímu orgánu; o prodloužení lhůty a postoupení stížnosti je povinen informovat stěžovatele,*
+>
+> *- b) určit pracoviště krajského úřadu k přijímání stížností,*
+>
+> *- c) uveřejnit adresu určeného pracoviště, úřední hodiny a kontakt na toto pracoviště na úřední desce,*
+>
+> *- d) vést evidenci o podání stížností a o způsobu jejich vyřízení, jejímž obsahem jsou alespoň údaje o*
+>
+> *- 1. datu obdržení a datu vyřízení stížnosti,*
+>
+> *- 2. předmětu stížnosti,*
+>
+> *- 3. způsobu vyřízení stížnosti,*
+>
+> *- 4. ústním projednání stížnosti, bylo-li navrženo,*
+>
+> *- 5. uložených nápravných opatřeních;*
+>
+> *identifikační údaje stěžovatelů se v evidenci o podání stížností neuvádějí,*
+>
+> *- e) poskytnout ministerstvu na jeho žádost evidenci podle písmene d),*
+>
+> *- f) umožnit stěžovateli nahlížet do konkrétního stížnostního spisu a pořizovat z něj kopie.*
+>
+> *(2) Stížnost, kterou podala osoba, která není uvedena v § 93 odst. 1, příslušný správní orgán posoudí jako podnět k provedení kontroly. Ve lhůtě 30 dnů ode dne jejího doručení písemně vyrozumí osobu uvedenou ve větě první o tom, jak se stížností bylo naloženo.*
+>
+> *(3) Příslušný správní orgán může na základě stížnosti nebo z moci úřední nebo jiného podnětu, a to zejména pro posouzení případů, u nichž vznikly pochybnosti, zda byl při poskytování zdravotních služeb dodržen správný postup, popřípadě k vyloučení příčinné souvislosti mezi nesprávným postupem a újmou na zdraví pacientovi při poskytování zdravotních služeb, ustavit*
+>
+> *- a) nezávislého odborníka; odborníka ustaví vždy, směřuje-li stížnost nebo podnět proti správnému postupu při poskytování zdravotních služeb, popřípadě je namítáno ublížení na zdraví pacientovi při poskytování zdravotních služeb a stížnost nebo podnět není zjevně nedůvodný,*
+>
+> *- b) nezávislou odbornou komisi; komisi ustaví vždy, jestliže*
+>
+> *- 1. nezávislý odborník na základě posouzení zdravotnické dokumentace její ustavení navrhne, nebo*
+>
+> *- 2. podle jeho uvážení jde o případ, kdy posouzení nezávislým odborníkem je odborně nedostačující nebo je třeba posoudit případné ublížení na zdraví při poskytování zdravotních služeb s důsledkem smrti pacienta a stížnost nebo jiný podnět není zjevně nedůvodný.*
 
 **Výklad:**
 
@@ -868,9 +1000,13 @@ Pokud na základě zjištěných skutečností **nelze konstatování učinit** 
 >
 > *- b) podá podnět*
 >
-> *  - 1. orgánu příslušnému podle jiných právních předpisů,*
+> *- 1. orgánu příslušnému podle jiných právních předpisů41),*
 >
-> *  - 2. příslušné komoře, jestliže zjistí takové pochybení zdravotnickým pracovníkem, který je členem komory, které přísluší šetřit komoře podle zákona upravujícího činnost komor...*
+> *- 2. příslušné komoře, jestliže zjistí takové pochybení zdravotnickým pracovníkem, který je členem komory, které přísluší šetřit komoře podle zákona upravujícího činnost komor;*
+>
+> *obdobně postupuje poskytovatel.*
+>
+> *(2) O uložených nápravných opatřeních nebo o podání podnětu zašle příslušný správní orgán informaci zdravotní pojišťovně, u které byl pacient v době porušení práv nebo povinností při poskytování zdravotních služeb pojištěn.*
 
 **Výklad:**
 
@@ -926,11 +1062,45 @@ Sdělení zahrnuje rovněž **jméno přizvaného právníka** (§ 95 odst. 2 p�
 
 > **§ 98**
 >
-> *(1) Externí hodnocení kvality a bezpečí poskytovaných zdravotních služeb (dále jen „hodnocení kvality a bezpečí") je dobrovolný proces, jehož účelem je posoudit podle hodnotících standardů organizační úroveň poskytování zdravotních služeb, a to z hlediska jejich kvality a bezpečí.*
+> *(1) Externí hodnocení kvality a bezpečí poskytovaných zdravotních služeb (dále jen „hodnocení kvality a bezpečí“) je dobrovolný proces, jehož účelem je posoudit podle hodnotících standardů organizační úroveň poskytování zdravotních služeb, a to z hlediska jejich kvality a bezpečí.*
 >
 > *(2) Hodnotící standardy jsou souborem požadavků na vybrané procesy posuzované ve zdravotnickém zařízení z hlediska zajištění kvality a bezpečí poskytovaných zdravotních služeb.*
 >
-> *(3) Hodnocení kvality a bezpečí může provádět fyzická nebo právnická osoba, které bylo uděleno oprávnění k provádění této činnosti podle tohoto zákona...*
+> *(3) Hodnocení kvality a bezpečí může provádět fyzická nebo právnická osoba, které bylo uděleno oprávnění k provádění této činnosti podle tohoto zákona. Oprávnění k hodnocení kvality a bezpečí lze udělit pro jednotlivé formy zdravotní péče, popřípadě druhy zdravotní péče podle § 5 odst. 2 písm. f) až i), a pro zdravotnickou záchrannou službu.*
+>
+> *(4) O udělení oprávnění k provádění hodnocení kvality a bezpečí rozhoduje ministerstvo. Toto oprávnění nelze převést ani nepřechází na jinou fyzickou nebo právnickou osobu.*
+>
+> *(5) Fyzické osobě se udělí oprávnění k provádění hodnocení kvality a bezpečí na její písemnou žádost, jestliže*
+>
+> *- a) není poskytovatelem nebo společníkem nebo statutárním orgánem nebo jeho členem nebo členem kontrolního orgánu právnické osoby, která je poskytovatelem,*
+>
+> *- b) nejedná ve shodě s poskytovatelem nebo zdravotní pojišťovnou42),*
+>
+> *- c) má vypracovány hodnotící standardy kvality a bezpečí pro jednotlivé formy zdravotní péče, popřípadě druhy zdravotní péče podle § 5 odst. 2 písm. f) až i) nebo pro zdravotnickou záchrannou službu, pro jejichž hodnocení má být oprávnění uděleno, a pravidla procesu hodnocení kvality a bezpečí,*
+>
+> *- d) splňuje požadavky na personální zabezpečení provádění hodnocení kvality a bezpečí v návaznosti na formy zdravotní péče, popřípadě druhy zdravotní péče podle § 5 odst. 2 písm. f) až i) nebo pro zdravotnickou záchrannou službu, pro jejichž hodnocení má být oprávnění uděleno.*
+>
+> *(6) Právnické osobě se udělí oprávnění k provádění hodnocení kvality a bezpečí na její písemnou žádost, jestliže*
+>
+> *- a) není poskytovatelem nebo společníkem nebo statutárním orgánem nebo jeho členem nebo členem kontrolního orgánu právnické osoby, která je poskytovatelem, nebo zdravotní pojišťovnou,*
+>
+> *- b) její statutární orgán nebo jeho člen nebo člen jejího kontrolního orgánu není současně společníkem nebo statutárním orgánem nebo jeho členem nebo členem kontrolního orgánu poskytovatele nebo zdravotní pojišťovny a není ani poskytovatelem,*
+>
+> *- c) nejedná ve shodě s poskytovatelem nebo zdravotní pojišťovnou42) a ani jinak nejednají ve shodě s poskytovatelem nebo zdravotní pojišťovnou její statutární orgán nebo jeho člen nebo člen jejího kontrolního orgánu,*
+>
+> *- d) má vypracovány hodnotící standardy pro jednotlivé formy zdravotní péče, popřípadě druhy zdravotní péče podle § 5 odst. 2 písm. f) až i) nebo pro zdravotnickou záchrannou službu, pro jejichž hodnocení má být oprávnění uděleno, a pravidla procesu hodnocení kvality a bezpečí,*
+>
+> *- e) splňuje požadavky na personální zabezpečení provádění hodnocení kvality a bezpečí v návaznosti na formy zdravotní péče, popřípadě druhy zdravotní péče podle § 5 odst. 2 písm. f) až i) nebo pro zdravotnickou záchrannou službu, pro jejichž hodnocení má být oprávnění uděleno.*
+>
+> *(7) Prováděcí právní předpis stanoví*
+>
+> *- a) minimální hodnotící standardy kvality a bezpečí pro jednotlivé formy zdravotní péče, popřípadě druhy zdravotní péče podle § 5 odst. 2 písm. f) až i) a pro zdravotnickou záchrannou službu,*
+>
+> *- b) rozsah procesů posuzovaných ve zdravotnickém zařízení a požadavků na tyto procesy,*
+>
+> *- c) požadavky na způsob a postupy hodnocení kvality a bezpečí,*
+>
+> *- d) požadavky na personální zabezpečení provádění hodnocení kvality a bezpečí týkající se odborné způsobilosti osob, jejichž prostřednictvím bude hodnocení kvality a bezpečí prováděno, a počet těchto osob.*
 
 **Výklad:**
 
@@ -970,7 +1140,47 @@ Oprávnění nelze převést ani **nepřechází na jinou osobu** (osobní statu
 
 > **§ 99**
 >
-> *(1) Žádost o udělení oprávnění k provádění hodnocení kvality a bezpečí kromě náležitostí stanovených správním řádem obsahuje [identifikační údaje a rozsah zdravotních služeb]...*
+> *(1) Žádost o udělení oprávnění k provádění hodnocení kvality a bezpečí kromě náležitostí stanovených správním řádem obsahuje,*
+>
+> *- a) je-li žadatelem fyzická osoba*
+>
+> *- 1. jméno, popřípadě jména, příjmení, státní občanství, adresu místa trvalého pobytu na území České republiky nebo v případě osoby bez trvalého pobytu na území České republiky adresu bydliště mimo území České republiky a popřípadě adresu místa hlášeného pobytu na území České republiky a datum narození žadatele,*
+>
+> *- 2. identifikační číslo17), bylo-li přiděleno,*
+>
+> *- 3. rozsah zdravotních služeb podle § 98 odst. 3, pro jejichž hodnocení má být oprávnění uděleno,*
+>
+> *- b) je-li žadatelem právnická osoba*
+>
+> *- 1. obchodní firmu nebo název, adresu sídla a identifikační číslo žadatele, bylo-li přiděleno,*
+>
+> *- 2. jméno, popřípadě jména, příjmení, státní občanství, adresu místa trvalého pobytu na území České republiky nebo v případě osoby bez trvalého pobytu na území České republiky adresu bydliště mimo území České republiky a popřípadě adresu místa hlášeného pobytu na území České republiky a datum narození osob, které jsou statutárním orgánem žadatele nebo jeho členy nebo které jednají jménem právnické osoby zapisované do obchodního nebo obdobného rejstříku před jejím vznikem,*
+>
+> *- 3. údaje uvedené v písmenu a) bodech 2 až 3.*
+>
+> *(2) Žadatel k žádosti o udělení oprávnění k provádění hodnocení kvality a bezpečí předloží,*
+>
+> *- a) jde-li o fyzickou osobu*
+>
+> *- 1. prohlášení, že splňuje podmínky podle § 98 odst. 5 písm. a) a b),*
+>
+> *- 2. seznam osob, jejichž prostřednictvím bude hodnocení kvality a bezpečí prováděno, s uvedením jména, popřípadě jmen a příjmení; u zdravotnických pracovníků se dále uvede jejich odborná nebo specializovaná způsobilost k výkonu zdravotnického povolání a u ostatních osob jejich vzdělání s uvedením studijního programu a oboru, ve kterém bylo získáno; v seznamu se dále uvede, které osoby budou odpovídat žadateli za hodnocení kvality a bezpečí jednotlivých forem, popřípadě druhů zdravotní péče nebo zdravotnické záchranné služby,*
+>
+> *- 3. hodnotící standardy kvality a bezpečí a pravidla procesu hodnocení kvality a bezpečí pro rozsah zdravotní péče podle § 98 odst. 3,*
+>
+> *- b) jde-li o právnickou osobu*
+>
+> *- 1. doklad o tom, že právnická osoba byla zřízena nebo založena, pokud se nezapisuje do obchodního nebo obdobného rejstříku nebo pokud zápis ještě nebyl proveden; je-li žadatelem právnická osoba se sídlem mimo území České republiky, předloží výpis z obchodního nebo obdobného rejstříku vedeného ve státě sídla, který nesmí být starší 3 měsíců,*
+>
+> *- 2. prohlášení, že splňuje podmínky podle § 98 odst. 6 písm. a) a c),*
+>
+> *- 3. prohlášení statutárního orgánu nebo jeho členů a členů kontrolního orgánu, že splňují podmínky podle § 98 odst. 6 písm. b) a c),*
+>
+> *- 4. údaje uvedené v písmenu a) bodech 2 a 3.*
+>
+> *(3) Osoba, jejímž prostřednictvím bude hodnocení kvality a bezpečí prováděno, může tuto činnost vykonávat pouze na základě osvědčení o odborné způsobilosti k jejímu výkonu vydaného ministerstvem. Jsou-li v seznamu podle odstavce 2 písm. a) bodu 2 uvedeny rovněž osoby, ke kterým žadatel k žádosti podle odstavce 1 toto osvědčení nepředložil, považuje se tato žádost zároveň za žádost o vydání osvědčení podle věty první; v takovém případě žadatel k žádosti předloží doklady o odborné způsobilosti těchto osob. Jsou-li splněny podmínky pro výkon hodnocení kvality a bezpečí, ministerstvo vydá osobě podle věty první osvědčení o odborné způsobilosti k jejímu výkonu, a to v rozsahu podle § 98 odst. 5, pro který tyto podmínky splňuje. V opačném případě ministerstvo rozhodne o tom, že osoba podle věty první není odborně způsobilá k hodnocení kvality a bezpečí. Obdobně se postupuje, podá-li žádost o vydání osvědčení podle věty první osoba, u které má být ministerstvem posouzena její odborná způsobilost k hodnocení kvality a bezpečí.*
+>
+> *(4) Pro vydání osvědčení o odborné způsobilosti podle odstavce 3, kterou osoba získala v jiném členském státě Evropské unie, jiném smluvním státě Dohody o Evropském hospodářském prostoru nebo ve Švýcarské konfederaci, se v rozsahu ověřování odborné způsobilosti k výkonu zdravotnického povolání postupuje přiměřeně podle předpisů upravujících uznávání způsobilosti k výkonu zdravotnického povolání1),2) a ve zbylém rozsahu se postupuje přiměřeně podle zákona o uznávání odborné kvalifikace. Uznávacím orgánem je ministerstvo.*
 
 **Výklad:**
 
@@ -1059,7 +1269,7 @@ Při nesplnění podmínek vydání certifikátu hodnotící osoba **písemně o
 
 > **§ 107**
 >
-> *(1) Kontrolu poskytovatelů v souvislosti s poskytováním zdravotních služeb nebo kontrolu poskytovatelů nebo jiných právnických nebo podnikajících fyzických osob v souvislosti s prováděním činností, k nimž je třeba udělení souhlasu, oprávnění k činnosti nebo jiného obdobného povolení podle tohoto zákona nebo jiných zákonů upravujících zdravotní služby, a kontrolu osob poskytujících zdravotní služby podle § 20 (dále jen „kontrolované osoby") provádí*
+> *(1) Kontrolu poskytovatelů v souvislosti s poskytováním zdravotních služeb nebo kontrolu poskytovatelů nebo jiných právnických nebo podnikajících fyzických osob v souvislosti s prováděním činností, k nimž je třeba udělení souhlasu, oprávnění k činnosti nebo jiného obdobného povolení podle tohoto zákona nebo jiných zákonů upravujících zdravotní služby, a kontrolu osob poskytujících zdravotní služby podle § 20 (dále jen „kontrolované osoby“) provádí*
 >
 > *- a) ministerstvo,*
 >
@@ -1069,13 +1279,15 @@ Při nesplnění podmínek vydání certifikátu hodnotící osoba **písemně o
 >
 > *- d) Státní ústav pro kontrolu léčiv,*
 >
-> *- e) Státní úřad pro jadernou bezpečnost, jde-li o poskytovatele poskytující zdravotní služby, jejichž součástí je lékařské ozáření...*
+> *- e) Státní úřad pro jadernou bezpečnost, jde-li o poskytovatele poskytující zdravotní služby, jejichž součástí je lékařské ozáření; tím není dotčena kontrolní činnost Státního úřadu pro jadernou bezpečnost podle jiných právních předpisů,*
 >
 > *- f) generální ředitelství Vězeňské služby, jde-li o zdravotní služby poskytované v jejím zdravotnickém zařízení,*
 >
-> *- g) komory, v rozsahu stanoveném jiným právním předpisem,*
+> *- g) komory, v rozsahu stanoveném jiným právním předpisem43),*
 >
-> *(dále jen „kontrolní orgány").*
+> *(dále jen „kontrolní orgány“).*
+>
+> *(2) Kontrolu dodržování podmínek poskytování zdravotních služeb ve zdravotnických zařízeních ozbrojených sil České republiky umístěných v zahraničí provádí Ministerstvo obrany.*
 
 **Výklad:**
 
@@ -1105,7 +1317,11 @@ Při nesplnění podmínek vydání certifikátu hodnotící osoba **písemně o
 >
 > *(1) Při výkonu kontrolní činnosti kontrolní orgány podle § 107 písm. a), b) nebo c) kontrolují plnění povinností a podmínek stanovených tímto zákonem nebo jinými právními předpisy upravujícími zdravotní služby nebo činnosti související se zdravotními službami.*
 >
-> *(2) V rámci prováděné kontroly personálního zabezpečení poskytování zdravotních služeb jsou zaměstnanci krajů zařazení do krajských úřadů oprávněni v odůvodněných případech nahlížet do pracovních smluv zaměstnanců poskytovatele...*
+> *(2) V rámci prováděné kontroly personálního zabezpečení poskytování zdravotních služeb jsou zaměstnanci krajů zařazení do krajských úřadů oprávněni v odůvodněných případech nahlížet do pracovních smluv zaměstnanců poskytovatele.*
+>
+> *(3) Státní ústav pro kontrolu léčiv kontroluje technické a věcné vybavení zdravotnického zařízení v případě poskytování lékárenské péče, zacházení s léčivými přípravky a zdravotnickými prostředky při poskytování zdravotní péče a provádí kontrolu jakosti a bezpečnosti při poskytování zdravotních služeb v zařízeních transfuzní služby a v tkáňových zařízeních podle jiných právních předpisů.*
+>
+> *(4) Státní úřad pro jadernou bezpečnost kontroluje dodržování pravidel lékařského ozáření poskytovatelem.*
 
 **Výklad:**
 
@@ -1243,9 +1459,65 @@ Vztah FN a vysoké školy je upraven **rámcovou smlouvou** o klinické a prakti
 >
 > *a kterému byl v tomto rozsahu udělen status centra vysoce specializované zdravotní péče podle tohoto zákona.*
 >
-> *(2) Ministerstvo může zdravotnickému zařízení udělit status centra vysoce specializované zdravotní péče na žádost poskytovatele provozujícího toto zdravotnické zařízení...*
+> *(2) Ministerstvo může zdravotnickému zařízení udělit status centra vysoce specializované zdravotní péče na žádost poskytovatele provozujícího toto zdravotnické zařízení, který je v daném místě poskytování zdravotních služeb oprávněn poskytovat zdravotní péči v rozsahu, pro který se status centra vysoce specializované zdravotní péče uděluje. Stanoví-li tak ministerstvo ve výzvě podle odstavce 4, může žadatel o udělení statusu centra vysoce specializované zdravotní péče část této zdravotní péče zajišťovat prostřednictvím smluvního poskytovatele.*
 >
-> *(3) ... Status centra vysoce specializované zdravotní péče se uděluje na dobu 5 let.*
+> *(3) O udělení statusu centra vysoce specializované zdravotní péče rozhoduje ministerstvo v rámci řízení o výběru žádosti s tím, že toto řízení je zahájeno patnáctým dnem po vyvěšení výzvy podle odstavce 4 na úřední desce ministerstva. Výzvu podle odstavce 4 ministerstvo neoznamuje prostřednictvím hromadných sdělovacích prostředků. Status centra vysoce specializované zdravotní péče se uděluje vždy k počátku kalendářního roku následujícího po roce, v němž je vydáno rozhodnutí podle odstavce 7. Status centra vysoce specializované zdravotní péče se uděluje na dobu 5 let.*
+>
+> *(4) Výzva k podávání žádostí o udělení statusu centra vysoce specializované zdravotní péče obsahuje alespoň*
+>
+> *- a) vymezení oborů zdravotní péče nebo jejich částí, pro které se status uděluje; pokud je status udělován za účelem vysoce náročné diagnostiky, léčby nebo sledování určité nemoci, uvede se popis této nemoci,*
+>
+> *- b) požadavky na technické a věcné vybavení zdravotnického zařízení pro poskytování vysoce specializované zdravotní péče,*
+>
+> *- c) požadavky na personální zabezpečení vysoce specializované zdravotní péče, včetně kvalifikačních požadavků,*
+>
+> *- d) nejvyšší počet statusů centra vysoce specializované zdravotní péče, které lze v rámci vyhlášené výzvy udělit,*
+>
+> *- e) lhůtu pro podání žádostí.*
+>
+> *(5) Ministerstvo může ve výzvě k podávání žádosti o udělení statusu centra vysoce specializované zdravotní péče stanovit i další podmínky pro jeho udělení, a to*
+>
+> *- a) minimální počet pacientů, kterým byla ve zdravotnickém zařízení poskytnuta zdravotní péče, pro kterou se status uděluje, ve vymezeném období předcházejícím vyvěšení výzvy podle odstavce 3,*
+>
+> *- b) minimální počet zdravotních výkonů v rámci zdravotní péče, pro kterou se status centra vysoce specializované zdravotní péče uděluje, provedených ve zdravotnickém zařízení ve vymezeném období předcházejícím vyvěšení výzvy podle odstavce 3,*
+>
+> *- c) udělení akreditace zdravotnickému zařízení pro vzdělávání v oborech zdravotní péče, v nichž má být vysoce specializovaná zdravotní péče poskytována,*
+>
+> *- d) udělení statusu centra vysoce specializované zdravotní péče v rozsahu, který je nezbytný pro poskytování vysoce specializované zdravotní péče v rozsahu stanoveném výzvou podle odstavce 4 písm. a),*
+>
+> *- e) území, pro které má být vysoce specializovaná zdravotní péče poskytována.*
+>
+> *(6) Žádost o udělení statusu centra vysoce specializované zdravotní péče kromě obecných náležitostí podle správního řádu obsahuje*
+>
+> *- a) kopii oprávnění k poskytování zdravotních služeb žadatele,*
+>
+> *- b) je-li ve výzvě umožněno zajištění části vysoce specializované zdravotní péče prostřednictvím smluvního poskytovatele podle odstavce 2, identifikační údaje tohoto poskytovatele, kopii oprávnění k poskytování zdravotních služeb tohoto poskytovatele a kopii smlouvy žadatele s tímto smluvním poskytovatelem,*
+>
+> *- c) údaje o objemu vysoce specializované zdravotní péče, kterou je žadatel ve zdravotnickém zařízení schopen zajistit,*
+>
+> *- d) údaje o technickém a věcném vybavení zdravotnického zařízení, v němž má být vysoce specializovaná zdravotní péče poskytována, a o jejím personálním zabezpečení,*
+>
+> *- e) prohlášení žadatele, že splňuje požadavky na technické a věcné vybavení zdravotnického zařízení pro poskytování vysoce specializované zdravotní péče a požadavky na personální zabezpečení této zdravotní péče v rozsahu a ve lhůtě uvedených ve výzvě,*
+>
+> *- f) doklady o splnění podmínek podle odstavce 5 písm. a) a b), jsou-li ve výzvě tyto podmínky stanoveny.*
+>
+> *(7) Ministerstvo do 90 dnů od uplynutí lhůty pro předložení žádostí o udělení statusu centra vysoce specializované zdravotní péče rozhodnutím vyřadí ty žadatele, kteří nevyhověli podmínkám stanoveným výzvou, u ostatních žadatelů určí jejich pořadí a na základě tohoto pořadí, případně na základě podmínek podle odstavce 4 písm. d) nebo odstavce 5 písm. e), byly-li tyto podmínky stanoveny výzvou, rozhodne o udělení statusu centra vysoce specializované zdravotní péče. Ministerstvo při určení pořadí žadatelů přihlédne zejména k aktuálnímu věcnému a technickému vybavení zdravotnických zařízení, ke kvalifikačním předpokladům zdravotnických pracovníků pro poskytování vysoce specializované zdravotní péče, objemu vysoce specializované zdravotní péče, jejíž poskytování je žadatel ve zdravotnickém zařízení schopen zajistit, a též k údajům podle odstavce 5 písm. a) a b), byly-li tyto údaje předmětem výzvy. Na udělení statusu centra vysoce specializované zdravotní péče není právní nárok.*
+>
+> *(8) Rozklad proti rozhodnutí podle odstavce 7 nemá odkladný účinek.*
+>
+> *(9) Ministerstvo zveřejňuje seznam center vysoce specializované zdravotní péče ve Věstníku Ministerstva zdravotnictví a dále na svých internetových stránkách. V seznamu uvede*
+>
+> *- a) identifikační údaje poskytovatele, jehož zdravotnickému zařízení byl udělen status centra vysoce specializované zdravotní péče,*
+>
+> *- b) místo poskytování zdravotních služeb, na kterém se nachází zdravotnické zařízení, kterému byl status centra vysoce specializované péče udělen,*
+>
+> *- c) je-li část vysoce specializované zdravotní péče zajišťována prostřednictvím smluvního poskytovatele podle odstavce 2, údaje podle písmen a) a b) vztahující se k tomuto poskytovateli,*
+>
+> *- d) vymezení oborů zdravotní péče nebo jejich částí, pro které je status centra vysoce specializované zdravotní péče udělen; pokud je status udělen za účelem vysoce náročné diagnostiky, léčby nebo sledování určité nemoci, uvede se popis této nemoci,*
+>
+> *- e) dobu, na kterou byl status centra vysoce specializované zdravotní péče udělen.*
+>
+> *(10) Poskytovatel je povinen písemně oznámit ministerstvu změny všech údajů a podmínek, za nichž byl jím provozovanému zdravotnickému zařízení status centra vysoce specializované zdravotní péče udělen, a to nejpozději do 15 dnů ode dne jejich vzniku.*
 
 **Výklad:**
 
@@ -1322,7 +1594,15 @@ Poslední důvod (odst. 3 písm. c) zajišťuje **flexibilitu sítě center** �
 
 > **§ 113a**
 >
-> *(1) Poskytovatel získává status centra vysoce specializované zdravotní péče pro pacienty se vzácným onemocněním (dále jen „centrum pro vzácná onemocnění") získáním plného členství v Evropské referenční síti příslušné pro dané vzácné onemocnění. Tento status má centrum pro vzácná onemocnění po dobu plného členství v síti...*
+> *(1) Poskytovatel získává status centra vysoce specializované zdravotní péče pro pacienty se vzácným onemocněním (dále jen „centrum pro vzácná onemocnění“) získáním plného členství v Evropské referenční síti63) příslušné pro dané vzácné onemocnění. Tento status má centrum pro vzácná onemocnění po dobu plného členství v síti podle věty první. Poskytovatel uvedený ve větě první získání členství v síti podle věty první a jeho zrušení oznámí ministerstvu bez zbytečného odkladu.*
+>
+> *(2) Centra pro vzácná onemocnění tvoří Národní síť center vysoce specializované zdravotní péče pro pacienty se vzácným onemocněním.*
+>
+> *(3) Činnost Národní sítě center pro vzácná onemocnění koordinuje ministerstvo.*
+>
+> *(4) Ministerstvo uveřejňuje na svých internetových stránkách a ve Věstníku Ministerstva zdravotnictví seznam poskytovatelů tvořících Národní síť center vysoce specializované zdravotní péče o pacienty se vzácným onemocněním.*
+>
+> *Screening*
 
 **Výklad:**
 
@@ -1346,9 +1626,7 @@ Poskytovatel je povinen **bez zbytečného odkladu oznámit ministerstvu** získ
 
 ### §§ 113c–113e — Screening
 
-> **§ 113c**
->
-> *(1) Screeningem se rozumí organizovaný program poskytování preventivní péče zaměřený na včasné vyhledávání osob s rizikovým faktorem nebo nerozpoznaným onemocněním. Screeningové programy za účelem předcházení závažných onemocnění vyhlašuje ministerstvo...*
+> *(1) Poskytovatel získává status centra vysoce specializované zdravotní péče pro pacienty se vzácným onemocněním (dále jen „centrum pro vzácná onemocnění“) získáním plného členství v Evropské referenční síti63) příslušné pro dané vzácné onemocnění. Tento status má centrum pro vzácná onemocnění po dobu plného členství v síti podle věty první. Poskytovatel uvedený ve větě první získání členství v síti podle věty první a jeho zrušení oznámí ministerstvu bez zbytečného odkladu.*
 
 **Výklad:**
 
@@ -1381,7 +1659,37 @@ Rozklad proti rozhodnutí o **odejmutí statusu nemá odkladný účinek** — o
 
 > **§ 113f**
 >
-> *(1) Pacientskou organizací se rozumí zapsaný spolek, jehož hlavní činnost spočívá v pomoci pacientům a ochraně jejich práv a zájmů a jehož členy jsou zpravidla osoby s určitým onemocněním nebo zdravotním postižením, jejich osoby blízké nebo jejich zástupci podle občanského zákoníku, přičemž tyto osoby mají zásadní vliv na činnost spolku...*
+> *(1) Pacientskou organizací se rozumí zapsaný spolek, jehož hlavní činnost spočívá v pomoci pacientům a ochraně jejich práv a zájmů a jehož členy jsou zpravidla osoby s určitým onemocněním nebo zdravotním postižením, jejich osoby blízké nebo jejich zástupci podle občanského zákoníku, přičemž tyto osoby mají zásadní vliv na činnost spolku. Pacientskou organizací se rozumí též spolek, jehož členy jsou spolky, které splňují podmínky podle věty první a které volí členy jeho statutárního orgánu.*
+>
+> *(2) Pacientské organizace, které jsou zapsány v seznamu pacientských organizací podle odstavce 3, mohou zastupovat za podmínek stanovených tímto zákonem v řízeních a procesech pacientskou veřejnost, pokud tak stanoví zákon nebo pokud je orgán veřejné moci, který vede řízení, přizve. Pacientskou veřejností se rozumí osoby, které mohou být v rámci daného řízení nebo procesu dotčeny ve svých právech nebo povinnostech souvisejících s jejich zdravotním stavem nebo poskytováním zdravotních služeb.*
+>
+> *(3) Ministerstvo zapíše pacientskou organizaci do seznamu pacientských organizací do 30 dnů ode dne obdržení její žádosti podle odstavce 4, jestliže*
+>
+> *- a) splňuje podmínky uvedené v odstavci 1,*
+>
+> *- b) členové statutárního a nejvyššího orgánu, není-li tento orgán členskou schůzí, jsou voleni členy spolku, kterými jsou zpravidla osoby s určitým onemocněním nebo zdravotním postižením, jejich osoby blízké nebo jejich zástupci podle občanského zákoníku, anebo spolky podle odstavce 1 věty druhé,*
+>
+> *- c) zveřejňuje na svých internetových stránkách svou účetní závěrku nebo alespoň přehled o majetku a závazcích a přehled o příjmech a výdajích, nemá-li podle právního předpisu upravujícího účetnictví povinnost sestavit účetní závěrku, a zdroje financování a*
+>
+> *- d) provozuje činnost v oblasti pomoci pacientské veřejnosti a ochrany jejich práv a zájmů po dobu nejméně 12 měsíců bezprostředně předcházejících datu podání žádosti.*
+>
+> *(4) Pacientská organizace v písemné žádosti o zápis do seznamu pacientských organizací podle odstavce 3 uvede název, identifikační číslo, adresu sídla, adresu internetových stránek a adresu pro doručování, je-li tato adresa odlišná od adresy sídla. K žádosti dále přiloží*
+>
+> *- a) čestné prohlášení o počtu členů spolku a o tom, v jakém poměru jsou ve spolku zastoupeny osoby s určitým onemocněním nebo zdravotním postižením, jejich osoby blízké nebo jejich zástupci,*
+>
+> *- b) výroční zprávu shrnující činnost spolku za předchozí kalendářní rok a*
+>
+> *- c) účetní závěrku nebo alespoň přehled o majetku a závazcích a přehled o příjmech a výdajích, nemá-li podle právního předpisu upravujícího účetnictví povinnost sestavit účetní závěrku,*
+>
+> *nejsou-li tyto dokumenty vedeny v základním registru nebo agendovém informačním systému a nejsou-li ministerstvu zpřístupněné pro výkon agendy.*
+>
+> *(5) Ministerstvo vydá pacientské organizaci o jejím zapsání do seznamu pacientských organizací osvědčení, a to do 7 pracovních dnů ode dne jejího zapsání. V případě nesplnění podmínek uvedených v odstavci 3 vydá ministerstvo do 30 dnů ode dne obdržení žádosti podle odstavce 4 rozhodnutí o zamítnutí žádosti.*
+>
+> *(6) Přestane-li pacientská organizace splňovat podmínky uvedené v odstavci 3, ministerstvo rozhodne o vyřazení organizace ze seznamu pacientských organizací.*
+>
+> *(7) Pacientskou organizací může být rovněž ústav či obecně prospěšná společnost, jejichž hlavní činnost spočívá v pomoci pacientům a ochraně jejich práv a zájmů, a kde pacienti, osoby jim blízké nebo jejich zástupci podle občanského zákoníku mají prokazatelně zásadní vliv na činnost takového ústavu nebo obecně prospěšné společnosti. Ustanovení odstavců 3 a 4 se použijí přiměřeně.*
+>
+> *(8) Ministerstvo vede seznam pacientských organizací podle odstavce 3 a uveřejňuje ho na svých internetových stránkách.*
 
 **Výklad:**
 
@@ -1520,7 +1828,25 @@ Vzdělávací požadavky reflektují **interdisciplinární povahu** funkce — 
 >
 > *- c) jako osoba uvedená v § 57 odst. 1 poruší povinnost mlčenlivosti podle § 57 odst. 2 písm. a),*
 >
-> *[...]*
+> *- d) jako osoba uvedená v § 57 odst. 1 v rozporu s § 57 odst. 2 písm. b) neumožní vstup do objektu osobě pověřené příslušným správním orgánem,*
+>
+> *- e) jako osoba uvedená v § 27 odst. 1, která hodlá na základě oprávnění k poskytování zdravotních služeb zemřelého poskytovatele pokračovat v poskytování zdravotních služeb, v rozporu s § 58 nesplní některou z povinností ohledně zdravotnické dokumentace pacientů zemřelého poskytovatele podle § 57 odst. 3 písm. a), c) nebo d) nebo odst. 4, jejichž plnění by v případě nezájmu o pokračování v poskytování zdravotních služeb spadalo do působnosti příslušného správního orgánu, jemuž bylo úmrtí poskytovatele oznámeno, anebo neoznámí adresu místa, kam lze předkládat žádosti k zajištění postupu podle § 57 odst. 3 písm. c) nebo d),*
+>
+> *- f) jako osoba, jejíž oprávnění k poskytování zdravotních služeb zaniklo na základě rozhodnutí příslušného správního orgánu, v rozporu s § 60 odst. 1 nebo 2 nezajistí předání zdravotnické dokumentace nebo jejího soupisu nebo nepředá zdravotnickou dokumentaci nebo její soupis příslušnému správnímu orgánu,*
+>
+> *- g) jako zdravotnický pracovník v rozporu s § 70 odst. 4 písm. e) bodem 5 nepředá údaje do Národního zdravotnického informačního systému,*
+>
+> *- h) část těla odebranou pacientovi, tělo zemřelého nebo odebranou část z těla zemřelého uchovává nebo použije v rozporu s § 81 odst. 1 nebo 2,*
+>
+> *- i) nesplní oznamovací povinnost podle § 83,*
+>
+> *- j) provede hodnocení kvality a bezpečí poskytovaných zdravotních služeb bez oprávnění podle § 98 odst. 3 na základě smlouvy s poskytovatelem podle § 104 odst. 1,*
+>
+> *- k) padělá nebo úmyslně neoprávněně změní lékařskou zprávu nebo lékařský posudek nebo zneužije zdravotnickou dokumentaci,*
+>
+> *- l) jako osoba uvedená v § 51 odst. 5 poruší povinnost mlčenlivosti podle § 51, nebo*
+>
+> *- m) jako osoba uvedená v § 49 odst. 3 neprovede záznam o provedeném konziliu do zdravotnické dokumentace.*
 >
 > *(2) Za přestupek lze uložit pokutu do*
 >
@@ -1574,7 +1900,21 @@ Vzdělávací požadavky reflektují **interdisciplinární povahu** funkce — 
 >
 > *- a) v rozporu s § 11 odst. 2 poskytuje zdravotní služby bez oprávnění k poskytování zdravotních služeb,*
 >
-> *[...]*
+> *- b) jako osoba, které bylo uděleno oprávnění k poskytování zdravotních služeb před zápisem do obchodního nebo jiného zákonem určeného rejstříku s účinkem jejího vzniku, nebo jako osoba se sídlem mimo území České republiky, které bylo uděleno oprávnění k poskytování zdravotních služeb před zápisem do obchodního rejstříku, do něhož se zapisuje, nezašle příslušnému správnímu orgánu doklad prokazující podání návrhu na zápis do rejstříku nebo doklad prokazující zápis do rejstříku podle § 19 odst. 5,*
+>
+> *- c) jako osoba uvedená v § 20 odst. 1 nesplní oznamovací povinnost podle § 20 odst. 2,*
+>
+> *- d) jako osoba uvedená v § 27 odst. 1, která hodlá na základě oprávnění k poskytování zdravotních služeb zemřelého poskytovatele pokračovat v poskytování zdravotních služeb, v rozporu s § 58 nesplní některou z povinností ohledně zdravotnické dokumentace pacientů zemřelého poskytovatele podle § 57 odst. 3 písm. a), c) nebo d) nebo odst. 4, jejichž plnění by v případě nezájmu o pokračování v poskytování zdravotních služeb spadalo do působnosti příslušného správního orgánu, jemuž bylo úmrtí poskytovatele oznámeno, anebo neoznámí adresu místa, kam lze předkládat žádosti k zajištění postupu podle § 57 odst. 3 písm. c) nebo d),*
+>
+> *- e) jako osoba, jejíž oprávnění k poskytování zdravotních služeb zaniklo na základě rozhodnutí příslušného správního orgánu, v rozporu s § 60 odst. 1 nebo 2 nezajistí předání zdravotnické dokumentace nebo jejího soupisu nebo nepředá zdravotnickou dokumentaci nebo její soupis příslušnému správnímu orgánu,*
+>
+> *- f) jako osoba uvedená v § 70 odst. 4 písm. b), c) nebo d), nejde-li o krajský úřad, nebo v § 70 odst. 4 písm. e) bodech 1, 2, 3 nebo 4 nepředá údaje do Národního zdravotnického informačního systému,*
+>
+> *- g) část těla odebranou pacientovi, tělo zemřelého nebo odebranou část z těla zemřelého uchovává nebo použije v rozporu s § 81 odst. 1 nebo 2,*
+>
+> *- h) provede hodnocení kvality a bezpečí poskytovaných zdravotních služeb bez oprávnění podle § 98 odst. 3 na základě smlouvy s poskytovatelem podle § 104 odst. 1, nebo*
+>
+> *- i) padělá nebo neoprávněně změní lékařskou zprávu nebo lékařský posudek nebo zneužije zdravotnickou dokumentaci.*
 >
 > *(2) Univerzitní vysoká škola se dopustí přestupku tím, že provede anatomickou pitvu v rozporu s § 88 odst. 6.*
 >
@@ -1735,7 +2075,7 @@ Místní příslušnost se řídí § 62 PřesZ (sídlo / místo spáchání). P
 >
 > *(1) Působnost stanovená tímto zákonem krajským úřadům, krajům, obecním úřadům nebo obcím s rozšířenou působností je výkonem přenesené působnosti, s výjimkou působnosti podle § 44 odst. 5. Ustanovení tohoto zákona se použijí na poskytování zdravotnické záchranné služby, na poskytování specifických zdravotních služeb a na poskytování zdravotních služeb podle transplantačního zákona, nestanoví-li zákon o zdravotnické záchranné službě, zákon o specifických zdravotních službách a transplantační zákon jinak.*
 >
-> *(2) Činnost nezávislých odborníků a členů nezávislých odborných komisí ustavených podle tohoto zákona je jiným úkonem v obecném zájmu, při němž těmto odborníkům náleží náhrada platu nebo mzdy a účelně vynaložených nákladů a přiměřená odměna...*
+> *(2) Činnost nezávislých odborníků a členů nezávislých odborných komisí ustavených podle tohoto zákona je jiným úkonem v obecném zájmu45), při němž těmto odborníkům náleží náhrada platu nebo mzdy a účelně vynaložených nákladů a přiměřená odměna. Odborníkům, kteří nejsou v pracovním poměru nebo obdobném pracovním vztahu, avšak jsou výdělečně činní, přísluší náhrada ušlého výdělku za dobu, po kterou se účastnili na činnosti komise, v jimi prokázané výši a účelně vynaložených nákladů a přiměřená odměna. Nezávislým odborníkům, členům komisí i přizvané osobě podle § 95 odst. 2 písm. a) přísluší náhrada prokázaných jízdních výdajů.*
 
 **Výklad:**
 
@@ -1863,9 +2203,62 @@ Ministerstvo bylo povinno do **24 měsíců** zřídit Národní registr poskyto
 > **§ 128**
 >
 > *Zrušuje se:*
-> *1. Zákon č. 20/1966 Sb., o péči o zdraví lidu.*
-> *[...] 27. Vyhláška č. 221/2010 Sb., o požadavcích na věcné a technické vybavení zdravotnických zařízení [...]*
-> *28. Vyhláška č. 234/2011 Sb. [...]*
+>
+> *- 1. Zákon č. 20/1966 Sb., o péči o zdraví lidu.*
+>
+> *- 2. Zákon č. 548/1991 Sb., kterým se mění a doplňuje zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění zákona České národní rady č. 210/1990 Sb. a zákona České národní rady č. 425/1990 Sb.*
+>
+> *- 3. Zákon č. 160/1992 Sb., o zdravotní péči v nestátních zdravotnických zařízeních.*
+>
+> *- 4. Zákon č. 260/2001 Sb., kterým se mění zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů.*
+>
+> *- 5. Zákon č. 156/2004 Sb., kterým se mění zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů.*
+>
+> *- 6. Zákon č. 28/2008 Sb., kterým se mění zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů.*
+>
+> *- 7. Vyhláška č. 62/1968 Sb., o poskytování léčebně preventivní péče v ozbrojených silách a Sboru národní bezpečnosti a o součinnosti orgánů státní zdravotní správy při poskytování této péče (léčebný řád).*
+>
+> *- 8. Vyhláška č. 242/1991 Sb., o soustavě zdravotnických zařízení zřizovaných okresními úřady a obcemi.*
+>
+> *- 9. Vyhláška č. 11/1988 Sb., o povinném hlášení ukončení těhotenství, úmrtí dítěte a úmrtí matky.*
+>
+> *- 10. Vyhláška č. 19/1988 Sb., o postupu při úmrtí a o pohřebnictví.*
+>
+> *- 11. Vyhláška č. 61/1990 Sb., o hospodaření s léky a zdravotnickými potřebami.*
+>
+> *- 12. Vyhláška č. 394/1991 Sb., o postavení, organizaci a činnosti fakultních nemocnic a dalších nemocnic, vybraných odborných léčebných ústavů a krajských hygienických stanic v řídící působnosti ministerstva zdravotnictví České republiky.*
+>
+> *- 13. Vyhláška. č. 427/1992 Sb., kterou se mění a doplňuje vyhláška č. 61/1990 Sb., o hospodaření s léky a zdravotnickými potřebami.*
+>
+> *- 14. Vyhláška č. 434/1992 Sb., o zdravotnické záchranné službě.*
+>
+> *- 15. Vyhláška č. 139/1993 Sb., kterou se zrušuje výnos ministerstva zdravotnictví a sociálních věcí ČSR o hospodaření s drahými kovy ve stomatologické péči v ústavech národního zdraví a dalších zdravotnických organizacích.*
+>
+> *- 16. Vyhláška Ministerstva zdravotnictví č. 247/1993 Sb., o výběrovém řízení na vedoucí funkce ve zdravotnických organizacích a zařízeních v působnosti Ministerstva zdravotnictví, okresních úřadů a obcí.*
+>
+> *- 17. Vyhláška č. 51/1995 Sb., kterou se mění a doplňuje vyhláška Ministerstva zdravotnictví ČR č. 49/1993 Sb., o technických a věcných požadavcích na vybavení zdravotnických zařízení, a mění vyhláška Ministerstva zdravotnictví č. 434/1992 Sb., o zdravotnické záchranné službě.*
+>
+> *- 18. Vyhláška č. 221/1995 Sb., o znaleckých komisích.*
+>
+> *- 19. Vyhláška č. 105/2002 Sb., kterou se mění vyhláška č. 221/1995 Sb., o znaleckých komisích.*
+>
+> *- 20. Vyhláška č. 552/2004 Sb., o předávání osobních a dalších údajů do Národního zdravotnického informačního systému pro potřeby vedení národních zdravotních registrů.*
+>
+> *- 21. Vyhláška č. 259/2006 Sb., kterou se mění vyhláška Ministerstva zdravotnictví ČR č. 394/1991 Sb., o postavení, organizaci a činnosti fakultních nemocnic a dalších nemocnic, vybraných odborných léčebných ústavů a krajských hygienických stanic v řídící působnosti Ministerstva zdravotnictví České republiky.*
+>
+> *- 22. Vyhláška č. 385/2006 Sb., o zdravotnické dokumentaci.*
+>
+> *- 23. Vyhláška č. 479/2006 Sb., kterou se mění vyhláška č. 385/2006 Sb., o zdravotnické dokumentaci.*
+>
+> *- 24. Vyhláška č. 64/2007 Sb., kterou se mění vyhláška č. 385/2006 Sb., o zdravotnické dokumentaci, ve znění vyhlášky č. 479/2006 Sb.*
+>
+> *- 25. Vyhláška č. 187/2008 Sb., kterou se mění vyhláška č. 385/2006 Sb., o zdravotnické dokumentaci, ve znění pozdějších předpisů.*
+>
+> *- 26. Vyhláška č. 232/2008 Sb., kterou se mění vyhláška Ministerstva zdravotnictví č. 247/1993 Sb., o výběrovém řízení na vedoucí funkce ve zdravotnických organizacích a zařízeních v působnosti Ministerstva zdravotnictví, okresních úřadů a obcí.*
+>
+> *- 27. Vyhláška č. 221/2010 Sb., o požadavcích na věcné a technické vybavení zdravotnických zařízení a o změně vyhlášky Ministerstva zdravotnictví č. 51/1995 Sb., kterou se mění a doplňuje vyhláška Ministerstva zdravotnictví České republiky č. 49/1993 Sb., o technických a věcných požadavcích na vybavení zdravotnických zařízení, a mění vyhláška Ministerstva zdravotnictví České republiky č. 434/1992 Sb., o zdravotnické záchranné službě (vyhláška o požadavcích na věcné a technické vybavení zdravotnických zařízení).*
+>
+> *- 28. Vyhláška č. 234/2011 Sb., kterou se mění vyhláška č. 221/2010 Sb., o požadavcích na věcné a technické vybavení zdravotnických zařízení a o změně vyhlášky Ministerstva zdravotnictví č. 51/1995 Sb., kterou se mění a doplňuje vyhláška Ministerstva zdravotnictví České republiky č. 49/1993 Sb., o technických a věcných požadavcích na vybavení zdravotnických zařízení, a mění vyhláška Ministerstva zdravotnictví České republiky č. 434/1992 Sb., o zdravotnické záchranné službě (vyhláška o požadavcích na věcné a technické vybavení zdravotnických zařízení).*
 
 **Výklad:**
 
