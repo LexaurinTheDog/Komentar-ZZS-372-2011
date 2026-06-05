@@ -8,6 +8,10 @@ Veřejnoprávní úprava poskytování zdravotních služeb v ČR — komplement
 ## Metoda
 AI komentář **výhradně z lokálních materiálů**, **bez konkrétních spzn** (kromě Pl.ÚS 33/16).
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
