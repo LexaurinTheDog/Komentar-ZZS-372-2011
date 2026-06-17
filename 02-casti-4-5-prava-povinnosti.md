@@ -630,9 +630,11 @@ Institut utajeného porodu je v české odborné literatuře předmětem **kriti
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [24 Cdo 2368/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/308C690E2E932C46C1258BB9004D3AFF?openDocument) — 24. 9. 2024, kat. A
+- *ÚS* [III.ÚS 916/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-916-13_1) — nález, 17. 2. 2015
+  > „…zákonná úprava obsažená v § 38 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů, který obsahuje taxativní výčet případů, kdy je možné pacienta hospitalizovat bez jeho souhlasu, resp. bez souhlasu jeho zákonných zástupců. Nařízení předmětného předběžného opatření mezi ně nepatří. Místo toho zákon stanovil jiné instituty, jimiž bylo lze dosáhnout hospitalizace nezletilého za stejnými účely…"
+- *NS* [24 Cdo 2368/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/308C690E2E932C46C1258BB9004D3AFF?openDocument) — kat. A, 24. 9. 2024
   > „V době posuzování oprávněnosti zdravotnické detence ve smyslu § 38 odst. 1 písm. b) zákona č. 372/2011 Sb., o zdravotních službách, musí být bezprostředně přítomna hrozba nežádoucího následku, nikoliv však nezbytně také její projevy. Bylo by proti smyslu tohoto zákona vyčkávat, než bude pacient v důsledku duševní choroby či pod vlivem omamných prostředků skutečně vykonávat činnost, kterou bezprostředně zasáhne některou ze zákonem chráněných hodnot"
-- *NS* [24 Cdo 1150/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/481A422CBB2931C7C12588A80017DFAB?openDocument) — 21. 6. 2022, kat. A
+- *NS* [24 Cdo 1150/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/481A422CBB2931C7C12588A80017DFAB?openDocument) — kat. A, 21. 6. 2022
   > „V řízení o vyslovení přípustnosti (nedobrovolného) převzetí do zdravotního ústavu, ve kterém je pokračováno za podmínek uvedených v ustanovení § 72 z. ř. s., musí soud rozhodnout nejen o tom, zda k převzetí člověka (umístěného) do zdravotního ústavu došlo ze zákonných důvodů, ale (v kladném případě) také o tom, zda tyto důvody trvaly až do doby jeho propuštění (dodatečného souhlasu s hospitalizací)"
 
 #### § 38 jako klíčové prolomení principu souhlasu
@@ -644,9 +646,11 @@ Institut utajeného porodu je v české odborné literatuře předmětem **kriti
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [24 Cdo 2368/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/308C690E2E932C46C1258BB9004D3AFF?openDocument) — 24. 9. 2024, kat. A
+- *ÚS* [III.ÚS 916/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-916-13_1) — nález, 17. 2. 2015
+  > „…zákonná úprava obsažená v § 38 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů, který obsahuje taxativní výčet případů, kdy je možné pacienta hospitalizovat bez jeho souhlasu, resp. bez souhlasu jeho zákonných zástupců. Nařízení předmětného předběžného opatření mezi ně nepatří. Místo toho zákon stanovil jiné instituty, jimiž bylo lze dosáhnout hospitalizace nezletilého za stejnými účely…"
+- *NS* [24 Cdo 2368/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/308C690E2E932C46C1258BB9004D3AFF?openDocument) — kat. A, 24. 9. 2024
   > „V době posuzování oprávněnosti zdravotnické detence ve smyslu § 38 odst. 1 písm. b) zákona č. 372/2011 Sb., o zdravotních službách, musí být bezprostředně přítomna hrozba nežádoucího následku, nikoliv však nezbytně také její projevy. Bylo by proti smyslu tohoto zákona vyčkávat, než bude pacient v důsledku duševní choroby či pod vlivem omamných prostředků skutečně vykonávat činnost, kterou bezprostředně zasáhne některou ze zákonem chráněných hodnot"
-- *NS* [24 Cdo 1150/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/481A422CBB2931C7C12588A80017DFAB?openDocument) — 21. 6. 2022, kat. A
+- *NS* [24 Cdo 1150/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/481A422CBB2931C7C12588A80017DFAB?openDocument) — kat. A, 21. 6. 2022
   > „V řízení o vyslovení přípustnosti (nedobrovolného) převzetí do zdravotního ústavu, ve kterém je pokračováno za podmínek uvedených v ustanovení § 72 z. ř. s., musí soud rozhodnout nejen o tom, zda k převzetí člověka (umístěného) do zdravotního ústavu došlo ze zákonných důvodů, ale (v kladném případě) také o tom, zda tyto důvody trvaly až do doby jeho propuštění (dodatečného souhlasu s hospitalizací)"
 
 #### Hospitalizace bez souhlasu (odst. 1) — tři tituly
@@ -996,6 +1000,11 @@ Smyslem definice je **standardizace** úrovně urgentní medicíny v ČR a vymez
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 1093/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1093-15_1) — usnesení, 8. 9. 2015
+  > „Tzv. postup lege artis (ve smyslu ustanovení § 4 odst. 5 a § 45 odst. 1 zákona č. 372/2011 Sb., o zdravotních službách)… nelze… ztotožňovat s postupem popsaným v edukačním materiálu. „Edukační materiály mohou, ale nemusí popisovat lege artis postup. Jejich následování může, ale nemusí být postup lege artis. Stejně tak odchýlení se od nich není automaticky postup non lege artis. […] o správném postupu vždy nakonec rozhoduje lékařův samostatný úsudek. Schematizace medicíny na dodržování edukačních materiálů není možná.“"
+
 #### Princip lege artis (odst. 1) — protějšek § 28 odst. 2
 
 Odst. 1 je **protějškem § 28 odst. 2** — to, co pacient má jako **právo** (poskytování zdravotních služeb na náležité odborné úrovni), má poskytovatel jako **povinnost**. Tato povinnost zahrnuje:
@@ -1261,6 +1270,11 @@ Registrující poskytovatel (nebo jiný přijímající) je povinen — vyžaduj
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 19/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-19-13_1) — nález, 22. 10. 2013
+  > „Ti totiž ani po jeho dosažení nemohou odmítnout poskytnutí neodkladné péče, a nestanoví-li zákon jinak, tak v případě pojištěnců, s jejichž zdravotní pojišťovnou mají uzavřenou smlouvu, ani poskytnutí péče jiné [srov. § 48 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách)]"
+
 #### Princip taxativnosti — kdy lze odmítnout pacienta
 
 § 48 je **klíčové ustanovení** zajišťující dostupnost zdravotní péče v ČR. Stanoví, že poskytovatel může odmítnout přijetí pacienta nebo ukončit péči **pouze z taxativně vymezených důvodů**. Tato úprava chrání pacienta před svévolným odmítnutím — typicky pro „nepohodlnost" (nedoplácející klient, problémový pacient, etnická diskriminace).
@@ -1454,6 +1468,11 @@ Výhrada svědomí je ústavněprávně zakotvena v čl. 15 odst. 1 Listiny (svo
 > *- g) další osoby, které v souvislosti se svou činností vykonávanou na základě tohoto zákona nebo jiných právních předpisů zjistí informace o zdravotním stavu pacienta nebo informace s tím související.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Ads 135/2016 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/641722) — 23. 3. 2017
+  > „Ostatně povinnost mlčenlivosti podle § 51 zákona o zdravotních službách je stanovena k ochraně práv pacientů"
 
 #### Mlčenlivost jako základ důvěry — ústavní zakotvení
 

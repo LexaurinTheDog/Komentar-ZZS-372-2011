@@ -1862,6 +1862,11 @@ Vzdělávací požadavky reflektují **interdisciplinární povahu** funkce — 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 A 29/2016 - 48](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/455609) — 28. 6. 2018
+  > „Skutková podstata správního deliktu, za jehož spáchání byla žalobkyně postihnuta, ve svém gramatickém vyjádření používá vid nedokonavý (tj. kdo „poskytuje“ zdravotní služby bez oprávnění, nikoli „poskytne“). V tomto případě jde o skutkovou podstatu mířící na neoprávněné podnikání ve zdravotnictví. Podnikání je však definováno jako výdělečná činnost vykonávaná na vlastní účet a odpovědnost živnostenským nebo obdobným způsobem se záměrem činit tak soustavně za účelem dosažení zisku (§ 420 odst. 1 občanského zákoníku)"
+
 #### Třináctibodový katalog skutkových podstat
 
 § 114 odst. 1 zakotvuje **třináctibodový katalog skutkových podstat** přestupků fyzických osob (písm. a–m). Klíčová kategorizace:
@@ -1997,6 +2002,11 @@ Nejvyšší sazba **500 000 Kč** je vyhrazena pro **materiální porušení nez
 > *[odst. 3 obsahuje 21 skutkových podstat — písm. a–u]*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 As 46/2023 - 80](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/736028) — 30. 10. 2024
+  > „Zákonodárce vymezením činností a definováním podmínek pro tyto činnosti v zákoně o zdravotních službách garantuje, že služby podle tohoto zákona budou poskytovány na náležité odborné, personální, technické i věcné úrovni. Sleduje tím legitimní cíl spočívající ve veřejném zájmu na poskytování kvalitních a bezpečných zdravotních služeb. Zákonodárce může z různých důvodů odmítnout poskytovat některým službám záštitu pod termínem zdravotní služba"
 
 #### Trojí katalog skutkových podstat
 

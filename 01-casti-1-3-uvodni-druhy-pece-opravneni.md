@@ -114,6 +114,13 @@ K této trojici přistupují **zákon č. 48/1997 Sb. o veřejném zdravotním p
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 Ad 15/2021 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/703674) — 28. 7. 2022
+  > „…provádění měření zraku refraktometrem představuje zdravotní službu ve smyslu § 2 odst. 2 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování, k jejímuž výkonu jsou oprávněni oftalmologové a optometristé (§ 11 odst. 2 zákona č. 96/2004 Sb., o nelékařských zdravotnických povoláních). Provádí-li takové měření osoba nesplňující kvalifikační předpoklady pro výkon povolání optometristy či oftalmologa, dopouští se poskytování zdravotnických služeb bez patřičného oprávnění…"
+- *NSS* [10 As 94/2023 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/713816) — 24. 8. 2023
+  > „…předepisování léčivých přípravků je zdravotní péčí ve smyslu § 2 odst. 4 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů. Jako takové je vyhrazeno lékaři"
+
 #### Poskytovatel zdravotních služeb (PZS) — odst. 1
 
 Legislativní zkratka **„poskytovatel"** označuje subjekt, který získal **oprávnění k poskytování zdravotních služeb** podle Části třetí ZZS. Tato definice je formálně-konstitutivní: poskytovatelem se subjekt stává až okamžikem nabytí právní moci rozhodnutí o udělení oprávnění (§ 19), nikoliv prostým výkonem zdravotnické činnosti. Jde o klíčový posun oproti zákonu č. 20/1966 Sb. o péči o zdraví lidu, ve kterém role poskytovatele nebyla takto explicitně formálně vázána na registrační akt.
@@ -298,6 +305,13 @@ Zákon definuje **čtyři obory**, ve kterých existuje formálně-právní inst
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 2253/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2253-13_1) — nález, 9. 1. 2014
+  > „…čl. 4 Úmluvy o lidských právech a biomedicíně, sdělení Ministerstva zahraničních věcí č. 96/2001 Sb. m. s., který stanoví, že jakýkoliv zákrok v oblasti péče o zdraví, včetně vědeckého výzkumu, je nutno provádět v souladu s profesními povinnostmi a standardy). Pro vymezení pojmu lex artis [zákonný způsob, nyní označen jako náležitá odborná úroveň - viz § 4 odst. 5 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách)] má význam i úprava trestněprávní…"
+- *NSS* [15 Ad 9/2025 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745373) — 28. 8. 2025
+  > „…aplikace právě této léčby bude pro žalobkyni představovat postup lege artis [tedy vyjádření práva pacienta na poskytování zdravotních služeb podle pravidel vědy a uznávaných medicínských postupů, při respektování individuality pacienta, s ohledem na konkrétní podmínky a objektivní možnosti ve smyslu § 28 odst. 2 ve spojení s § 4 odst. 5 zákona č. 372/2011 Sb. o zdravotních službách…]. Soud zdůrazňuje, že součástí definice lege artis postupu je prvek individualizace lékařského postupu, který plyne také ze zákona o zdravotních službách"
+
 #### Zdravotnické zařízení (odst. 1) — prostorový aspekt poskytování
 
 Definice je úmyslně **prostorová, nikoli organizační**: zdravotnické zařízení = prostory určené k poskytování zdravotních služeb. Jeden poskytovatel může provozovat **více zdravotnických zařízení** (více ordinací, několik klinik); naopak jedno zdravotnické zařízení může užívat **více poskytovatelů** souběžně (typicky § 16 odst. 2 — fyzická osoba sdílející ordinaci jiného poskytovatele).
@@ -410,6 +424,11 @@ Tato definice je **právním standardem péče** (*lex artis medicinae*). Tři k
 > *- b) nemoci, u nichž se poskytuje dispenzární péče, časové rozmezí prováděných prohlídek a okruhy poskytovatelů provádějících dispenzární péči.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Ad 7/2025 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745281) — 8. 8. 2025
+  > „Neodkladná péče je definována v § 5 odst. 1 písm. a) zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování, jako péče, jejímž účelem je zamezit nebo omezit vznik náhlých stavů, které bezprostředně ohrožují život nebo by mohly vést k náhlé smrti nebo vážnému ohrožení zdraví, nebo způsobují náhlou nebo intenzivní bolest nebo náhlé změny chování pacienta, který ohrožuje sebe nebo své okolí. […] Toto ustanovení tedy nelze využít v řadě případů, které se týkají plánované, často akutní péče, která podmínky uvedené v tomto ustanovení nesplňuje"
 
 #### Dvě klasifikační osy
 
@@ -999,6 +1018,11 @@ Standardní doklad: **výpis z rejstříku trestů** (ne starší 3 měsíců). 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [17 Ad 7/2024 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/737984) — 21. 10. 2024
+  > „Za dodržování právních předpisů při běžné činnosti lékárny jsou totiž primárně odpovědní lékárníci a jejich vedoucí… Za porušení povinností odborného zástupce naplňující skutkovou podstatu disciplinárního deliktu tak nelze považovat jednotlivá pochybení jiných farmaceutů při zacházení s léčivy v lékárně, nýbrž jen závažné nedostatky v odborném řízení její činnosti. Odborný zástupce ostatně z logiky věci nemůže být disciplinárně odpovědný za všechny nedostatky v běžném provozu lékárny…"
+
 #### Funkce odborného zástupce — odborné řízení
 
 Odborný zástupce je **odpovědnou osobou za odbornou stránku** poskytovaných zdravotních služeb. Ručí za **náležitou odbornou úroveň** (§ 4 odst. 5), za dodržování kvalifikačních požadavků, za odborné postupy. Funkce je analogická:
@@ -1406,6 +1430,11 @@ Tento mechanismus **nepřevoditelné** oprávnění obchází formálně — fak
 ### § 24 — Fakultativní a sankční odnětí, pozastavení a změna oprávnění
 
 § 24 stanoví **vícestupňovou škálu sankcí** podle závažnosti porušení:
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [46 A 68/2017 - 69](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/425712) — 27. 2. 2020
+  > „V situaci, kdy vyvstane důvodné podezření, že lékař [tj. zdravotní pracovník ve smyslu § 2 odst. 1 písm. b) zákona č. 95/2004 Sb.] pozbyl zdravotní způsobilost, a z tohoto důvodu se správní orgán příslušný k rozhodování o změně oprávnění k poskytování zdravotních služeb (§ 24 odst. 1 zákona č. 372/2011 Sb.) rozhodne zahájit správní řízení, pak má tento správní orgán v zásadě povinnost směřovat řízení k opatření lékařského posudku o zdravotní způsobilosti dotčené osoby…"
 
 #### Odst. 1 — povinné rozhodnutí (změna / pozastavení / odejmutí)
 

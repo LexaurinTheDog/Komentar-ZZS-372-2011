@@ -689,6 +689,13 @@ Speciální režim pro pracovnělékařské služby: poskytovatel oznámí ukon�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [59 Ad 2/2022 - 73](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722105) — 24. 4. 2024
+  > „NSS v rozsudku ze dne 30. 11. 2023, č. j. 10 As 117/2022-41, formuloval pro nynější věc zásadní právní závěr, že „[d]o zdravotnické dokumentace vedené o pacientovi může bez jeho souhlasu nahlížet [§ 65 odst. 2 písm. b) zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování] i orgán, který vede řízení o náhradách za ztrátu na služebním příjmu a o jednorázovém odškodnění (§ 102, § 103 odst. 1 a § 105 odst. 1 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů).“"
+- *NSS* [5 As 317/2016 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/642893) — 29. 6. 2017
+  > „Správní orgány navíc nejsou osobou, která může ve smyslu § 65 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), v relevantním znění (dále jen „zákon o zdravotních službách“), nahlížet do zdravotnické dokumentace"
+
 #### Tři okruhy oprávněných osob
 
 **Okruh 1 — Pacient a jeho zástupci (odst. 1)**
