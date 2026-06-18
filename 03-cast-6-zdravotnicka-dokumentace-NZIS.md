@@ -49,6 +49,42 @@ Odst. 3 zakládá **autonomní právní základ** pro využívání rodného č�
 
 > **Srovnání s GDPR:** rodné číslo není sice „zvláštní kategorií" osobních údajů ve smyslu čl. 9 GDPR, ale je tzv. **národním identifikačním číslem** ve smyslu čl. 87 GDPR, jehož zpracování může členský stát podmínit zvláštními zárukami. Česká právní úprava se s tímto požadavkem vypořádává jednak obecným režimem zákona č. 133/2000 Sb., jednak resortními úpravami (§ 53 odst. 3 ZZS, § 70 odst. 9 ZZS pro NZIS).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Praktický lékař si o pacientovi vede dvojí záznamy: jednak řádné dekurzy v ambulantním informačním systému, jednak osobní „pomocné" poznámky v papírovém zápisníku ve své kanceláři (např. „pozor — opakovaně bagatelizuje obtíže, nedodržuje medikaci"). Pacient později žádá kopii celé své zdravotnické dokumentace dle § 65 a § 66. Lékař zápisník odmítá vydat s tím, že jde o jeho soukromé poznámky. K obstarání by bylo třeba: obsah zápisníku, popis, k čemu poznámky slouží (zda k péči o tohoto pacienta při příštích návštěvách), zda jsou uloženy odděleně mimo systém poskytovatele.
+
+**2. Právní otázka.** Jsou osobní pomocné poznámky lékaře vedené ke konkrétnímu pacientovi, ale mimo formální informační systém, zdravotnickou dokumentací ve smyslu § 53 odst. 1 — se všemi důsledky (právo pacienta na kopii)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 53 odst. 1 — funkční (materiální) definice dokumentace podle obsahu a účelu, nikoli podle formy uložení; odst. 2 — negativní vymezení (carve-out pro jiný účel).
+- *Související ustanovení téhož zákona:* § 65 (právo pacienta nahlížet), § 66 (výpisy a kopie), § 31 (právo na informace o zdravotním stavu), § 54 (povinnost vést dokumentaci).
+- *Související předpisy:* GDPR (nařízení 2016/679) čl. 5 odst. 1 písm. b) — účelové omezení, čl. 15 — právo na přístup; zákon č. 133/2000 Sb. ve vztahu k odst. 3 (rodné číslo).
+- *Judikatura:* obecně přijímaný výklad, že rozhodující je materiální obsah a účel záznamu, nikoli místo či forma uložení; pojem dokumentace se vykládá extenzivně ve prospěch práva pacienta na informaci.
+
+**4. Subsumpce.** Znak „soubor informací" — splněn (text poznámek). Znak „vedený poskytovatelem" — splněn, lékař je sám poskytovatelem. Sporný a rozhodující znak je „za účelem poskytování zdravotních služeb konkrétnímu pacientovi": slouží-li poznámky lékaři k péči o tohoto pacienta při příštích návštěvách, je znak naplněn a jde o dokumentaci; pokud by sloužily výhradně jinému účelu (odst. 2), o dokumentaci by nešlo. Fakt, že jsou uloženy mimo systém, je dle materiálního pojetí § 53 irelevantní.
+
+**5. Řešení.** Poznámky vázané ke konkrétnímu pacientovi a sloužící péči o něj jsou zdravotnickou dokumentací; lékař je povinen je řádně autorizovat (§ 55a), archivovat a zpřístupnit pacientovi (§ 65, § 66). Praktický krok: lékař by je měl vést jako součást řádné dokumentace v systému. Riziko: vedení „stínové" dokumentace mimo systém je vadou (§ 117) a v případném sporu jde k tíži poskytovatele. Alternativní výklad připadá v úvahu jen tam, kde lze prokázat výhradně jiný účel.
+
+**6. Varianty.** (a) Kdyby poznámky byly čistě organizační (rozvrh ordinace, bez vazby na zdravotní stav konkrétního pacienta), nešlo by o dokumentaci. (b) Kdyby šlo o anonymizovaný výpis pro vlastní statistiku obsazenosti, uplatnil by se odst. 2 a o dokumentaci by nešlo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „ochrany soukromí lékaře":* lékař může namítat, že jde o jeho subjektivní úvahy. Neutralizace: § 53 nerozlišuje hodnotící a faktické záznamy; rozhodující je vazba na péči o konkrétního pacienta. Hodnotící úsudky lze případně formulovat věcně, nelze je ale vyjmout z dokumentace.
+- *Protiargument „formy uložení":* že záznam není v systému, jej nevyjímá z dokumentace — § 53 je materiální, ne formální. Slabým místem je dokazování účelu: účel „pro tohoto pacienta" se prokazuje obtížně a může být sporný.
+- Chybějící zdroj: k hranici „pomocných poznámek" neexistuje jednoznačná publikovaná judikatura, výklad se opírá o systematiku a smysl ustanovení.
+
+#### H. Praktický závěr
+
+V praxi platí: co slouží péči o konkrétního pacienta, je dokumentace bez ohledu na formu. „Stínové" poznámky mimo systém jsou rizikové. Rodné číslo lze ve dokumentaci využívat na základě výslovného zmocnění (odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit účel záznamu — slouží péči o konkrétního pacienta (dokumentace), nebo výhradně jinému účelu (odst. 2 — není dokumentace)?
+- [ ] Posoudit obsah, ne formu/místo uložení.
+- [ ] U sporu o vydání kopie zahrnout veškeré záznamy splňující materiální definici.
+- [ ] Ověřit zákonný titul pro rodné číslo (odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** obsah sporného záznamu, popis jeho účelu a způsobu využití, vnitřní pravidla poskytovatele dle § 55d, žádost pacienta o kopii.
+
 ---
 
 ### § 54 — Povinnost vést dokumentaci
@@ -83,6 +119,42 @@ Výdej léčivého přípravku v lékárně sám o sobě nevyžaduje vedení zdr
 
 > **Praktická poznámka:** Výjimky jsou taxativní a interpretovat je třeba úzce. Tam, kde poskytovatel poskytuje zdravotní službu mimo úzké hranice § 54 písm. a) nebo b), vždy platí povinnost vést dokumentaci podle obecného režimu §§ 53–69. Nedostatečné vedení dokumentace je **správním deliktem** podle § 117 odst. 3 písm. d) zákona (až 1 000 000 Kč pokuta).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Mobilní očkovací tým poskytovatele provádí v rámci preventivní akce v domově pro seniory (mimo zdravotnické zařízení, dle § 11a) očkování proti chřipce a současně rutinní změření tlaku jako edukační aktivitu. Tým si nevede o jednotlivých klientech žádnou dokumentaci. U jedné klientky se po očkování objeví závažná postvakcinační reakce; rodina i ošetřující lékař požadují doložení, čím a kdy byla očkována. Poskytovatel nemá záznam. K obstarání: rozpis akce, šarže vakcín, jmenný seznam očkovaných (pokud existuje), vykázání výkonu pojišťovně.
+
+**2. Právní otázka.** Vztahuje se na očkování provedené v rámci preventivní akce mimo zdravotnické zařízení výjimka z povinnosti vést dokumentaci podle § 54 písm. b)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 54 — povinnost vést dokumentaci a její dvě taxativní výjimky; písm. b) bod 1 výslovně vyjímá očkování z výjimky (tj. dokumentaci o očkování vést nutno).
+- *Související ustanovení téhož zákona:* § 11a (preventivní péče mimo zdravotnické zařízení), § 53 (pojem dokumentace), § 55–55a (forma a autorizace), § 117 odst. 3 písm. d) (správní delikt).
+- *Související předpisy:* zákon č. 48/1997 Sb. o veřejném zdravotním pojištění (vykázání výkonu); předpisy o očkování a hlášení nežádoucích účinků (SÚKL).
+- *Judikatura:* k taxativnímu a restriktivnímu výkladu výjimek z veřejnoprávních povinností — ustálený výklad, že výjimky nelze rozšiřovat analogií.
+
+**4. Subsumpce.** Akce probíhá mimo zdravotnické zařízení dle § 11a — naplněna obecná hypotéza výjimky písm. b). Avšak jde o očkování (bod 1) — tedy o případ, kdy výjimka neplatí a dokumentace vedena být musí. Měření tlaku jako edukace bez vazby na úhradu a bez očkování by samo o sobě pod výjimku spadalo; očkování však z výjimky vyjímá bod 1 bezvýjimečně.
+
+**5. Řešení.** Poskytovatel měl povinnost vést dokumentaci o očkování (šarže, datum, místo, identifikace pacienta, podpis pracovníka dle § 55a). Absence záznamu je porušením § 54 a vadou dokumentace; v řízení o náhradě újmy jde nedostatek k tíži poskytovatele a ztěžuje jeho obranu (kauzalita postvakcinační reakce). Hrozí sankce dle § 117 (až 1 000 000 Kč). Krok: zpětně rekonstruovat z dostupných podkladů, do budoucna zavést mobilní dokumentaci očkování.
+
+**6. Varianty.** (a) Kdyby tým prováděl jen depistážní screening bez očkování a bez úhrady z pojištění, výjimka by platila a dokumentace by být vedena nemusela. (b) Kdyby šlo o jakýkoli výkon alespoň částečně hrazený z veřejného pojištění (bod 2), dokumentace by byla rovněž povinná kvůli vykázání pojišťovně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „terénní povahy akce":* poskytovatel může tvrdit, že terénní podmínky vedení dokumentace neumožňují. Neutralizace: zákon u očkování nepřipouští výjimku z technických důvodů; mobilní dokumentace (i jednoduchý záznam) je standard.
+- *Protiargument „edukačního, nikoli léčebného charakteru":* měření tlaku jako edukace by samo dokumentaci nevyžadovalo — to je správné, ale očkování zůstává samostatným povinným záznamem. Slabé místo: rozlišení, které úkony akce do dokumentační povinnosti spadají.
+- Riziko: nevedení dokumentace je nejen sankcí, ale i důkazním handicapem v civilním sporu.
+
+#### H. Praktický závěr
+
+Výjimky § 54 jsou úzké a taxativní. Očkování a úhradové výkony se dokumentují vždy, i mimo zdravotnické zařízení. Pochybnost se řeší ve prospěch vedení dokumentace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o lékárenský výdej (písm. a) nebo preventivní výkon mimo zařízení dle § 11a (písm. b)?
+- [ ] Jde-li o písm. b), nejde o očkování nebo úhradový výkon (pak dokumentace povinná)?
+- [ ] Ověřit obsah a autorizaci záznamu o očkování (§ 55a).
+- [ ] Posoudit sankční a důkazní důsledky absence dokumentace.
+
+**Typicky rozhodné důkazy / podklady:** rozpis preventivní akce, šarže a datum očkování, vykázání výkonu pojišťovně, vnitřní pravidla poskytovatele.
+
 ---
 
 ### § 55 — Forma dokumentace
@@ -115,6 +187,42 @@ Odst. 2 stanoví **čtyři kvalitativní požadavky** na vedení dokumentace, je
 | **Čitelnost** | Záznam musí být fyzicky čitelný; nečitelný rukopisný záznam je vadou dokumentace |
 
 > **Důsledky porušení:** kromě správních deliktů (§ 117 odst. 3 písm. d) ZZS) je nesplnění těchto požadavků relevantní pro **civilní odpovědnost** poskytovatele — pokud nelze z dokumentace vyčíst, co bylo skutečně provedeno, jde pochybení v dokumentaci k tíži poskytovatele v případném sporu o náhradu újmy podle § 2924 a § 2925 občanského zákoníku (presumpce v neprospěch toho, kdo má zákonnou dokumentační povinnost a nesplnil ji). Ustálená judikatura k odpovědnosti poskytovatele zdravotních služeb dovodila, že nesplnění dokumentační povinnosti zhoršuje důkazní postavení poskytovatele ve sporu o non lege artis postup.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient žaluje nemocnici o náhradu újmy s tvrzením, že před operací nebyl informován o riziku a že pooperační komplikace nebyla včas řešena. Klíčové dekurzy z noční služby jsou vedeny ručně, jsou těžko čitelné, místy přepisované, bez jednoznačného uvedení času a s nečitelným podpisem. Znalec konstatuje, že z dokumentace nelze spolehlivě zjistit, kdy a co bylo provedeno. K obstarání: originál dokumentace, znalecký posudek k čitelnosti a průkaznosti, výslech sloužícího personálu.
+
+**2. Právní otázka.** Jaké důsledky má pro důkazní postavení poskytovatele to, že dokumentace nesplňuje požadavky průkaznosti, pravdivosti, srozumitelnosti a čitelnosti dle § 55 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55 odst. 2 — čtyři kvalitativní požadavky na vedení dokumentace; odst. 1 — přípustnost listinné, elektronické i hybridní formy.
+- *Související ustanovení téhož zákona:* § 55a (autorizace, čas, podpis, zákaz přepisování), § 28 (náležitá odborná úroveň), § 117 odst. 3 písm. d) (správní delikt).
+- *Související předpisy:* § 2924, § 2925 občanského zákoníku (odpovědnost za újmu); § 348 trestního zákoníku (padělání lékařské zprávy); vyhláška č. 98/2012 Sb.
+- *Judikatura:* ustálený závěr civilních soudů, že nesplnění dokumentační povinnosti zhoršuje důkazní postavení poskytovatele a vede k hodnocení nejasností v jeho neprospěch ve sporu o postup non lege artis.
+
+**4. Subsumpce.** Nečitelnost a chybějící čas → porušení požadavků čitelnosti a průkaznosti. Přepisování bez zachování původního obsahu → porušení § 55a odst. 7 (nepřepisovatelnost). Pokud nelze rekonstruovat skutečný průběh péče, je naplněn předpoklad, za nějž jdou pochybnosti k tíži poskytovatele, který měl zákonnou dokumentační povinnost a nesplnil ji.
+
+**5. Řešení.** Vady dokumentace nezakládají samy o sobě odpovědnost za újmu, ale obracejí důkazní nevýhodu proti poskytovateli: tam, kde dokumentace mlčí nebo je nečitelná, soud zpravidla vychází z tvrzení pacienta, neprokáže-li poskytovatel řádný postup jinak. Praktický krok pro poskytovatele: doplnit kontext výslechy, vnitřními protokoly; do budoucna elektronizace a strukturované dekurzy. Riziko: i správní sankce a v krajním případě trestní rovina u vědomě nepravdivého záznamu.
+
+**6. Varianty.** (a) Kdyby dekurzy byly vedeny elektronicky, čitelně, s časovými razítky a auditní stopou, důkazní situace poskytovatele by byla výrazně silnější. (b) Kdyby šlo o vědomě antedatovaný či zpětně „dotvořený" záznam, hrozila by trestní odpovědnost dle § 348 TZ a ztráta věrohodnosti celé dokumentace.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „provozního přetížení":* poskytovatel může poukázat na vytíženost noční služby. Neutralizace: kvalitativní požadavky § 55 odst. 2 jsou bezpodmínečné; přetížení je organizační problém poskytovatele, nikoli omluva.
+- *Protiargument „obvyklé praxe zkratek":* nadužívání nestandardních zkratek je samostatnou vadou srozumitelnosti; obhajoba „tak to děláme všichni" neobstojí.
+- Slabé místo: hranice mezi pouhou vadou dokumentace a důkazem o pochybení je věcí volného hodnocení; vada sama bez příčinné souvislosti újmu nezakládá.
+
+#### H. Praktický závěr
+
+Forma je volná, kvalita povinná. Dokumentace musí být průkazná, pravdivá, srozumitelná a čitelná; jinak nese poskytovatel důkazní nevýhodu ve sporu. Elektronizace tato rizika výrazně snižuje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dokumentace čitelná a je u záznamu zřejmé kdo, kdy, co (průkaznost)?
+- [ ] Odpovídá obsah skutečnosti (pravdivost) — žádné vědomě nepravdivé záznamy?
+- [ ] Nejsou nadužívány nejednoznačné zkratky (srozumitelnost)?
+- [ ] U sporu posoudit, zda vady jdou k tíži poskytovatele.
+
+**Typicky rozhodné důkazy / podklady:** originál dokumentace, znalecký posudek ke čitelnosti/průkaznosti, audit trail u elektronické formy, výpovědi personálu.
 
 ---
 
@@ -202,6 +310,42 @@ Klíčové pravidlo **nepřepisovatelnosti záznamů**: opravy a doplnění **ne
 
 > **Vztah ke GDPR — právo na opravu (čl. 16):** pacient má jako subjekt údajů obecné právo na opravu nepřesných údajů. § 55a odst. 7 toto právo konkretizuje pro zdravotnickou dokumentaci: pacient může žádat opravu, ale originální obsah zůstane zachován (s poznámkou o opravě). Tato úprava je v souladu s čl. 23 GDPR, který dovoluje omezit právo na výmaz nebo plnou opravu tam, kde to vyžaduje obecný zájem (kontinuita zdravotnické dokumentace) a kde zachování originálu má vyšší hodnotu (forenzní hodnota, kontinuita léčby).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient zjistí, že v jeho elektronické dokumentaci je u jednoho dekurzu nesprávně uvedena alergie na penicilin, kterou nikdy neměl, a žádá opravu. Lékař chce chybu „rychle smazat" a přepsat. Současně se v jiném sporu řeší, zda byla propouštěcí zpráva, kterou nemocnice elektronicky předala praktickému lékaři, řádně autorizována — nemocnice ji opatřila pouze interním přihlášením uživatele, nikoli elektronickou pečetí ani podpisem. K obstarání: audit trail systému, metadata záznamu, certifikáty pro elektronickou pečeť/podpis, doklad o předání zprávy.
+
+**2. Právní otázka.** (a) Jak se provádí oprava chybného autorizovaného záznamu na žádost pacienta? (b) Jaký autorizační režim vyžaduje elektronický záznam předávaný jinému poskytovateli?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55a odst. 7 (opravy novým záznamem se zachováním původního obsahu, poznámka o opravě na žádost pacienta); odst. 4 (kvalifikovaný režim u předávaných záznamů — časové razítko + pečeť nebo podpis); odst. 5 (interní režim u nepředávaných); odst. 1 (identifikátor záznamu).
+- *Související ustanovení téhož zákona:* § 55 (forma, čitelnost), § 56a–56b (předávání přes NKM), § 65–66 (přístup pacienta).
+- *Související předpisy:* GDPR čl. 16 (právo na opravu), čl. 23 (omezení); nařízení eIDAS č. 910/2014 (kvalifikovaný podpis, pečeť, časové razítko); zákon č. 325/2021 Sb. o elektronizaci zdravotnictví (standardy).
+- *Judikatura:* obecně uznávaná zásada integrity a nepřepisovatelnosti dokumentace jako podmínka její důkazní a forenzní hodnoty.
+
+**4. Subsumpce.** (a) Oprava: smazání a přepis je zakázán; oprava se provede novým záznamem tak, aby byl zjistitelný původní (chybný) obsah, s poznámkou „oprava na žádost pacienta". (b) Předaná propouštěcí zpráva spadá pod odst. 4 (záznam předávaný jiné osobě) — pouhé interní přihlášení uživatele (režim odst. 5) nepostačuje; chybí časové razítko a pečeť/podpis dle odst. 4.
+
+**5. Řešení.** (a) Lékař opraví údaj novým záznamem s poznámkou o opravě na žádost pacienta; původní záznam zůstává dohledatelný (audit). (b) Propouštěcí zpráva byla autorizována vadně — měla mít resortní/kvalifikované časové razítko a zaručenou/uznávanou pečeť poskytovatele nebo podpis pracovníka; bez toho je její autenticita zpochybnitelná. Krok: doplnit řádnou autorizaci, do budoucna nastavit systém tak, aby předávané dokumenty automaticky pečetil.
+
+**6. Varianty.** (a) Kdyby záznam byl vytvořen automaticky zdravotnickým prostředkem s viditelnou identifikací přístroje a časem (odst. 6), autorizace pracovníkem by nebyla nutná — pokud jej pracovník klinicky neinterpretuje. (b) Kdyby zpráva zůstala výhradně uvnitř poskytovatele a nebyla předávána, postačil by interní režim odst. 5.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „technické rovnocennosti přihlášení":* poskytovatel může tvrdit, že přihlášení uživatele zaručuje autenticitu stejně jako podpis. Neutralizace: zákon u předávaných záznamů (odst. 4) výslovně žádá kvalifikované prvky (eIDAS/resortní), interní identita nestačí.
+- *Protiargument „práva pacienta na výmaz":* pacient může požadovat úplné smazání chybného údaje (čl. 17 GDPR). Neutralizace: § 55a odst. 7 ve spojení s čl. 23 GDPR upřednostňuje zachování integrity dokumentace; úplný výmaz se nepřipouští, postačí oprava se zachováním původu.
+- Slabé místo: praktické nastavení informačních systémů často nerozlišuje předávané a nepředávané záznamy, což generuje systémové vady autorizace.
+
+#### H. Praktický závěr
+
+Opravy se provádějí novým záznamem, nikdy přepisem; opravu na žádost pacienta nutno označit. Předávané elektronické záznamy vyžadují kvalifikovanou autorizaci (časové razítko + pečeť/podpis), nepředávané postačí interním režimem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má elektronický záznam unikátní identifikátor dle standardu (odst. 1)?
+- [ ] Je záznam předáván jiné osobě? → kvalifikovaný režim odst. 4; jinak odst. 5.
+- [ ] Listinný záznam: datum, čas, podpis, jméno (odst. 3)?
+- [ ] Provádějí se opravy novým záznamem se zachováním originálu a poznámkou u žádosti pacienta (odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** audit trail a metadata záznamu, certifikáty pečeti/podpisu, doklad o předání dokumentu, vnitřní pravidla autorizace dle § 55d.
+
 ---
 
 ### § 55b — Anonymizace pro vědu a výzkum
@@ -223,6 +367,42 @@ Klíčové pravidlo **nepřepisovatelnosti záznamů**: opravy a doplnění **ne
 
 > **Praktický význam pro zdravotnický výzkum:** § 55b umožňuje poskytovatelům spravovat **anonymizované registry** klinických dat pro retrospektivní výzkum bez nutnosti individuálního souhlasu pacientů. Pro výzkum, který vyžaduje **identifikovatelnost** (např. propojení s jinými registry, follow-up), je nezbytný buď souhlas pacienta, nebo zvláštní zákonný titul (§ 9 odst. 2 písm. j) GDPR — vědecký výzkum ve veřejném zájmu při zachování zvláštních záruk; v ČR konkretizuje § 24 odst. 2 zákona č. 110/2019 Sb. o zpracování osobních údajů).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Fakultní nemocnice chce vytvořit retrospektivní výzkumný datový soubor pacientů s konkrétní diagnózou za 10 let, k publikaci a sdílení s univerzitním pracovištěm, bez individuálního souhlasu pacientů. Datový tým „odstraní jména a rodná čísla", ale ponechá přesné datum narození, PSČ bydliště, datum a místo hospitalizace a vzácnou kombinaci diagnóz. K obstarání: popis datové sady, metodika de-identifikace, posouzení rizika zpětné identifikace, záznam o tom, kdo má k dispozici dodatečné klíče.
+
+**2. Právní otázka.** Splňuje takto upravená datová sada podmínku anonymizace dle § 55b (tak, aby nebyla seznatelná identita pacienta), nebo jde stále o (pseudonymizovaný) osobní údaj se všemi důsledky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55b — anonymizace pro vědu a výzkum; následek, že anonymizovaná informace přestává být zdravotnickou dokumentací.
+- *Související ustanovení téhož zákona:* § 53 odst. 2 (carve-out pro jiný účel), § 73 odst. 8 (statistické/vědecké účely NZIS bez identifikace osoby).
+- *Související předpisy:* GDPR čl. 4 odst. 1 (osobní údaj), čl. 4 odst. 5 (pseudonymizace), recitál 26 (test rozumně použitelných prostředků); čl. 9 odst. 2 písm. j) (výzkum ve veřejném zájmu); § 24 odst. 2 zákona č. 110/2019 Sb.
+- *Judikatura:* unijní výklad, že o anonymizaci jde jen tehdy, nelze-li osobu identifikovat s přihlédnutím ke všem rozumně dostupným prostředkům; jinak jde o pseudonymizaci a osobní údaj.
+
+**4. Subsumpce.** Odstranění jména a rodného čísla samo nestačí. Kombinace přesného data narození, PSČ, data a místa hospitalizace a vzácné diagnózy umožňuje s rozumně dostupnými prostředky zpětnou identifikaci → nejde o anonymizaci dle recitálu 26, nýbrž o pseudonymizaci. Údaje proto zůstávají osobními a zdravotnickou dokumentací/osobním údajem se všemi povinnostmi.
+
+**5. Řešení.** Sada není anonymizovaná; nemocnice nemůže těžit z § 55b. Buď provede skutečnou anonymizaci (agregace věku, zhrubění geografie, generalizace vzácných diagnóz, k-anonymita) — pak vystupuje z režimu dokumentace i GDPR; nebo přizná, že jde o osobní údaje, a opře zpracování o zákonný titul pro výzkum (čl. 9 odst. 2 písm. j) GDPR, § 24 zák. č. 110/2019 Sb.) se zárukami. Riziko při nesprávném posouzení: neoprávněné zpracování zvláštní kategorie údajů, sankce ÚOOÚ.
+
+**6. Varianty.** (a) Kdyby tým provedl řádnou agregaci a odstranění kvazi-identifikátorů, šlo by o anonymní data mimo režim § 53–69 i GDPR, bez souhlasu. (b) Kdyby výzkum vyžadoval follow-up a propojení s dalšími registry (nutná identifikovatelnost), anonymizace nepřipadá v úvahu a je nutný zvláštní zákonný titul a záruky.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „odstranění přímých identifikátorů stačí":* běžná chyba. Neutralizace: recitál 26 GDPR vyžaduje test všech rozumně dostupných prostředků, včetně nepřímých identifikátorů a propojení datasetů.
+- *Protiargument „výzkumné výjimky":* výzkum sám o sobě nelegitimizuje zpracování bez titulu; § 55b je o anonymizaci, nikoli o výzkumné výjimce z GDPR. Slabé místo: hranice anonymity je skutkově náročná a posuzuje se k okamžiku i do budoucna (riziko re-identifikace novými prostředky).
+- Riziko: pseudonymizovaná data omylem považovaná za anonymní = systémové porušení GDPR.
+
+#### H. Praktický závěr
+
+Anonymizace dle § 55b vyžaduje, aby osobu nešlo identifikovat žádnými rozumně dostupnými prostředky — nejen odstranění jména a rodného čísla. Pseudonymizace anonymizací není a údaje zůstávají osobní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byly odstraněny i nepřímé identifikátory (datum narození, geolokace, vzácné kombinace)?
+- [ ] Proveden test re-identifikace dle recitálu 26 GDPR?
+- [ ] Pokud jde jen o pseudonymizaci → identifikovat zákonný titul (čl. 9 odst. 2 GDPR, § 24 zák. 110/2019 Sb.) a záruky.
+- [ ] Vyžaduje výzkum identifikovatelnost (pak anonymizace vyloučena)?
+
+**Typicky rozhodné důkazy / podklady:** metodika de-identifikace, popis datové sady a kvazi-identifikátorů, posouzení rizika re-identifikace, DPIA, evidence držitelů dodatečných klíčů.
+
 ---
 
 ### § 55c — Výstupní datový formát
@@ -238,6 +418,42 @@ Klíčové pravidlo **nepřepisovatelnosti záznamů**: opravy a doplnění **ne
 - **Propojení s NZIS a Národním kontaktním místem** (předávání pacientského souhrnu a částí dokumentace v jednotném formátu).
 
 Standardy elektronického zdravotnictví vydává ministerstvo podle § 5 zákona č. 325/2021 Sb. o elektronizaci zdravotnictví (typicky vychází z mezinárodních standardů HL7 FHIR a CDA). Tento požadavek brání vendor lock-in — poskytovatel nemůže být závislý na konkrétním dodavateli systému, jenž by exportem dokumentace mohl podmiňovat (a tak fakticky držet pacientská data v zajetí).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient mění praktického lékaře a žádá o převedení své kompletní elektronické dokumentace k novému poskytovateli. Dosavadní poskytovatel používá uzavřený proprietární systém dodavatele, který „export do standardního formátu neumí" a nabízí pouze tisk PDF s rozsypanými údaji nebo zaslání kompletní databáze za příplatek. Nový poskytovatel data nedokáže strojově načíst. K obstarání: technická specifikace systému, doklad o (ne)existenci exportní funkce do výstupního datového formátu, smlouva s dodavatelem.
+
+**2. Právní otázka.** Splňuje informační systém poskytovatele požadavek § 55c, jestliže neumožňuje převedení dokumentace do výstupního datového formátu stanoveného standardem elektronického zdravotnictví?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55c — povinnost systému umožnit export do výstupního datového formátu dle standardu.
+- *Související ustanovení téhož zákona:* § 55 odst. 1 (elektronická/hybridní forma), § 57–63 (předávání při změně poskytovatele), § 56a–56b (NKM), § 117 (delikt).
+- *Související předpisy:* zákon č. 325/2021 Sb. o elektronizaci zdravotnictví, § 5 (standardy elektronického zdravotnictví); standardy HL7 FHIR/CDA; GDPR čl. 20 (přenositelnost údajů).
+- *Judikatura:* k zákazu vendor lock-in v oblasti veřejnoprávně regulovaných systémů — výklad, že povinnost interoperability je povinností poskytovatele bez ohledu na vztah k dodavateli.
+
+**4. Subsumpce.** Systém, který neumožňuje převedení do stanoveného výstupního datového formátu, nesplňuje § 55c. Skutečnost, že nedostatek pramení z volby dodavatele, nezbavuje poskytovatele odpovědnosti — adresátem povinnosti je poskytovatel, nikoli dodavatel. Tisk PDF bez strojové čitelnosti standardní formát nenahrazuje.
+
+**5. Řešení.** Poskytovatel porušuje § 55c; musí zajistit nápravu (upgrade systému, exportní modul, případně migraci). Vůči pacientovi a novému poskytovateli musí umožnit přenos dokumentace v použitelné podobě (§ 57–63, čl. 20 GDPR). Krok: uplatnit nárok vůči dodavateli ze smlouvy, neboť dodavatel nesmí být překážkou zákonné povinnosti; hrozí sankce dle § 117. Riziko: trvalé „zajetí" dat u dodavatele a znemožnění návaznosti péče.
+
+**6. Varianty.** (a) Kdyby systém standardní export uměl, převod by proběhl bez problémů a povinnost by byla splněna. (b) Kdyby šlo o čistě listinnou dokumentaci, § 55c by se neuplatnil (týká se elektronické podoby), ale předání by probíhalo dle § 57–63 v listinné formě.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „závislosti na dodavateli":* poskytovatel může tvrdit, že za schopnosti systému neodpovídá. Neutralizace: § 55c ukládá povinnost poskytovateli; volba nevyhovujícího systému je jeho rizikem, řešitelným smluvně vůči dodavateli.
+- *Protiargument „dostatečnosti PDF":* PDF bez strukturovaných dat neumožňuje strojové zpracování ani interoperabilitu; nesplňuje výstupní datový formát dle standardu.
+- Slabé místo: účinnost standardů elektronického zdravotnictví a jejich technická podoba se vyvíjejí; v přechodném období může být sporné, jaký konkrétní formát je „stanovený".
+
+#### H. Praktický závěr
+
+Systém pro vedení elektronické dokumentace musí umět export do stanoveného výstupního datového formátu. Povinnost nese poskytovatel; neschopnost dodavatele jej nezbavuje odpovědnosti a brání vendor lock-in.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Umožňuje systém export do výstupního datového formátu dle standardu elektronického zdravotnictví?
+- [ ] Je zajištěna přenositelnost dokumentace pro § 57–63 a čl. 20 GDPR?
+- [ ] Jsou smluvně ošetřeny exportní povinnosti dodavatele?
+- [ ] Nenahrazuje se standardní export pouhým nestrukturovaným PDF?
+
+**Typicky rozhodné důkazy / podklady:** technická dokumentace systému, doklad o exportní funkci, smlouva s dodavatelem IS, žádost pacienta/nového poskytovatele o převod.
 
 ---
 
@@ -265,6 +481,42 @@ Standardy elektronického zdravotnictví vydává ministerstvo podle § 5 zákon
 
 > **Vztah k DPIA:** zpracování zdravotnické dokumentace zpravidla vyžaduje **posouzení vlivu na ochranu osobních údajů (DPIA)** podle čl. 35 GDPR (rozsáhlé zpracování zvláštních kategorií osobních údajů). DPIA může být součástí písemných pravidel dle § 55d, ale jde o samostatnou povinnost dle GDPR; § 55d ji nenahrazuje.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Menší ambulantní poskytovatel utrpí kybernetický incident (ransomware), při němž dojde k úniku části zdravotnické dokumentace. Při kontrole ÚOOÚ poskytovatel není schopen předložit žádná písemná pravidla pro zpracování dokumentace, nemá zdokumentovaná přístupová oprávnění ani postup pro řešení incidentů; oznámení porušení dle čl. 33 GDPR podal opožděně. K obstarání: písemná pravidla (pokud existují), evidence přístupových oprávnění, log incidentu, doklad o školení personálu, DPIA.
+
+**2. Právní otázka.** Splnil poskytovatel povinnost dle § 55d zpracovat písemná pravidla a zavést technická a organizační opatření a být schopen doložit soulad zpracování dokumentace se zákonem a s ochranou osobních údajů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55d — písemná pravidla, vhodná TOM, schopnost doložit soulad (accountability).
+- *Související ustanovení téhož zákona:* § 53–55c (forma, autorizace, export), § 65–66 (přístup), § 57–63 (předávání), § 117 (delikt).
+- *Související předpisy:* GDPR čl. 5 odst. 2 (accountability), čl. 32 (bezpečnost zpracování), čl. 33–34 (oznamování porušení), čl. 35 (DPIA); zákon č. 110/2019 Sb.; zákon o kybernetické bezpečnosti č. 181/2014 Sb. (u dotčených subjektů).
+- *Judikatura/praxe:* rozhodovací praxe ÚOOÚ — absence prokazatelných pravidel a TOM je samostatným porušením bez ohledu na to, zda došlo k újmě.
+
+**4. Subsumpce.** Chybí písemná pravidla → porušení první složky § 55d. Chybí evidence oprávnění a postup incident response → nedostatek vhodných TOM (čl. 32 GDPR) a neschopnost doložit soulad (čl. 5 odst. 2). Opožděné oznámení porušení → samostatné porušení čl. 33 GDPR. Naplněna jsou tedy jak porušení § 55d, tak souběžně GDPR.
+
+**5. Řešení.** Poskytovatel odpovídá za porušení § 55d i GDPR. Důkazní břemeno souladu nese on; absence dokumentace souladu jde k jeho tíži. Nápravná opatření: neprodleně zpracovat písemná pravidla (role, oprávnění, archivace/skartace dle vyhl. č. 98/2012 Sb., postup u žádostí dle § 65–66, incident response), zavést TOM, doplnit DPIA. Riziko: sankce dle § 117 ZZS i správní pokuty dle GDPR; reputační a civilní následky úniku.
+
+**6. Varianty.** (a) Kdyby poskytovatel měl funkční písemná pravidla, evidenci oprávnění a včas oznámil incident, prokázal by accountability a sankce by se podstatně mírnila. (b) Kdyby šlo o rozsáhlé zpracování bez provedené DPIA, přidalo by se samostatné porušení čl. 35 GDPR — § 55d ji nenahrazuje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „malého poskytovatele":* malá ordinace může tvrdit nepřiměřenost požadavků. Neutralizace: § 55d i čl. 32 GDPR jsou založeny na přiměřenosti (vhodná opatření), ale minimální písemná pravidla a evidence oprávnění jsou vyžadovány vždy.
+- *Protiargument „incident jako vyšší moc":* externí útok nezbavuje povinnosti mít předem TOM a postup; absence přípravy je vlastním pochybením.
+- Slabé místo: § 55d nestanoví konkrétní obsah pravidel — rozsah TOM je posuzován ad hoc dle rizika, což vytváří nejistotu při kontrole.
+
+#### H. Praktický závěr
+
+§ 55d je provedením zásady accountability: poskytovatel musí mít písemná pravidla a vhodná technicko-organizační opatření a být schopen doložit soulad. Důkazní břemeno nese poskytovatel. DPIA je samostatnou povinností nad rámec § 55d.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existují písemná pravidla pro zpracování dokumentace?
+- [ ] Jsou zavedena a doložitelná vhodná TOM (oprávnění, bezpečnost, incident response)?
+- [ ] Je zpracována DPIA u rozsáhlého zpracování zvláštních kategorií?
+- [ ] Lze prokázat soulad při kontrole (accountability)?
+
+**Typicky rozhodné důkazy / podklady:** písemná pravidla dle § 55d, evidence přístupových oprávnění, DPIA, záznamy o školení, logy incidentů a oznámení dle čl. 33–34 GDPR.
+
 ---
 
 ### § 56 — Vedení dokumentace v případě utajeného porodu
@@ -289,6 +541,42 @@ Standardy elektronického zdravotnictví vydává ministerstvo podle § 5 zákon
 5. **Pravidlo o elektronické formě (odst. 3)** — elektronickou dokumentaci je třeba převést do listinné a původní elektronickou odstranit. Tím je vyloučena replikace dat v elektronických systémech (zálohy, audit logy), které by mohly vést k odhalení matky i přes formální „zapečetění".
 
 > **Praktický důsledek odst. 3:** plné odstranění elektronické verze je v praxi sporné kvůli **technickým omezením informačních systémů** (záložní kopie, replikace, audit logy, archivační kopie pro účely BCP/DR). Poskytovatel musí zajistit, že odstranění je **úplné a nezvratné** ve smyslu zákona — tj. že údaje, jež zůstanou v technických zálohách, nelze rozumně získat bez mimořádného úsilí, jež by samo o sobě bylo neoprávněným zpracováním. V praxi to znamená nutnost zvláštních procedur pro utajené porody v IT politice poskytovatele (např. označení datové sady k urychlené skartaci ze záloh).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Žena porodí v nemocnici v režimu utajeného porodu dle § 37. Po její hospitalizaci personál vede identifikační údaje odděleně, dokumentaci po propuštění vloží do obalu, zapečetí a označí bezpečnostním kódem, jehož kopii předá ženě. O několik let později dítě v dospělosti podá k soudu návrh, aby mu byla zpřístupněna dokumentace za účelem zjištění biologické matky. Nemocnice současně zjistí, že elektronická verze dokumentace zůstala v záložních kopiích systému. K obstarání: zapečetěný obal, evidence bezpečnostního kódu, IT záznamy o odstranění elektronické verze a o zálohách.
+
+**2. Právní otázka.** Za jakých podmínek lze otevřít zapečetěnou dokumentaci o utajeném porodu a jaké povinnosti má poskytovatel ohledně odstranění elektronické podoby dle § 56 odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56 — oddělené vedení identifikačních údajů (odst. 1), zapečetění a bezpečnostní kód, otevření jen soudem nebo na žádost matky (odst. 2), převedení do listinné podoby a odstranění elektronické (odst. 3).
+- *Související ustanovení téhož zákona:* § 37 (utajený porod), § 55 (forma), § 55d (TOM), § 65 (nahlížení).
+- *Související předpisy:* § 775 občanského zákoníku (mateřství vzniká porodem); GDPR čl. 32 (bezpečnost); předpisy o ochraně osobních údajů.
+- *Judikatura:* napětí mezi právem dítěte znát svůj původ (judikatura ESLP k čl. 8 EÚLP) a ochranou anonymity matky — řešeno individuálním soudním rozhodnutím.
+
+**4. Subsumpce.** Otevření dokumentace: dítě není osobou oprávněnou otevřít obal mimo soud; jeho návrh směřuje správně k soudu (odst. 2 — otevření jen rozhodnutím soudu, nepožádá-li sama matka). Odstranění elektronické verze: ponechání záloh v systému je porušením odst. 3, který vyžaduje odstranění elektronické podoby z informačního systému; „zapečetění" listinné verze je nedostatečné, zůstává-li elektronická replika dohledatelná.
+
+**5. Řešení.** Zpřístupnění dítěti je možné jen soudním rozhodnutím po vážení kolidujících zájmů; poskytovatel sám obal otevřít nesmí. Ohledně odst. 3 musí poskytovatel zajistit úplné a nezvratné odstranění elektronické podoby včetně rozumně dosažitelných záloh; přetrvávání replik je vadou, kterou je třeba napravit zvláštní procedurou skartace utajených dat. Riziko: prozrazení identity matky z technických záloh = závažné porušení a možná odpovědnost za újmu.
+
+**6. Varianty.** (a) Kdyby o otevření požádala sama matka, postačí to bez soudu (odst. 2 in fine). (b) Kdyby dokumentace byla vedena pouze listinně, odpadá problém odst. 3 s elektronickými zálohami a režim se zjednoduší na zapečetění a úschovu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „práva dítěte na původ":* dítě může argumentovat čl. 8 EÚLP. Neutralizace: zákon nevylučuje přístup absolutně, ale podmiňuje jej soudním rozhodnutím, jež zájmy vyváží — to je v souladu s judikaturou ESLP.
+- *Protiargument „technické nemožnosti úplného výmazu":* poskytovatel může tvrdit, že zálohy nelze selektivně mazat. Neutralizace: odst. 3 vyžaduje, aby data nebyla rozumně získatelná; nutné jsou předem nastavené procedury pro utajené porody.
+- Slabé místo: kolize odst. 3 s povinností uchovávat dokumentaci a s reálnými možnostmi IT systémů; hranice „úplného odstranění" je v praxi sporná.
+
+#### H. Praktický závěr
+
+Dokumentace o utajeném porodu je procesně izolována: identifikační údaje odděleně, obal zapečetěn s bezpečnostním kódem, otevření jen soudem nebo na žádost matky. Elektronickou podobu nutno převést do listinné a odstranit ze systému včetně rozumně dosažitelných záloh.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou identifikační údaje matky vedeny odděleně (odst. 1)?
+- [ ] Je dokumentace zapečetěna a bezpečnostní kód předán matce (odst. 2)?
+- [ ] Otevírá se obal jen na žádost matky nebo rozhodnutím soudu?
+- [ ] Byla elektronická podoba převedena do listinné a odstraněna včetně záloh (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** zapečetěný obal a evidence bezpečnostního kódu, písemná žádost o utajení, IT doklady o odstranění elektronické verze a o zálohách, soudní rozhodnutí o otevření.
 
 ---
 
@@ -351,6 +639,42 @@ PS lze předat dvěma okruhům příjemců:
 
 > **Vazba na nesouhlas pacienta:** § 56c odst. 2 dovoluje pacientovi nebo jiné oprávněné osobě **vyslovit nesouhlas** s předáváním PS poskytovateli z jiného státu EU (písm. b). Vnitrostátní výměna (písm. a) takovému nesouhlasu nepodléhá — předpokládá se, že v rámci ČR pacient zachovává návaznost péče. Přeshraniční sdílení je z hlediska ochrany soukromí citlivější (rozdílné právní úpravy ochrany dat, jazyková bariéra, riziko ztráty kontroly nad údaji), proto je opt-out přiznáván jen pro přeshraniční směr.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Český pacient s mnohočetnými alergiemi a kardiostimulátorem onemocní na dovolené v jiném členském státě EU a je přijat do tamní nemocnice. Zahraniční poskytovatel prostřednictvím svého národního kontaktního místa požádá české Národní kontaktní místo o pacientský souhrn. Český poskytovatel, který souhrn vede, jej má aktualizovaný z poslední hospitalizace. Pacient při minulém přijetí nevyslovil nesouhlas s přeshraničním předáním. K obstarání: pacientský souhrn, doklad o jeho ohlášení v NKM (§ 69c), záznam o (ne)vyslovení nesouhlasu, identifikace žádajícího poskytovatele a pacienta.
+
+**2. Právní otázka.** Za jakých podmínek a komu lze předat pacientský souhrn dle § 56a a jaké povinnosti vznikají poskytovateli, který se rozhodl pacientský souhrn vést?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56a — pacientský souhrn jako samostatná část dokumentace, dobrovolnost vedení s navazujícími povinnostmi (odst. 2), okruh příjemců vnitrostátní i přeshraniční (odst. 3).
+- *Související ustanovení téhož zákona:* § 56b (předávání další dokumentace), § 56c (nesouhlas), § 56d (náležitosti požadavku), § 69 (vyhláška k rozsahu), § 69c (ohlášení NKM), § 65 odst. 2 písm. p) (přístup zahraničního poskytovatele).
+- *Související předpisy:* směrnice 2011/24/EU o přeshraniční péči; GDPR čl. 6 a 9 (zákonný titul); vyhláška č. 98/2012 Sb.
+- *Judikatura:* implementační rámec eHealth NCP; výklad opt-out modelu (sdílení na základě zákonného titulu, nikoli souhlasu).
+
+**4. Subsumpce.** Poskytovatel se dobrovolně rozhodl PS vést → vznikly mu povinnosti odst. 2 (aktualizace, ohlášení do NKM, předávání na požadavek). Žádost přichází od poskytovatele jiného státu EU přes národní kontaktní místo (odst. 3 písm. b) → přípustný okruh příjemců. Pacient nevyslovil nesouhlas dle § 56c → překážka předání není dána. Komunikace probíhá přes NKM, nikoli přímo.
+
+**5. Řešení.** Český poskytovatel předá pacientský souhrn prostřednictvím NKM zahraničnímu poskytovateli. Předání je v souladu se zákonem (zákonný titul dle směrnice a GDPR, absence nesouhlasu). Praktický krok: ověřit ohlášení PS v NKM a identifikaci žadatele dle § 56d; předáním PS není splněna informační povinnost vůči pacientovi (vazba na § 56c odst. 1, § 45). Riziko: předání bez ověření identifikace žadatele nebo přes nesouhlas pacienta.
+
+**6. Varianty.** (a) Kdyby pacient dříve vyslovil nesouhlas dle § 56c odst. 2 nebo 3 (Registr oprávnění), přeshraniční předání by bylo nepřípustné. (b) Kdyby žadatelem byl jiný český poskytovatel (odst. 3 písm. a), předání by proběhlo rovněž přes NKM, ale opt-out dle § 56c by se neuplatnil.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nutnosti souhlasu pacienta":* lze namítat, že chybí výslovný souhlas. Neutralizace: model směrnice 2011/24/EU je opt-out — sdílení stojí na zákonném titulu, pacient jej může jen odmítnout (§ 56c).
+- *Protiargument „dobrovolnosti vedení PS":* poskytovatel může tvrdit, že PS vést nemusí. Správně — vedení je volbou; jakmile jej však vede, povinnosti odst. 2 jsou závazné.
+- Slabé místo: rozsah PS je vázán na prováděcí předpis (§ 69); nejednotnost obsahu PS mezi státy může ohrozit využitelnost.
+
+#### H. Praktický závěr
+
+Vedení pacientského souhrnu je volbou poskytovatele; rozhodne-li se jej vést, musí jej aktualizovat, ohlásit v NKM a předávat na požadavek přes NKM. Přeshraniční předání stojí na zákonném titulu a je vyloučeno jen při nesouhlasu pacienta dle § 56c.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozhodl se poskytovatel PS vést → plní povinnosti odst. 2?
+- [ ] Je PS ohlášen Národnímu kontaktnímu místu (§ 69c)?
+- [ ] Patří žadatel do okruhu příjemců dle odst. 3 a probíhá komunikace přes NKM?
+- [ ] Nevyslovil pacient nesouhlas dle § 56c (u přeshraničního předání)?
+
+**Typicky rozhodné důkazy / podklady:** pacientský souhrn a jeho aktualizace, doklad o ohlášení v NKM, záznam o (ne)vyslovení nesouhlasu, identifikace žadatele a pacienta dle § 56d.
+
 ---
 
 ### § 56b — Komunikace prostřednictvím Národního kontaktního místa
@@ -379,6 +703,42 @@ Rozdíl proti § 56a je v iniciativě a obsahovém rozsahu:
 - § 56a — PS je standardizovaný, automaticky aktualizovaný, ohlášený v NKM; cílem je rychlá dostupnost základních informací;
 - § 56b — předávání plné dokumentace nebo jejich konkrétních částí; iniciativa je ad hoc, na základě konkrétního požadavku přijímajícího poskytovatele.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Český pacient je převzat do péče jiného českého poskytovatele (přeložen do specializovaného centra) a přijímající poskytovatel přes Národní kontaktní místo požádá nejen o pacientský souhrn, ale o úplnou elektronickou zdravotnickou dokumentaci, neboť potřebuje kompletní zobrazovací nálezy a operační protokoly. V jiné variantě obdobnou žádost (o část dokumentace jinou než PS) podává poskytovatel z jiného státu EU. K obstarání: žádost s identifikací žadatele, rozsah požadované dokumentace, prováděcí předpis dle § 69 vymezující přeshraničně předatelné části, záznam o nesouhlasu pacienta.
+
+**2. Právní otázka.** V jakém rozsahu lze přes Národní kontaktní místo předat zdravotnickou dokumentaci nad rámec pacientského souhrnu vnitrostátně a přeshraničně dle § 56b?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56b — předání celé dokumentace nebo její části jiné než PS vnitrostátně (odst. 1 písm. a), přeshraničně jen části jiné než PS dle prováděcího předpisu (písm. b); obdobné použití § 56a odst. 2 písm. b) a c).
+- *Související ustanovení téhož zákona:* § 56a (PS), § 56c (nesouhlas), § 56d (náležitosti požadavku), § 69 (prováděcí předpis).
+- *Související předpisy:* směrnice 2011/24/EU; GDPR čl. 6 a 9; vyhláška č. 98/2012 Sb.
+- *Judikatura:* implementační praxe NCPeH; zásada účelového omezení a minimalizace při sdílení.
+
+**4. Subsumpce.** Vnitrostátní žádost českého poskytovatele (písm. a) → lze předat celou dokumentaci (bod 1) i její vybrané části (bod 2). Přeshraniční žádost (písm. b) → lze předat jen části jiné než PS, a to pouze ty, jež stanoví prováděcí předpis dle § 69; úplnou dokumentaci přeshraničně předat nelze. V obou případech komunikace přes NKM, s identifikací žadatele dle § 56d.
+
+**5. Řešení.** Vnitrostátně přijímající centrum dostane celou dokumentaci včetně nálezů a protokolů. Přeshraničně lze poskytnout jen zákonem (prováděcím předpisem) vymezené části, nikoli vše. Krok: ověřit, zda požadovaná část přeshraničně spadá do § 69; respektovat případný nesouhlas pacienta (§ 56c) u přeshraničního směru. Riziko: přeshraniční předání nad rámec prováděcího předpisu = neoprávněné zpracování.
+
+**6. Varianty.** (a) Kdyby přeshraniční žadatel chtěl úplnou dokumentaci, nelze vyhovět — přeshraničně jen části dle § 69. (b) Kdyby pacient vyslovil nesouhlas dle § 56c odst. 2/3, přeshraniční předání části dle § 56b odst. 1 písm. b) je vyloučeno.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rovnosti vnitrostátního a přeshraničního režimu":* žadatel z EU může chtít stejný rozsah jako český poskytovatel. Neutralizace: zákon přeshraničně úmyslně omezuje rozsah na části dle prováděcího předpisu — nejde o diskriminaci, nýbrž o ochranu při odlišných úpravách.
+- *Protiargument „naléhavosti péče":* naléhavost neospravedlňuje překročení zákonného rozsahu; pro akutní potřebu slouží PS (§ 56a).
+- Slabé místo: závislost přeshraničního rozsahu na prováděcím předpisu dle § 69, který musí být dostatečně určitý.
+
+#### H. Praktický závěr
+
+§ 56b umožňuje předávat přes NKM i dokumentaci nad rámec PS: vnitrostátně celou nebo její části, přeshraničně jen části jiné než PS vymezené prováděcím předpisem. Vždy přes NKM, s identifikací žadatele a respektem k nesouhlasu pacienta u přeshraničního směru.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o vnitrostátní (písm. a) nebo přeshraniční (písm. b) žádost?
+- [ ] Přeshraničně: patří požadovaná část mezi části dle prováděcího předpisu (§ 69)?
+- [ ] Probíhá předání přes NKM s identifikací žadatele (§ 56d, § 56a odst. 2)?
+- [ ] Není dán nesouhlas pacienta dle § 56c (přeshraniční směr)?
+
+**Typicky rozhodné důkazy / podklady:** žádost s identifikací žadatele a rozsahem, prováděcí předpis dle § 69, záznam o nesouhlasu pacienta, audit komunikace přes NKM.
+
 ---
 
 ### § 56c — Nesouhlas pacienta s předáváním
@@ -405,6 +765,42 @@ Nesouhlas je **odvolatelný** kdykoliv. Tato „opt-out" architektura je v soula
 
 Předávání PS a dokumentace **nevylučuje** povinnosti poskytovatele dle § 45 odst. 2 písm. f) a g) ZZS — povinnost informovat pacienta a zajistit, aby měl informace o své léčbě. Tj. předáváním PS poskytovatel **nesplnil** svou informační povinnost vůči pacientovi.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient si nepřeje, aby jeho zdravotní údaje byly sdíleny do zahraničí. Při přijetí do nemocnice ústně sdělí sestře nesouhlas s přeshraničním předáváním, ale do dokumentace se nic nezaznamená. Později během léčby pacient nesouhlas zaznamená navíc centrálně přes Registr oprávnění. Mezitím obdrží český poskytovatel přes NKM žádost zahraničního poskytovatele o pacientský souhrn. K obstarání: záznam o nesouhlasu v dokumentaci, výpis z Registru oprávnění, časová posloupnost žádosti a projevu nesouhlasu.
+
+**2. Právní otázka.** Jak je platně vyjádřen nesouhlas pacienta s přeshraničním předáváním a jaké jsou důsledky jeho nezaznamenání do dokumentace?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56c — opt-out u přeshraničního předání (odst. 2), možnost vyjádřit nesouhlas centrálně přes Registr oprávnění (odst. 3), nedotčenost informačních povinností dle § 45 (odst. 1); povinný záznam nesouhlasu/jeho odvolání do dokumentace.
+- *Související ustanovení téhož zákona:* § 56a odst. 3 písm. b), § 56b odst. 1 písm. b) (předmět nesouhlasu), § 45 odst. 2 písm. f), g) (informační povinnosti).
+- *Související předpisy:* zákon č. 325/2021 Sb. o elektronizaci zdravotnictví (Registr oprávnění); směrnice 2011/24/EU; GDPR.
+- *Judikatura:* výklad opt-out modelu — projev vůle musí být zachycen tak, aby byl při předávání respektovatelný.
+
+**4. Subsumpce.** Ústní nesouhlas, který se nezaznamená, neplní požadavek odst. 2 (záznam do dokumentace) a fakticky nemusí být při zpracování žádosti zohledněn. Centrální nesouhlas přes Registr oprávnění (odst. 3) je platnou a systémově dohledatelnou formou. Rozhodující je, zda v okamžiku vyřizování žádosti existuje účinný (zaznamenaný či registrovaný) projev nesouhlasu.
+
+**5. Řešení.** Poskytovatel musí ověřit nejen dokumentaci, ale i Registr oprávnění; je-li nesouhlas účinně vyjádřen kteroukoli cestou, přeshraniční předání PS je vyloučeno. Nezaznamenání ústního nesouhlasu je pochybením poskytovatele — projev pacienta měl být zapsán. Krok: zavést proces ověřování opt-out před každým přeshraničním předáním. Riziko: předání přes existující nesouhlas = neoprávněné zpracování a zásah do soukromí.
+
+**6. Varianty.** (a) Kdyby nesouhlas byl řádně zapsán do dokumentace nebo registrován před žádostí, předání by se nesmělo uskutečnit. (b) Kdyby pacient nesouhlas později odvolal (odst. 2 věta druhá), předání by se po zaznamenání odvolání stalo přípustným.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nezohlednění ústního projevu":* poskytovatel může tvrdit, že nezaznamenaný ústní nesouhlas nemusel znát. Neutralizace: povinnost zaznamenat projev pacienta je na poskytovateli; jeho selhání nelze klást k tíži pacienta.
+- *Protiargument „opt-out se týká jen přeshraničního směru":* správně — vnitrostátní výměna (§ 56a odst. 3 písm. a) opt-out nepodléhá; nesouhlas tedy nebrání vnitrostátnímu předání.
+- Slabé místo: souběh dvou kanálů (dokumentace × Registr oprávnění) vyžaduje, aby poskytovatel ověřoval oba; jinak hrozí přehlédnutí účinného nesouhlasu.
+
+#### H. Praktický závěr
+
+Nesouhlas s přeshraničním předáváním lze vyjádřit u poskytovatele (se záznamem do dokumentace) i centrálně přes Registr oprávnění; je kdykoli odvolatelný. Předáním PS není splněna informační povinnost vůči pacientovi (§ 45). Poskytovatel musí před přeshraničním předáním ověřit oba kanály.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Týká se věc přeshraničního předání (jen tam opt-out platí)?
+- [ ] Byl nesouhlas/jeho odvolání zaznamenán do dokumentace (odst. 2)?
+- [ ] Byl ověřen Registr oprávnění (odst. 3)?
+- [ ] Je zřejmé, že předáním PS nezanikla informační povinnost dle § 45 (odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** záznam o nesouhlasu/odvolání v dokumentaci, výpis z Registru oprávnění, časová posloupnost žádosti a projevu vůle, audit předání přes NKM.
+
 ---
 
 ### § 56d — Náležitosti požadavku přes NKM
@@ -422,6 +818,42 @@ Předávání PS a dokumentace **nevylučuje** povinnosti poskytovatele dle § 4
 - identifikace **pacienta** jednoznačným způsobem.
 
 NKM je oprávněno (a povinno) požadavek nepřijmout, pokud chybí kterákoli z těchto identifikací. To zabraňuje anonymním nebo neidentifikovatelným dotazům a chrání pacienta před nelegitimními pokusy o získání jeho údajů (např. zájem o dokumentaci u známé osoby ze strany nezúčastněného zdravotníka).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Přes Národní kontaktní místo dorazí požadavek o pacientský souhrn, v němž je sice uveden žádající poskytovatel, ale chybí identifikace konkrétního zdravotnického pracovníka, a údaje o pacientovi jsou neúplné (jen jméno a přibližný rok narození), takže pod ně lze podřadit více osob. V jiné variantě se zjistí, že o dokumentaci se pokouší zdravotník, který nemá pacienta v péči, ze zájmu o známou osobu. K obstarání: text požadavku, identifikační údaje žadatele a pacienta, doklad o vztahu žadatele k pacientovi (péče).
+
+**2. Právní otázka.** Jaké náležitosti musí požadavek přes NKM splňovat a jak má NKM postupovat, nejsou-li splněny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56d — nutnost identifikace žádajícího poskytovatele a konkrétního zdravotnického pracovníka (odst. 1) a jednoznačné identifikace pacienta; povinnost NKM požadavek nepřijmout při nesplnění (odst. 2).
+- *Související ustanovení téhož zákona:* § 56a–56b (předmět předání), § 56c (nesouhlas), § 65 odst. 2 písm. p) (přístup zahraničního poskytovatele).
+- *Související předpisy:* směrnice 2011/24/EU; GDPR (zásada integrity, minimalizace, zabezpečení); zákon č. 325/2021 Sb.
+- *Judikatura:* zásada, že přístup k údajům musí být vázán na legitimní účel a identifikovatelného žadatele; ochrana před zneužitím přístupových kanálů.
+
+**4. Subsumpce.** Chybí identifikace konkrétního zdravotnického pracovníka → nesplněna náležitost odst. 1. Pacient není jednoznačně identifikovatelný → druhá vada odst. 1. Naplněn je předpoklad odst. 2: NKM požadavek nepřijme. Ve druhé variantě absence vztahu péče k pacientovi vylučuje legitimitu požadavku.
+
+**5. Řešení.** NKM oba požadavky nepřijme; nedostatky musí žadatel odstranit (doplnit pracovníka, jednoznačné identifikátory pacienta). Tím se brání anonymním a neidentifikovatelným dotazům a zneužití (zájem o údaje známé osoby). Krok: vrátit požadavek s uvedením chybějících náležitostí; vést audit odmítnutých požadavků. Riziko: vyhovění vadnému požadavku = neoprávněné poskytnutí citlivých údajů.
+
+**6. Varianty.** (a) Kdyby požadavek obsahoval identifikaci žadatele, konkrétního pracovníka i jednoznačné identifikátory pacienta v péči, NKM by jej přijal a vyřídil. (b) Kdyby identifikace byla úplná, ale pacient vyjádřil nesouhlas (§ 56c), NKM by sice mohl požadavek přijmout, ale předání by bylo vyloučeno z důvodu opt-out.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „naléhavosti a formalismu":* žadatel může namítat, že odmítnutí pro chybějící identifikaci pracovníka je formalistické. Neutralizace: identifikace pracovníka a pacienta je zárukou proti zneužití a podmínkou dohledatelnosti přístupu; nejde o samoúčelný formalismus.
+- *Protiargument „dostatečnosti jména pacienta":* jméno bez dalších identifikátorů nevylučuje záměnu osob; odst. 1 žádá jednoznačnou identifikaci.
+- Slabé místo: NKM posuzuje jen formální náležitosti, nikoli věcnou oprávněnost žadatele — věcné posouzení (vztah péče) zůstává na předávajícím poskytovateli.
+
+#### H. Praktický závěr
+
+Požadavek přes NKM musí jednoznačně identifikovat žádajícího poskytovatele, konkrétního zdravotnického pracovníka a pacienta. Při nesplnění NKM požadavek nepřijme. Tím se chrání pacient před neidentifikovatelnými a zneužívajícími dotazy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je v požadavku identifikován žádající poskytovatel i konkrétní zdravotnický pracovník?
+- [ ] Lze pacienta jednoznačně identifikovat?
+- [ ] Při nesplnění — byl požadavek NKM nepřijat (odst. 2)?
+- [ ] Má žadatel pacienta v péči (legitimita účelu)?
+
+**Typicky rozhodné důkazy / podklady:** text požadavku a jeho identifikační údaje, doklad o vztahu péče k pacientovi, audit přijatých/odmítnutých požadavků v NKM.
 
 ---
 
@@ -487,6 +919,42 @@ Příslušný správní orgán:
 
 > **Praktický význam:** úmrtí soukromého lékaře (například praktického) je v praxi nejčastější situací použití § 57. Krajský úřad přebírá fyzickou kontrolu nad dokumentací a postupně ji „rozpouští" na nově zvolené poskytovatele jednotlivých pacientů. Pro elektronickou dokumentaci platí podle odst. 5 zvláštní pravidlo: rodinní příslušníci jsou povinni umožnit správnímu orgánu **přístup k informačnímu systému**, kde je dokumentace vedena.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Praktický lékař provozující soukromou ordinaci náhle zemře. Ordinaci po něm objeví manželka, která s ním sdílela domácnost; v kartotéce jsou papírové i elektronické dokumentace stovek pacientů. Manželka chce zjistit, kteří pacienti byli „problémoví", a nahlíží do karet; současně neví, koho informovat. Jeden z pacientů potřebuje akutně výpis pro nového lékaře. K obstarání: oznámení úmrtí krajskému úřadu, soupis dokumentace, přístup k informačnímu systému, žádosti pacientů o předání.
+
+**2. Právní otázka.** Jaké povinnosti a zákazy má osoba, která po úmrtí poskytovatele přišla do styku s dokumentací, a jak je zajištěna kontinuita přístupu pacientů k dokumentaci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 57 — oznamovací a zajišťovací povinnost (odst. 1), zákaz nahlížení a mlčenlivost (odst. 2), převzetí a zajištění správním orgánem, výpisy/kopie, předání zvolenému poskytovateli (odst. 3), pracovnělékařské služby (odst. 4), přístup k IS u elektronické dokumentace (odst. 5).
+- *Související ustanovení téhož zákona:* § 27 (pokračování), § 58 (pokračování po úmrtí), § 63 (procesní pravidla), § 65 (nahlížení), § 66 (výpisy/kopie).
+- *Související předpisy:* § 22 občanského zákoníku (osoba blízká); vyhláška č. 98/2012 Sb.; GDPR (mlčenlivost, zabezpečení).
+- *Judikatura:* zásada, že dokumentace nesmí zůstat bez gestora a soukromé osoby jsou jen „strážci" bez práva nahlížet.
+
+**4. Subsumpce.** Manželka je osobou žijící ve společné domácnosti (odst. 1) → vznikla jí povinnost oznámit úmrtí krajskému úřadu a zajistit dokumentaci před neoprávněným přístupem. Její nahlížení do karet je porušením výslovného zákazu odst. 2 písm. a) a povinnosti mlčenlivosti. Akutní potřeba pacienta se řeší přes správní orgán, který zajišťuje výpisy/kopie (odst. 3 písm. c) a předání zvolenému poskytovateli (písm. d). U elektronické dokumentace je manželka povinna umožnit úřadu přístup k IS (odst. 5).
+
+**5. Řešení.** Manželka musí neprodleně oznámit úmrtí, dokumentaci zabezpečit a do ní nenahlížet; nahlížením porušila zákon. Kontinuitu zajistí krajský úřad: převezme dokumentaci, zveřejní informaci, vydává výpisy a předává dokumentaci nově zvoleným poskytovatelům na žádost. Akutní pacient podá žádost (s identifikačními údaji dle odst. 3 písm. d) přímo nebo přes zvoleného lékaře. Riziko: neoprávněné nahlížení a prozrazení údajů zakládá odpovědnost manželky.
+
+**6. Varianty.** (a) Kdyby po lékaři chtěla pokračovat jiná osoba dle § 27/§ 58, převzala by funkci úschovce a režim by se řídil § 58. (b) Kdyby zemřelý zajišťoval pracovnělékařské služby, úřad by informoval zaměstnavatele a dokumentaci zaměstnanců předal poskytovateli určenému zaměstnavatelem (odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „práva pozůstalého nakládat s pozůstalostí":* manželka může mít za to, že jako dědička má k dokumentaci přístup. Neutralizace: dokumentace není běžnou součástí pozůstalosti k volnému nakládání; odst. 2 výslovně zakazuje nahlížení, gestorem se stává správní orgán.
+- *Protiargument „technické nedostupnosti elektronické dokumentace":* odst. 5 ukládá umožnit úřadu přístup k IS; pozůstalí musí součinnost poskytnout.
+- Slabé místo: praktická časová prodleva mezi úmrtím a převzetím úřadem, během níž je dokumentace zranitelná; nutná rychlá oznamovací reakce.
+
+#### H. Praktický závěr
+
+Po úmrtí poskytovatele jsou soukromé osoby povinny úmrtí oznámit a dokumentaci zajistit, ale nesmí do ní nahlížet (mlčenlivost). Kontinuitu přebírá příslušný správní orgán, který vydává výpisy a předává dokumentaci zvoleným poskytovatelům. U elektronické dokumentace nutno umožnit úřadu přístup k systému.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo úmrtí oznámeno příslušnému správnímu orgánu (odst. 1)?
+- [ ] Je dokumentace zajištěna a nikdo do ní nenahlíží (odst. 2)?
+- [ ] Zajišťuje úřad výpisy/kopie a předání zvolenému poskytovateli (odst. 3)?
+- [ ] U elektronické dokumentace umožněn přístup úřadu k IS (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** oznámení úmrtí úřadu, soupis dokumentace, žádosti pacientů o předání s identifikačními údaji, doklad o přístupu k informačnímu systému.
+
 ---
 
 ### § 57a — Přerušení poskytování služeb
@@ -499,6 +967,42 @@ Příslušný správní orgán:
 
 § 57a rozšiřuje mechanismus § 57 i na situace, kdy poskytovatel **nezanikl, ale přerušil činnost** (typicky dlouhodobá nemoc, dovolená delší než 30 dnů — § 26 odst. 2) a není schopen splnit povinnost dle § 26 odst. 3 (zajistit dostupnost zdravotnické péče po dobu přerušení). Po obnovení činnosti poskytovatel získá dokumentaci zpět (v rozsahu, v jakém už nebyla předána jiným poskytovatelům).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soukromá lékařka náhle dlouhodobě onemocní (hospitalizace, rekonvalescence několik měsíců). Přerušila poskytování služeb, ale nezajistila zastupitelnost a dostupnost péče dle § 26 odst. 3. Pacienti se nedostanou ke své dokumentaci, někteří potřebují výpisy pro jiné lékaře. Krajský úřad zvažuje postup. Po čtyřech měsících se lékařka uzdraví a hodlá pokračovat. K obstarání: oznámení o přerušení, doklad o (ne)zajištění zastupitelnosti dle § 26 odst. 3, oznámení o pokračování dle § 26 odst. 4, soupis dokumentace předané jiným poskytovatelům.
+
+**2. Právní otázka.** Může správní orgán postupovat obdobně podle § 57 i při pouhém přerušení činnosti poskytovatele a jak se vrací dokumentace po obnovení činnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 57a — obdobné použití § 57 při přerušení, není-li splněna povinnost dle § 26 odst. 3; vydání dokumentace zpět po oznámení pokračování dle § 26 odst. 4 v rozsahu, v jakém nedošlo k jejímu předání dle § 57 odst. 3 písm. d).
+- *Související ustanovení téhož zákona:* § 26 (přerušení a jeho podmínky), § 57 (zánik úmrtím), § 66 (výpisy/kopie).
+- *Související předpisy:* vyhláška č. 98/2012 Sb.; GDPR (zabezpečení).
+- *Judikatura:* zásada kontinuity gestora dokumentace i v dočasných situacích diskontinuity péče.
+
+**4. Subsumpce.** Lékařka přerušila činnost a nesplnila § 26 odst. 3 (nezajistila dostupnost) → naplněna hypotéza § 57a, správní orgán může postupovat obdobně podle § 57 (zabezpečit dokumentaci, vydávat výpisy). Po oznámení pokračování dle § 26 odst. 4 jí úřad vydá dokumentaci zpět, avšak jen v rozsahu, v jakém nebyla mezitím předána pacienty zvoleným poskytovatelům.
+
+**5. Řešení.** Úřad dočasně převezme gesci nad dokumentací a zajistí pacientům výpisy/kopie pro návaznost péče. Po uzdravení a oznámení pokračování lékařka získá dokumentaci zpět, kromě té, která už byla předána jiným poskytovatelům (ta zůstává u nich). Krok: lékařka oznámí pokračování, úřad provede zpětné vydání a soupis. Riziko: pokud nezajistí § 26 odst. 3, ztrácí dočasně kontrolu nad dokumentací a část pacientů přejde k jiným lékařům.
+
+**6. Varianty.** (a) Kdyby lékařka řádně zajistila zastupitelnost dle § 26 odst. 3, úřad by podle § 57a postupovat nemusel a dokumentace by zůstala u zástupce. (b) Kdyby přerušení přešlo v ukončení činnosti, aplikoval by se § 59, nikoli § 57a.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „dočasnosti přerušení":* lékařka může namítat, že jde jen o dočasný stav a zásah úřadu je nepřiměřený. Neutralizace: § 57a se aktivuje právě nesplněním § 26 odst. 3; zásah chrání pacienty, jimž by jinak chyběl přístup k péči a dokumentaci.
+- *Protiargument „nároku na vrácení celé dokumentace":* po obnovení činnosti se vrací jen nepředaná část; již předanou dokumentaci nelze odebrat novým poskytovatelům.
+- Slabé místo: § 57a předpokládá splnění podmínek § 26; sporné může být posouzení, zda lékař „není schopen" zajistit dostupnost.
+
+#### H. Praktický závěr
+
+Při přerušení činnosti, kdy poskytovatel nezajistí dostupnost péče dle § 26 odst. 3, může správní orgán postupovat obdobně podle § 57. Po oznámení pokračování se dokumentace vrací, avšak jen v rozsahu, v jakém nebyla předána zvoleným poskytovatelům.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o přerušení činnosti a je nesplněna povinnost dle § 26 odst. 3?
+- [ ] Postupuje úřad obdobně dle § 57 (zabezpečení, výpisy)?
+- [ ] Bylo oznámeno pokračování dle § 26 odst. 4?
+- [ ] Vrací se dokumentace jen v nepředaném rozsahu (§ 57 odst. 3 písm. d)?
+
+**Typicky rozhodné důkazy / podklady:** oznámení o přerušení a pokračování, doklad o zajištění/nezajištění dostupnosti dle § 26 odst. 3, soupis předané a vrácené dokumentace.
+
 ---
 
 ### § 58 — Pokračování v poskytování po úmrtí
@@ -510,6 +1014,42 @@ Příslušný správní orgán:
 **Výklad:**
 
 § 58 řeší situaci, kdy po zemřelém poskytovateli **pokračuje** v poskytování jiná osoba ve smyslu § 27 (typicky pozůstalý manžel, dědic, jiná osoba v rodinné praxi). Tato osoba převezme funkci „úschovce" dokumentace dle § 57 odst. 3 — zajišťuje dokumentaci, předává ji nově zvoleným poskytovatelům a poskytuje výpisy v rozsahu nutném pro návaznost péče.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Po zemřelém praktickém lékaři hodlá v jeho ordinaci pokračovat jeho dcera, rovněž lékařka, na základě oprávnění zemřelého dle § 27 odst. 1. Než zahájí poskytování služeb, převezme kartotéku. Pacienti se ptají, kam zasílat žádosti o předání dokumentace, a jeden pacient, který si zvolil jiného lékaře, žádá o převedení své karty. K obstarání: doklad o oprávnění pokračovat dle § 27, oznámení adresy pro žádosti, žádosti pacientů o předání, soupis dokumentace.
+
+**2. Právní otázka.** Jaké povinnosti při nakládání s dokumentací má osoba, která po zemřelém poskytovateli pokračuje v poskytování zdravotních služeb podle § 27?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 58 — obdobné použití § 57 odst. 3 písm. a), c), d) a odst. 4 na pokračující osobu; povinnost oznámit do zahájení činnosti adresu pro žádosti o zajištění postupu dle § 57 odst. 3 písm. c) a d).
+- *Související ustanovení téhož zákona:* § 27 (pokračování v poskytování), § 57 (zánik úmrtím), § 60 odst. 2 (nemůže-li pokračovat), § 66 (výpisy/kopie).
+- *Související předpisy:* vyhláška č. 98/2012 Sb.; GDPR (zabezpečení, mlčenlivost).
+- *Judikatura:* zásada nepřetržitého gestora dokumentace; pokračovatel vstupuje do role „úschovce".
+
+**4. Subsumpce.** Dcera je osobou dle § 27 odst. 1 pokračující v poskytování → vztahuje se na ni § 58. Musí: zabezpečit dokumentaci (§ 57 odst. 3 písm. a), zajišťovat pacientům výpisy/kopie pro návaznost (písm. c), předávat dokumentaci zvoleným poskytovatelům na žádost (písm. d) a oznámit adresu, kam žádosti směřovat. Žádost pacienta, který si zvolil jiného lékaře, je třeba vyřídit dle písm. d).
+
+**5. Řešení.** Dcera převezme funkci úschovce: před zahájením činnosti oznámí způsobem v místě obvyklém adresu pro žádosti, zabezpečí dokumentaci, vydává výpisy a předává karty pacientům, kteří si zvolili jiné lékaře. Pacientovi s jiným lékařem předá dokumentaci na základě žádosti s identifikačními údaji dle § 57 odst. 3 písm. d). Riziko: opomenutí oznámení adresy znemožní pacientům uplatnit žádosti; nezajištění předání zakládá porušení.
+
+**6. Varianty.** (a) Kdyby dcera pokračovat nemohla (nastaly skutečnosti dle § 60 odst. 2), předala by dokumentaci neprodleně správnímu orgánu. (b) Kdyby zemřelý zajišťoval pracovnělékařské služby, použil by se i § 57 odst. 4 (informování zaměstnavatele a předání poskytovateli jím určenému).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „automatického přechodu pacientů":* dcera může mít za to, že všichni pacienti automaticky zůstávají u ní. Neutralizace: pacient má právo volby; na žádost musí být dokumentace předána zvolenému poskytovateli (§ 57 odst. 3 písm. d).
+- *Protiargument „nepotřebnosti oznámení adresy":* § 58 ukládá oznámit adresu pro žádosti ještě před zahájením činnosti; jde o podmínku informovanosti pacientů.
+- Slabé místo: § 58 odkazuje jen na vybraná písmena § 57 odst. 3 (a, c, d) a odst. 4 — rozsah povinností je tím vymezen a nelze jej rozšiřovat.
+
+#### H. Praktický závěr
+
+Osoba pokračující po zemřelém poskytovateli dle § 27 se stává úschovcem dokumentace: zabezpečuje ji, vydává výpisy a předává karty zvoleným poskytovatelům na žádost. Před zahájením činnosti musí oznámit adresu pro žádosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je pokračovatel osobou dle § 27 odst. 1?
+- [ ] Oznámil před zahájením adresu pro žádosti (§ 58 věta druhá)?
+- [ ] Zabezpečuje dokumentaci a vydává výpisy/kopie (§ 57 odst. 3 písm. a, c)?
+- [ ] Předává dokumentaci zvoleným poskytovatelům na žádost (písm. d)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o oprávnění pokračovat dle § 27, oznámení adresy pro žádosti, žádosti pacientů o předání, soupis dokumentace.
 
 ---
 
@@ -541,6 +1081,42 @@ Dokumentace, kterou si pacient nepřevezme prostřednictvím žádosti, putuje v
 
 Speciální režim pro pracovnělékařské služby: poskytovatel oznámí ukončení zaměstnavateli (60 dnů předem), zaměstnavatel určí nového poskytovatele, dokumentace zaměstnanců je předána tomuto novému poskytovateli; jinak putuje na správní orgán.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soukromá gynekologická ordinace plánuje k 30. červnu ukončit činnost (lékař odchází do důchodu, nikdo nepokračuje). Lékař vyvěsí informaci ve čekárně 14 dnů předem a nikoho dalšího neinformuje. Část pacientek se o ukončení nedozví a nepožádá o předání dokumentace. K obstarání: doklad o zveřejnění informace a její datum, žádost správnímu orgánu a obci o uveřejnění, seznam pacientek, žádosti o předání dokumentace, doklad o předání nepřevzaté dokumentace.
+
+**2. Právní otázka.** Splnil poskytovatel informační povinnost při ukončení činnosti dle § 59 a jak má naložit s dokumentací pacientek, které včas nepožádaly o její předání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 59 — šedesátidenní lhůta a způsob zveřejnění (odst. 1), obdobné použití § 57 odst. 3 písm. d) při předávání a osud nepřevzaté dokumentace: osobě pokračující, jinak správnímu orgánu (odst. 2).
+- *Související ustanovení téhož zákona:* § 23 odst. 3 (pokračující osoba), § 57 (zánik úmrtím), § 60–63 (další případy), § 117 (delikt).
+- *Související předpisy:* vyhláška č. 98/2012 Sb. (doby uchování); GDPR.
+- *Judikatura:* zásada informovanosti pacientů a kontinuity gestora dokumentace.
+
+**4. Subsumpce.** Zveřejnění pouhých 14 dnů předem a jen ve čekárně nesplňuje § 59 odst. 1: vyžaduje se nejméně 60 dnů předem a navíc žádost správnímu orgánu a obci o uveřejnění na úřední desce. Dokumentace pacientek, které nepožádaly o předání, se při neexistenci pokračující osoby předá příslušnému správnímu orgánu (odst. 2).
+
+**5. Řešení.** Poskytovatel porušil informační povinnost (lhůta i okruh zveřejnění); musí ji napravit a dodržet 60denní lhůtu, aby pacientky měly reálnou možnost zvolit nového lékaře. Nepřevzatou dokumentaci, protože nikdo nepokračuje, předá správnímu orgánu spolu se soupisem. Krok: zveřejnit řádně, požádat úřad a obec o uveřejnění, evidovat žádosti, předat zbytek úřadu. Riziko: nedodržení § 59 = správní delikt a poškození pacientek.
+
+**6. Varianty.** (a) Kdyby v ordinaci pokračovala jiná osoba (§ 23 odst. 3), nepřevzatá dokumentace by se předala jí, nikoli úřadu. (b) Kdyby šlo o pracovnělékařské služby, uplatnil by se zvláštní režim (oznámení zaměstnavateli, předání jím určenému poskytovateli).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „dostatečnosti vývěsky":* lékař může tvrdit, že vývěska ve čkárně stačí. Neutralizace: § 59 odst. 1 výslovně žádá i žádost správnímu orgánu a obci o uveřejnění a lhůtu 60 dnů; pouhá vývěska je nedostatečná.
+- *Protiargument „nezájmu pacientek":* nepožádaly-li pacientky o předání, neznamená to zánik povinnosti — dokumentace putuje na pokračující osobu nebo úřad, nesmí být ponechána bez gestora ani skartována předčasně.
+- Slabé místo: krátká lhůta a vadné zveřejnění mohou způsobit, že se pacientky nestihnou rozhodnout, což zhoršuje návaznost péče.
+
+#### H. Praktický závěr
+
+Při ukončení činnosti je nutné informovat nejméně 60 dnů předem ve zdravotnickém zařízení a požádat správní orgán a obec o uveřejnění na úřední desce. Dokumentaci pacientů, kteří nepožádali o předání, převezme pokračující osoba, jinak správní orgán.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla informace zveřejněna nejméně 60 dnů předem (odst. 1)?
+- [ ] Byla podána žádost správnímu orgánu a obci o uveřejnění?
+- [ ] Obsahuje informace datum ukončení, lhůtu a adresu pro žádosti?
+- [ ] Byla nepřevzatá dokumentace předána pokračující osobě, jinak úřadu (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o zveřejnění a jeho datum, žádost úřadu a obci o uveřejnění, evidence žádostí o předání, soupis a doklad o předání nepřevzaté dokumentace.
+
 ---
 
 ### § 60–63 — Další případy a procesní pravidla
@@ -566,6 +1142,42 @@ Speciální režim pro pracovnělékařské služby: poskytovatel oznámí ukon�
 #### Funkce systému
 
 §§ 57–63 tvoří **uzavřený systém přechodu dokumentace** v situacích diskontinuity poskytovatele. Principem je, že **dokumentace nikdy nesmí zůstat bez gestora** — vždy musí existovat osoba (nový poskytovatel, pokračovatel, správní orgán), která za ni odpovídá. Tato kontinuita gestora chrání pacienta před ztrátou důležitých informací a zajišťuje, že navazující péče může pokračovat bez informačního deficitu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovateli bylo rozhodnutím krajského úřadu odejmuto oprávnění k poskytování zdravotních služeb pro opakovaná závažná pochybení. Rozhodnutí nabylo právní moci. Poskytovatel však dokumentaci stovek pacientů nepředá, odvolává se na probíhající soudní přezkum a tvrdí, že do pravomocného skončení žaloby ji potřebuje k obraně. Po 15 pracovních dnech úřad zjišťuje, že dokumentace nebyla předána. K obstarání: pravomocné rozhodnutí o odejmutí oprávnění, doklad o doručení a právní moci, soupis dokumentace, evidence předání.
+
+**2. Právní otázka.** V jaké lhůtě a komu je povinen předat dokumentaci poskytovatel, jehož oprávnění zaniklo rozhodnutím správního orgánu, a brání tomu podaná správní žaloba?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 60 odst. 1 — předání dokumentace a soupisu správnímu orgánu do 10 pracovních dnů od právní moci rozhodnutí; § 60 odst. 2, § 61–63 (další případy, lhůty, předání jinému PZS).
+- *Související ustanovení téhož zákona:* § 57–59 (jiné způsoby zániku), § 64 (přístup bývalého poskytovatele k dokumentaci pro obranu), § 117 (delikt).
+- *Související předpisy:* soudní řád správní (odkladný účinek žaloby se nepřiznává automaticky); vyhláška č. 98/2012 Sb.
+- *Judikatura:* zásada, že podání žaloby nemá bez přiznaného odkladného účinku vliv na vykonatelnost pravomocného rozhodnutí.
+
+**4. Subsumpce.** Oprávnění zaniklo pravomocným rozhodnutím úřadu → aplikuje se § 60 odst. 1: povinnost předat dokumentaci a soupis úřadu do 10 pracovních dnů od právní moci. Podaná žaloba bez přiznaného odkladného účinku tuto povinnost nestaví. Marné uplynutí lhůty zakládá porušení.
+
+**5. Řešení.** Poskytovatel je povinen dokumentaci a soupis předat úřadu do 10 pracovních dnů; jeho potřeba obrany je řešena nikoli zadržením dokumentace, ale právem přístupu dle § 64 (pro účely řízení). Krok: neprodleně předat dokumentaci úřadu, případně požádat o odkladný účinek žaloby; obranu zajistit přes § 64. Riziko: zadržování dokumentace = pokračující delikt a ohrožení návaznosti péče; dokumentace nesmí zůstat u subjektu bez oprávnění.
+
+**6. Varianty.** (a) Kdyby pokračující osoba dle § 58 nemohla pokračovat (§ 60 odst. 2), předala by dokumentaci úřadu neprodleně. (b) Kdyby šlo o zrušení organizační složky státu/ÚSC s pokračujícím poskytovatelem (§ 61 písm. a), předala by se dokumentace pokračujícímu poskytovateli ve lhůtě dle § 63 odst. 5.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „potřeby dokumentace k obraně":* poskytovatel může tvrdit, že bez dokumentace se nemůže bránit. Neutralizace: § 64 mu zaručuje přístup k předané dokumentaci pro účely řízení; není proto třeba ji zadržovat.
+- *Protiargument „odkladného účinku žaloby":* žaloba nemá odkladný účinek automaticky; bez jeho přiznání soudem zůstává rozhodnutí vykonatelné a lhůta běží.
+- Slabé místo: krátká 10denní lhůta může být v rozsáhlých provozech fakticky obtížně splnitelná, což ale povinnost neruší.
+
+#### H. Praktický závěr
+
+Zaniklo-li oprávnění rozhodnutím správního orgánu, předá poskytovatel dokumentaci a soupis úřadu do 10 pracovních dnů od právní moci. Žaloba bez přiznaného odkladného účinku povinnost nestaví; obranu zajišťuje přístup dle § 64. Dokumentace nikdy nesmí zůstat bez gestora.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nabylo rozhodnutí o zániku oprávnění právní moci a kdy?
+- [ ] Byla dokumentace a soupis předány úřadu do 10 pracovních dnů (§ 60 odst. 1)?
+- [ ] Byl případně přiznán odkladný účinek žaloby?
+- [ ] Je obrana poskytovatele řešena přístupem dle § 64, nikoli zadržením dokumentace?
+
+**Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí a doklad o právní moci, soupis dokumentace, evidence předání úřadu, případné usnesení o odkladném účinku.
 
 ---
 
@@ -608,6 +1220,42 @@ Speciální režim pro pracovnělékařské služby: poskytovatel oznámí ukon�
 **Omezení přístupu (odst. 2):**
 - Jen údaje **související s účelem** přístupu (princip minimalizace);
 - Plná **povinnost mlčenlivosti** (s výjimkou sdělení orgánům v daných řízeních).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Bývalý zaměstnanec — lékař, který odešel od poskytovatele, je žalován bývalým pacientem o náhradu újmy na zdraví za zákrok provedený před třemi lety. Dokumentaci mezitím poskytovatel předal jinému poskytovateli (pacient změnil lékaře). Lékař potřebuje pro svou obranu nahlédnout do konkrétní dokumentace tohoto pacienta. Nový poskytovatel přístup odmítá s poukazem na mlčenlivost a ochranu pacienta. K obstarání: žaloba a vymezení sporu, doklad o předání dokumentace, identifikace záznamů relevantních pro spor, poučení o mlčenlivosti.
+
+**2. Právní otázka.** Má bývalý zdravotnický pracovník právo na přístup k dokumentaci převzaté jiným poskytovatelem pro účely své obrany ve sporu s pacientem a v jakém rozsahu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 64 — povinnost správního orgánu nebo přebírajícího poskytovatele umožnit přístup bývalému poskytovateli/pracovníkovi pro účely řízení (odst. 1 písm. a–d), omezení na údaje související s účelem a mlčenlivost (odst. 2), poučovací povinnost (odst. 3).
+- *Související ustanovení téhož zákona:* § 51 (mlčenlivost), § 65 (nahlížení obecně), § 57–63 (předávání dokumentace).
+- *Související předpisy:* § 2924–2925 občanského zákoníku (odpovědnost), § 81 a násl. OZ (ochrana osobnosti); GDPR (minimalizace).
+- *Judikatura:* zásada rovnosti zbraní ve sporu a práva na obhajobu/obranu; přístup vázaný na účel a minimalizaci.
+
+**4. Subsumpce.** Lékař je bývalým pracovníkem poskytovatele, který dokumentaci vedl (odst. 1). Předmětem řízení je spor s bývalým pacientem o náhradu újmy (písm. b/c) → účel je naplněn. Nový poskytovatel je povinen přístup umožnit, avšak jen k údajům souvisejícím s účelem (odst. 2 písm. a) a za poučení o mlčenlivosti (odst. 3). Plošné odmítnutí je v rozporu s § 64.
+
+**5. Řešení.** Nový poskytovatel musí umožnit bývalému lékaři přístup k dokumentaci v rozsahu nezbytném pro obranu ve sporu, nikoli k údajům s ním nesouvisejícím; lékaře poučí o mlčenlivosti. Krok: vymezit relevantní záznamy podle předmětu sporu, zpřístupnit je, sepsat poučení. Riziko: nadbytečné zpřístupnění (nad rámec účelu) i bezdůvodné odepření jsou pochybením.
+
+**6. Varianty.** (a) Kdyby spor byl mezi bývalým poskytovatelem a zdravotní pojišťovnou (písm. d), přístup by se přiznal rovněž, v rozsahu odpovídajícím účelu. (b) Kdyby lékař pozbyl způsobilost k výkonu povolání, postupuje se obdobně (odst. 1 in fine).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „absolutní mlčenlivosti a ochrany pacienta":* nový poskytovatel může odmítat přístup s poukazem na soukromí pacienta. Neutralizace: § 64 výslovně zakládá právo přístupu pro účely řízení; ochranu zajišťuje omezení na účel a mlčenlivost, nikoli plošné odepření.
+- *Protiargument „nadměrného rozsahu":* lékař může chtít celou dokumentaci. Neutralizace: odst. 2 písm. a) omezuje přístup na údaje související s účelem (minimalizace).
+- Slabé místo: posouzení, které záznamy „souvisí s účelem", je sporné a může vést k konfliktu mezi bývalým a novým poskytovatelem.
+
+#### H. Praktický závěr
+
+Bývalý poskytovatel a jeho pracovníci mají pro účely řízení (správní, trestní, civilní spory, spor s pacientem či pojišťovnou) právo přístupu k „jejich" dokumentaci i po jejím předání, avšak jen v rozsahu souvisejícím s účelem a za mlčenlivosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o některý z účelů dle § 64 odst. 1 písm. a)–d)?
+- [ ] Je žadatelem bývalý poskytovatel/pracovník (nebo právní nástupce)?
+- [ ] Je přístup omezen na údaje související s účelem (odst. 2)?
+- [ ] Byla osoba poučena o mlčenlivosti (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** žaloba/vymezení předmětu řízení, doklad o předání dokumentace, identifikace relevantních záznamů, písemné poučení o mlčenlivosti.
 
 ---
 
@@ -748,6 +1396,42 @@ Nahlížení musí probíhat **v přítomnosti pověřeného zaměstnance poskyt
 - Umožňuje pověřenému zaměstnanci vysvětlit nesrozumitelná místa (medicínská terminologie, zkratky);
 - Zajišťuje, že nahlížení **nenaruší** poskytování zdravotních služeb.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Manželka zemřelého pacienta žádá nemocnici o nahlédnutí do jeho dokumentace, aby zjistila, zda léčba byla vedena správně (zvažuje stížnost). Současně orgán, který vede řízení o náhradě za ztrátu na služebním příjmu příslušníka bezpečnostního sboru, žádá nemocnici o nahlédnutí do dokumentace bez souhlasu pacienta. Nemocnice obě žádosti odmítá: u manželky tvrdí, že po smrti nemá právo, u orgánu, že není mezi osobami dle § 65. K obstarání: doklad o postavení osoby blízké, projev zemřelého o (ne)vyloučení nahlížení, pověření a účel žádosti orgánu.
+
+**2. Právní otázka.** Kdo a za jakých podmínek je oprávněn nahlížet do zdravotnické dokumentace bez souhlasu pacienta a má osoba blízká zemřelého právo nahlížet?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 65 — okruh oprávněných: pacient a zástupci (odst. 1), osoby blízké zemřelému dle § 33 odst. 4 (odst. 1 písm. c), taxativní katalog úředních a kontrolních osob bez souhlasu pacienta (odst. 2 písm. a–s), výuka (odst. 3).
+- *Související ustanovení téhož zákona:* § 33 odst. 4 (osoby blízké zemřelému), § 66 (výpisy/kopie), § 51 (mlčenlivost), § 67 (omezení přístupu při podezření na týrání).
+- *Související předpisy:* GDPR čl. 27 a recitál 27 (neaplikovatelnost na zemřelé), § 24 zákona č. 110/2019 Sb.; zákon č. 361/2003 Sb. o služebním poměru.
+- *Judikatura:* NSS 59 Ad 2/2022 (orgán vedoucí řízení o náhradách za ztrátu na služebním příjmu může nahlížet bez souhlasu dle § 65 odst. 2); NSS 5 As 317/2016 (správní orgány obecně nejsou bez výslovného titulu osobou oprávněnou nahlížet dle § 65).
+
+**4. Subsumpce.** Manželka je osobou blízkou zemřelému (§ 65 odst. 1 písm. c) → má právo nahlížet v rozsahu § 33 odst. 4, ledaže to pacient za života prokazatelně vyloučil. Orgán vedoucí řízení o náhradě za ztrátu na služebním příjmu spadá dle judikatury NSS pod § 65 odst. 2 (přezkum/řízení dle zvláštního předpisu) → smí nahlížet bez souhlasu v nezbytném rozsahu. Plošné odmítnutí obou žádostí je nesprávné.
+
+**5. Řešení.** Nemocnice musí umožnit manželce nahlížení v rozsahu § 33 odst. 4 (příčina úmrtí, průběh léčby), neprokáže-li se vyloučení pacientem; orgánu umožní nahlížení bez souhlasu v nezbytném rozsahu pro účel řízení. Nahlížení probíhá v přítomnosti pověřeného zaměstnance a zaznamenává se (§ 66 odst. 6). Riziko: odepření oprávněného nahlížení i zpřístupnění nad rámec účelu.
+
+**6. Varianty.** (a) Kdyby pacient za života prokazatelně vyloučil nahlížení osob blízkých po smrti, manželka by právo neměla. (b) Kdyby žádal „obecný" správní orgán bez zvláštního zákonného titulu, nahlížení by mu dle NSS 5 As 317/2016 nepříslušelo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zániku práv smrtí pacienta":* nemocnice tvrdí, že po smrti nelze nahlížet. Neutralizace: § 65 odst. 1 písm. c) ve spojení s § 33 odst. 4 zakládá autonomní postmortální režim přístupu osob blízkých (GDPR se na zemřelé nevztahuje).
+- *Protiargument „taxativnosti katalogu odst. 2":* nemocnice se brání, že orgán není výslovně uveden. Neutralizace: judikatura NSS podřadila orgán vedoucí dané řízení pod existující kategorie odst. 2; výklad je extenzivní ve prospěch zákonem svěřené působnosti.
+- Slabé místo: rozsah nahlížení osob blízkých dle § 33 odst. 4 a posouzení „nezbytného rozsahu" u úředních osob jsou sporné a vyžadují individuální vážení.
+
+#### H. Praktický závěr
+
+§ 65 vymezuje tři okruhy oprávněných: pacient a zástupci (vč. osob blízkých zemřelému dle § 33 odst. 4), taxativní katalog úředních/kontrolních osob nahlížejících bez souhlasu v nezbytném rozsahu, a osoby ve výuce (s možností pacienta zakázat). Nahlížení probíhá v přítomnosti pověřeného zaměstnance.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Do kterého okruhu žadatel patří (odst. 1, 2 nebo 3)?
+- [ ] U osoby blízké zemřelému — nevyloučil pacient nahlížení za života (§ 33 odst. 4)?
+- [ ] U úřední osoby — je dán zákonný titul/pověření a omezení na nezbytný rozsah?
+- [ ] Probíhá nahlížení v přítomnosti pověřeného zaměstnance a je zaznamenáno (§ 66 odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o postavení žadatele (zástupce, osoba blízká, pověření orgánu), projev pacienta o vyloučení nahlížení, vymezení účelu a rozsahu, záznam o nahlédnutí.
+
 ---
 
 ### § 66 — Výpisy a kopie
@@ -800,6 +1484,42 @@ U elektronické dokumentace má pacient **právo na dálkový přístup** (typic
 
 Každé nahlédnutí (s výjimkou nahlédnutí klinickými pracovníky vlastního poskytovatele dle § 65 odst. 2 písm. a) a výuky dle odst. 3) **musí být zaznamenáno** do dokumentace. Cíl: **auditní stopa** pohybu informací o pacientovi, kontrola dodržování právního režimu nahlížení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient žádá u poskytovatele s elektronickou dokumentací o kopii kompletní zdravotnické dokumentace. Je to jeho první žádost. Poskytovatel za vyhotovení požaduje paušální poplatek 500 Kč jako podmínku vydání, kopii odmítá vydat dříve než po zaplacení, a trvá na listinné podobě, ačkoli pacient žádá elektronickou kopii na nosiči dat. Po 40 dnech kopii stále nemá. K obstarání: žádost pacienta a její datum, doklad o formě dokumentace (elektronická), evidence předchozích žádostí, kalkulace nákladů.
+
+**2. Právní otázka.** V jaké lhůtě, za jakou úhradu a v jaké formě je poskytovatel povinen vydat pacientovi kopii zdravotnické dokumentace dle § 66?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 66 — lhůty (odst. 1: 30 dnů pro § 65 odst. 1, 15 dnů pro úřední osoby; odst. 2: 5 dnů zdarma při nemožnosti nahlížení), úhrada (odst. 3: první kopie pacientovi zdarma, úhrada nesmí být podmínkou), dálkový přístup a kopie na nosiči (odst. 4), prokazování totožnosti (odst. 5), záznam o nahlédnutí (odst. 6).
+- *Související ustanovení téhož zákona:* § 65 (okruh oprávněných), § 41 odst. 3 a 4 (prokazování totožnosti).
+- *Související předpisy:* GDPR čl. 15 odst. 3 a čl. 12 odst. 5 (bezplatnost první kopie), čl. 20 (přenositelnost).
+- *Judikatura:* výklad § 66 jako lex specialis k čl. 15 GDPR pro zdravotnickou dokumentaci; zásada bezplatnosti první kopie.
+
+**4. Subsumpce.** Jde o první žádost pacienta (§ 65 odst. 1 písm. a) → kopie zdarma (odst. 3) a lhůta 30 dnů (odst. 1 písm. a). Poplatek 500 Kč u první žádosti je nezákonný; podmínění vydání zaplacením je v rozporu s odst. 3 větou třetí. U elektronické dokumentace má pacient právo na kopii na nosiči dat či dálkový přístup (odst. 4); trvání na listinné formě proti vůli pacienta je vadné. Překročení 30denní lhůty je porušením.
+
+**5. Řešení.** Poskytovatel musí vydat první kopii zdarma, do 30 dnů, a u elektronické dokumentace ve formě požadované pacientem (nosič dat / dálkový přístup), nesmí vydání podmínit úhradou. Krok: vyhotovit kopii bezplatně a ve zvolené formě, dodržet lhůtu. Riziko: zpoplatnění první kopie a podmínění platbou je porušením § 66 i čl. 12 odst. 5 GDPR; hrozí sankce.
+
+**6. Varianty.** (a) Kdyby šlo o opakovanou žádost téhož pacienta, poskytovatel by mohl požadovat úhradu účelně vynaložených nákladů (na pořízení a odeslání), avšak stále ne jako podmínku vydání. (b) Kdyby žadatelem byla osoba blízká zemřelému (§ 65 odst. 1 písm. c), úhradu by požadovat bylo možné už při první žádosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pokrytí nákladů paušálem":* poskytovatel může hájit paušál administrativní zátěží. Neutralizace: první kopie pacientovi je ze zákona i dle GDPR zdarma; úhradu lze požadovat až u opakovaných žádostí a jen ve výši účelně vynaložených nákladů.
+- *Protiargument „technické náročnosti elektronické formy":* odst. 4 podmiňuje dálkový přístup technickými možnostmi, ale kopie na nosiči dat je standardní; trvání na listinné podobě proti vůli pacienta není odůvodněné.
+- Slabé místo: posouzení „účelně vynaložených nákladů" u opakovaných žádostí může být sporné; nesmí však sloužit k odrazení pacienta.
+
+#### H. Praktický závěr
+
+První kopie dokumentace pro pacienta je zdarma a vyhotovuje se do 30 dnů; úhradu nelze činit podmínkou vydání. U elektronické dokumentace má pacient právo na kopii na nosiči dat či dálkový přístup. Každé nahlédnutí/kopírování (mimo výjimky) se zaznamenává.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o první žádost pacienta (kopie zdarma) nebo opakovanou (možná úhrada nákladů)?
+- [ ] Byla dodržena lhůta (30 dnů pacient; 15 dnů úřední osoby; 5 dnů zdarma při nemožnosti nahlížení)?
+- [ ] Není vydání podmiňováno předchozí úhradou (odst. 3)?
+- [ ] U elektronické dokumentace umožněna forma zvolená pacientem (odst. 4) a proveden záznam (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** žádost pacienta a její datum, doklad o formě dokumentace, evidence předchozích žádostí, kalkulace účelně vynaložených nákladů, záznam o nahlédnutí/vydání kopie.
+
 ---
 
 ### § 67 — Omezení přístupu rodičů při podezření na týrání
@@ -822,6 +1542,43 @@ Každé nahlédnutí (s výjimkou nahlédnutí klinickými pracovníky vlastníh
 
 > **Vztah k oznamovací povinnosti dle § 367 TZ:** § 67 ZZS *omezuje přístup k dokumentaci* (defenzivně), ale neřeší **oznamovací povinnost** zdravotnického pracovníka ve smyslu trestního práva. Vědomost o závažném trestném činu (např. týrání svěřené osoby — § 198 TZ) zakládá povinnost oznámit jej orgánům činným v trestním řízení (§ 368 TZ), z níž § 367 vyňal pouze úzký okruh trestných činů (nezahrnuje týrání). Podezření z týrání tedy zdravotnický pracovník současně **(i)** omezí v dokumentaci dle § 67 ZZS a **(ii)** oznámí dle § 368 TZ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pětiletý chlapec je opakovaně přivážen matkou na dětskou pohotovost s hematomy a popáleninami, jejichž mechanismus matka popisuje jako „pády". Ošetřující lékař zaznamená do dokumentace podezření na nepřiměřené tělesné tresty ze strany otce, který bývá pod vlivem alkoholu. Otec následně žádá o zpřístupnění (nahlédnutí a kopie) celé dokumentace syna. Důkazy: fotodokumentace poranění s časovými razítky, záznamy o opakovaných ošetřeních, znalecké posouzení mechanismu vzniku poranění, případně sdělení OSPOD.
+
+**2. Právní otázka.** Může poskytovatel odepřít otci (zákonnému zástupci) přístup k té části dokumentace, z níž plyne podezření na týrání, a v jakém rozsahu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 67 ZZS — poskytovatel může omezit zpřístupnění dokumentace zákonnému zástupci, uzná-li, že omezení je v zájmu pacienta; omezení dopadá jen na rozhodné údaje.
+- *Související ustanovení téhož zákona:* § 65 odst. 2 (právo zákonného zástupce nezletilého nahlížet) je tímto ustanovením modifikováno; § 66 (výpisy a kopie) — omezení dopadá i na pořízení kopií rozhodných údajů; § 68 (obdobné použití u převzaté dokumentace).
+- *Související předpisy:* § 198 TZ (týrání svěřené osoby), § 368 TZ (oznamovací povinnost) a § 367 TZ (nepřekažení); zákon č. 359/1999 Sb. o sociálně-právní ochraně dětí (oznámení OSPOD); čl. 3 Úmluvy o právech dítěte (nejlepší zájem dítěte); čl. 23 GDPR (omezení práva subjektu údajů).
+- *Judikatura:* k přednosti nejlepšího zájmu dítěte před procesními právy rodiče srov. konstantní judikaturu Ústavního soudu o čl. 3 Úmluvy o právech dítěte jako prvořadém hledisku; obecně k odepření přístupu k informacím v zájmu ochrany dítěte rozhodnutí ESLP zdůrazňující pozitivní závazek státu chránit dítě před zlým zacházením.
+
+**4. Subsumpce.** Záznam obsahuje údaje, z nichž lze vyvodit podezření na týrání (znak splněn — opakovaná poranění neslučitelná s tvrzeným mechanismem). Údaje lékař získal při poskytování služeb (splněno). Poskytovatel musí učinit úsudek, že omezení je v zájmu pacienta (splněno — riziko dalšího ohrožení a zastírání). Omezení smí dopadnout jen na rozhodné údaje, ne na celou dokumentaci (např. záznam o očkování zůstává přístupný).
+
+**5. Řešení.** Poskytovatel otci zpřístupní dokumentaci s vynecháním (zatemněním) údajů, z nichž plyne podezření na týrání, a o důvodu nemusí podávat podrobné vysvětlení, jež by mařilo účel ochrany. Současně musí splnit oznamovací povinnost dle § 368 TZ a oznámit věc OSPOD. Procesní kroky: pořídit anonymizovanou/redigovanou kopii, vést záznam o tom, které údaje a proč byly omezeny.
+
+**6. Varianty.** (a) Pokud by poranění byla ojedinělá a hodnověrně vysvětlitelná úrazem, podmínka „podezření" by nebyla naplněna a přístup nelze omezit. (b) Jde-li o dospělou oběť domácího násilí s ustanoveným opatrovníkem, použije se § 67 věta třetí obdobně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* zákonný zástupce má dle § 65 plné právo na dokumentaci nezletilého a § 67 je výjimkou, kterou je nutno vykládat restriktivně. *Neutralizace:* § 67 je výslovnou zákonnou výjimkou; výklad však musí být skutečně restriktivní co do rozsahu (jen rozhodné údaje), nikoli plošný.
+- *Protiargument:* poskytovatel nemá pravomoc hodnotit „podezření z týrání", to přísluší OSPOD a OČTŘ. *Neutralizace:* § 67 nevyžaduje prokázání, jen důvodné podezření vyplývající ze záznamu; rozhodnutí o omezení je provozním aktem poskytovatele, ne autoritativním zjištěním trestného činu.
+- *Slabé místo:* hrozí žaloba zástupce na odepření přístupu; poskytovatel proto musí mít řádně zdokumentované důvody úsudku a omezit jen nezbytný rozsah, jinak riskuje odpovědnost za neoprávněné odepření.
+
+#### H. Praktický závěr
+
+§ 67 dává poskytovateli defenzivní nástroj na ochranu dítěte (a obdobně oběti domácího/sexuálního násilí): omezit přístup pachateli-zástupci k těm a jen těm údajům, z nichž podezření plyne. Nenahrazuje, ale doplňuje oznamovací povinnost dle trestního práva a SPOD.
+
+**Checklist (poskytovatel / lékař / OSPOD / soud):**
+- [ ] Obsahuje záznam konkrétní údaje zakládající podezření na týrání/zneužívání/ohrožení vývoje?
+- [ ] Je omezení v nejlepším zájmu pacienta (test proporcionality)?
+- [ ] Je omezení zúženo jen na rozhodné údaje (nikoli plošné)?
+- [ ] Byla splněna oznamovací povinnost dle § 368 TZ a oznámení OSPOD?
+- [ ] Je důvod a rozsah omezení interně zdokumentován pro případnou obranu?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace s redakcí, fotodokumentace poranění, znalecký posudek o mechanismu vzniku, záznam o úsudku poskytovatele, oznámení OSPOD a OČTŘ.
+
 ---
 
 ### § 68 — Obdobné použití u převzaté dokumentace
@@ -833,6 +1590,42 @@ Každé nahlédnutí (s výjimkou nahlédnutí klinickými pracovníky vlastníh
 **Výklad:**
 
 § 68 zajišťuje, že režim nahlížení (§§ 65–67) platí **i tehdy, je-li dokumentace v rukou správního orgánu** po zániku oprávnění poskytovatele. Pacient tedy neztrácí svá práva (na nahlížení, kopie) jen proto, že jeho původní lékař zemřel nebo skončil — naopak, správní orgán plně přebírá povinnosti poskytovatele v této oblasti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Praktický lékař zemřel; příslušný krajský úřad převzal jeho zdravotnickou dokumentaci podle § 59 a násl. Bývalá pacientka žádá úřad o kopii své dokumentace pro nového registrujícího lékaře. Současně jiný zákonný zástupce nezletilého žádá o nahlédnutí do dokumentace, v níž je zaznamenáno podezření na týrání. Důkazy: protokol o převzetí dokumentace správním orgánem, žádost pacientky, identifikace oprávněných osob.
+
+**2. Právní otázka.** Vztahují se práva pacienta na nahlížení, výpisy a kopie (a omezení dle § 67) i na dokumentaci, kterou nyní drží správní orgán, a kdo je vyřizuje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 68 ZZS — na převzatou dokumentaci se § 66 a § 67 použijí obdobně.
+- *Související ustanovení téhož zákona:* § 65 (okruh oprávněných k nahlížení), § 66 (výpisy, kopie, lhůty), § 67 (omezení při týrání), §§ 57–63 (mechanismus převzetí dokumentace po zániku oprávnění).
+- *Související předpisy:* správní řád (zák. č. 500/2004 Sb.) pro postup správního orgánu; GDPR (právo na přístup čl. 15).
+- *Judikatura:* obecné zásady kontinuity práv subjektu údajů bez ohledu na osobu správce; k povinnosti veřejné správy vyřídit žádost o přístup k osobním údajům v zákonné lhůtě.
+
+**4. Subsumpce.** Dokumentaci převzal příslušný správní orgán (znak splněn). Tím na něj přechází režim § 66 (povinnost poskytnout výpisy/kopie ve lhůtách) i § 67 (možnost omezit přístup zástupci). Pacientka je osobou oprávněnou dle § 65; její žádost spadá pod § 66 obdobně.
+
+**5. Řešení.** Správní orgán vyřídí žádost pacientky o kopii ve lhůtách § 66 (zpravidla 30 dnů, první kopie zdarma). U žádosti zástupce nezletilého posoudí, zda nejsou dány důvody omezení dle § 67. Procesně postupuje jako poskytovatel by postupoval, protože § 68 zakládá fikci totožného režimu.
+
+**6. Varianty.** (a) Pokud dokumentaci převzal nástupnický poskytovatel (ne správní orgán), použijí se §§ 65–67 přímo, ne přes § 68. (b) Žádá-li o údaje osoba bez oprávnění dle § 65, orgán žádost odmítne stejně jako by ji odmítl poskytovatel.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* správní orgán není „poskytovatel", proto by se na něj povinnosti dle § 66 neměly vztahovat. *Neutralizace:* § 68 výslovně stanoví obdobné použití; smyslem je nepřerušit práva pacienta jen kvůli změně držitele dokumentace.
+- *Protiargument:* slovo „obdobně" připouští odchylky. *Neutralizace:* odchylky jsou přípustné jen tam, kde to povaha správního orgánu nutně vyžaduje (např. formální náležitosti správního aktu), nikoli ve věcném rozsahu práv pacienta.
+- *Slabé místo:* § 68 výslovně odkazuje jen na § 66 a 67, nikoli na § 65; je třeba dovodit, že okruh oprávněných osob (§ 65) je předpokladem aplikace § 66, takže fakticky se aplikuje i § 65.
+
+#### H. Praktický závěr
+
+§ 68 zajišťuje kontinuitu práv pacienta: přejde-li dokumentace na správní orgán, pacient neztrácí právo na kopie ani na ochranu dle § 67. Orgán plní povinnosti poskytovatele v plném rozsahu.
+
+**Checklist (správní orgán / pacient / advokát):**
+- [ ] Je dokumentace skutečně v držení příslušného správního orgánu (protokol o převzetí)?
+- [ ] Je žadatel osobou oprávněnou dle § 65?
+- [ ] Jsou dodrženy lhůty a podmínky § 66 (kopie, první zdarma)?
+- [ ] Nejsou dány důvody omezení dle § 67?
+
+**Typicky rozhodné důkazy / podklady:** protokol o převzetí dokumentace, žádost o kopii/nahlédnutí, doklad o oprávnění žadatele, záznam o vyřízení žádosti.
 
 ---
 
@@ -855,6 +1648,43 @@ Každé nahlédnutí (s výjimkou nahlédnutí klinickými pracovníky vlastníh
 Archivem se rozumí Národní archiv nebo státní oblastní archiv ve smyslu zákona č. 499/2004 Sb. Dokumenty vybrané jako archiválie se stanou součástí národního kulturního dědictví a jsou archivovány trvale.
 
 > **Doby uchování dle vyhlášky č. 98/2012 Sb.:** zákonné doby uchování zdravotnické dokumentace se liší podle typu dokumentu — od 5 let (běžná ambulantní dokumentace po posledním kontaktu s pacientem) přes 10 let (lékařské posudky, propouštěcí zprávy z hospitalizace) až po **40 let** (záznamy o závažných onemocněních, transplantace) a **100 let** (porodopisy a záznamy o novorozencích, zemřelé v hospitalizaci) v některých případech. Po uplynutí doby uchování přichází na řadu skartace nebo výběr archiválií dle § 68a.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Fakultní nemocnice (zřizovatelem je ministerstvo zdravotnictví) má v archivu dokumentaci, u níž uplynula skartační lhůta dle vyhlášky č. 98/2012 Sb. Mezi dokumenty jsou unikátní záznamy o průběhu vzácného onemocnění a operačních postupech z 60. let. Současně soukromá ambulance řeší, zda smí starou dokumentaci po skartační lhůtě prostě skartovat. Důkazy: seznam dokumentace s dobou vzniku, doklad o uplynutí doby uchování, protokol archivu o výběru archiválií.
+
+**2. Právní otázka.** Je fakultní nemocnice povinna umožnit archivu výběr archiválií, a jaký je rozdíl v postavení soukromého poskytovatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 68a ZZS — poskytovatel zřizovaný ministerstvem *umožní* (povinnost) výběr archiválií; ostatní poskytovatelé *mohou* (oprávnění).
+- *Související ustanovení téhož zákona:* § 69 písm. f) (zmocnění k úpravě dob uchování a postupu výběru archiválií); § 53 a násl. (pojem a vedení dokumentace).
+- *Související předpisy:* zákon č. 499/2004 Sb. o archivnictví a spisové službě (pojem archiválie, výběr, Národní archiv/SOA); vyhláška č. 98/2012 Sb. (skartační/uchovací lhůty); zákon č. 110/2019 Sb. a GDPR (po výběru archiválie režim archivace ve veřejném zájmu, čl. 89 GDPR).
+- *Judikatura:* k veřejnému zájmu na uchování archiválií a k mezím skartace dokumentů s kulturní/historickou hodnotou.
+
+**4. Subsumpce.** Nemocnice je poskytovatelem zřizovaným ministerstvem (znak splněn) → vzniká *povinnost* umožnit výběr po uplynutí doby uchování. Soukromá ambulance je „ostatní poskytovatel" → má jen *oprávnění*, nikoli povinnost; smí proto dokumentaci po skartační lhůtě skartovat dle vyhlášky, aniž by archiv kontaktovala.
+
+**5. Řešení.** Nemocnice předá příslušnému archivu seznam dokumentace navržené k výběru s dobou vzniku; archiv provede výběr, vyhotoví protokol a určí, do čí péče vybrané archiválie náleží. Soukromá ambulance může postupovat stejně dobrovolně, jinak skartuje způsobem dle vyhlášky (zničení znemožňující rekonstrukci dat).
+
+**6. Varianty.** (a) Pokud doba uchování ještě neuplynula, výběr ani skartace nepřicházejí v úvahu — § 68a se neaplikuje. (b) Jde-li o dokumenty zjevně kulturně cenné u soukromého poskytovatele, který výběr neumožní a skartuje, nejde o porušení § 68a (jen oprávnění), ale je to v rozporu se smyslem ochrany archiválií.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* GDPR (princip omezení uložení) brání trvalému uchování zdravotních dat. *Neutralizace:* čl. 5 odst. 1 písm. e) i čl. 89 GDPR výslovně připouští delší uchování pro účely archivace ve veřejném zájmu při vhodných zárukách; § 68a je tím právním titulem.
+- *Protiargument:* poskytovatel nese náklady a odpovědnost za předání. *Neutralizace:* povinnost dopadá jen na ministerstvem zřizované subjekty, u nichž je archivace součástí veřejné funkce; rozsah je vymezen seznamem a součinností archivu.
+- *Slabé místo:* hranice mezi „archiválií" a běžnou dokumentací k skartaci je dána odborným posouzením archivu, ne poskytovatelem; chybné předčasné zničení dokumentu s archivní hodnotou může zakládat odpovědnost dle zákona o archivnictví.
+
+#### H. Praktický závěr
+
+§ 68a řeší osud dokumentace po uplynutí uchovací lhůty: ministerstvem zřízení poskytovatelé musí nabídnout archivu výběr archiválií, ostatní mohou. Tím se historicky cenné záznamy zachovají jako součást národního archivního dědictví.
+
+**Checklist (poskytovatel / archiv):**
+- [ ] Uplynula doba uchování dle vyhlášky č. 98/2012 Sb.?
+- [ ] Je poskytovatel zřizován ministerstvem (povinnost) nebo „ostatní" (oprávnění)?
+- [ ] Byl archivu předán seznam dokumentace s dobou vzniku?
+- [ ] Vyhotovil archiv protokol o výběru a určil péči o archiválie?
+- [ ] U dokumentace neurčené k archivaci — proběhla skartace způsobem znemožňujícím rekonstrukci?
+
+**Typicky rozhodné důkazy / podklady:** seznam dokumentace s dobou vzniku, doklad o uplynutí uchovací lhůty, protokol archivu o výběru archiválií, skartační záznam.
 
 ---
 
@@ -891,6 +1721,42 @@ Archivem se rozumí Národní archiv nebo státní oblastní archiv ve smyslu z�
 
 Vyhláška je nezbytným provozním předpisem — bez ní by řada povinností v § 53–69 ZZS nebyla aplikovatelná v praxi (zejména doby uchování, technické standardy).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel je sankcionován za to, že vedl elektronickou dokumentaci způsobem, který neodpovídá technickým požadavkům vyhlášky č. 98/2012 Sb., a že nedodržel lhůtu pro autorizaci záznamu. Poskytovatel v obraně namítá, že příslušná povinnost není v samotném zákoně, nýbrž jen ve vyhlášce, a že vyhláška překračuje zákonné zmocnění. Důkazy: znění vyhlášky, technický audit systému, srovnání s rozsahem zmocnění v § 69.
+
+**2. Právní otázka.** Je povinnost stanovená vyhláškou č. 98/2012 Sb. závazná a kryta zákonným zmocněním v § 69, nebo jde o nepřípustné překročení (ultra vires)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 69 ZZS — taxativní výčet otázek, jejichž úpravu zákon svěřuje prováděcí vyhlášce (obsah dokumentace, lhůty pro záznamy a autorizaci, doby uchování, výběr archiválií atd.).
+- *Související ustanovení téhož zákona:* § 55 (forma), § 55a (autorizace, lhůty), § 68a (výběr archiválií), § 56a–56d (pacientský souhrn a NKM, na něž § 69 písm. a–c rovněž odkazuje).
+- *Související předpisy:* vyhláška č. 98/2012 Sb. o zdravotnické dokumentaci; čl. 79 odst. 3 Ústavy (meze podzákonné normotvorby — secundum et intra legem).
+- *Judikatura:* konstantní judikatura Ústavního soudu k mezím prováděcích předpisů — vyhláška se musí pohybovat v mezích zákona a nesmí stanovit povinnosti nad rámec zmocnění.
+
+**4. Subsumpce.** Technické požadavky na elektronické vedení spadají pod § 69 písm. d); lhůty pro autorizaci pod písm. e). Obě otázky jsou zákonem výslovně svěřeny vyhlášce → vyhláška je v tomto rozsahu kryta zmocněním a je závazná (intra vires).
+
+**5. Řešení.** Námitka ultra vires je nedůvodná: § 69 výslovně zmocňuje k úpravě technických prostředků (písm. d) i lhůt autorizace (písm. e). Povinnosti vyhlášky jsou tedy závazné; poskytovatel odpovídá za jejich porušení. Procesně lze namítat jen to, že by konkrétní ustanovení vyhlášky šlo za rámec zmocnění — to zde neplatí.
+
+**6. Varianty.** (a) Pokud by vyhláška stanovila povinnost, pro niž § 69 zmocnění nedává (např. zcela nový druh sankce), byla by v té části neaplikovatelná. (b) Pokud by vyhláška nebyla vydána, řada povinností by byla fakticky neaplikovatelná a sankci by nebylo možno uložit pro neurčitost.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* podstatné povinnosti mají být v zákoně, ne ve vyhlášce. *Neutralizace:* zákon stanoví rámec a sankční skutkové podstaty; technické a lhůtní detaily jsou typickým a ústavně přípustným předmětem prováděcí normy.
+- *Protiargument:* vyhláška je novelizována, adresát se nestíhá orientovat. *Neutralizace:* to nezbavuje povinnosti; poskytovatel je profesionál s povinností sledovat platné předpisy.
+- *Slabé místo:* u jednotlivých ustanovení vyhlášky je vždy nutné ověřit konkrétní písmeno zmocnění; paušální tvrzení o krytí nestačí.
+
+#### H. Praktický závěr
+
+§ 69 je zmocňovací normou: vymezuje sedm okruhů, které dále upravuje vyhláška č. 98/2012 Sb. Povinnosti z vyhlášky jsou závazné v mezích tohoto zmocnění; bez vyhlášky by zákonná úprava dokumentace nebyla provozuschopná.
+
+**Checklist (poskytovatel / správní orgán / soud):**
+- [ ] Spadá sporná povinnost pod některé z písmen a)–g) § 69?
+- [ ] Je úprava ve vyhlášce v mezích zmocnění (intra vires)?
+- [ ] Jde o platné a účinné znění vyhlášky?
+- [ ] Je porušení vyhlášky navázáno na zákonnou sankční skutkovou podstatu?
+
+**Typicky rozhodné důkazy / podklady:** znění § 69 a vyhlášky č. 98/2012 Sb., technický audit dokumentačního systému, srovnání rozsahu zmocnění a obsahu vyhlášky.
+
 ---
 
 ### § 69a — Národní kontaktní místo
@@ -918,6 +1784,44 @@ Vyhláška je nezbytným provozním předpisem — bez ní by řada povinností 
 
 **Správcem** je ministerstvo zdravotnictví. NKM je provozováno typicky v součinnosti se Státním ústavem pro kontrolu léčiv (pro e-recept) a s Ústavem zdravotnických informací a statistiky (pro datové služby NZIS).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Český pacient onemocní na dovolené ve Španělsku; tamní nemocnice potřebuje jeho pacientský souhrn (alergie, medikace, diagnózy). Španělské NKM se prostřednictvím českého NKM dotáže na pacientský souhrn vedený jeho českým poskytovatelem. Samostatně řeší lékárna výdej léku v ČR na e-recept vystavený v Rakousku. Důkazy: technický log komunikace NKM, doklad o totožnosti pacienta, ověření oprávnění zahraničního NKM.
+
+**2. Právní otázka.** Po jaké infrastruktuře a za jakých podmínek lze přeshraničně předat pacientský souhrn a informace nutné pro výdej léku na zahraniční e-recept?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 69a ZZS — NKM jako centrální služba IDRZ; umožňuje předávání PS (§ 56a odst. 3) a částí dokumentace (§ 56b), jakož i komunikaci pro výdej léku na přeshraniční e-recept; správcem je ministerstvo.
+- *Související ustanovení téhož zákona:* § 56a (pacientský souhrn), § 56b (komunikace přes NKM), § 56c (nesouhlas pacienta — opt-out), § 56d (náležitosti požadavku), § 69c (přístup poskytovatelů do NKM).
+- *Související předpisy:* směrnice 2011/24/EU o právech pacientů v přeshraniční péči; zákon č. 325/2021 Sb. o elektronizaci zdravotnictví (IDRZ); zákon o léčivech (přeshraniční e-recept); nařízení eIDAS; GDPR (čl. 9 odst. 2 písm. h).
+- *Judikatura:* k volnému pohybu pacientů a přeshraniční zdravotní péči judikatura SDEU navazující na směrnici 2011/24/EU.
+
+**4. Subsumpce.** Komunikace probíhá mezi národními kontaktními místy (znak splněn); předmětem je PS dle § 56a odst. 3 (splněno) a u druhého případu výdej léku na zahraniční e-recept dle odst. 3 — pro nějž se postupuje podle zákona o léčivech. Správcem a garantem služby je ministerstvo.
+
+**5. Řešení.** Český poskytovatel poskytne PS prostřednictvím českého NKM, které komunikuje se španělským NKM; výdej léku na zahraniční e-recept se řídí zvláštním režimem zákona o léčivech přes NKM. Vždy je nutné respektovat případný opt-out pacienta (§ 56c) a rozsah dle § 56a/56b.
+
+**6. Varianty.** (a) Pokud pacient vyslovil nesouhlas s přeshraničním předáváním (§ 56c), NKM PS nepředá. (b) Jde-li o stát mimo EU/EHP/Švýcarsko, režim NKM dle § 69a se nepoužije.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* přeshraniční sdílení zdravotních dat ohrožuje soukromí pacienta. *Neutralizace:* zpracování má titul v čl. 9 odst. 2 písm. h) GDPR, je omezeno rozsahem PS a podléhá opt-outu (§ 56c) a zabezpečení IDRZ.
+- *Protiargument:* odpovědnost za chybný přenos je nejasná (které NKM, poskytovatel?). *Neutralizace:* správcem NKM je ministerstvo; odpovědnost poskytovatele za obsah dokumentace a NKM za přenos jsou oddělené role správců.
+- *Slabé místo:* funkčnost závisí na interoperabilitě se zahraničními NKM a na technických standardech IDRZ; výpadky řeší zákon o elektronizaci zdravotnictví, ne § 69a sám.
+
+#### H. Praktický závěr
+
+§ 69a institucionalizuje NKM jako jednotnou bránu pro přeshraniční výměnu pacientského souhrnu, částí dokumentace a informací pro e-recept v rámci EU/EHP/Švýcarska, se správcovstvím ministerstva.
+
+**Checklist (poskytovatel / ministerstvo / lékárna):**
+- [ ] Jde o komunikaci s NKM státu EU/EHP/Švýcarska?
+- [ ] Je předmětem PS (§ 56a), část dokumentace (§ 56b) nebo e-recept (zákon o léčivech)?
+- [ ] Nevyslovil pacient nesouhlas dle § 56c?
+- [ ] Je dodržen rozsah a zabezpečení přenosu přes IDRZ?
+
+**Typicky rozhodné důkazy / podklady:** log komunikace NKM, doklad o opt-outu/jeho absenci, ověření oprávnění zahraničního NKM, technické standardy IDRZ.
+
+---
+
 ### § 69c — Přístup poskytovatelů do NKM
 
 > **§ 69c**
@@ -933,6 +1837,41 @@ Vyhláška je nezbytným provozním předpisem — bez ní by řada povinností 
 **Výklad:**
 
 § 69c stanoví, že **správce NKM (ministerstvo)** zajistí poskytovatelům technický přístup k NKM. Detailní postup a technické náležitosti stanoví prováděcí vyhláška. Toto ustanovení dokončuje právní rámec přeshraničního sdílení tím, že garantuje provozní možnost poskytovatelů zapojit se do systému.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Nemocnice chce začít vést a poskytovat pacientské souhrny přeshraničně. Zjišťuje, jak se technicky napojit na NKM a jak ohlásit, že vede dokumentaci konkrétních pacientů v elektronické podobě, aby ji bylo možné na žádost zahraničního NKM poskytnout. Druhý poskytovatel chce poskytovat i části dokumentace jiné než PS. Důkazy: žádost o přístup, ohlášení vedení PS/dokumentace, technické náležitosti dle prováděcí vyhlášky.
+
+**2. Právní otázka.** Jak poskytovatel získá přístup do NKM a co musí ohlásit, aby mohl PS či dokumentaci přeshraničně poskytovat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 69c ZZS — správce NKM zajistí poskytovateli přístup pro ohlášení vedení a poskytování PS (§ 56a odst. 2) a dokumentace či jejích částí (§ 56b odst. 1); prováděcí předpis stanoví formu a postup ohlášení.
+- *Související ustanovení téhož zákona:* § 56a, § 56b (předmět poskytování), § 69a (NKM a jeho správce), § 69 (zmocnění k vyhlášce o náležitostech požadavku).
+- *Související předpisy:* zákon č. 325/2021 Sb. o elektronizaci zdravotnictví (IDRZ, identifikátory); prováděcí vyhláška k náležitostem ohlášení; GDPR.
+- *Judikatura:* k povinnosti veřejné správy poskytnout funkční přístup k informačním systémům, které sama provozuje.
+
+**4. Subsumpce.** Poskytovatel spadá pod § 56a odst. 2 (vede PS) nebo § 56b odst. 1 (poskytuje dokumentaci) — pak mu správce NKM *zajistí přístup*. Ohlášení (vedení a poskytování PS / vedení dokumentace) se provede způsobem a v náležitostech dle prováděcího předpisu.
+
+**5. Řešení.** Poskytovatel požádá o přístup do NKM, který mu správce (ministerstvo) zajistí, a provede ohlášení dle vyhlášky. Tím se uzavírá řetězec: § 69a zřizuje NKM, § 69c garantuje poskytovatelům provozní možnost se zapojit.
+
+**6. Varianty.** (a) Poskytovatel, který PS nevede ani dokumentaci přeshraničně neposkytuje, přístup dle § 69c nepotřebuje. (b) Detailní náležitosti ohlášení mohou být změněny novelou vyhlášky, aniž se mění § 69c.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* zajištění přístupu je jen technická záležitost bez právního významu. *Neutralizace:* bez garantovaného přístupu by práva pacientů na přeshraniční sdílení (§ 56a–56b) zůstala neproveditelná; § 69c je proto nezbytným provozním pojítkem.
+- *Protiargument:* ohlašovací povinnost je administrativní zátěž. *Neutralizace:* ohlášení je podmínkou bezpečné a dohledatelné přeshraniční výměny; rozsah stanoví vyhláška úměrně účelu.
+- *Slabé místo:* faktická funkčnost závisí na ministerstvu jako správci; prodlení v zajištění přístupu může blokovat realizaci práv pacientů.
+
+#### H. Praktický závěr
+
+§ 69c uzavírá rámec přeshraničního sdílení: zaručuje poskytovatelům přístup do NKM a stanoví ohlašovací režim pro vedení a poskytování PS a dokumentace, s detaily v prováděcí vyhlášce.
+
+**Checklist (poskytovatel / ministerstvo):**
+- [ ] Vede poskytovatel PS (§ 56a odst. 2) nebo poskytuje dokumentaci (§ 56b odst. 1)?
+- [ ] Požádal o přístup do NKM a byl mu správcem zajištěn?
+- [ ] Bylo provedeno ohlášení v náležitostech dle prováděcí vyhlášky?
+
+**Typicky rozhodné důkazy / podklady:** žádost o přístup do NKM, doklad o zajištění přístupu správcem, ohlášení vedení/poskytování PS či dokumentace, prováděcí vyhláška.
 
 ---
 
@@ -1107,6 +2046,43 @@ V NZIS se za účelem identifikace subjektu údajů vedou tři identifikátory:
 
 AIFO je pseudonymizační prostředek dle čl. 4 odst. 5 GDPR — slouží k identifikaci fyzické osoby v konkrétní agendě státu, aniž by se používaly přímé identifikátory (rodné číslo) napříč agendami.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soukromá ambulance odmítá předávat údaje do NZIS s odůvodněním, že jde o citlivá data pacientů a že nemá souhlas pacientů ani nárok na úhradu nákladů spojených s vykazováním. ÚZIS provede kontrolu a zjistí, že poskytovatel buď nevykazuje, nebo vykazuje nesprávné údaje. Důkazy: výzva ÚZIS, datové rozhraní, protokol o kontrole správnosti a úplnosti, doklad o nepředání údajů.
+
+**2. Právní otázka.** Je poskytovatel povinen předávat osobní údaje pacientů do NZIS bez jejich souhlasu a bez nároku na úhradu nákladů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 70 ZZS — NZIS, předávání údajů bez souhlasu subjektu (odst. 2), povinné subjekty (odst. 4), bez nároku na úhradu a povinnost součinnosti (odst. 5), pouze elektronicky (odst. 6), identifikátory (odst. 7), oprava nesprávných údajů (odst. 8).
+- *Související ustanovení téhož zákona:* § 72 (skladba NZIS), § 73 (účely a přístup), § 74, § 76, § 77a (jednotlivé registry, na jejichž rozsah § 70 odst. 2 odkazuje); § 71 (referenční údaje).
+- *Související předpisy:* GDPR čl. 6 odst. 1 písm. c) a e), čl. 9 odst. 2 písm. h), i), j); zákon č. 89/1995 Sb. o státní statistické službě; zákon č. 111/2009 Sb. o základních registrech (AIFO); vyhláška č. 373/2016 Sb.
+- *Judikatura:* k zákonnému titulu zpracování zdravotních dat ve veřejném zájmu a k mezím povinného výkaznictví bez souhlasu subjektu údajů.
+
+**4. Subsumpce.** Poskytovatel je subjektem dle odst. 4 písm. a) (znak splněn) → povinnost předávat. Údaje se předávají bez souhlasu subjektu (odst. 2) na základě zákonného titulu (GDPR čl. 6/1 c), e), čl. 9/2 h), i)). Odst. 5 vylučuje nárok na úhradu nákladů a zakládá povinnost součinnosti a správnosti.
+
+**5. Řešení.** Námitka chybějícího souhlasu je nedůvodná — § 70 odst. 2 je samostatným zákonným titulem. Námitka nákladů je nedůvodná dle odst. 5 písm. a). Poskytovatel je povinen vykazovat elektronicky ve struktuře datového rozhraní a zajistit správnost; při kontrole musí ÚZIS umožnit přístup a nesprávné údaje opravit ve lhůtě 3 pracovních dnů (odst. 8).
+
+**6. Varianty.** (a) Poskytovatel, který je zároveň zpravodajskou službou, údaje nepředává (odst. 4 písm. a) in fine). (b) Pokud by ÚZIS chtěl data nad rámec rozsahu odst. 2, mohl by poskytovatel jejich předání odepřít pro rozpor se zásadou minimalizace.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* zpracování zdravotních dat bez souhlasu odporuje GDPR. *Neutralizace:* GDPR souhlas nevyžaduje, je-li dán jiný titul; zde jde o právní povinnost a veřejný zájem ve zdraví (čl. 6/1 c), e), čl. 9/2 h), i)), výslovně konkretizovaný v § 70.
+- *Protiargument:* rozsah údajů je nepřiměřený. *Neutralizace:* rozsah je v odst. 2 taxativní a implementuje minimalizaci dat (čl. 5/1 c) GDPR); nad jeho rámec předávat nelze.
+- *Slabé místo:* sankce za nepředání/nesprávnost stojí na navazujících přestupkových ustanoveních; samo § 70 ukládá povinnost, ale vymahatelnost závisí na sankčním rámci a kontrole ÚZIS.
+
+#### H. Praktický závěr
+
+§ 70 je páteří NZIS: zakládá povinné, bezsouhlasové a bezúplatné předávání taxativně vymezených údajů elektronicky do systému spravovaného ÚZIS, s povinností součinnosti, správnosti a opravy nesprávných údajů ve třídenní lhůtě.
+
+**Checklist (poskytovatel / zdravotní pojišťovna / ÚZIS):**
+- [ ] Je subjekt povinen předávat dle § 70 odst. 4 (poskytovatel, ZP, správce, úřad...)?
+- [ ] Předává jen údaje v rozsahu odst. 2 (minimalizace)?
+- [ ] Probíhá předávání pouze elektronicky ve struktuře datového rozhraní (odst. 6)?
+- [ ] Je zajištěna správnost a součinnost při kontrole (odst. 5)?
+- [ ] Byly nesprávné/neúplné údaje opraveny do 3 pracovních dnů (odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** datové rozhraní ÚZIS, výkazy, protokol o kontrole správnosti a úplnosti, výzva k opravě a doklad o opravě, identifikátory (pacienta, pracovníka, AIFO).
+
 ---
 
 ### § 71 — Využívání referenčních údajů ze základních registrů
@@ -1138,6 +2114,42 @@ Policie ČR poskytuje poskytovateli na **písemnou žádost** údaje o místě p
 
 Tento mechanismus umožňuje poskytovateli kontaktovat rodinu pacienta v případě úmrtí, neodkladné informace o vážném zdravotním stavu nebo zachování návaznosti péče.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient zemře v nemocnici sám, bez přítomnosti rodiny; nemocnice potřebuje kontaktovat pozůstalé (manželku, děti), aby je informovala a předala osobní věci. Současně ÚZIS potřebuje ověřit a aktualizovat identifikační údaje pacientů v registrech proti autoritativnímu zdroji. Důkazy: žádost poskytovatele Policii ČR, doklad o úmrtí, referenční údaje z registru obyvatel.
+
+**2. Právní otázka.** Z jakých zdrojů a v jakém rozsahu smí ÚZIS čerpat referenční údaje a kdy smí poskytovatel získat od Policie ČR údaje o pobytu osob blízkých pacientovi?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 71 ZZS — využívání referenčních údajů ze základního registru obyvatel (ROB), evidence obyvatel, cizinců a registru rodných čísel ÚZISem (odst. 1); doručování údajů Policií ČR poskytovateli na písemnou žádost u zemřelého/nezpůsobilého pacienta (odst. 7).
+- *Související ustanovení téhož zákona:* § 70 odst. 7 (identifikátory, AIFO), § 72 odst. 2 (využití údajů z ISVS pro registry), § 71a–71b (další evidence).
+- *Související předpisy:* zákon č. 111/2009 Sb. o základních registrech (ROB, referenční údaje, AIFO); zákon č. 133/2000 Sb. o evidenci obyvatel; zákon č. 326/1999 Sb. o pobytu cizinců; GDPR (přesnost údajů — čl. 5/1 d).
+- *Judikatura:* k zásadě přesnosti zpracovávaných osobních údajů a k oprávnění veřejné správy synchronizovat údaje s referenčním zdrojem.
+
+**4. Subsumpce.** ÚZIS čerpá referenční údaje z ROB a navazujících systémů pro zajištění NZIS (znak splněn) — k udržení přesnosti identifikace subjektů. Poskytovatel u zemřelého pacienta (odst. 7) splňuje podmínku pro žádost Policii ČR o údaj o pobytu osob blízkých.
+
+**5. Řešení.** ÚZIS legitimně synchronizuje identifikační údaje s ROB, čímž plní zásadu přesnosti (čl. 5/1 d GDPR). Poskytovatel podá Policii ČR písemnou žádost o místo pobytu manželky/dětí zemřelého pacienta; Policie údaj poskytne v zákonem vymezených situacích (úmrtí, neschopnost pacienta informaci sdělit).
+
+**6. Varianty.** (a) U žijícího pacienta schopného sdělit informaci podmínky odst. 7 nejsou splněny a Policie údaj neposkytne. (b) Pokud by ÚZIS čerpal údaje nad rámec referenčních pro účely mimo NZIS, chyběl by zákonný titul.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* propojování zdravotnických dat s registrem obyvatel zvyšuje riziko profilování. *Neutralizace:* využívají se jen referenční identifikační údaje k zajištění přesnosti, ne k profilování; účel je vázán na zajištění NZIS.
+- *Protiargument:* poskytování údajů o pobytu třetích osob (rodiny) zasahuje do jejich soukromí. *Neutralizace:* odst. 7 omezuje situace na úmrtí/nezpůsobilost pacienta a vyžaduje písemnou žádost; jde o úzce vymezenou výjimku ve prospěch informování blízkých.
+- *Slabé místo:* rozsah údajů čerpaných z ROB musí odpovídat účelu; nadbytečné čerpání by porušilo minimalizaci.
+
+#### H. Praktický závěr
+
+§ 71 dává ÚZISu titul synchronizovat identifikační údaje s referenčními registry (přesnost dat) a poskytovateli umožňuje za vymezených situací získat od Policie ČR údaj o pobytu osob blízkých zemřelému či nezpůsobilému pacientovi.
+
+**Checklist (ÚZIS / poskytovatel / Policie ČR):**
+- [ ] Čerpá ÚZIS jen referenční údaje pro zajištění NZIS?
+- [ ] Je u žádosti dle odst. 7 splněna podmínka (úmrtí / neschopnost pacienta / nezbytnost informace)?
+- [ ] Je žádost Policii ČR písemná a vymezuje okruh osob?
+- [ ] Odpovídá rozsah čerpaných údajů účelu (minimalizace)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o úmrtí/zdravotním stavu pacienta, písemná žádost Policii ČR, referenční výpis z ROB, záznam o synchronizaci údajů.
+
 ---
 
 ### § 71a–71b — Údaje z evidencí MPSV, ČSSZ a evidence lékařů
@@ -1148,6 +2160,41 @@ Tento mechanismus umožňuje poskytovateli kontaktovat rodinu pacienta v přípa
 - Údaje o fyzických osobách z informačních systémů **MPSV a ČSSZ**.
 
 Tyto informační toky slouží k udržení aktuálnosti Národního registru zdravotnických pracovníků.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V Národním registru zdravotnických pracovníků je u lékaře evidována zastaralá specializovaná způsobilost a chybný údaj o zaměstnavateli, protože poskytovatel změnu nenahlásil. ÚZIS potřebuje aktualizovat údaje z evidencí ministerstva (specializační vzdělávání) a ČSSZ (ošetřující lékaři z nemocenského pojištění). Důkazy: výpis z NRZP, evidence specializačního vzdělávání, data ČSSZ.
+
+**2. Právní otázka.** Z jakých dalších evidencí může ÚZIS čerpat údaje k udržení aktuálnosti registru zdravotnických pracovníků?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 71a–71b ZZS — doplnění zdrojů údajů ÚZIS o evidenci lékařů, zubních lékařů a farmaceutů ve specializačním vzdělávání/se specializovanou způsobilostí (ministerstvo), o ošetřujících lékařích z IS nemocenského pojištění (ČSSZ) a o fyzických osobách z IS MPSV a ČSSZ.
+- *Související ustanovení téhož zákona:* § 76 (obsah NRZP), § 77 (předávání údajů do NRZP), § 71 (referenční údaje z ROB), § 70 odst. 4 písm. e) (subjekty předávající údaje pro NRZP).
+- *Související předpisy:* zákon č. 95/2004 Sb. a č. 96/2004 Sb. (způsobilost zdravotnických pracovníků); zákon č. 187/2006 Sb. o nemocenském pojištění; GDPR (čl. 5/1 d — přesnost).
+- *Judikatura:* k oprávnění propojovat veřejné evidence pro zajištění aktuálnosti zákonem zřízeného registru.
+
+**4. Subsumpce.** Údaje o specializačním vzdělávání spadají do zdrojů ministerstva (§ 71a), údaje o ošetřujících lékařích do IS ČSSZ (§ 71b). ÚZIS je oprávněn z těchto evidencí čerpat, aby NRZP odpovídal skutečnosti.
+
+**5. Řešení.** ÚZIS aktualizuje NRZP propojením s evidencemi ministerstva a ČSSZ; tím se napraví zastaralý údaj o způsobilosti i o vazbě lékaře na poskytovatele. Čerpání je vázáno účelem udržení aktuálnosti registru.
+
+**6. Varianty.** (a) Údaje mimo rozsah § 71a–71b ÚZIS z těchto evidencí čerpat nemůže. (b) Pokud zdroj eviduje rovněž chybný údaj, povinnost správnosti dopadá na editora dle § 76–77, ne na ÚZIS.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* křížové propojování evidencí (zdravotnictví, nemocenské pojištění, MPSV) je nadměrné. *Neutralizace:* každý tok je účelově vázán na aktuálnost NRZP a má zákonný základ; nejde o vytváření nového profilu.
+- *Protiargument:* ÚZIS přebírá chyby ze zdrojových evidencí. *Neutralizace:* primární odpovědnost za správnost nese editor údaje; ÚZIS data ověřuje a označuje nesprávné (§ 70 odst. 8 obdobně).
+- *Slabé místo:* ustanovení jsou stručná a odkazují na zvláštní předpisy; konkrétní rozsah údajů je nutné dohledat v navazující úpravě.
+
+#### H. Praktický závěr
+
+§ 71a–71b rozšiřují zdroje ÚZIS o evidence ministerstva a ČSSZ/MPSV, aby Národní registr zdravotnických pracovníků zůstal aktuální co do způsobilosti i pracovněprávní vazby.
+
+**Checklist (ÚZIS / ministerstvo / ČSSZ):**
+- [ ] Jde o údaje v rozsahu § 71a (specializační vzdělávání) nebo § 71b (ošetřující lékaři, fyzické osoby z IS MPSV/ČSSZ)?
+- [ ] Je čerpání vázáno na účel aktuálnosti NRZP?
+- [ ] Je zachována odpovědnost editora za správnost prvotního údaje?
+
+**Typicky rozhodné důkazy / podklady:** výpis z NRZP, evidence specializačního vzdělávání ministerstva, data z IS nemocenského pojištění ČSSZ.
 
 ---
 
@@ -1207,6 +2254,42 @@ Registry tvoří **vzájemně propojenou soustavu**: pro účely § 73 (taxativn
 Národní zdravotní registry uvedené v příloze (odst. 1 písm. b) vždy obsahují:
 - **Identifikátor pacienta** (autonomní);
 - **AIFO** (pseudonymizovaný identifikátor z ROB).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výzkumný tým chce analyzovat, zda pacienti s určitým nádorovým onemocněním (Národní onkologický registr) byli častěji hospitalizováni v intenzivní péči (registr hospitalizací) v závislosti na regionu. K tomu potřebuje propojit data dvou různých národních zdravotních registrů. Správce jiného registru zase namítá, že jeho data jsou vedena podle transplantačního zákona, a zpochybňuje, zda jsou vůbec součástí NZIS. Důkazy: příloha zákona se seznamem NZR, datová struktura registrů, identifikátor pacienta a AIFO.
+
+**2. Právní otázka.** Které registry tvoří NZIS a lze data napříč jednotlivými registry propojovat (sdružovat)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 72 ZZS — taxativní výčet komponent NZIS (odst. 1 písm. a–j), propojení registrů a sdružování údajů pro účely § 73 (odst. 2), povinné identifikátory pacienta a AIFO v klinických registrech (odst. 3).
+- *Související ustanovení téhož zákona:* § 70 (předmět NZIS, identifikátory), § 73 (účely registrů — jako podmínka sdružování), § 74, § 76, § 77a (jednotlivé registry); příloha zákona (seznam NZR).
+- *Související předpisy:* zákon č. 285/2002 Sb. (transplantační — písm. e); zákon č. 258/2000 Sb. o ochraně veřejného zdraví (písm. f); zákon č. 48/1997 Sb. o veřejném zdravotním pojištění (písm. i); GDPR (čl. 5/1 b — účelové omezení; čl. 89 — zpracování pro statistiku/výzkum).
+- *Judikatura:* k zákazu purpose creep a k podmínkám slučitelného dalšího zpracování pro statistické a vědecké účely.
+
+**4. Subsumpce.** Onkologický registr i registr hospitalizací jsou NZR dle § 72 odst. 1 písm. b) (znak splněn). Sdružování napříč registry je přípustné, jen slouží-li účelům § 73 (vědecké/statistické zpracování zdravotního stavu — § 73 odst. 1 písm. c). Pro identifikaci se v klinických registrech vede identifikátor pacienta a AIFO (odst. 3).
+
+**5. Řešení.** Propojení dat obou registrů je přípustné pro účel dle § 73 (analýza kvality a využívání péče). Provede je správce (ÚZIS) za podmínek minimalizace a zabezpečení; výstup pro výzkum musí být v podobě neumožňující určení konkrétní osoby (§ 73 odst. 8). Data podle transplantačního zákona jsou součástí NZIS dle písm. e), tedy přebíraná data.
+
+**6. Varianty.** (a) Pokud by účel ležel mimo § 73 (např. komerční marketing), sdružování by bylo nepřípustné. (b) Pokud by registr nebyl uveden v příloze ani v písm. a–j, nebyl by součástí NZIS a tento režim by se neuplatnil.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* sdružování dat z více registrů umožňuje rozsáhlé profilování pacientů. *Neutralizace:* sdružování je vázáno na taxativní účely § 73 a probíhá u správce (ÚZIS) s identifikací přes AIFO (pseudonymizace), výstupy pro výzkum jsou anonymní.
+- *Protiargument:* výčet komponent je nepřehledný a část dat je „přebíraná" z jiných zákonů. *Neutralizace:* přebíraná data (písm. e, f, h, i) mají vlastní zákonný režim; § 72 jen určuje, že tvoří součást NZIS pro účely jeho zajištění.
+- *Slabé místo:* přípustnost konkrétního propojení vždy závisí na subsumpci pod některý účel § 73; chybí-li, jde o nepřípustné rozšíření účelu.
+
+#### H. Praktický závěr
+
+§ 72 vymezuje NZIS jako agregát deseti komponent (statistická zjišťování, národní zdravotní registry, registry poskytovatelů/pracovníků/hrazených služeb, přebíraná data) a umožňuje sdružovat data napříč registry — ovšem jen pro účely § 73 a s povinnými identifikátory (pacient, AIFO).
+
+**Checklist (ÚZIS / výzkumník / správce registru):**
+- [ ] Je registr komponentou NZIS dle § 72 odst. 1 (vč. přílohy)?
+- [ ] Slouží zamýšlené sdružení dat účelu vymezenému v § 73?
+- [ ] Jsou vedeny identifikátor pacienta a AIFO (odst. 3)?
+- [ ] Je výstup pro vědu/statistiku anonymizován (§ 73 odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** příloha zákona (seznam NZR), datové struktury registrů, doklad o účelu zpracování, záznam o pseudonymizaci/anonymizaci.
 
 ---
 
@@ -1326,6 +2409,43 @@ Pro **statistické a vědecké účely** poskytuje ÚZIS data **jen v podobě, z
 
 ÚZIS si může vyžádat **úhradu nákladů** (kopie, pořízení nosičů, odeslání) a **úhradu za mimořádně rozsáhlé vyhledávání**. Úhrada je příjmem ÚZIS. Nesplnění oznamovací povinnosti o výši úhrady (odst. 9) vede ke **ztrátě nároku** na úhradu (odst. 10).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Univerzitní výzkumný tým žádá ÚZIS o poskytnutí dat z Národního onkologického registru k epidemiologické studii. ÚZIS poskytne data jen v anonymizované podobě a vyúčtuje úhradu nákladů na mimořádně rozsáhlé vyhledávání, aniž by žadatele předem písemně informoval o výši úhrady. Současně jiný subjekt žádá podle zákona o svobodném přístupu k informacím o konkrétní data z NZIS. Důkazy: žádost o přístup, sdělení ÚZIS o rozsahu práv, vyúčtování úhrady, doklad o (ne)oznámení výše úhrady.
+
+**2. Právní otázka.** V jaké podobě a za jakých podmínek (vč. úhrady) poskytuje ÚZIS data z registrů a v jakém rozsahu se uplatní zákon o svobodném přístupu k informacím?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 73 ZZS — účely registrů (odst. 1), okruh oprávněných pracovníků a přístup na žádost (odst. 2–4), informace o úmrtí pacienta (odst. 5–6), InfZ jen na strukturu dat (odst. 7), anonymizace pro vědu/statistiku a úhrada nákladů vč. oznamovací povinnosti pod sankcí ztráty nároku (odst. 8–12).
+- *Související ustanovení téhož zákona:* § 72 (sdružování dat), § 70 (titul zpracování), § 55b (anonymizace v dokumentaci jako analogie), § 74 odst. 1 (ověření žadatele v registru poskytovatelů).
+- *Související předpisy:* zákon č. 106/1999 Sb. o svobodném přístupu k informacím (§ 9, § 11); GDPR (čl. 89 — vědecké a statistické účely; anonymizace mimo působnost GDPR); zákon č. 89/1995 Sb. o státní statistické službě.
+- *Judikatura:* k odepření poskytnutí osobních údajů dle InfZ a k podmínkám úhrady nákladů za poskytnutí informací (předchozí oznámení výše).
+
+**4. Subsumpce.** Žádost výzkumu spadá pod statistické/vědecké účely → ÚZIS poskytne data jen anonymizovaně (odst. 8). Úhrada nákladů je přípustná, ale podmíněná předchozím písemným oznámením výše (odst. 9); jeho nesplnění vede ke ztrátě nároku (odst. 10). Žádost dle InfZ se vyřídí jen co do struktury dat (odst. 7).
+
+**5. Řešení.** ÚZIS poskytne anonymizovaná data; jelikož opomněl předem oznámit výši úhrady, ztrácí nárok na úhradu (odst. 10) a musí data poskytnout bez platby. Žádost podle InfZ o konkrétní osobní data se odmítne (poskytne se jen struktura dat — odst. 7, § 9 a § 11 InfZ).
+
+**6. Varianty.** (a) Žádá-li poskytovatel informaci o úmrtí pacienta (odst. 5), ÚZIS ověří jeho identitu v registru poskytovatelů a posoudí oprávněnost a rozsah. (b) Pokud žadatel úhradu řádně oznámenou nezaplatí do 60 dnů, ÚZIS žádost odloží (odst. 11).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* věda potřebuje identifikovatelná data, anonymizace je znemožňuje. *Neutralizace:* § 73 odst. 8 striktně vyžaduje neidentifikovatelnou podobu; identifikovatelný výzkum je možný jen jiným titulem (§ 24 zák. č. 110/2019 Sb. a smlouvy), ne dle § 73 odst. 8.
+- *Protiargument:* NZIS je veřejný systém, měl by být přístupný dle InfZ. *Neutralizace:* odst. 7 omezuje InfZ na strukturu dat; osobní údaje jsou chráněny § 9 a § 11 InfZ a GDPR.
+- *Slabé místo:* sankce ztráty nároku na úhradu (odst. 10) je tvrdá — ÚZIS musí oznamovací povinnost o výši úhrady dodržet přesně a doložitelně.
+
+#### H. Praktický závěr
+
+§ 73 reguluje přístup k registrům přes systém „oprávněných pracovníků" a žádostí posuzovaných ÚZISem, poskytuje data pro vědu/statistiku jen anonymizovaně, omezuje InfZ na strukturu dat a váže úhradu nákladů na předchozí oznámení její výše pod sankcí ztráty nároku.
+
+**Checklist (ÚZIS / žadatel / výzkumník):**
+- [ ] Spadá zamýšlené použití pod některý účel dle § 73 odst. 1?
+- [ ] Je žadatel oprávněným subjektem dle odst. 2 a žádost má náležitosti dle odst. 3?
+- [ ] Jsou data pro vědu/statistiku poskytnuta jen v neidentifikovatelné podobě (odst. 8)?
+- [ ] Byla výše úhrady písemně oznámena předem (odst. 9) — jinak nárok zaniká (odst. 10)?
+- [ ] U žádosti dle InfZ — poskytuje se jen struktura dat (odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** žádost o přístup s vymezením účelu a rozsahu, sdělení ÚZIS o rozsahu přístupových práv, doklad o anonymizaci, oznámení výše úhrady a doklad o jeho doručení.
+
 ---
 
 ### § 73a — Resortní referenční statistiky
@@ -1351,6 +2471,42 @@ Pro **statistické a vědecké účely** poskytuje ÚZIS data **jen v podobě, z
 § 73a zavádí institut **resortních referenčních statistik** — standardizovaných, opakovaně publikovaných statistik o zdravotnictví, jež slouží jako **referenční srovnávací nástroj** pro hodnocení výkonnosti, kvality a dostupnosti zdravotních služeb. Detailní seznam stanoví prováděcí předpis (§ 78 písm. f) — typicky standardizovaná mortalita, dostupnost specializované péče v dojezdové vzdálenosti, indikátory kvality jednotlivých oborů, kontextové ukazatele zdravotního stavu.
 
 ÚZIS zveřejňuje statistiky **i s metodikou výpočtu, zdroji údajů a interpretací** — transparentnost umožňuje veřejnou kontrolu kvality výpočtu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel se v médiích označí za podprůměrného na základě resortní referenční statistiky ÚZIS o výkonnosti poskytovatelů, v níž je jmenovitě uveden. Namítá, že metodika výpočtu je netransparentní a že neměl být v dané statistice identifikován. Důkazy: zveřejněná statistika s metodikou, prováděcí předpis dle § 78 písm. f), zdrojová data.
+
+**2. Právní otázka.** Smí být v resortní referenční statistice označen konkrétní poskytovatel a jaké jsou požadavky na transparentnost metodiky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 73a ZZS — ÚZIS zpracovává a zveřejňuje resortní referenční statistiky v šesti oblastech (makroekonomika, dostupnost, kvalita, výkonnost poskytovatelů, zdravotní stav, preventivní programy).
+- *Související ustanovení téhož zákona:* § 70 odst. 1 písm. f) (resortní referenční statistiky jako účel NZIS), § 78 písm. f) (zmocnění — seznam statistik, lhůty a *případy, kdy lze označit konkrétního poskytovatele/pojišťovnu*), § 73 (anonymizace pro vědu/statistiku).
+- *Související předpisy:* prováděcí vyhláška dle § 78; GDPR (transparentnost, čl. 5/1 a); zákon o státní statistické službě.
+- *Judikatura:* k mezím zveřejňování srovnávacích hodnocení veřejných subjektů a k požadavku na metodickou transparentnost.
+
+**4. Subsumpce.** Statistika výkonnosti poskytovatelů spadá pod § 73a písm. d). Označení konkrétního poskytovatele je přípustné jen v případech stanovených prováděcím předpisem (§ 78 písm. f). Je-li takový případ vyhláškou předvídán, identifikace je zákonná.
+
+**5. Řešení.** Pokud prováděcí předpis pro danou statistiku připouští označení konkrétního poskytovatele, identifikace je v souladu se zákonem; ÚZIS však musí zveřejnit metodiku, zdroje a interpretaci. Pokud takový případ vyhláška nepředvídá, poskytovatel neměl být jmenovitě uveden.
+
+**6. Varianty.** (a) Jde-li o statistiku, kde vyhláška označení poskytovatele nepřipouští, údaj musí být agregovaný/anonymní. (b) Při chybné metodice se poskytovatel může domáhat opravy a vysvětlení; samotné nepříznivé hodnocení založené na správné metodice však zásahem do práv není.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* jmenovité hodnocení poškozuje pověst poskytovatele. *Neutralizace:* zveřejnění je přípustné jen v zákonem/vyhláškou vymezených případech a slouží veřejnému zájmu na transparentnosti a kvalitě péče; je doprovázeno metodikou.
+- *Protiargument:* metodika je nesrozumitelná. *Neutralizace:* § 73a předpokládá zveřejnění i metodiky výpočtu a zdrojů — to umožňuje věcnou kontrolu a obranu.
+- *Slabé místo:* mez „kdy lze označit konkrétního poskytovatele" je delegována na vyhlášku; bez ní není identifikace přípustná.
+
+#### H. Praktický závěr
+
+§ 73a zakládá institut resortních referenčních statistik jako standardizovaný srovnávací nástroj v šesti oblastech; jmenovité označení poskytovatele je možné jen v případech stanovených prováděcím předpisem a vždy s transparentní metodikou.
+
+**Checklist (ÚZIS / poskytovatel):**
+- [ ] Spadá statistika do některé z oblastí § 73a písm. a)–f)?
+- [ ] Připouští prováděcí předpis (§ 78 písm. f) označení konkrétního poskytovatele?
+- [ ] Je zveřejněna metodika výpočtu, zdroje a interpretace?
+- [ ] Odpovídají vstupní data realitě (možnost opravy)?
+
+**Typicky rozhodné důkazy / podklady:** zveřejněná statistika a její metodika, prováděcí vyhláška dle § 78 písm. f), zdrojová data ÚZIS.
 
 ---
 
@@ -1461,6 +2617,42 @@ Obsah Registru poskytovatelů je **veřejně přístupný na internetových str�
 
 Pro jednotlivé okruhy oprávněných subjektů (správní úřady, ZP, ÚZIS, ministerstvo, SÚKL, ČSSZ, ZZS, OOVZ, MPSV) je registr přístupný v rozsahu nutném pro jejich činnost.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Občan si chce na webu ministerstva ověřit, zda určitá ambulance má platné oprávnění, jaký má rozsah péče a smlouvy s pojišťovnami. Současně koordinační lékař při hromadném neštěstí potřebuje real-time přehled o obsazenosti lůžek intenzivní medicíny. Poskytovatel Ministerstva obrany naopak namítá, že jeho údaje nemají být veřejné. Důkazy: výpis z Národního registru poskytovatelů, rozhodnutí o oprávnění, data o obsazenosti lůžek.
+
+**2. Právní otázka.** Které údaje Registru poskytovatelů jsou veřejné, které jsou z veřejnosti vyňaty a kdo má k neveřejným údajům přístup?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 74 ZZS — obsah Registru poskytovatelů (odst. 1 písm. a–s), údaje o osobách dle § 20 (odst. 2), veřejnost a její výjimky a okruhy oprávněných subjektů (odst. 3).
+- *Související ustanovení téhož zákona:* § 75 (předávání údajů), § 112, § 113a, § 113c (statusy center — písm. r), § 19 odst. 1 písm. b) (rozsah péče), § 26 (přerušení), § 70 odst. 2 písm. b) (rozsah údajů o poskytovateli).
+- *Související předpisy:* zákon č. 48/1997 Sb. (smlouvy se ZP — písm. k); prováděcí vyhláška dle § 78 (lůžka, přístroje); GDPR (veřejnost vs. ochrana fyzické osoby).
+- *Judikatura:* k rozsahu veřejně přístupných údajů o subjektech vykonávajících veřejně regulovanou činnost a k ochraně bezpečnostně citlivých údajů.
+
+**4. Subsumpce.** Identifikace, rozsah péče, ordinační doba, smlouvy se ZP, statusy center jsou veřejné (odst. 3 písm. a). Z veřejnosti jsou vyňaty: adresa pobytu a datum narození fyzické osoby, stejnopisy rozhodnutí, údaje poskytovatelů MO/MS/MV a údaje o obsazenosti lůžek (odst. 3 písm. a body 1–4). Obsazenost lůžek (písm. m) je přístupná jen vymezeným subjektům (mj. intenzivní medicíně — odst. 3 písm. l).
+
+**5. Řešení.** Občan ověří veřejné údaje ambulance na webu ministerstva. Koordinační lékař intenzivní medicíny má přístup k neveřejným údajům o obsazenosti lůžek (odst. 3 písm. l) pro koordinaci příjmu. Údaje poskytovatele Ministerstva obrany se z veřejné části vynechají (odst. 3 písm. a bod 3).
+
+**6. Varianty.** (a) U fyzické osoby-poskytovatele se v žádném případě veřejně nezobrazí adresa trvalého pobytu a datum narození. (b) Subjekt mimo vyjmenované okruhy (odst. 3 písm. b–m) nemá k neveřejným údajům přístup.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* veřejnost registru zasahuje do soukromí poskytovatelů-fyzických osob. *Neutralizace:* veřejné jsou jen údaje relevantní pro výkon regulované činnosti; citlivé osobní údaje (pobyt, datum narození) jsou z veřejnosti vyňaty.
+- *Protiargument:* údaje o obsazenosti lůžek by měly být veřejné kvůli transparentnosti. *Neutralizace:* jde o citlivou provozní informaci s rizikem zneužití; přístup je proto omezen na subjekty koordinující péči.
+- *Slabé místo:* rozsah přístupu jednotlivých subjektů (odst. 3 písm. b–m) je kazuistický; každý přístup je nutné navázat na konkrétní účel a písmeno.
+
+#### H. Praktický závěr
+
+§ 74 vymezuje Národní registr poskytovatelů jako převážně veřejnou evidenci s taxativními výjimkami (osobní údaje fyzických osob, stejnopisy, bezpečnostní resorty, obsazenost lůžek) a s kazuisticky vymezenými okruhy oprávněných subjektů pro neveřejné údaje.
+
+**Checklist (poskytovatel / ministerstvo / oprávněný subjekt):**
+- [ ] Je požadovaný údaj veřejný, nebo spadá pod výjimku (odst. 3 písm. a body 1–4)?
+- [ ] Patří žadatel do okruhu oprávněných subjektů pro neveřejné údaje (odst. 3 písm. b–m)?
+- [ ] Jde o obsazenost lůžek? Pak přístup jen vymezeným subjektům (mj. odst. 3 písm. l).
+- [ ] Jsou údaje fyzické osoby (pobyt, datum narození) z veřejné části vyňaty?
+
+**Typicky rozhodné důkazy / podklady:** výpis z Národního registru poskytovatelů, rozhodnutí o oprávnění, doklad o statusu centra, evidence přístupových oprávnění subjektů.
+
 ---
 
 ### § 75 — Předávání údajů do Registru poskytovatelů
@@ -1491,6 +2683,42 @@ Pro jednotlivé okruhy oprávněných subjektů (správní úřady, ZP, ÚZIS, m
 **Lhůty:**
 - Obecná lhůta: **bez zbytečného odkladu, nejpozději 3 pracovní dny**;
 - Údaje o obsazenosti lůžek: **24 hodin** (akutní operativa pro řízení péče).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad vydal rozhodnutí o oprávnění k poskytování zdravotních služeb, ale do registru jej zapsal až po dvou týdnech. Poskytovatel mezitím změnil ordinační dobu a uzavřel novou smlouvu s pojišťovnou, což nahlásil pozdě. Nemocnice intenzivní medicíny neaktualizovala obsazenost lůžek po dobu dvou dnů. Důkazy: rozhodnutí o oprávnění, datum zápisu, smlouva se ZP, časové záznamy o aktualizaci obsazenosti.
+
+**2. Právní otázka.** Kdo a v jaké lhůtě je povinen předávat jednotlivé typy údajů do Národního registru poskytovatelů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 75 ZZS — rozdělení povinnosti předávat údaje (správní orgán / krajský úřad / poskytovatel / ministerstvo) podle typu údaje a lhůty (3 pracovní dny obecně; 24 hodin u obsazenosti lůžek).
+- *Související ustanovení téhož zákona:* § 74 (obsah registru — na jehož písmena § 75 odkazuje), § 20 odst. 2 (oznámení krajskému úřadu), § 26 odst. 2 a 4 (přerušení/pokračování), § 78 (zmocnění k periodicitě a lhůtám).
+- *Související předpisy:* správní řád (vydání a právní moc rozhodnutí); vyhláška dle § 78.
+- *Judikatura:* k běhu lhůt pro plnění evidenčních povinností a k odpovědnosti za prodlení s předáním údaje.
+
+**4. Subsumpce.** Údaje vyplývající z rozhodnutí (písm. a–i, p, s) předává správní orgán (znak); provozní údaje (ordinační doba, smlouvy, lůžka — písm. j–o, q) předává poskytovatel; status centra (písm. r) ministerstvo. Obecná lhůta je 3 pracovní dny, u obsazenosti lůžek 24 hodin.
+
+**5. Řešení.** Zápis rozhodnutí o oprávnění s dvoutýdenním zpožděním překračuje třídenní lhůtu — pochybení správního orgánu. Pozdní nahlášení změny ordinační doby/smlouvy poskytovatelem rovněž porušuje třídenní lhůtu. Neaktualizace obsazenosti lůžek po dva dny porušuje zvláštní 24hodinovou lhůtu.
+
+**6. Varianty.** (a) Jde-li o osoby dle § 20 (přeshraniční), předává údaje krajský úřad (odst. 1 písm. b). (b) U přerušení/pokračování dle § 26 odst. 2 a 4 platí zvláštní postup nedotčený § 75.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* poskytovatel nemůže odpovídat za prodlení správního orgánu se zápisem rozhodnutí. *Neutralizace:* § 75 rozděluje odpovědnost podle typu údaje — za zápis rozhodnutí odpovídá orgán, ne poskytovatel.
+- *Protiargument:* 24hodinová lhůta u obsazenosti lůžek je provozně nereálná. *Neutralizace:* jde o údaj kritický pro koordinaci akutní péče; zkrácená lhůta je odůvodněna účelem řízení péče a obvykle se plní automatizovaně.
+- *Slabé místo:* určení správného nositele povinnosti vyžaduje přesné přiřazení údaje k písmenu § 74; chyba v přiřazení vede k záměně odpovědného subjektu.
+
+#### H. Praktický závěr
+
+§ 75 jednoznačně rozděluje povinnost předávat údaje do registru poskytovatelů mezi správní orgán (údaje z rozhodnutí), poskytovatele (provozní údaje) a ministerstvo (statusy center) a stanoví lhůty: obecně 3 pracovní dny, u obsazenosti lůžek 24 hodin.
+
+**Checklist (správní orgán / poskytovatel / ministerstvo):**
+- [ ] Který subjekt je dle typu údaje (§ 74 písm.) povinen jej předat?
+- [ ] Je dodržena obecná lhůta 3 pracovních dnů od vzniku/změny?
+- [ ] Jde o obsazenost lůžek? Pak platí lhůta 24 hodin.
+- [ ] Nejde o přerušení/pokračování dle § 26 odst. 2 nebo 4 (zvláštní postup)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o oprávnění s vyznačením právní moci, datum zápisu do registru, doklady o změnách provozních údajů, časové záznamy o aktualizaci obsazenosti lůžek.
 
 ---
 
@@ -1574,6 +2802,42 @@ Národní registr zdravotnických pracovníků (NRZP) je **centrální evidence 
 
 Přístupní jsou: vzdělávací zařízení, akreditovaná zařízení, ministerstvo, pověřená organizace, poskytovatel (v rozsahu o svých zaměstnancích), komora (o svých členech), zdravotní pojišťovny, ministerstvo (státní správa), správní orgán, SÚKL (léková politika), zdravotnický pracovník sám o sobě, MPSV/ČSSZ (nemocenské pojištění).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nemocnice přijímá nového lékaře a chce ověřit, zda má požadovanou specializovanou způsobilost a zda mu nebyl uložen zákaz výkonu povolání. Lékař naopak žádá o výpis údajů o své osobě a namítá, že nemocnice vidí příliš mnoho jeho údajů. Zdravotní pojišťovna chce přístup k údajům pro provádění veřejného zdravotního pojištění. Důkazy: výpis z Národního registru zdravotnických pracovníků, doklad o specializaci, záznam o zákazu výkonu povolání.
+
+**2. Právní otázka.** Jaké údaje o zdravotnickém pracovníkovi registr obsahuje a v jakém rozsahu k nim mají přístup poskytovatel, komora, pojišťovna a sám pracovník?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 76 ZZS — obsah Národního registru zdravotnických pracovníků (odst. 1 písm. a–p), vč. záznamů o zákazu výkonu povolání a vyloučení z komory (písm. o); okruhy a rozsah přístupu (odst. 2 písm. a–j).
+- *Související ustanovení téhož zákona:* § 77 (předávání údajů), § 55a (identifikátor pracovníka — písm. p), § 70 odst. 2 písm. c) a odst. 4 písm. e) (rozsah a předávající subjekty).
+- *Související předpisy:* zákon č. 95/2004 Sb. a č. 96/2004 Sb. (způsobilost); zákon č. 220/1991 Sb. (komory); GDPR (minimalizace, rozsah přístupu dle účelu).
+- *Judikatura:* k oprávnění ověřovat odbornou způsobilost pracovníka a k mezím sdílení osobních údajů zaměstnance.
+
+**4. Subsumpce.** Poskytovatel má přístup k údajům o svých zaměstnancích v rozsahu písm. a–l a n–p (odst. 2 písm. b) za účelem ověření personálního zabezpečení — záznam o zákazu (písm. o) je tedy poskytovateli přístupný. Komora vidí údaje o svých členech (písm. c), pojišťovna vymezený rozsah (písm. d), pracovník údaje o sobě (písm. h).
+
+**5. Řešení.** Nemocnice legitimně ověří způsobilost i případný zákaz výkonu povolání nového lékaře (odst. 2 písm. b). Lékař obdrží výpis o své osobě (písm. h). Rozsah přístupu nemocnice je dán zákonem (vybraná písmena), nikoli libovůlí — nejde tedy o nadměrný přístup. Pojišťovna získá jen vymezený rozsah (písm. d).
+
+**6. Varianty.** (a) SÚKL vidí jen údaje o lékařích, zubních lékařích a farmaceutech ve vymezeném rozsahu (písm. g). (b) Editor údajů o vzdělávání (vzdělávací/akreditované zařízení) má přístup jen k písm. f–k a p (písm. a).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* zveřejnění/sdílení záznamu o zákazu výkonu povolání poškozuje pracovníka. *Neutralizace:* záznam je přístupný jen vymezeným subjektům (poskytovatel, komora, správní orgán) za účelem ochrany pacientů a personálního zabezpečení, ne veřejnosti.
+- *Protiargument:* poskytovatel vidí nadbytečné údaje zaměstnance. *Neutralizace:* rozsah je zákonem omezen na konkrétní písmena nezbytná pro zajištění služeb a ověření způsobilosti (odst. 2 písm. b).
+- *Slabé místo:* rozsahy přístupu jednotlivých subjektů jsou určeny výčtem písmen; chyba v rozsahu (přístup k údaji mimo výčet) zakládá porušení GDPR.
+
+#### H. Praktický závěr
+
+§ 76 zřizuje Národní registr zdravotnických pracovníků jako evidenci způsobilosti, specializačního vývoje a záznamů o zákazech/vyloučení, s přesně vymezenými okruhy a rozsahy přístupu (poskytovatel o zaměstnancích, komora o členech, pojišťovna a SÚKL ve vymezeném rozsahu, pracovník o sobě).
+
+**Checklist (poskytovatel / komora / pojišťovna / pracovník):**
+- [ ] Patří žadatel do okruhu oprávněných subjektů (odst. 2 písm. a–j)?
+- [ ] Odpovídá rozsah údajů příslušnému písmenu (minimalizace dle účelu)?
+- [ ] Jde o ověření způsobilosti/zákazu výkonu povolání poskytovatelem (odst. 2 písm. b)?
+- [ ] Žádá-li pracovník o své údaje — poskytne se v rozsahu o něm vedených (písm. h).
+
+**Typicky rozhodné důkazy / podklady:** výpis z NRZP, doklad o odborné/specializované způsobilosti, záznam o zákazu výkonu povolání / vyloučení z komory, identifikátor zdravotnického pracovníka.
+
 ---
 
 ### § 77 — Předávání údajů do Registru zdravotnických pracovníků
@@ -1589,6 +2853,42 @@ Přístupní jsou: vzdělávací zařízení, akreditovaná zařízení, ministe
 - **ÚZIS** — přidělení identifikátoru (písm. p).
 
 **Lhůty:** bez zbytečného odkladu, max. 3 pracovní dny od vzniku/změny.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Lékaři byl pravomocně uložen zákaz výkonu zdravotnického povolání. Soud má záznam předat do registru, ale neučiní tak. Lékař mezitím nastoupí k novému poskytovateli. Současně akreditované zařízení nepředalo do registru údaj o úspěšné atestaci jiného lékaře. Důkazy: rozsudek o zákazu výkonu povolání, výpis z registru, doklad o atestaci.
+
+**2. Právní otázka.** Kdo a v jaké lhůtě je povinen předávat jednotlivé typy údajů do Národního registru zdravotnických pracovníků?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 77 ZZS — rozdělení povinnosti předávat údaje do NRZP (vzdělávací/akreditovaná zařízení, pověřené organizace, MV/Policie ČR, ministerstvo, poskytovatel, pracovník, soud, komora, ÚZIS) a lhůta (bez zbytečného odkladu, max. 3 pracovní dny).
+- *Související ustanovení téhož zákona:* § 76 (obsah registru — na jehož písmena § 77 odkazuje), § 70 odst. 4 písm. e) (subjekty předávající údaje), § 77b (běh lhůty u údajů z rozhodnutí).
+- *Související předpisy:* zákon č. 95/2004 Sb. a č. 96/2004 Sb. (způsobilost, atestace); zákon č. 220/1991 Sb. (komory, vyloučení); trestní řád (rozhodnutí soudu o zákazu činnosti).
+- *Judikatura:* k povinnosti orgánů a institucí předávat zákonem stanovené údaje do veřejných evidencí a k důsledkům prodlení.
+
+**4. Subsumpce.** Záznam o zákazu výkonu povolání (§ 76 odst. 1 písm. o bod 1) předává soud (znak); záznam o vyloučení z komory (písm. o bod 2) komora; údaje o vzdělání/atestaci vzdělávací a akreditovaná zařízení (písm. a–j, l). Lhůta je 3 pracovní dny. U údaje z rozhodnutí počíná lhůta dnem následujícím po právní moci (§ 77b).
+
+**5. Řešení.** Nepředání záznamu o zákazu výkonu povolání soudem je porušením § 77 a ohrožuje ochranný účel registru (nemocnice nemohla ověřit zákaz). Nepředání atestace akreditovaným zařízením rovněž porušuje třídenní lhůtu. Náprava: doplnění záznamů povinnými subjekty bez zbytečného odkladu.
+
+**6. Varianty.** (a) Kontaktní údaje (§ 76 odst. 1 písm. n) předává pracovník dobrovolně — jejich absence není porušením. (b) Identifikátor pracovníka (písm. p) přiděluje a předává ÚZIS.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* za nepředání záznamu o zákazu nemůže odpovídat poskytovatel ani pracovník. *Neutralizace:* § 77 přiřazuje tuto povinnost soudu; odpovědnost za prodlení nese povinný subjekt, ne dotčený pracovník.
+- *Protiargument:* lhůta 3 pracovních dnů je u rozhodnutí krátká. *Neutralizace:* § 77b zmírňuje tvrdost tím, že lhůta počíná až dnem po právní moci rozhodnutí.
+- *Slabé místo:* funkčnost ochranné role registru (ověření zákazu) závisí na disciplíně mnoha předávajících subjektů; selhání jednoho (soud) oslabuje celý systém.
+
+#### H. Praktický závěr
+
+§ 77 rozděluje povinnost předávat údaje do NRZP mezi řadu subjektů podle typu údaje (vzdělání, uznání kvalifikace, zaměstnávání, zákaz výkonu, vyloučení z komory, identifikátor) s obecnou lhůtou 3 pracovních dnů; u údajů z rozhodnutí navazuje § 77b.
+
+**Checklist (soud / komora / vzdělávací zařízení / poskytovatel / ÚZIS):**
+- [ ] Který subjekt je dle typu údaje (§ 76 písm.) povinen jej předat?
+- [ ] Je dodržena lhůta 3 pracovních dnů (u rozhodnutí od právní moci — § 77b)?
+- [ ] Byl předán záznam o zákazu výkonu povolání / vyloučení z komory?
+- [ ] Byl přidělen a předán identifikátor pracovníka (ÚZIS)?
+
+**Typicky rozhodné důkazy / podklady:** rozsudek/rozhodnutí o zákazu výkonu povolání s doložkou právní moci, doklad o atestaci, rozhodnutí komory o vyloučení, záznamy o předání do registru.
 
 ---
 
@@ -1684,6 +2984,43 @@ NR-HZS je přístupný **zdravotní pojišťovně** (vlastní úhrady) a **minis
 
 ÚZIS na žádost předá **anonymizovaná data** Ministerstvu financí nebo ministerstvu zdravotnictví pro **veřejnosprávní kontrolu zdravotních pojišťoven** (zákon č. 320/2001 Sb. o finanční kontrole).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministerstvo financí v rámci veřejnosprávní kontroly zdravotní pojišťovny žádá ÚZIS o data z Národního registru hrazených zdravotních služeb. Současně laboratoř zpochybňuje, proč musí do registru předávat strukturované výsledky genetických vyšetření, a pacient se obává, že jeho úhradová a genetická data zůstanou navždy identifikovatelná. Důkazy: žádost MF, datová struktura výsledků vyšetření, doklad o anonymizaci po 50 letech od úmrtí.
+
+**2. Právní otázka.** Jaká data NR-HZS obsahuje, kdo k nim má přístup, v jaké podobě je ÚZIS předá kontrolnímu orgánu a jak dlouho zůstávají identifikovatelná?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 77a ZZS — obsah NR-HZS (odst. 1–4 vč. laboratorních výsledků), přístup ZP a ministerstva (odst. 5), anonymizace po 50 letech od úmrtí (odst. 6), předání anonymizovaných dat MF/ministerstvu pro veřejnosprávní kontrolu (odst. 7).
+- *Související ustanovení téhož zákona:* § 70 (titul a identifikátory, AIFO), § 73 odst. 8 (anonymizace pro statistiku/vědu), § 78 písm. e), g) (zmocnění k vymezení služeb a výsledků vyšetření).
+- *Související předpisy:* zákon č. 48/1997 Sb. o veřejném zdravotním pojištění; zákon č. 320/2001 Sb. o finanční kontrole (veřejnosprávní kontrola); zákon č. 111/2009 Sb. (AIFO); GDPR (čl. 5/1 e — omezení uložení; čl. 9 — genetické údaje).
+- *Judikatura:* k mezím zpracování genetických údajů a k principu omezení doby uložení identifikovatelných dat.
+
+**4. Subsumpce.** NR-HZS obsahuje data o úhradách (předává ZP), pojištěnec je identifikován přes AIFO (pseudonymizace). Laboratorní výsledky vč. genetických předává poskytovatel (odst. 4), u prediktivních/prenatálních/preimplantačních jen typ vyšetření (ochrana). MF dostane data jen anonymizovaně (odst. 7). Po 50 letech od úmrtí se osobní údaje anonymizují (odst. 6).
+
+**5. Řešení.** ÚZIS poskytne MF výhradně anonymizovaná data pro kontrolu pojišťovny (odst. 7). Povinnost laboratoře předávat strukturované výsledky je zákonná (odst. 4) a u citlivých genetických vyšetření je omezena na typ vyšetření. Identifikovatelnost dat je časově omezena (50 let od úmrtí — odst. 6), čímž je naplněn princip omezení uložení.
+
+**6. Varianty.** (a) Přístup k NR-HZS má jen ZP (vlastní úhrady) a ministerstvo (odst. 5); jiný subjekt přístup nemá. (b) U genetického prediktivního vyšetření se nikdy nepředává výsledek, jen typ vyšetření.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* shromažďování genetických a úhradových dat populace je nadměrný zásah. *Neutralizace:* rozsah je zákonem omezen, citlivá genetická vyšetření jen co do typu, identifikace přes AIFO a časové omezení uložení; účelem je udržitelnost úhrad a klinický monitoring, ne profilování.
+- *Protiargument:* předání dat MF ohrožuje soukromí pojištěnců. *Neutralizace:* odst. 7 výslovně připouští jen anonymizovanou podobu.
+- *Slabé místo:* hranice mezi laboratorními výsledky předávanými v plném rozsahu a těmi jen co do typu (genetika) je technicky náročná; chybné předání plného genetického výsledku by bylo porušením zákona.
+
+#### H. Praktický závěr
+
+§ 77a zřizuje NR-HZS jako monitorovací nástroj úhrad a klinických ukazatelů s pseudonymizací přes AIFO, povinným předáváním strukturovaných laboratorních (vč. omezených genetických) výsledků, přístupem jen pro ZP a ministerstvo, anonymizací po 50 letech od úmrtí a předáním anonymizovaných dat pro veřejnosprávní kontrolu pojišťoven.
+
+**Checklist (zdravotní pojišťovna / poskytovatel / ÚZIS / MF):**
+- [ ] Předává ZP úhradová data a poskytovatel laboratorní výsledky v zákonném rozsahu (odst. 2–4)?
+- [ ] U genetických prediktivních/prenatálních/preimplantačních vyšetření — předává se jen typ vyšetření?
+- [ ] Je přístup omezen na ZP (vlastní úhrady) a ministerstvo (odst. 5)?
+- [ ] Předávají se data MF/ministerstvu pro kontrolu jen anonymizovaně (odst. 7)?
+- [ ] Probíhá anonymizace po 50 letech od úmrtí (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** výkazy úhrad ZP, datová struktura laboratorních výsledků, doklad o pseudonymizaci (AIFO) a anonymizaci, žádost MF o anonymizovaná data.
+
 ---
 
 ### § 77b — Lhůta pro zápis po právní moci
@@ -1695,6 +3032,42 @@ NR-HZS je přístupný **zdravotní pojišťovně** (vlastní úhrady) a **minis
 **Výklad:**
 
 § 77b je **procesní pravidlo** počítání lhůty pro zápis údajů vyplývajících z rozhodnutí (typicky rozhodnutí o oprávnění k poskytování zdravotních služeb, rozhodnutí o uznání odborné způsobilosti). Lhůta počíná **dnem následujícím po právní moci** rozhodnutí — do té doby není rozhodnutí závazné, a proto by zápis byl předčasný.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad vydá rozhodnutí o oprávnění k poskytování zdravotních služeb; rozhodnutí nabude právní moci v pátek. Úředník počítá třídenní lhůtu pro zápis do registru a je sporné, zda běh lhůty začíná dnem právní moci, nebo dnem následujícím. Důkazy: rozhodnutí s vyznačením právní moci, kalendář, záznam o zápisu.
+
+**2. Právní otázka.** Od kdy počíná běžet lhůta pro zápis údaje vyplývajícího z rozhodnutí do zdravotnického registru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 77b ZZS — lhůta pro zápis údaje (či jeho změny) vyplývajícího z rozhodnutí počíná dnem následujícím po dni nabytí právní moci rozhodnutí.
+- *Související ustanovení téhož zákona:* § 75 (lhůty pro předávání do registru poskytovatelů), § 77 (lhůty pro předávání do registru pracovníků), § 74, § 76 (obsah registrů).
+- *Související předpisy:* správní řád (právní moc rozhodnutí, počítání lhůt — § 40 spr. řádu jako obecné pravidlo).
+- *Judikatura:* k počítání procesních lhůt navazujících na právní moc rozhodnutí.
+
+**4. Subsumpce.** Údaj o oprávnění vyplývá z rozhodnutí (znak splněn) → běh lhůty počíná dnem následujícím po dni právní moci. Den právní moci (pátek) se do lhůty nezapočítává; lhůta běží od soboty.
+
+**5. Řešení.** Úředník počítá lhůtu od dne následujícího po právní moci. Tím se sjednocuje s obecným pravidlem počítání lhůt a vylučuje předčasný zápis údaje, který by se opíral o ještě nepravomocné rozhodnutí.
+
+**6. Varianty.** (a) U údaje, který nevyplývá z rozhodnutí (např. provozní údaj poskytovatele), se § 77b neuplatní a lhůta běží od vzniku/změny údaje dle § 75/§ 77. (b) Je-li rozhodnutí předběžně vykonatelné, přesto pro zápis dle § 77b rozhoduje až právní moc.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* ustanovení je nadbytečné, počítání lhůt řeší správní řád. *Neutralizace:* § 77b odstraňuje výkladovou nejistotu pro specifický případ údajů z rozhodnutí napříč více registry a předávajícími subjekty.
+- *Protiargument:* navázání na právní moc zdržuje aktuálnost registru. *Neutralizace:* zápis nepravomocného (a tedy potenciálně měněného) rozhodnutí by ohrozil správnost registru; navázání na právní moc je zárukou stability údaje.
+- *Slabé místo:* ustanovení řeší jen počátek lhůty, nikoli její délku — tu stanoví § 75/§ 77 (3 pracovní dny).
+
+#### H. Praktický závěr
+
+§ 77b je procesní pravidlo: u údajů vyplývajících z rozhodnutí počíná lhůta pro zápis do zdravotnického registru běžet až dnem následujícím po právní moci, čímž se vylučuje předčasný zápis na základě nepravomocného aktu.
+
+**Checklist (správní orgán / soud / ÚZIS):**
+- [ ] Vyplývá zapisovaný údaj z rozhodnutí?
+- [ ] Je vyznačen den nabytí právní moci?
+- [ ] Počítá se lhůta ode dne následujícího po právní moci?
+- [ ] Je dodržena délka lhůty dle § 75 / § 77 (3 pracovní dny)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí s doložkou právní moci, záznam o datu zápisu do registru.
 
 ---
 
@@ -1721,6 +3094,42 @@ NR-HZS je přístupný **zdravotní pojišťovně** (vlastní úhrady) a **minis
 **Výklad:**
 
 § 78 zmocňuje ministerstvo k vydání **vyhlášky** upravující detailní technické a procesní otázky NZIS. Touto vyhláškou je **vyhláška č. 373/2016 Sb., o předávání údajů do Národního zdravotnického informačního systému** (ve znění novel), která stanoví seznam povinných poskytovatelů, datovou strukturu, periodicitu a další technické detaily fungování systému.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel je sankcionován za to, že nepředal do zdravotnického registru údaje ve struktuře a periodicitě stanovené vyhláškou č. 373/2016 Sb. Namítá, že okruh povinných subjektů, struktura, forma a lhůty nejsou v zákoně, nýbrž jen ve vyhlášce, a že vyhláška překračuje zmocnění (zejména ohledně výsledků laboratorních vyšetření). Důkazy: znění § 78 a vyhlášky, datové rozhraní, doklad o nepředání.
+
+**2. Právní otázka.** Jsou povinnosti ohledně předávání údajů do registrů stanovené vyhláškou kryty zmocněním v § 78 a tedy závazné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 78 ZZS — taxativní zmocnění k vyhlášce: okruh předávajících subjektů (písm. a), postup/struktura/forma a vymezení lůžek pro obsazenost (písm. b), periodicita a lhůty (písm. c), náležitosti žádosti o přístup (písm. d), vymezení a specifikace hrazených služeb (písm. e), seznam referenčních statistik a případy označení konkrétního subjektu (písm. f), výsledky laboratorních vyšetření dle § 77a odst. 4 (písm. g).
+- *Související ustanovení téhož zákona:* § 70, § 73, § 73a, § 74, § 77a (hmotněprávní základ, který vyhláška provádí); § 75, § 77 (lhůty stanovené přímo zákonem, ledaže zákon stanoví jinak).
+- *Související předpisy:* vyhláška č. 373/2016 Sb. o předávání údajů do NZIS; čl. 79 odst. 3 Ústavy (meze podzákonné normotvorby).
+- *Judikatura:* konstantní judikatura Ústavního soudu k mezím prováděcích předpisů (secundum et intra legem).
+
+**4. Subsumpce.** Struktura, forma a periodicita předávání spadají pod § 78 písm. b) a c); výsledky laboratorních vyšetření pod písm. g); okruh povinných pod písm. a). Všechny sporné povinnosti tedy mají oporu ve zmocnění → vyhláška je v tomto rozsahu intra vires a závazná.
+
+**5. Řešení.** Námitka ultra vires je nedůvodná — § 78 výslovně zmocňuje k úpravě okruhu subjektů, struktury, formy, periodicity i výsledků laboratorních vyšetření. Povinnosti vyhlášky jsou závazné a jejich porušení zakládá odpovědnost. Lze namítat jen konkrétní ustanovení vyhlášky jdoucí nad rámec zmocnění — což zde není dáno.
+
+**6. Varianty.** (a) U lhůt, které stanoví přímo zákon (§ 75, § 77), má přednost zákon; vyhláška je upraví jen tam, kde zákon nestanoví jinak (§ 78 písm. c). (b) Pokud by vyhláška vyžadovala předání genetického výsledku nad rámec § 77a odst. 4 (jen typ vyšetření), byla by v té části neaplikovatelná.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* podstatné povinnosti adresátů mají být v zákoně, ne ve vyhlášce. *Neutralizace:* zákon stanoví rámec a okruhy povinností; technickou strukturu, formu a periodicitu předávání je ústavně přípustné svěřit vyhlášce.
+- *Protiargument:* zmocnění k „výsledkům laboratorních vyšetření" je příliš široké. *Neutralizace:* písm. g) je vázáno na § 77a odst. 4 písm. a–c, který sám rozsah a ochranu citlivých vyšetření vymezuje; vyhláška se musí držet těchto mezí.
+- *Slabé místo:* u každé povinnosti je nutné ověřit konkrétní písmeno § 78; paušální odkaz na zmocnění nestačí, zejména u citlivých genetických dat.
+
+#### H. Praktický závěr
+
+§ 78 je zmocňovací normou pro NZIS: vymezuje sedm okruhů provedených vyhláškou č. 373/2016 Sb. (okruh subjektů, struktura/forma, periodicita/lhůty, žádost o přístup, specifikace hrazených služeb, referenční statistiky, laboratorní výsledky). Povinnosti vyhlášky jsou závazné v mezích zmocnění; bez ní by systém předávání nebyl provozuschopný.
+
+**Checklist (poskytovatel / ZP / ÚZIS / správní orgán):**
+- [ ] Spadá sporná povinnost pod některé z písmen a)–g) § 78?
+- [ ] Je úprava vyhlášky v mezích zmocnění (intra vires)?
+- [ ] Nestanoví lhůtu přímo zákon (§ 75, § 77) s předností před vyhláškou?
+- [ ] U laboratorních výsledků — drží se vyhláška mezí § 77a odst. 4 (ochrana genetických vyšetření)?
+
+**Typicky rozhodné důkazy / podklady:** znění § 78 a vyhlášky č. 373/2016 Sb., datové rozhraní ÚZIS, doklad o nepředání/nesprávném předání údajů, srovnání rozsahu zmocnění a obsahu vyhlášky.
 
 ---
 

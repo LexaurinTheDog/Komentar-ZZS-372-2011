@@ -89,6 +89,42 @@ Odběr biologického materiálu z těla zemřelého **mimo souvislost s pitvou**
 
 > **Praktický rozcestník:** Odběr orgánu pro transplantaci po smrti pacienta nesplňujícího kritéria smrti mozku (non-heart-beating donor) probíhá podle TransplZ; odběr orgánů nebo tkání k transplantaci je možný i ve dvouhodinové ochranné lhůtě (§ 79 odst. 2). Odběr tkání pro výrobu léčiv je rovněž realizovatelný ve dvouhodinové lhůtě jen pokud TransplZ nebo zákon o lidských tkáních a buňkách to umožňuje výslovně; v ostatních případech až po jejím uplynutí.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient zemřel v 8:00 ve fakultní nemocnici na pokročilé nádorové onemocnění. V 9:10 (tedy 70 minut po smrti) zaměstnanec patologie vyňal z těla zubní korunky z drahého kovu pro pozdější prodej a současně vyjmul kardiostimulátor. Pozůstalí později zjistili chybějící protetické výrobky a podali trestní oznámení a stížnost. Důkazy: zdravotnická dokumentace, protokol o pitvě, fotodokumentace těla, výslech personálu patologie, znalecký posudek o hodnotě materiálu.
+
+**2. Právní otázka.** Byly úkony provedené na těle zemřelého v souladu s taxativním katalogem § 79 odst. 1 a s dvouhodinovou ochrannou lhůtou podle odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 79 odst. 1 (uzavřený katalog dovolených úkonů), odst. 2 (dvouhodinová lhůta).
+- *Související ustanovení téhož zákona:* § 81 (souhlas s uchováním a použitím části těla), § 114 odst. 1 písm. h) a § 115 odst. 1 písm. g) (přestupek), § 88 (pitva).
+- *Související předpisy:* § 164 a § 359 TZ (neoprávněné nakládání s tkáněmi; hanobení lidských ostatků), § 82 odst. 2 OZ (postmortální ochrana osobnosti), TransplZ č. 285/2002 Sb., zákon č. 256/2001 Sb. o pohřebnictví.
+- *Judikatura:* postmortální ochranu osobnosti a aktivní legitimaci osob blízkých dovodila ustálená judikatura Nejvyššího soudu k § 82 OZ; v trestní rovině je nosný závěr, že zásah do těla zemřelého mimo zákonem dovolené úkony naplňuje znaky hanobení lidských ostatků.
+
+**4. Subsumpce.** Vyjmutí kardiostimulátoru je dovolený úkon podle § 79 odst. 1 písm. f) (vyjmutí implantabilních prostředků je dokonce žádoucí před kremací). Naopak vyjmutí stomatologických pevných protetických výrobků je výslovně zakázáno (písm. f in fine) a navíc bylo provedeno ze zištných pohnutek. Současně byl porušen odst. 2 — kromě prohlídky, transplantací a nařízené soudní pitvy nelze úkony provádět dříve než 2 hodiny po smrti; v 9:10 lhůta neuplynula.
+
+**5. Řešení.** Vyjmutí korunek je protiprávní zásah zakládající přestupek (§ 114/§ 115 ZZS), trestný čin hanobení lidských ostatků (§ 359 TZ) a neoprávněný zásah do postmortální osobnosti (§ 82 OZ). Pozůstalí mají aktivní legitimaci. Praktický krok: zajistit fotodokumentaci, protokol o pitvě, výslech personálu; podat trestní oznámení i stížnost poskytovateli. Vyjmutí kardiostimulátoru naopak zůstává v mezích zákona.
+
+**6. Varianty.** (a) Kdyby šlo o odběr orgánu pro transplantaci podle TransplZ, byl by dovolen i před uplynutím 2 hodin (odst. 2 výslovně vyjímá postupy podle TransplZ). (b) Kdyby personál odebral biologický materiál mimo souvislost s pitvou (např. pro „soukromé" vyšetření), šlo by o porušení odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vyjmutí korunek bylo provedeno až po případné kremaci jako recyklace." — Neutralizace: stomatologické pevné protetické výrobky se vyjímat zakazuje bezvýjimečně (písm. f), motivem zákazu je právě ochrana před vykrádáním drahých kovů.
+- *Protiargument:* „Dvouhodinová lhůta se nepočítala správně." — Neutralizace: lhůta běží od okamžiku biologické smrti uvedeného v Listu o prohlídce zemřelého; důkazní břemeno o jejím dodržení nese poskytovatel.
+- *Slabé místo:* hodnota odejmutého materiálu může být u trestného činu obtížně prokazatelná; primárně je proto vhodné stavět na § 359 TZ (hanobení ostatků), kde hodnota není znakem.
+
+#### H. Praktický závěr
+
+Na těle zemřelého lze konat jen sedm taxativně vypočtených úkonů; vše ostatní je protiprávní. Mimo prohlídku, transplantace a nařízenou soudní pitvu nelze nic činit dříve než 2 hodiny po smrti. Vyjímat stomatologické protetické výrobky je vždy zakázáno.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde úkon o jednu ze sedmi položek § 79 odst. 1 písm. a)–g)?
+- [ ] Uplynula dvouhodinová lhůta, nejde-li o prohlídku, transplantaci či nařízenou soudní pitvu?
+- [ ] Je odběr biologického materiálu navázán na pitvu (odst. 3), nejde-li o transplantační/tkáňový režim?
+- [ ] Nebyly vyjmuty stomatologické pevné protetické výrobky?
+
+**Typicky rozhodné důkazy / podklady:** List o prohlídce zemřelého (čas úmrtí), protokol o pitvě, fotodokumentace těla, zdravotnická dokumentace, výslech personálu.
+
 ---
 
 ### § 80 — Obecné podmínky odběru části těla
@@ -116,6 +152,42 @@ Komerční nebo zájmové odběry mimo tyto účely jsou zakázány. Toto pravid
 - váže odběr na infrastrukturu zajišťující jakost a bezpečnost (sterilita, dokumentace, návaznost na transfuzní a tkáňové laboratoře).
 
 Porušení je přestupkem podle § 114 odst. 1 písm. h), § 115 odst. 1 písm. g) nebo § 117 odst. 3 písm. k) ZZS (pokuta až 500 000 Kč pro fyzické osoby a podnikatele, až 1 000 000 Kč pro poskytovatele).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soukromá laboratoř bez oprávnění k poskytování zdravotních služeb nabízí „odběr kmenových buněk z pupečníkové krve" v pronajatém kancelářském prostoru, mimo zdravotnické zařízení a bez vazby na transfuzní/tkáňovou infrastrukturu. Část odběrů provádí ve vlastní provozovně, část v bytě klientky. Krajský úřad zahájí kontrolu. Důkazy: nájemní smlouvy, evidence odběrů, oprávnění (resp. jeho absence), smlouvy s klienty.
+
+**2. Právní otázka.** Splňuje odběr části lidského těla zákonné podmínky § 80 — tj. byl proveden poskytovatelem ve zdravotnickém zařízení a k dovolenému účelu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80 odst. 1 (účelové a místní omezení odběru), odst. 2 (volba právního režimu podle účelu).
+- *Související ustanovení téhož zákona:* § 11 (oprávnění poskytovatele), § 79 odst. 3 (odběr biologického materiálu v souvislosti s pitvou), § 81 odst. 7 (zákaz finanční náhrady), § 114/§ 115/§ 117 (přestupky).
+- *Související předpisy:* zákon č. 296/2008 Sb. o lidských tkáních a buňkách, TransplZ č. 285/2002 Sb., zákon o léčivech č. 378/2007 Sb.
+- *Judikatura:* nosný správní výklad spojuje odběry tkání a buněk s nutností tkáňového zařízení s povolením SÚKL; provádění činnosti bez oprávnění je vždy přestupkem.
+
+**4. Subsumpce.** Znak „poskytovatel" není naplněn — laboratoř nemá oprávnění podle § 11. Znak „ve zdravotnickém zařízení" rovněž není naplněn (kancelář, byt klientky). Účel (uchování pupečníkové krve k léčbě) by sám o sobě byl dovolený, ale chybí oba kvalifikované znaky subjektu a místa. Odběr v bytě navíc nespadá pod výjimku § 79 odst. 3.
+
+**5. Řešení.** Odběry jsou protiprávní. Jde o přestupek podle § 114 odst. 1 písm. h)/§ 115 odst. 1 písm. g)/§ 117 odst. 3 písm. k) ZZS (pokuta až 500 000 Kč pro FO/podnikatele, až 1 000 000 Kč pro poskytovatele), souběžně může jít o neoprávněné poskytování zdravotních služeb. Praktický krok: zastavit činnost, zajistit důkazy o absenci oprávnění a místě odběru.
+
+**6. Varianty.** (a) Kdyby šlo o poskytovatele s tkáňovým povolením provádějícího odběr na akreditovaném porodnickém pracovišti, bylo by jednání souladné. (b) Kdyby odběr biologického materiálu byl proveden v souvislosti s pitvou (§ 79 odst. 3), místní omezení by se neuplatnilo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Klientka dala souhlas, takže odběr je v pořádku." — Neutralizace: souhlas nenahrazuje zákonné znaky subjektu (poskytovatel) a místa (zdravotnické zařízení); ty jsou kogentní.
+- *Protiargument:* „Pupečníková krev je biologický odpad, ne část těla." — Neutralizace: § 80 odst. 1 výslovně zahrnuje orgány, tkáně i buňky pod pojem „část těla".
+- *Slabé místo:* hranice mezi „zdravotnickým zařízením" a jiným prostorem může být u mobilních odběrů sporná; je proto třeba doložit splnění technicko-věcného vybavení podle prováděcích předpisů.
+
+#### H. Praktický závěr
+
+Odběr jakékoli části lidského těla je dovolen jen k zdravotní péči, vědě/výzkumu/výuce nebo zákonem stanovenému účelu, a výhradně poskytovatelem ve zdravotnickém zařízení. Komerční a zájmové odběry mimo tyto účely jsou zakázány.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má subjekt provádějící odběr oprávnění poskytovatele podle § 11?
+- [ ] Probíhá odběr ve zdravotnickém zařízení (nejde-li o výjimku § 79 odst. 3)?
+- [ ] Spadá účel odběru do dovoleného katalogu (péče / věda-výzkum-výuka / zákonný účel)?
+- [ ] Nejde o komerční zpeněžení v rozporu s § 81 odst. 7?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o oprávnění poskytovatele, technicko-věcná dokumentace zdravotnického zařízení, evidence odběrů, smlouvy s klienty, tkáňové povolení SÚKL.
 
 ---
 
@@ -221,6 +293,43 @@ Zákon vyžaduje **jednu ze dvou kvalifikovaných forem**:
 
 **b) Záznam o souhlasu ve zdravotnickém zařízení** — vyhotovený za přítomnosti zdravotnického pracovníka, který spolu s pacientem podepíše záznam. Alternativně může pacient s ohledem na zdravotní stav nepodepsat — pak je nezbytný **dvojí podpis svědka** (zdravotnický pracovník + osoba blízká, případně svědek), který stvrzuje nepochybný projev vůle. V záznamu musí být uveden **způsob projevu vůle a zdravotní důvody bránící podpisu**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Lékařská fakulta použila k výuce anatomie tělo zemřelého dárce. Rodina po letech zjistila, že zemřelý za života žádný souhlas neudělil; fakulta se opírá pouze o ústní sdělení ošetřujícího lékaře, že „pacient si přál být užitečný vědě". Žádný písemný souhlas s úředně ověřeným podpisem ani záznam ve zdravotnické dokumentaci neexistuje. Důkazy: zdravotnická dokumentace, evidence darů těla, případný písemný souhlas.
+
+**2. Právní otázka.** Byl pro použití těla zemřelého k výukovým účelům dán prokazatelný souhlas ve smyslu § 81 odst. 2 písm. b) a odst. 5?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 81 odst. 1 (pět účelů), odst. 2 (prokazatelný souhlas, subsidiární souhlas osoby blízké), odst. 5 (formy souhlasu), odst. 7 (zákaz finanční náhrady).
+- *Související ustanovení téhož zákona:* § 88 odst. 6 (anatomická pitva univerzitou), § 79 odst. 1 písm. e), § 117 odst. 3 písm. k) a l) (přestupky).
+- *Související předpisy:* § 22 OZ (osoba blízká), § 164 TZ, čl. 21 Oviedské úmluvy (č. 96/2001 Sb. m. s.), zákon č. 296/2008 Sb. o lidských tkáních a buňkách.
+- *Judikatura:* nosný výklad zdůrazňuje, že u použití těla pro vědu/výuku platí princip opt-in (na rozdíl od opt-out režimu transplantací podle § 16 TransplZ); bez kvalifikovaného souhlasu je použití protiprávní.
+
+**4. Subsumpce.** Znak „prokazatelný souhlas" není naplněn — odst. 5 vyžaduje buď písemný souhlas s úředně ověřeným podpisem, nebo záznam ve zdravotnickém zařízení; ústní sdělení lékaře žádnou z forem nesplňuje. Subsidiární souhlas osoby blízké rovněž nebyl vyžádán. Účel (výuka) by jinak dovolený byl, ale chybí kvalifikovaný souhlas a určení účelu použití.
+
+**5. Řešení.** Použití těla bylo protiprávní. Jde o přestupek (§ 117 odst. 3 písm. k) ZZS), zásah do postmortální osobnosti (aktivní legitimace osob blízkých dle § 82 OZ) a potenciálně trestný čin podle § 164 TZ. Praktický krok: ověřit existenci kvalifikovaného souhlasu; jeho absence vylučuje legální použití. Pro futuro fakulta musí evidovat písemné souhlasy s ověřeným podpisem.
+
+**6. Varianty.** (a) Použití anonymizovaného biologického materiálu k výuce/výzkumu bez identifikace pacienta souhlas nevyžaduje (odst. 4 písm. a). (b) Nácvik koniotomie nebo punkce tenzního pneumotoraxu v rámci pitvy je dovolen bez souhlasu (odst. 4 písm. b), nezmaří-li účel pitvy.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Souhlas vyslovil pacient ústně před lékařem, který to dosvědčí." — Neutralizace: odst. 5 stanoví kogentně dvě formy; ústní souhlas mimo zákonem předepsaný záznam je právně neúčinný.
+- *Protiargument:* „Tělo bylo darováno bezúplatně, takže § 81 odst. 7 byl dodržen." — Neutralizace: zákaz úplaty řeší jen komercializaci; nenahrazuje samostatný požadavek prokazatelného souhlasu.
+- *Slabé místo:* hranice mezi „anonymizovaným biologickým materiálem" (odst. 4) a identifikovatelným tělem může být sporná u celých těl; u celého těla anonymizace prakticky nepřipadá v úvahu, proto se výjimka odst. 4 písm. a) neuplatní.
+
+#### H. Praktický závěr
+
+Uchování a použití části těla nebo těla zemřelého k vědě, výuce, léčbě tkáněmi či výrobě léčiv vyžaduje prokazatelný souhlas (písemný s ověřeným podpisem nebo záznam ve zdravotnickém zařízení) s určením účelu; u zemřelého subsidiárně souhlasí osoba blízká. Bez něj je nakládání protiprávní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje prokazatelný souhlas v jedné ze dvou forem podle odst. 5?
+- [ ] Je v souhlasu určen konkrétní účel použití?
+- [ ] Předcházelo souhlasu poučení o možnosti uchování, darování a použití?
+- [ ] Nejde o výjimku bez souhlasu (anonymizovaný materiál / nácvik koniotomie či punkce)?
+- [ ] Nedošlo k poskytnutí finanční či jiné výhody nad rámec účelných nákladů?
+
+**Typicky rozhodné důkazy / podklady:** písemný souhlas s úředně ověřeným podpisem nebo záznam o souhlasu ve zdravotnické dokumentaci, záznam o podání informace, evidence darů těla.
+
 ---
 
 ### § 82 — Nakládání s plodem po potratu a biologickými zbytky
@@ -254,6 +363,42 @@ Hraniční hmotnost 500 g a 22 týdnů odpovídá doporučení WHO a slouží k 
 
 Placenta, plodové vejce bez plodu a těhotenská sliznice mají oslabenější právní status, neboť nejsou „částí lidského těla" stricto sensu — jde o tkáně dočasné povahy specifické pro těhotenství. Přesto § 82 odst. 1 jejich režim přibližuje plodu po potratu (subsidiární odkaz na § 81). Praktický důsledek: použití placenty pro výrobu léčiv (placentární přípravky), tkáňových štěpů (amnion pro popáleniny) nebo k výzkumu vyžaduje prokazatelný souhlas matky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Po spontánním potratu v 21. týdnu těhotenství s odhadovanou hmotností plodu cca 420 g matka požaduje vydání plodu k pohřbení a zároveň zařízení zvažuje použití placenty pro výrobu tkáňového štěpu (amnion). Vznikne spor, zda jde o „plod po potratu" či o mrtvě narozené dítě a jaký režim nakládání platí. Důkazy: porodopis, vážení plodu, gestační stáří, souhlas matky.
+
+**2. Právní otázka.** Jde o plod po potratu podle § 82 odst. 2, a lze placentu použít k výrobě tkáňového štěpu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 82 odst. 1 (subsidiární odkaz na § 81, omezení účelu na vědu/výzkum/výuku), odst. 2 (definice plodu po potratu).
+- *Související ustanovení téhož zákona:* § 81 odst. 5 (forma souhlasu), § 88 odst. 2 písm. c) (povinná P/A pitva mrtvě narozených), § 91 (zpopelnění plodu po potratu odděleně).
+- *Související předpisy:* zákon č. 256/2001 Sb. o pohřebnictví (vydání k pohřbení), zákon o matrikách (zápis mrtvého porodu), zákon č. 296/2008 Sb. o lidských tkáních a buňkách.
+- *Judikatura:* hraniční kritéria 500 g a 22 týdnů odpovídají doporučení WHO; nosný výklad rozlišuje plod po potratu od mrtvě narozeného dítěte podle váhy/gestace a přítomnosti známek života.
+
+**4. Subsumpce.** Plod nevykazuje žádnou ze známek života, hmotnost 420 g < 500 g — naplněna kumulativní kritéria odst. 2, jde o plod po potratu. Placenta je biologický zbytek potratu, na nějž se subsidiárně použije § 81. Použití plodu samotného je omezeno jen na vědu/výzkum/výuku (nelze pro výrobu léčiv); pro placentu však toto zúžení neplatí — lze ji použít i pro tkáňové štěpy při souhlasu matky.
+
+**5. Řešení.** Matka má právo požádat o vydání plodu k pohřbení podle pohřebnictví; není-li vydán, nakládá se podle § 82/§ 81. Použití placenty pro amniový štěp vyžaduje prokazatelný souhlas matky ve formě § 81 odst. 5. Nebyl-li plod vydán k pohřbení, zpopelní se v krematoriu odděleně od anatomicko-patologického odpadu (§ 91).
+
+**6. Varianty.** (a) Kdyby hmotnost činila 520 g, šlo by o mrtvě narozené dítě — plný režim pohřebnictví, matriční zápis, povinná P/A pitva (§ 88 odst. 2 písm. c). (b) Kdyby plod jevil byť jednu známku života, šlo by o živě narozené a posléze zemřelé dítě s plnou ochranou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Plod lze použít i pro výrobu léčiv, protože § 82 odkazuje na celý § 81." — Neutralizace: odst. 1 výslovně omezuje použití plodu po potratu jen na vědu/výzkum/výuku, čímž zužuje katalog účelů § 81.
+- *Protiargument:* „Souhlas matky není u placenty nutný, jde o odpad." — Neutralizace: odst. 1 přibližuje režim biologických zbytků plodu po potratu, takže prokazatelný souhlas matky se vyžaduje.
+- *Slabé místo:* nelze-li hmotnost zjistit, rozhoduje gestační stáří 22 týdnů; přesné určení gestace může být sporné a mělo by se opírat o sonografickou dokumentaci.
+
+#### H. Praktický závěr
+
+Plod po potratu (bez známek života, < 500 g, příp. < 22 týdnů) lze použít jen pro vědu, výzkum a výuku, a to se souhlasem matky ve formě § 81 odst. 5; nad 500 g/22 týdnů jde o mrtvě narozené dítě s plnou ochranou pohřebnictví. Biologické zbytky (placenta) lze využít šíře, vždy se souhlasem matky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou splněna všechna kumulativní kritéria plodu po potratu (známky života, hmotnost, gestace)?
+- [ ] Byl plod vydán k pohřbení podle pohřebnictví, nebo se nakládá podle § 82?
+- [ ] Je u použití plodu dodrženo zúžení účelu (jen věda/výzkum/výuka)?
+- [ ] Existuje prokazatelný souhlas matky podle § 81 odst. 5?
+
+**Typicky rozhodné důkazy / podklady:** porodopis, doklad o vážení plodu a gestačním stáří (sonografie), souhlas matky, doklad o vydání k pohřbení, smlouva s krematoriem.
+
 ---
 
 ### § 83 — Oznámení úmrtí a nálezu těla zemřelého
@@ -285,6 +430,42 @@ Adresát oznámení se liší podle typu nálezu:
 | Nález části těla zemřelého mimo zdravotnické zařízení | Vždy linka **112** |
 
 Asymetrie u **nálezu části těla** (vždy linka 112) reflektuje vyšší pravděpodobnost trestného činu — odhalená kost, končetina nebo torzo zpravidla indikují buď cizí zavinění, nebo dlouhodobé nezvěstnění; v obou případech je nutná koordinovaná intervence policie a soudního lékařství.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Houbař najde v lese rozkládající se lidské torzo bez končetin. Domnívá se, že „to už určitě někdo nahlásil", a pokračuje v procházce, aniž by cokoli oznámil. O nálezu se později dozví jiná osoba, která věc oznámí na linku 112. Vyšetřováním se zjistí totožnost prvního nálezce. Důkazy: výpověď nálezce, lokalizační údaje mobilního telefonu, svědectví dalších osob.
+
+**2. Právní otázka.** Vznikla prvnímu nálezci oznamovací povinnost podle § 83 a komu měl nález oznámit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 83 odst. 1 (adresáti oznámení dle typu nálezu), odst. 2 (univerzální oznamovací povinnost).
+- *Související ustanovení téhož zákona:* § 84 odst. 2 písm. a)/b) (poskytovatelé/lékaři), § 86 odst. 1 písm. g) (informování PČR), § 114 odst. 1 písm. i) (přestupek).
+- *Související předpisy:* § 368 TZ (neoznámení trestného činu), § 158 TŘ (postup před zahájením trestního řízení).
+- *Judikatura:* nosný výklad zdůrazňuje objektivní povahu oznamovací povinnosti, nezávislé na vztahu k zemřelému; subjektivní přesvědčení o předchozím oznámení musí nálezce prokázat.
+
+**4. Subsumpce.** Nález „části těla zemřelého" (torzo bez končetin) mimo zdravotnické zařízení zakládá podle odst. 1 vždy povinnost oznámit na linku 112. Univerzální povinnost podle odst. 2 vzniká každému, kdo neví, zda nález již byl oznámen. Nálezcovo „určitě to už někdo nahlásil" je pouhá domněnka — neví, tedy povinnost trvá. Povinnost porušil.
+
+**5. Řešení.** Nálezce naplnil přestupek podle § 114 odst. 1 písm. i) ZZS (pokuta do 100 000 Kč). Důkazní břemeno, že věděl o předchozím oznámení, leží na nálezci a domněnce neunese. Nález části těla navíc indikuje možný trestný čin — opožděné oznámení mohlo ztížit zajištění stop. Praktický krok: každý nález těla či jeho části hlásit na 112.
+
+**6. Varianty.** (a) Kdyby šlo o úmrtí registrovaného pacienta doma a nálezce by znal jeho praktického lékaře, oznámil by jemu (odst. 1 věta první). (b) Kdyby nálezce prokazatelně věděl, že úmrtí už personál nahlásil (úmrtí ve zdravotnickém zařízení), povinnost by nevznikla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Předpokládal jsem, že to už někdo nahlásil." — Neutralizace: povinnost zaniká jen tehdy, ví-li nálezce o předchozím oznámení; pouhý předpoklad nestačí a důkazní břemeno nese nálezce.
+- *Protiargument:* „Nejsem k zemřelému v žádném vztahu." — Neutralizace: povinnost je univerzální a na vztahu k zemřelému nezávisí.
+- *Slabé místo:* prokázání subjektivního vědomí nálezce o předchozím oznámení je obtížné; správní orgán by měl posoudit konkrétní okolnosti (např. přítomnost policie na místě).
+
+#### H. Praktický závěr
+
+Každý, kdo se dozví o úmrtí nebo najde tělo zemřelého či jeho část a neví o předchozím oznámení, je povinen je oznámit; nález části těla se vždy hlásí na linku 112. Neoznámení je přestupkem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o úmrtí/nález mimo zdravotnické zařízení?
+- [ ] Ví nálezce prokazatelně, že nález už byl oznámen?
+- [ ] Je správně určen adresát (poskytovatel/lékař vs. linka 112; část těla vždy 112)?
+- [ ] Byly při nálezu části těla zachovány případné stopy?
+
+**Typicky rozhodné důkazy / podklady:** záznam linky 112, výpověď nálezce, lokalizační údaje, svědectví, protokol PČR o ohledání místa.
 
 ---
 
@@ -338,6 +519,42 @@ Subsidiární systém **smluvních poskytovatelů kraje** (písm. b) řeší sit
 
 Důležitá výhrada: provedení prohlídky **nesmí vést k narušení poskytování zdravotních služeb**. Praktický lékař tedy není povinen přerušit ordinaci registrovaných pacientů kvůli prohlídce, pokud by tím byla narušena péče o živé pacienty. V tomto případě nastupuje subsidiárně písm. b) — smluvní poskytovatel kraje.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Senior zemře doma v noci o víkendu. Není registrován u žádného praktického lékaře v místě (nedávno se přistěhoval). Rodina volá na linku 112. Praktický lékař zesnulého, kterého rodina nezná, není dostupný; otázkou je, kdo má prohlídku těla provést. Kraj má na webu zveřejněn rozpis smluvních poskytovatelů. Důkazy: záznam linky 112, smlouva kraje s poskytovatelem, rozpis služeb.
+
+**2. Právní otázka.** Který z pětičlenné soustavy povinných subjektů podle § 84 odst. 2 je povinen prohlídku zajistit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 84 odst. 1 (univerzální povinnost prohlídky a její čtyři účely), odst. 2 (pětičlenná soustava povinných subjektů).
+- *Související ustanovení téhož zákona:* § 110 (odpovědnost kraje za organizaci prohlídek), § 86 (postup lékaře), § 88 (rozhodnutí o pitvě), § 92 (vyhláška o LPZ).
+- *Související předpisy:* vyhláška č. 297/2012 Sb. o Listu o prohlídce zemřelého, zákon č. 95/2004 Sb. (odborná způsobilost lékařů).
+- *Judikatura:* nosný správní výklad ukládá kraji zajistit dostupnost prohlídek mimo zdravotnické zařízení nepřetržitě; absence registrujícího lékaře aktivuje subsidiárně smluvního poskytovatele.
+
+**4. Subsumpce.** Úmrtí nastalo mimo zdravotnické zařízení; písm. a) (registrující praktický lékař) se neuplatní — pacient zde registrován není a jde o noční dobu o víkendu mimo ordinační dobu. Nastupuje subsidiárně písm. b) — poskytovatel, s nímž kraj uzavřel smlouvu o zajištění prohlídek. Písm. c)–e) (zařízení místa úmrtí, ZZS, domácí paliativa) zde nepřipadají v úvahu.
+
+**5. Řešení.** Prohlídku zajistí smluvní poskytovatel kraje podle písm. b) ve spojení s § 110; kraj musí mít rozpis služby a územní obvod zveřejněn. Lékař provede prohlídku, vyplní LPZ, rozhodne o pitvě a informuje osobu blízkou (§ 86). Praktický krok: dispečink 112 nasměruje na smluvní službu kraje.
+
+**6. Varianty.** (a) Kdyby pacient zemřel u svého registrujícího praktického lékaře v ordinační době během návštěvní služby, prohlídku by zajistil tento lékař (písm. a). (b) Kdyby úmrtí nastalo při zásahu ZZS, prohlídku by provedl lékař ZZS (písm. d).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Praktický lékař musí prohlídku vždy zajistit, je to jeho pacient." — Neutralizace: písm. a) platí jen v ordinační době a v rámci návštěvních služeb a nesmí narušit péči o živé pacienty; jinak nastupuje písm. b).
+- *Protiargument:* „Kraj nemá nikoho k dispozici." — Neutralizace: § 110 ukládá kraji povinnost zajistit službu; její absence je pochybením kraje, nikoli důvodem neprovedení prohlídky.
+- *Slabé místo:* vymezení „ordinační doby" a „návštěvní služby" může být sporné; rozhodný je zveřejněný rozsah služeb daného poskytovatele.
+
+#### H. Praktický závěr
+
+Prohlídka těla zemřelého je vždy povinná a zjišťuje smrt, čas, příčinu a potřebu pitvy. Subjekt ji zajišťující se určuje podle nejtěsnější faktické vazby; chybí-li registrující praktický lékař v rozhodné době, nastupuje smluvní poskytovatel kraje (§ 110).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kde k úmrtí došlo (zdravotnické zařízení, doma, při PNP, při paliativě)?
+- [ ] Je dán registrující praktický lékař a je v ordinační době / návštěvní službě?
+- [ ] Má kraj zveřejněn rozpis smluvních poskytovatelů pro prohlídky?
+- [ ] Bylo provedeno označení těla zemřelého?
+
+**Typicky rozhodné důkazy / podklady:** List o prohlídce zemřelého, smlouva kraje s poskytovatelem a rozpis služeb, záznam linky 112, registrační údaje pacienta.
+
 ---
 
 ### § 85 — Prohlídky v ozbrojených silách a ve vazbě, trestu, detenci
@@ -355,6 +572,42 @@ Důležitá výhrada: provedení prohlídky **nesmí vést k narušení poskytov
 **b) Vězeňská služba** — prohlídky úmrtí ve výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence provádí **lékař Vězeňské služby**; není-li k dispozici, subsidiárně lékař dle § 84 odst. 2. Tento režim odráží specifickou systematiku zdravotních služeb v podmínkách výkonu vazby a trestu (provozované Vězeňskou službou ČR — viz § 7 zákona č. 555/1992 Sb. o Vězeňské službě a justiční stráži).
 
 > **Doplňková poznámka:** Úmrtí ve výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence vyžaduje **vždy zdravotní pitvu** podle § 88 odst. 3 písm. e) ZZS. Pitva ve výkonu trestu má zvláštní význam jako záruka proti případnému tajení nesprávného postupu nebo násilného úmrtí — výsledek pitvy je důležitým podkladem pro kontrolu zacházení s vězněnou osobou (čl. 3 Úmluvy o ochraně lidských práv a základních svobod — zákaz mučení a krutého zacházení).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Odsouzený zemře v noci ve výkonu trestu odnětí svobody. Lékař Vězeňské služby není v danou dobu k dispozici. Vedení věznice zvažuje, zda lze prohlídku odložit do rána. Rodina později namítá, že úmrtí mohlo souviset s nevhodným zacházením. Důkazy: dokumentace věznice, kamerové záznamy, zdravotnická dokumentace odsouzeného.
+
+**2. Právní otázka.** Kdo provede prohlídku těla odsouzeného zemřelého ve výkonu trestu, není-li dostupný lékař Vězeňské služby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 85 věta druhá (prohlídku provádí lékař Vězeňské služby, jinak subsidiárně poskytovatel dle § 84 odst. 2).
+- *Související ustanovení téhož zákona:* § 84 odst. 2 (povinné subjekty), § 88 odst. 3 písm. e) (povinná zdravotní pitva ve výkonu vazby/trestu/detence), § 86 (postup lékaře).
+- *Související předpisy:* zákon č. 555/1992 Sb. o Vězeňské službě a justiční stráži, čl. 3 Úmluvy o ochraně lidských práv a základních svobod (zákaz mučení), § 105 TŘ.
+- *Judikatura:* ESLP dovodil z čl. 3 a čl. 2 EÚLP pozitivní procesní povinnost účinného a nezávislého vyšetření úmrtí osob ve státní detenci; pitva je klíčovou zárukou.
+
+**4. Subsumpce.** Úmrtí nastalo ve výkonu trestu. Prohlídku má primárně provést lékař Vězeňské služby; není-li k dispozici, nastupuje subsidiárně poskytovatel podle § 84 odst. 2 (typicky smluvní poskytovatel kraje). Prohlídku nelze odkládat „do rána" — § 84 odst. 1 ji vyžaduje vždy a bez prodlení. Současně se obligatorně provede zdravotní pitva (§ 88 odst. 3 písm. e).
+
+**5. Řešení.** Vedení věznice musí bez prodlení zajistit prohlídku subsidiárním poskytovatelem dle § 84 odst. 2 a následně zdravotní pitvu na pracovišti soudního lékařství. Pitva slouží jako záruka proti tajení nesprávného zacházení (čl. 3 EÚLP). Praktický krok: zajistit kamerové záznamy a dokumentaci, kontaktovat smluvního poskytovatele.
+
+**6. Varianty.** (a) Kdyby byl lékař Vězeňské služby dostupný, provedl by prohlídku on. (b) Kdyby šlo o úmrtí ve výcvikovém prostoru ozbrojených sil, prohlídku by provedl lékař ozbrojených sil (věta první § 85).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez lékaře VS prohlídku nikdo provést nemůže, lze tedy počkat." — Neutralizace: § 85 výslovně připouští subsidiárně poskytovatele dle § 84 odst. 2; odklad povinné a bezodkladné prohlídky je protiprávní.
+- *Protiargument:* „Pitva není nutná, příčina je zřejmá." — Neutralizace: u úmrtí ve výkonu trestu je zdravotní pitva obligatorní (§ 88 odst. 3 písm. e) a nelze od ní upustit ani podle § 88a.
+- *Slabé místo:* dostupnost subsidiárního poskytovatele v noci může být reálně omezená; věznice by měly mít předem smluvně zajištěnou návaznost.
+
+#### H. Praktický závěr
+
+Úmrtí ve výkonu vazby, trestu nebo detence prohlíží lékař Vězeňské služby, jinak subsidiárně poskytovatel dle § 84 odst. 2; vždy následuje obligatorní zdravotní pitva jako záruka ochrany před nedůstojným zacházením (čl. 3 EÚLP). Prohlídku nelze odkládat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o úmrtí ve výcvikovém prostoru/službě ozbrojených sil, nebo ve výkonu vazby/trestu/detence?
+- [ ] Je dostupný lékař Vězeňské služby (resp. ozbrojených sil)?
+- [ ] Byla bez prodlení zajištěna prohlídka a následná zdravotní pitva (§ 88 odst. 3 písm. e)?
+- [ ] Jsou zajištěny záznamy umožňující nezávislé vyšetření úmrtí?
+
+**Typicky rozhodné důkazy / podklady:** List o prohlídce zemřelého, protokol o zdravotní pitvě, dokumentace věznice, kamerové záznamy, zdravotnická dokumentace.
 
 ---
 
@@ -431,6 +684,43 @@ Po oznámení PČR provede **lékař jen nezbytné úkony** — nepokračuje v r
 
 Smyslem těchto ustanovení je **ochrana veřejného zdraví a životního prostředí** před přenosem patogenu nebo radioaktivní kontaminace prostřednictvím těla zemřelého.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Lékař při prohlídce těla zemřelého doma nalezne na krku oběti rýhu a podkožní krevní výron svědčící o možném škrcení. Místo aby zavolal policii, pokračuje v běžných úkonech, otočí tělo, sundá oděv a tělo umyje. Teprve poté rodina upozorní na nezvyklé okolnosti. Důkazy: List o prohlídce zemřelého, fotodokumentace, výpověď lékaře, ohledání místa.
+
+**2. Právní otázka.** Splnil lékař provádějící prohlídku své povinnosti podle § 86 odst. 1 písm. g) — informovat PČR a provést jen nezbytné úkony, aby nezničil důkazy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86 odst. 1 písm. g) (oznámení PČR při podezření z TČ/sebevraždy, neznámé totožnosti, nejasných okolností; jen nezbytné úkony), písm. a)–f), h), odst. 3 a 4 (infekční/radioaktivní hlášení).
+- *Související ustanovení téhož zákona:* § 88 odst. 1 písm. c) (soudní pitva), § 84 (prohlídka), § 89 (postup po pitvě).
+- *Související předpisy:* § 105 a § 158 TŘ, § 33 odst. 4 a § 51 ZZS (mlčenlivost a informování osob blízkých), vyhláška č. 297/2012 Sb.
+- *Judikatura:* nosný výklad zdůrazňuje povinnost lékaře nezasahovat do stop při podezření na trestný čin; znehodnocení stop může zmařit objasnění věci.
+
+**4. Subsumpce.** Rýha a krevní výron na krku zakládají „podezření, že úmrtí bylo způsobeno trestným činem" (písm. g bod 1). Lékař byl povinen neprodleně informovat PČR a provést jen nezbytné úkony. Místo toho tělo otočil, svlékl a umyl — tedy poškodil možné důkazy. Tím porušil písm. g.
+
+**5. Řešení.** Postup byl non lege artis a v rozporu s § 86 odst. 1 písm. g). Lékař měl ihned volat PČR; pitva by byla soudní (§ 88 odst. 1 písm. c, § 105 TŘ). Znehodnocení stop může vést k odpovědnosti za přestupek i k trestněprávnímu posouzení (maření výkonu úředního rozhodnutí, příp. nadržování). Praktický krok: při jakémkoli podezření zastavit úkony a volat policii.
+
+**6. Varianty.** (a) Kdyby šlo o zjevně přirozené úmrtí bez podezřelých nálezů, lékař by rozhodl o (ne)provedení pitvy a předal zprávu registrujícímu lékaři (písm. f). (b) Kdyby měl podezření na nebezpečnou infekční nemoc, oznámil by to orgánu ochrany veřejného zdraví (odst. 3) a tělo by nebylo vydáno pohřební službě do stanovení podmínek.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Lékař musí provést řádnou prohlídku, k tomu patří i manipulace s tělem." — Neutralizace: při podezření z TČ je rozsah úkonů omezen na nezbytné; prioritou je zachování stop, nikoli kompletní prohlídka.
+- *Protiargument:* „Rýha na krku mohla vzniknout posmrtně." — Neutralizace: rozlišení je věcí soudního lékaře po soudní pitvě; lékař při prohlídce má při pochybnosti volit oznámení PČR.
+- *Slabé místo:* hranice „nezbytných úkonů" je neurčitá; v pochybnostech je namístě postupovat restriktivně a věc oznámit.
+
+#### H. Praktický závěr
+
+Při podezření z trestného činu, sebevraždy, u zemřelého neznámé totožnosti nebo za nejasných okolností lékař neprodleně informuje PČR a omezí se na nezbytné úkony, aby nezničil stopy. Při podezření na nebezpečnou infekci či radioaktivní kontaminaci hlásí orgánu ochrany veřejného zdraví, resp. SÚJB, a tělo nesmí být vydáno.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl správně a úplně vyplněn List o prohlídce zemřelého a předány jeho části?
+- [ ] Je dáno některé podezření podle písm. g) (TČ/sebevražda, neznámá totožnost, nejasné okolnosti)?
+- [ ] Byla v takovém případě neprodleně informována PČR a omezeny úkony na nezbytné?
+- [ ] Byla informována osoba blízká (písm. c), případně PČR za účelem jejího vyhledání (písm. h)?
+- [ ] Je dáno podezření na nebezpečnou infekci/radioaktivitu (odst. 3, 4)?
+
+**Typicky rozhodné důkazy / podklady:** List o prohlídce zemřelého, fotodokumentace těla a místa, protokol o ohledání PČR, protokol o soudní pitvě, hlášení orgánu ochrany veřejného zdraví / SÚJB.
+
 ---
 
 ### § 87 — Postup při mimořádné události s hromadným úmrtím
@@ -479,6 +769,43 @@ PČR koordinuje **identifikaci zemřelých a zajištění místa**. Velitel slo�
 Pro kontaminované oběti (chemické, radioaktivní, biologické nebezpečí) je nutné přivolání **specialisty PČR nebo armády na příslušnou problematiku** (typicky CBRN týmy HZS).
 
 > **Praktická poznámka:** Při hromadných úmrtích se zpravidla nepostupuje rutinně podle § 86 (informování osoby blízké) — informování pozůstalých koordinují PČR a krizový štáb, často prostřednictvím **DVI týmů** (Disaster Victim Identification) podle metodiky Interpolu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při výbuchu v chemickém provozu zemře 14 osob. Na místo dorazí ZZS, HZS a PČR. Vedoucí lékař ZZS chce ihned na místě provádět individuální prohlídky všech těl podle § 86. Velitel PČR namítá, že je třeba nejprve zajistit místo a koordinovat identifikaci, a že hrozí chemická kontaminace. Důkazy: záznamy operačního střediska, dokumentace zásahu, protokoly DVI týmu.
+
+**2. Právní otázka.** Jaký je správný postup zasahujících složek při mimořádné události s hromadným úmrtím podle § 87?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 87 odst. 1 (definice hromadného úmrtí, pásmová organizace zásahu, triáž a konstatování smrti), odst. 2 (role PČR, přivolání soudního lékaře a specialisty na kontaminaci).
+- *Související ustanovení téhož zákona:* § 84 odst. 2 písm. b) (smluvní poskytovatel pro prohlídky), § 86 (postup lékaře — modifikovaný), § 88 (pitvy).
+- *Související předpisy:* zákon č. 239/2000 Sb. o integrovaném záchranném systému, zákon č. 240/2000 Sb. (krizový zákon), metodika Interpolu DVI.
+- *Judikatura:* nosný postup vychází z metodiky DVI a koordinace IZS; identifikace obětí je svěřena PČR.
+
+**4. Subsumpce.** Při 14 obětech je naplněn indikační znak „zpravidla více než 10 osob". Lékaři ZZS proto nezasahují rutinně podle § 86, ale ve vnější zóně třídí oběti a konstatují smrt (odst. 1 písm. b). Identifikaci a zajištění místa provádí PČR (odst. 2). Pro podezření na chemickou kontaminaci je nutné přivolat specialistu (CBRN). Následné prohlídky těl zajistí lékař dle § 84 odst. 2 písm. b) a přivolaný soudní lékař.
+
+**5. Řešení.** Správný postup: PČR zajistí místo a identifikaci, velitel přivolá soudního lékaře, smluvního poskytovatele kraje a CBRN specialistu; ZZS provádí triáž a konstatování smrti, nikoli individuální prohlídky podle § 86. Informování pozůstalých koordinuje krizový štáb (DVI), nikoli jednotliví lékaři. Praktický krok: aktivovat traumatologický/havarijní plán a DVI tým.
+
+**6. Varianty.** (a) Při počtu obětí těsně pod 10, ale v izolované lokalitě s rozsáhlou destrukcí, lze relativní kritérium „zpravidla" naplnit. (b) Bez podezření na kontaminaci se specialista CBRN nepřivolává a postup je organizačně jednodušší.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Lékař ZZS musí u každého těla postupovat podle § 86." — Neutralizace: § 87 je speciální vůči § 86; při hromadném úmrtí lékaři ZZS jen triážují a konstatují smrt, prohlídky zajistí lékař dle § 84 odst. 2 písm. b).
+- *Protiargument:* „Pozůstalé musí informovat lékař provádějící prohlídku." — Neutralizace: u hromadných úmrtí informování koordinuje PČR/krizový štáb podle metodiky DVI.
+- *Slabé místo:* hranice „zpravidla více než 10 osob" je relativní; rozhodující je posouzení velitele zásahu s ohledem na charakter události.
+
+#### H. Praktický závěr
+
+Při mimořádné události s hromadným úmrtím (zpravidla > 10 obětí) se postupuje v pásmech: ZZS triážuje a konstatuje smrt, PČR zajišťuje místo a identifikaci a přivolává soudního lékaře a smluvního poskytovatele; při kontaminaci i CBRN specialistu. Individuální postup podle § 86 ustupuje koordinovanému režimu DVI.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je naplněno kritérium hromadného úmrtí (zpravidla > 10 osob)?
+- [ ] Byla aktivována pásmová organizace zásahu (místo nálezu / vnější zóna)?
+- [ ] Přivolal velitel PČR soudního lékaře a lékaře dle § 84 odst. 2 písm. b)?
+- [ ] Je podezření na chemickou/radioaktivní/biologickou kontaminaci a přivolán specialista?
+- [ ] Koordinuje informování pozůstalých krizový štáb/DVI?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace zásahu IZS, záznamy operačního střediska, protokoly DVI, protokoly o identifikaci a ohledání PČR, Listy o prohlídce zemřelých.
 
 ---
 
@@ -601,6 +928,43 @@ Anatomické pitvy probíhají primárně na lékařských fakultách (Univerzita
 
 Tento mechanismus chrání důkazní hodnotu těla pro případné trestní řízení a zajišťuje, aby patologicko-anatomická nebo zdravotní pitva nezmařila účel soudní pitvy.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient zemře během plánované operace kyčle při úvodu do anestézie. Vedení nemocnice, v obavě z reputační újmy, navrhuje od pitvy upustit s odkazem na to, že rodina si pitvu nepřeje a „příčina je zřejmá". Rodina později namítá možné pochybení anesteziologa. Důkazy: anesteziologický záznam, operační protokol, zdravotnická dokumentace, protokol o pitvě.
+
+**2. Právní otázka.** Lze u úmrtí při úvodu do anestézie upustit od patologicko-anatomické pitvy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88 odst. 2 písm. d) (povinná P/A pitva při úmrtí při operaci/úvodu do anestézie), odst. 4 (pitva i bez souhlasu; přednost zdravotní pitvy), odst. 7 (přerušení při podezření z TČ).
+- *Související ustanovení téhož zákona:* § 88a (možnost neprovedení pitvy — a její limity), § 88 odst. 3 písm. c) (podezření na non lege artis), § 86 odst. 1 písm. g).
+- *Související předpisy:* § 105 a § 115 TŘ (soudní pitva, znalecký posudek), § 2643 OZ (informace o příčinách újmy).
+- *Judikatura:* nosný výklad zdůrazňuje veřejnoprávní povahu povinné pitvy jako nástroje kontroly kvality péče; od pitvy u medicínských výkonů nelze upustit.
+
+**4. Subsumpce.** Úmrtí nastalo „při úvodu do anestézie" — naplněn znak § 88 odst. 2 písm. d), tedy obligatorní P/A pitva. Podle § 88 odst. 4 se provádí i bez souhlasu zemřelého a rodina ji nemůže odmítnout. § 88a vylučuje upuštění právě u písm. d) (lze upustit jen u písm. a)–c). Navíc je tu podezření na non lege artis (§ 88 odst. 3 písm. c) → spíše zdravotní pitva, jež má přednost (odst. 4).
+
+**5. Řešení.** Pitvu nelze vynechat; provede se (a při kolizi P/A a zdravotní se provede zdravotní). Slouží jako objektivní podklad pro posouzení postupu anesteziologa a pro případné stížnostní/trestní řízení. Ukáže-li se podezření z TČ, pitva se přeruší a oznámí PČR (odst. 7). Praktický krok: zajistit anesteziologický záznam a provést pitvu na soudním lékařství.
+
+**6. Varianty.** (a) Kdyby šlo o úmrtí ženy v souvislosti s porodem (písm. a), bylo by možné za splnění podmínek § 88a od P/A pitvy upustit. (b) Kdyby vzniklo podezření z trestného činu, pitva by se přerušila a OČTŘ by mohl nařídit soudní pitvu (§ 105 TŘ).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Rodina pitvu odmítá, je třeba to respektovat." — Neutralizace: povinné pitvy podle odst. 2 a 3 se provádějí i bez souhlasu (odst. 4); přání rodiny je u písm. d) právně bezvýznamné.
+- *Protiargument:* „Příčina smrti je zřejmá, pitva je nadbytečná." — Neutralizace: u medicínských výkonů (písm. d) je pitva právě nástrojem verifikace správnosti péče; „zřejmost" neplatí jako výjimka mimo úzký rámec § 88a.
+- *Slabé místo:* rozlišení P/A a zdravotní pitvy může být sporné; při podezření na non lege artis má přednost zdravotní pitva soudního lékaře.
+
+#### H. Praktický závěr
+
+Patologicko-anatomická a zdravotní pitva se v zákonem vypočtených případech provádí vždy a i bez souhlasu zemřelého; přání rodiny je nemůže vyloučit. Při kolizi má přednost zdravotní pitva. U úmrtí spojených s medicínskými výkony je pitva klíčovým kontrolním nástrojem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá úmrtí pod některý z indikačních katalogů odst. 2 (P/A) nebo odst. 3 (zdravotní)?
+- [ ] Jde o případ, kde lze podle § 88a od pitvy upustit, nebo o případ vyloučený?
+- [ ] Není dáno podezření na non lege artis (přednost zdravotní pitvy)?
+- [ ] Nevzniklo v průběhu pitvy podezření z TČ (přerušení, oznámení PČR, lhůta 2 hodiny)?
+- [ ] Kdo hradí náklady (u soudní pitvy OČTŘ, u anatomické univerzita)?
+
+**Typicky rozhodné důkazy / podklady:** protokol o pitvě, anesteziologický a operační záznam, zdravotnická dokumentace, List o prohlídce zemřelého, případné nařízení soudní pitvy.
+
 ---
 
 ### § 88a — Možnost neprovedení pitvy
@@ -636,6 +1000,42 @@ Nelze tedy upustit od pitvy zejména u úmrtí, která mají **kontrolně-veřej
 
 Rozhodnutí o neprovedení zdravotní pitvy podle odst. 2 písm. a) nebo b) musí být **oznámeno Policii ČR** — důvodem je kontrola, zda neprovedení pitvy u potenciálně násilných úmrtí (sebevraždy, návykové látky) nezmaří objasnění trestného činu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** U 85letého onkologicky léčeného pacienta v terminálním stadiu, který náhle zemřel doma, lékař při prohlídce zvažuje, zda upustit od jinak indikované zdravotní pitvy. Pacient za života žádný nesouhlas s pitvou nevyslovil. Současně dcera tvrdí, že úmrtí mohlo souviset s pochybením domácí péče. Důkazy: zdravotnická dokumentace, onkologická anamnéza, List o prohlídce zemřelého.
+
+**2. Právní otázka.** Jsou splněny kumulativní podmínky § 88a pro upuštění od pitvy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88a odst. 1 (diskreční upuštění lékaře; zřejmá příčina + prokazatelný nesouhlas/žádost), omezený rozsah dispozitivity, odst. 2 (širší diskrece poskytovatele), odst. 4 (oznámení PČR).
+- *Související ustanovení téhož zákona:* § 88 odst. 2 a 3 (katalogy povinných pitev), § 88 odst. 3 písm. c) (podezření na non lege artis), § 81 odst. 5 (forma nesouhlasu).
+- *Související předpisy:* § 105 TŘ, § 22 OZ (osoba blízká).
+- *Judikatura:* nosný výklad váže upuštění od pitvy na úzce vymezené případy; tam, kde má pitva kontrolní funkci (non lege artis), upustit nelze.
+
+**4. Subsumpce.** Náhlé úmrtí s neobjasněnou příčinou spadá pod § 88 odst. 3 písm. a) — od této kategorie § 88a upustit neumožňuje. Navíc dcera vznesla podezření na non lege artis (§ 88 odst. 3 písm. c), což rovněž patří mezi nedispozitivní případy. Podmínka „zřejmé příčiny" tu navíc není bezpečně dána. Upuštění proto není přípustné.
+
+**5. Řešení.** Od pitvy nelze upustit; provede se zdravotní pitva. Slouží k objasnění příčiny a k posouzení namítaného pochybení domácí péče. Praktický krok: zaznamenat námitku osoby blízké, zajistit zdravotnickou dokumentaci a předat tělo k pitvě na soudní lékařství. Pokud by vzniklo podezření z TČ, pitva se přeruší a oznámí PČR.
+
+**6. Varianty.** (a) Kdyby šlo o sebevraždu se zcela zřejmou příčinou (§ 88 odst. 3 písm. b) a rodina by požádala o neprovedení a pacient nevyslovil opačně, lékař by mohl od pitvy upustit — s následným oznámením PČR (odst. 4). (b) U násilného úmrtí s podezřením na cizí zavinění upuštění nepřipadá v úvahu vůbec.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Příčina je u terminálního onkologického pacienta zřejmá, lze upustit." — Neutralizace: náhlá úmrtí neobjasněné příčiny (písm. a) a podezření na non lege artis (písm. c) jsou z dispozitivity vyloučeny bez ohledu na „zřejmost".
+- *Protiargument:* „Rodina o neprovedení požádala." — Neutralizace: žádost rodiny je jen jednou ze dvou podmínek; musí být současně zřejmá příčina a případ nesmí spadat mezi nedispozitivní kategorie.
+- *Slabé místo:* „zřejmost příčiny" je hodnotící pojem; v pochybnostech a při námitce non lege artis je namístě pitvu provést.
+
+#### H. Praktický závěr
+
+Od povinné pitvy lze upustit jen výjimečně: musí být zřejmá příčina úmrtí a současně prokazatelný nesouhlas zemřelého nebo žádost osoby blízké, a případ nesmí spadat mezi nedispozitivní kategorie (náhlá úmrtí neobjasněné příčiny, non lege artis, vazba/trest/detence, medicínské výkony). U zdravotní pitvy se upuštění oznamuje PČR.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je příčina úmrtí skutečně zřejmá bez pitvy?
+- [ ] Existuje prokazatelný nesouhlas zemřelého nebo žádost osoby blízké/zástupce?
+- [ ] Nespadá případ mezi kategorie, u nichž upustit nelze (§ 88 odst. 2 písm. d–h, odst. 3 písm. a, c, e)?
+- [ ] Bylo upuštění od zdravotní pitvy oznámeno PČR (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace prokazující zřejmou příčinu, prokazatelný nesouhlas/žádost ve formě § 81 odst. 5, List o prohlídce zemřelého, záznam o oznámení PČR.
+
 ---
 
 ### § 89 — Postup po provedení pitvy
@@ -660,6 +1060,42 @@ Rozhodnutí o neprovedení zdravotní pitvy podle odst. 2 písm. a) nebo b) mus�
 
 Porušení informační povinnosti je samostatným přestupkem podle § 117 odst. 3 písm. o) ZZS (pokuta do 100 000 Kč).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pracoviště soudního lékařství provede zdravotní pitvu zemřelého, u nějž se potvrdí dosud nediagnostikovaná dědičná kardiomyopatie. Poskytovatel však opomene výsledek pitvy písemně sdělit registrujícímu praktickému lékaři zesnulého. Příbuzní se tak o geneticky podmíněném riziku nedozvědí. Důkazy: protokol o pitvě, doklad o odeslání zprávy, zdravotnická dokumentace.
+
+**2. Právní otázka.** Splnil poskytovatel provádějící pitvu informační povinnost podle § 89 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89 odst. 1 (vyplnění a předání částí LPZ), odst. 2 (písemná informace poskytovateli místa úmrtí a registrujícímu praktickému lékaři).
+- *Související ustanovení téhož zákona:* § 86 odst. 1 písm. a) (LPZ), § 88 (pitvy), § 117 odst. 3 písm. o) (přestupek za porušení informační povinnosti).
+- *Související předpisy:* vyhláška č. 297/2012 Sb. o LPZ, zákon č. 372/2011 Sb. — § 51 (mlčenlivost a její výjimky), zákon o specifických zdravotních službách (genetika).
+- *Judikatura:* nosný výklad chápe informování registrujícího lékaře jako nástroj epidemiologické statistiky a ochrany zdraví příbuzných (dědičné choroby).
+
+**4. Subsumpce.** Poskytovatel byl povinen písemně informovat o výsledku pitvy jak poskytovatele místa úmrtí, tak registrujícího praktického lékaře (je-li znám). Registrující lékař znám byl; informace odeslána nebyla. Znak porušení informační povinnosti je naplněn — jde o přestupek podle § 117 odst. 3 písm. o) ZZS.
+
+**5. Řešení.** Poskytovatel naplnil přestupek (pokuta do 100 000 Kč). Opomenutí navíc znemožnilo varovat příbuzné před dědičným rizikem. Praktický krok: dodatečně odeslat zprávu registrujícímu lékaři; do interních procesů zavést kontrolu odeslání zpráv po každé pitvě. Sdělování údajů osobám blízkým po smrti pacienta umožňuje § 51 ve spojení s § 33 odst. 4 ZZS.
+
+**6. Varianty.** (a) Kdyby registrující praktický lékař nebyl znám, povinnost vůči němu by nevznikla (zákon ji váže na „je-li znám"). (b) Kdyby šlo o soudní pitvu, předávání výsledků by se řídilo režimem trestního řízení (§ 105 TŘ), nikoli § 89.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Výsledek byl zaznamenán v dokumentaci, to stačí." — Neutralizace: § 89 odst. 2 vyžaduje aktivní písemné informování konkrétních adresátů, nikoli pouhý záznam.
+- *Protiargument:* „Registrující lékař nebyl jednoznačně určen." — Neutralizace: povinnost platí, je-li lékař znám; poskytovatel má vyvinout přiměřené úsilí ke zjištění z LPZ a dokumentace.
+- *Slabé místo:* hranice „je-li znám" je skutková; v pochybnostech je vhodné registrujícího lékaře dohledat z Listu o prohlídce zemřelého.
+
+#### H. Praktický závěr
+
+Po pitvě poskytovatel vyplní a předá části Listu o prohlídce zemřelého a písemně informuje o výsledku pitvy poskytovatele místa úmrtí a registrujícího praktického lékaře (je-li znám). Opomenutí je přestupkem a může poškodit příbuzné u dědičných chorob.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byly vyplněny a předány příslušné části LPZ podle prováděcího předpisu?
+- [ ] Byl písemně informován poskytovatel místa úmrtí?
+- [ ] Byl písemně informován registrující praktický lékař, je-li znám?
+- [ ] Byl výsledek zaznamenán a předán včas?
+
+**Typicky rozhodné důkazy / podklady:** protokol o pitvě, doklady o odeslání zpráv adresátům, List o prohlídce zemřelého, zdravotnická dokumentace.
+
 ---
 
 ### § 90 — Uložení těla ve zdravotnickém zařízení
@@ -678,6 +1114,42 @@ Porušení informační povinnosti je samostatným přestupkem podle § 117 odst
 | Prodloužené (nad 1 týden) nebo dle stavu těla | **pod –10 °C** (mrazicí zařízení) | Konzervace; možnost dlouhodobé identifikace |
 
 Toto pravidlo odráží standardy hygieny mortuárních prostor a slouží jak ochraně zdraví personálu, tak důstojnosti zemřelého. Porušení je přestupkem podle § 117 odst. 3 písm. p) ZZS (pokuta do 200 000 Kč).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Tělo zemřelého neznámé totožnosti je ve zdravotnickém zařízení uloženo v chladicím boxu při +4 °C. Identifikace se protáhne a tělo zde leží již 10 dní; personál je stále ponechává v běžné chladničce, nikoli v mrazicím zařízení. Kontrola zjistí pokročilé rozkladné změny ztěžující pozdější identifikaci. Důkazy: evidence uložení těla, záznamy teploty boxu, fotodokumentace.
+
+**2. Právní otázka.** Byl dodržen zákonný teplotní režim uložení těla podle § 90?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90 (dvoustupňový teplotní režim: 0 až +5 °C standardně; pod −10 °C nad 1 týden nebo dle stavu těla).
+- *Související ustanovení téhož zákona:* § 86 odst. 1 písm. g) bod 2 (zemřelý neznámé totožnosti — informování PČR), § 117 odst. 3 písm. p) (přestupek).
+- *Související předpisy:* zákon č. 256/2001 Sb. o pohřebnictví, předpisy o hygieně mortuárních prostor.
+- *Judikatura:* nosný výklad spojuje teplotní režim s ochranou zdraví personálu, důstojnosti zemřelého a možností pozdější identifikace.
+
+**4. Subsumpce.** Doba uložení (10 dní) překročila 1 týden — nastal zákonný požadavek uložení při teplotě nižší než −10 °C. Tělo však zůstalo při +4 °C. Znak porušení teplotního režimu je naplněn; jde o přestupek podle § 117 odst. 3 písm. p) ZZS (pokuta do 200 000 Kč). U neidentifikovaného těla je škoda znásobena ztrátou identifikačních možností.
+
+**5. Řešení.** Poskytovatel porušil § 90. Tělo mělo být po týdnu přemístěno do mrazicího zařízení pod −10 °C; navíc i dříve, vyžadoval-li to stav těla. Praktický krok: zavést kontrolu doby uložení a automatické přemístění do mrazu po 7 dnech, vést teplotní záznamy. Současně u neidentifikovaného těla zajistit součinnost s PČR.
+
+**6. Varianty.** (a) Kdyby tělo bylo uloženo méně než týden a v dobrém stavu, postačovalo by uložení při 0 až +5 °C. (b) Kdyby stav těla (např. pokročilý rozklad od počátku) vyžadoval hlubší zmrazení dříve, požadavek pod −10 °C by nastal i před uplynutím týdne.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Chladnička při +4 °C je dostatečná." — Neutralizace: nad 1 týden nebo dle stavu těla zákon výslovně vyžaduje teplotu nižší než −10 °C; +4 °C nestačí.
+- *Protiargument:* „Překročení týdne nebylo zaviněné, identifikace se protáhla." — Neutralizace: povinnost je objektivní; protažení identifikace nezbavuje poskytovatele povinnosti přemístit tělo do mrazu.
+- *Slabé místo:* posouzení, zda „stav těla" vyžadoval hlubší zmrazení dříve, je odborné; je vhodné vést průběžné záznamy o stavu těla.
+
+#### H. Praktický závěr
+
+Tělo zemřelého musí být ve zdravotnickém zařízení v době, kdy na něm nejsou prováděny úkony, uloženo při 0 až +5 °C; po více než týdnu nebo vyžaduje-li to stav těla při teplotě nižší než −10 °C. Porušení je přestupkem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je tělo uloženo v chladicím zařízení udržujícím 0 až +5 °C?
+- [ ] Překročila doba uložení 1 týden (→ přemístit pod −10 °C)?
+- [ ] Vyžaduje stav těla hlubší zmrazení i dříve?
+- [ ] Jsou vedeny teplotní záznamy a evidence doby uložení?
+
+**Typicky rozhodné důkazy / podklady:** evidence uložení těla, teplotní záznamy chladicího/mrazicího zařízení, fotodokumentace stavu těla, doklad o součinnosti s PČR u neidentifikovaných osob.
 
 ---
 
@@ -708,6 +1180,42 @@ Spálení je obligatorní — anatomicko-patologický odpad **nelze ukládat na 
 
 Zvláštní zacházení s **plody po potratu**, které nebyly vydány k pohřbení podle pohřebnictví — ty se zpopelňují **v krematoriu odděleně** od anatomicko-patologického odpadu, na základě smlouvy mezi poskytovatelem a provozovatelem krematoria. Toto oddělení vyjadřuje **vyšší etický status** plodu po potratu (potenciální budoucí lidská osobnost) oproti pouhým odejmutým částem těla.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nemocnice nemá vlastní spalovnu a anatomicko-patologický odpad (odejmuté části těla, placenty) ukládá do běžných kontejnerů na nebezpečný zdravotnický odpad bez smlouvy s jiným poskytovatelem či krematoriem. Plody po potratu, které nebyly vydány k pohřbení, likviduje společně s tímto odpadem. Kontrola zjistí absenci smluv a oddělené likvidace. Důkazy: smlouvy o nakládání s odpadem, evidence likvidace, doklady krematoria.
+
+**2. Právní otázka.** Byl anatomicko-patologický odpad a plody po potratu likvidovány v souladu s § 91?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 91 (definice anatomicko-patologického odpadu, spalování ve spalovně/krematoriu na smluvním základě, oddělené zpopelnění plodů po potratu).
+- *Související ustanovení téhož zákona:* § 82 (plod po potratu a biologické zbytky), § 81 (použití částí těla), § 80 (odběr).
+- *Související předpisy:* zákon č. 541/2020 Sb. o odpadech a vyhláška č. 273/2021 Sb., zákon č. 256/2001 Sb. o pohřebnictví.
+- *Judikatura:* nosný výklad zdůrazňuje, že anatomicko-patologický odpad nelze ukládat na skládku ani třídit s běžným odpadem; plody po potratu mají vyšší etický status (oddělené zpopelnění).
+
+**4. Subsumpce.** Odejmuté části těla a placenty jsou anatomicko-patologickým odpadem, který musí být spálen ve spalovně poskytovatele, jiného poskytovatele nebo v krematoriu na smluvním základě. Smlouva chybí — porušen § 91 věta první. Plody po potratu se navíc musí zpopelňovat v krematoriu odděleně; společná likvidace porušuje § 91 větu třetí.
+
+**5. Řešení.** Nemocnice porušila § 91. Musí uzavřít smlouvu o spalování s jiným poskytovatelem nebo krematoriem a zajistit oddělené zpopelnění plodů po potratu na základě smlouvy s krematoriem. Praktický krok: smluvně ošetřit likvidaci, oddělit tok plodů po potratu, vést evidenci. Současně hrozí sankce podle zákona o odpadech.
+
+**6. Varianty.** (a) Kdyby plod po potratu byl vydán k pohřbení podle pohřebnictví, postupovalo by se podle pohřebnictví, nikoli podle § 91. (b) Kdyby šlo o části těla zemřelého použité k vědě/výuce, jejich spálení zajišťuje a hradí ten, kdo je použil (věta druhá § 91).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Jde o běžný nebezpečný zdravotnický odpad, stačí standardní likvidace." — Neutralizace: § 91 stanoví zvláštní režim spalování ve spalovně/krematoriu na smluvním základě; běžné třídění ani skládka nejsou přípustné.
+- *Protiargument:* „Plody po potratu lze likvidovat s ostatním odpadem." — Neutralizace: § 91 výslovně vyžaduje oddělené zpopelnění plodů po potratu v krematoriu.
+- *Slabé místo:* vymezení, co spadá pod anatomicko-patologický odpad, může být sporné u biologických zbytků; rozhodný je výčet v § 91.
+
+#### H. Praktický závěr
+
+Anatomicko-patologický odpad se spaluje ve vlastní spalovně, ve spalovně jiného poskytovatele nebo v krematoriu na smluvním základě; nelze jej ukládat na skládku ani třídit s běžným odpadem. Plody po potratu nevydané k pohřbení se zpopelňují v krematoriu odděleně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je likvidace anatomicko-patologického odpadu zajištěna spálením na některém ze tří míst?
+- [ ] Existuje smlouva s jiným poskytovatelem nebo krematoriem (nemá-li poskytovatel vlastní spalovnu)?
+- [ ] Jsou plody po potratu zpopelňovány odděleně v krematoriu?
+- [ ] Kdo hradí spálení částí těla použitých k vědě/výuce (ten, kdo je použil)?
+
+**Typicky rozhodné důkazy / podklady:** smlouvy o spalování/zpopelnění, evidence likvidace odpadu, doklady krematoria, doklady o vydání k pohřbení.
+
 ---
 
 ### § 92 — Zmocnění k vyhlášce
@@ -719,6 +1227,42 @@ Zvláštní zacházení s **plody po potratu**, které nebyly vydány k pohřben
 **Výklad:**
 
 Zmocňovací norma pro vydání vyhlášky upravující **náležitosti Listu o prohlídce zemřelého** a hlášení o reprodukčních událostech. Aktuální prováděcí předpis: **vyhláška č. 297/2012 Sb., o náležitostech Listu o prohlídce zemřelého, způsobu jeho vyplňování a předávání místům určení (vyhláška o Listu o prohlídce zemřelého)**.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Lékař provádějící prohlídku vyplní List o prohlídce zemřelého na zastaralém formuláři, neodpovídajícím náležitostem podle prováděcí vyhlášky, a opomene předat část určenou matrice. Matriční úřad odmítne vystavit úmrtní list, dokud nedostane řádně vyplněný LPZ. Vznikne spor o náležitosti formuláře. Důkazy: vyplněný LPZ, vyhláška o LPZ, korespondence s matrikou.
+
+**2. Právní otázka.** Které náležitosti a postup při předávání Listu o prohlídce zemřelého stanoví prováděcí předpis vydaný na základě zmocnění v § 92?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 92 (zmocnění k vyhlášce o náležitostech LPZ, způsobu vyplňování, místech určení jednotlivých částí, postupu předávání a o náležitostech hlášení o ukončení těhotenství, úmrtí dítěte a matky).
+- *Související ustanovení téhož zákona:* § 86 odst. 1 písm. a) a odst. 2 (vyplnění a předání LPZ, předávání rodného čísla), § 89 odst. 1 (postup po pitvě).
+- *Související předpisy:* vyhláška č. 297/2012 Sb., o náležitostech Listu o prohlídce zemřelého; zákon o matrikách; zákon o státní statistické službě (ČSÚ, ÚZIS).
+- *Judikatura:* nosný výklad k zmocňovacím normám (čl. 79 odst. 3 Ústavy) zdůrazňuje, že vyhláška se musí držet v mezích zákona a nesmí ukládat povinnosti nad jeho rámec.
+
+**4. Subsumpce.** § 92 je zmocňovací (blanketní) normou; vlastní náležitosti LPZ stanoví vyhláška č. 297/2012 Sb. Lékař byl povinen použít aktuální formulář dle vyhlášky a předat jeho části místům určení. Použití zastaralého formuláře a opomenutí předání matriční části je porušením postupu stanoveného vyhláškou ve spojení s § 86.
+
+**5. Řešení.** Lékař musí LPZ vyplnit na platném formuláři podle vyhlášky a předat všechny části místům určení (matrika, ÚZIS/ČSÚ, registrující lékař, pohřební služba, případně pitevní pracoviště). Praktický krok: používat výhradně aktuální vzor LPZ a ověřit kompletní distribuci jeho částí. Spor s matrikou se vyřeší doplněním řádného LPZ.
+
+**6. Varianty.** (a) Kdyby vyhláška překročila meze zmocnění (uložila povinnost nemající oporu v zákoně), bylo by možné namítat její nezákonnost v rozsahu exces. (b) U reprodukčních událostí (ukončení těhotenství, úmrtí dítěte/matky) se vyplňují zvláštní hlášení podle vyhlášky.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stačí jakýkoli formulář, podstatný je obsah." — Neutralizace: vyhláška stanoví závazné náležitosti a vzor; nedodržení brání plnění návazných úkonů (matriční zápis, statistika).
+- *Protiargument:* „Vyhláška ukládá nad rámec zákona." — Neutralizace: případný exces lze namítat, ale samotné základní náležitosti LPZ mají oporu ve zmocnění § 92.
+- *Slabé místo:* zmocňovací norma sama nestanoví konkrétní povinnosti; ty plynou až z vyhlášky, kterou je třeba ověřit v aktuálním znění.
+
+#### H. Praktický závěr
+
+§ 92 zmocňuje k vydání vyhlášky o náležitostech a oběhu Listu o prohlídce zemřelého a o hlášeních o reprodukčních událostech; provedením je vyhláška č. 297/2012 Sb. LPZ je nutné vyplňovat na platném vzoru a distribuovat všem zákonem určeným adresátům.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je použit aktuální vzor LPZ podle vyhlášky č. 297/2012 Sb.?
+- [ ] Byly vyplněny všechny náležitosti a způsob vyplnění odpovídá vyhlášce?
+- [ ] Byly všechny části LPZ předány místům jejich určení?
+- [ ] Byla u reprodukčních událostí vyhotovena příslušná hlášení?
+
+**Typicky rozhodné důkazy / podklady:** vyplněný List o prohlídce zemřelého, vyhláška o LPZ, doklady o předání jednotlivých částí, hlášení o ukončení těhotenství/úmrtí dítěte/matky.
 
 ---
 
@@ -848,6 +1392,43 @@ Tato povinnost reflektuje **strukturální komplexitu lůžkových zařízení**
 
 K **šetření stížností proti Vězeňské službě jako poskytovateli** je příslušný **ředitel organizační jednotky VS** (typicky věznice). Generální ředitel VS může šetřením stížnosti pověřit jinou osobu (typicky inspektora ředitele).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacientka podá nemocnici stížnost na hrubé jednání lékaře. Nemocnice stížnost vyřídí po 75 dnech (bez odůvodněného prodloužení) a v reakci pacientce sdělí, že „si může najít jiného poskytovatele". Pacientka chce postoupit věc krajskému úřadu. Důkazy: stížnost a její vyřízení, evidence stížností, doklad o doručení vyřízení.
+
+**2. Právní otázka.** Byly dodrženy lhůty a povinnosti poskytovatele podle § 93 a porušil poskytovatel zákaz újmy stěžovateli?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 93 odst. 1 (aktivní legitimace, zákaz újmy stěžovateli), odst. 2 (60denní lhůta k postoupení správnímu orgánu, postup při nevyřízení), odst. 3 (povinnosti poskytovatele včetně 30/60denní lhůty), odst. 4 (lůžková/jednodenní péče).
+- *Související ustanovení téhož zákona:* § 94 (stížnost u správního orgánu), § 48 (odmítnutí péče), § 51 (mlčenlivost).
+- *Související předpisy:* § 177 TZ (utiskování), § 2956 a násl. OZ (náhrada újmy), zákon č. 500/2004 Sb. správní řád.
+- *Judikatura:* nosný výklad chápe stížnostní mechanismus jako mimosoudní dohled nad kvalitou péče; anti-retaliační klauzule chrání stěžovatele před odvetnými postupy.
+
+**4. Subsumpce.** Poskytovatel překročil 30denní lhůtu, aniž ji odůvodněně prodloužil (75 dní) — porušil odst. 3 písm. b). Doporučení „najít si jiného poskytovatele" v reakci na stížnost je odvetným postupem ohrožujícím kontinuitu péče — porušení zákazu újmy (odst. 1 in fine), případně signál odmítnutí péče dle § 48. Pacientka může do 60 dnů od doručení vyřízení postoupit věc krajskému úřadu; při nevyřízení v lhůtě tak mohla učinit i bez čekání.
+
+**5. Řešení.** Pacientka podá stížnost krajskému úřadu (§ 94) s uvedením důvodů nesouhlasu; lhůta 60 dnů běží od doručení vyřízení. Reakci poskytovatele lze samostatně napadnout jako porušení zákazu újmy. Praktický krok: doložit datum doručení vyřízení, obsah reakce a evidenci stížností.
+
+**6. Varianty.** (a) Kdyby stížnost podala osoba blízká, ač pacientka mohla jednat sama, byla by k podání nelegitimována (odst. 1 písm. c). (b) Kdyby poskytovatel byl nepříslušný, musel by stížnost do 5 dnů postoupit věcně příslušnému subjektu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Lhůtu jsme dodrželi, prodloužili jsme ji." — Neutralizace: prodloužení o 30 dnů musí být odůvodněné a stěžovatel o něm informován; bez toho je překročení 30 dnů porušením.
+- *Protiargument:* „Doporučení jiného poskytovatele není újma." — Neutralizace: v kontextu reakce na stížnost jde o odvetný postup ohrožující kontinuitu péče, který zákaz újmy zapovídá.
+- *Slabé místo:* prokázání retaliačního motivu může být obtížné; opírat se o časovou a obsahovou souvislost s podáním stížnosti.
+
+#### H. Praktický závěr
+
+Stížnost se podává nejprve poskytovateli; ten ji vyřídí do 30 dnů (s možným odůvodněným prodloužením o 30 dnů) a nesmí ji obrátit stěžovateli k tíži. Při nesouhlasu nebo nevyřízení může stěžovatel do 60 dnů od doručení vyřízení postoupit věc příslušnému správnímu orgánu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je stěžovatel aktivně legitimován podle odst. 1 (a osoba blízká jen subsidiárně)?
+- [ ] Byla dodržena 30/60denní lhůta a stěžovatel informován o prodloužení?
+- [ ] Nedošlo k újmě stěžovateli/pacientovi (odvetné postupy)?
+- [ ] Vede poskytovatel evidenci stížností a umožnil nahlížení do spisu?
+- [ ] Byla zachována 60denní lhůta k postoupení správnímu orgánu?
+
+**Typicky rozhodné důkazy / podklady:** stížnost a její písemné vyřízení, doklad o doručení vyřízení, evidence stížností, korespondence s poskytovatelem, doklad o ustanovení osoby pověřené vyřizováním (u lůžkové péče).
+
 ---
 
 ### § 94 — Stížnost u příslušného správního orgánu
@@ -930,6 +1511,42 @@ Příslušný správní orgán **má povinnost ustavit nezávislou odbornou komi
 
 Pokud stížnost podá osoba, **která není uvedena v § 93 odst. 1** (typicky sousedé, novináři, anonymní stěžovatelé), správní orgán ji **posoudí jako podnět k provedení kontroly** podle Části desáté ZZS — nikoli jako stížnost. Stěžovatele do 30 dnů písemně vyrozumí o tom, jak bylo s podáním naloženo. Tento mechanismus chrání **ochranu informací o pacientovi** — anonymní třetí osoba nemůže iniciovat plnohodnotné stížnostní řízení s nahlížením do zdravotnické dokumentace cizí osoby.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient zemřel po operaci; pozůstalí podají krajskému úřadu stížnost na možné non lege artis pochybení s následkem smrti. Krajský úřad vyřídí věc do 30 dnů jen na základě vyjádření poskytovatele, bez ustavení nezávislého odborníka či komise, a stížnost odmítne jako nedůvodnou. Pozůstalí namítají nesprávný procesní postup. Důkazy: stížnost, vyřízení, zdravotnická dokumentace, spis krajského úřadu.
+
+**2. Právní otázka.** Byl krajský úřad povinen ustavit nezávislého odborníka, resp. nezávislou odbornou komisi podle § 94 odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94 odst. 1 písm. a) (trojí lhůtní režim 30/90/120 dnů), odst. 2 (podnět nelegitimovaného stěžovatele jako podnět ke kontrole), odst. 3 (povinnost ustavit odborníka/komisi).
+- *Související ustanovení téhož zákona:* § 93 (stížnost u poskytovatele), § 95 (složení a jednání komise), § 96 (závěry šetření), § 107 a násl. (kontrola).
+- *Související předpisy:* zákon č. 500/2004 Sb. správní řád (§ 14 podjatost), § 105 TŘ.
+- *Judikatura:* nosný výklad zdůrazňuje, že u úmrtí v souvislosti se zdravotními službami a podezření na non lege artis musí správní orgán ustavit odborníka/komisi, není-li stížnost zjevně nedůvodná.
+
+**4. Subsumpce.** Stížnost směřuje proti správnému postupu (lege artis) a namítá úmrtí v souvislosti s péčí; není zjevně nedůvodná. Podle odst. 3 písm. a) měl úřad ustavit nezávislého odborníka „vždy"; u úmrtí pacienta s podezřením na non lege artis pak podle písm. b) bodu 2 i nezávislou odbornou komisi. Vyřízení do 30 dnů bez odborníka/komise je proto procesně vadné; měla se uplatnit lhůta 90, resp. 120 dnů od ustavení.
+
+**5. Řešení.** Postup krajského úřadu byl nezákonný. Správně měl ustavit nezávislého odborníka a (u úmrtí s podezřením na non lege artis) nezávislou odbornou komisi a vyřídit věc ve lhůtě 120 dnů od ustavení komise (+ možné prodloužení o 60 dnů). Praktický krok: domáhat se nápravy, doložit, že stížnost není zjevně nedůvodná.
+
+**6. Varianty.** (a) Kdyby stížnost byla zjevně nedůvodná (zcela bezobsažná, šikanózní), povinnost ustavit odborníka by nevznikla. (b) Kdyby ji podala osoba mimo okruh § 93 odst. 1, posoudila by se jako podnět ke kontrole (odst. 2) a stěžovatel by byl do 30 dnů vyrozuměn.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stížnost byla vyřiditelná do 30 dnů bez odborníka." — Neutralizace: u podezření na non lege artis a úmrtí pacienta je ustavení odborníka/komise obligatorní, není-li stížnost zjevně nedůvodná; krátká lhůta je signálem neprovedení odborného posouzení.
+- *Protiargument:* „Vyjádření poskytovatele postačovalo." — Neutralizace: posouzení správnosti péče vyžaduje nezávislé odborné zhodnocení, nikoli jen tvrzení dotčeného poskytovatele.
+- *Slabé místo:* pojem „zjevně nedůvodná" je hodnotící; v pochybnostech svědčí ve prospěch ustavení odborníka.
+
+#### H. Praktický závěr
+
+U stížností směřujících proti správnému postupu a u podezření na ublížení na zdraví (zejména s následkem smrti) musí příslušný správní orgán ustavit nezávislého odborníka, resp. nezávislou odbornou komisi, není-li stížnost zjevně nedůvodná; podle toho se prodlužují lhůty na 90, resp. 120 dnů od ustavení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Směřuje stížnost proti správnému postupu / namítá ublížení na zdraví?
+- [ ] Je stížnost zjevně nedůvodná, nebo je třeba ustavit odborníka/komisi?
+- [ ] Byla zvolena správná lhůta (30 / 90 / 120 dnů od ustavení) a možnost prodloužení?
+- [ ] Byla osoba mimo okruh § 93 odst. 1 vyřízena jako podnět ke kontrole (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** stížnostní spis krajského úřadu, zdravotnická dokumentace, posudek nezávislého odborníka, zápis nezávislé odborné komise, doklady o lhůtách a ustavení.
+
 ---
 
 ### § 95 — Nezávislá odborná komise
@@ -988,6 +1605,43 @@ Komise vypracuje **zápis** předaný správnímu orgánu prostřednictvím pře
 
 Pokud na základě zjištěných skutečností **nelze konstatování učinit** (důkazní nouze), tato skutečnost se v zápisu uvede. Závěr komise však **nemá závaznost soudního rozhodnutí** — má status odborného podkladu pro správní řízení a může být důkazem v dalších řízeních (občanskoprávních, trestních).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad ustaví nezávislou odbornou komisi k posouzení úmrtí pacienta. Do komise jmenuje předsedu (zástupce úřadu), jediného zdravotnického pracovníka v oboru a zástupce komory; opomene však přizvat lékaře patologie/soudního lékařství, ač jde o úmrtí. Jeden ze členů komise dříve pracoval u dotčeného poskytovatele. Důkazy: jmenovací akty, zápis komise, doklady o vztazích členů.
+
+**2. Právní otázka.** Bylo složení a jednání nezávislé odborné komise v souladu s § 95 (mandatorní složení, nepodjatost, usnášeníschopnost)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 95 odst. 1 (mandatorní složení: předseda, ≥ 2 zdravotničtí pracovníci v oboru, lékař patologie/soudního lékařství při úmrtí, zástupce komory), dále přizvání právníka, účast poskytovatele/stěžovatele, nepodjatost a usnášeníschopnost, obsah zápisu.
+- *Související ustanovení téhož zákona:* § 94 odst. 3 (ustavení komise), § 96 (závěry šetření), § 97 (neveřejnost a sdělení složení).
+- *Související předpisy:* § 14 správního řádu (podjatost).
+- *Judikatura:* nosný výklad váže legitimitu závěrů komise na dodržení mandatorního složení a na nepodjatost členů; vada ve složení může závěr zpochybnit.
+
+**4. Subsumpce.** Jde o úmrtí pacienta — komise musela zahrnovat lékaře patologie nebo soudního lékařství (odst. 1 písm. c); jeho absence je vadou složení. Zákon dále vyžaduje nejméně 2 zdravotnické pracovníky v oboru (písm. b); jen jeden nestačí. Člen s předchozím pracovním vztahem k poskytovateli zakládá důvodné pochybnosti o nepodjatosti. Složení i nepodjatost jsou tak porušeny.
+
+**5. Řešení.** Závěry takto vadně ustavené komise jsou zpochybnitelné. Krajský úřad musí komisi doplnit o lékaře patologie/soudního lékařství a druhého zdravotnického pracovníka v oboru a vyloučit podjatého člena. Praktický krok: namítat vadu složení a podjatost, požadovat opakované posouzení. Závěr komise nemá závaznost soudního rozhodnutí, ale je významným odborným podkladem.
+
+**6. Varianty.** (a) Kdyby nešlo o úmrtí pacienta, lékař patologie/soudního lékařství by se nevyžadoval. (b) Kdyby o to požádal poskytovatel nebo stěžovatel, jejich přizvání k podání vysvětlení by bylo obligatorní (kontradiktorní princip).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Komise byla usnášeníschopná, na složení nezáleží." — Neutralizace: usnášeníschopnost nezhojí absenci mandatorních členů (lékař patologie/soudního lékařství při úmrtí, ≥ 2 zdravotničtí pracovníci v oboru).
+- *Protiargument:* „Předchozí zaměstnání u poskytovatele nevadí." — Neutralizace: zakládá důvodné pochybnosti o nepodjatosti analogicky § 14 správního řádu.
+- *Slabé místo:* posouzení podjatosti je skutkové; je třeba doložit konkrétní vztah člena k poskytovateli/stěžovateli/pacientovi.
+
+#### H. Praktický závěr
+
+Nezávislá odborná komise musí mít mandatorní složení (předseda, nejméně dva zdravotničtí pracovníci v oboru, při úmrtí lékař patologie/soudního lékařství, zástupce komory), nepodjaté členy a být usnášeníschopná za účasti zdravotnického pracovníka. Vady složení či podjatost zpochybňují její závěr.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje komise všechny mandatorní členy (vč. lékaře patologie/soudního lékařství při úmrtí)?
+- [ ] Jsou v komisi nejméně dva zdravotničtí pracovníci v příslušném oboru?
+- [ ] Není u některého člena dán důvod podjatosti?
+- [ ] Byl přizván právník a (na žádost) poskytovatel/stěžovatel?
+- [ ] Obsahuje zápis lege artis test, příčinnou souvislost a návrh nápravných opatření?
+
+**Typicky rozhodné důkazy / podklady:** jmenovací akty členů, zápis komise, doklady o vztazích členů k účastníkům, zdravotnická dokumentace, posudek nezávislého odborníka.
+
 ---
 
 ### § 96 — Závěry šetření stížnosti
@@ -1031,6 +1685,42 @@ Nápravná opatření tedy mají **systémovou, nikoli reparační povahu**: typ
 - iniciovat regresní postih vůči poskytovateli (smluvní podmínky veřejného zdravotního pojištění),
 - zohlednit zjištění v rámci kontroly poskytování zdravotních služeb dle § 42 zákona č. 48/1997 Sb. o veřejném zdravotním pojištění.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nezávislá odborná komise dospěje k závěru, že poskytovatel porušil povinnosti při vedení zdravotnické dokumentace. Krajský úřad poskytovateli uloží jako „nápravné opatření" povinnost zaplatit pozůstalým odškodné a provést u jiného pacienta konkrétní operaci. Poskytovatel namítá překročení pravomoci. Důkazy: rozhodnutí o nápravných opatřeních, zápis komise, zdravotnická dokumentace.
+
+**2. Právní otázka.** Může správní orgán uložit jako nápravné opatření náhradu újmy nebo poskytnutí zdravotního výkonu podle § 96?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96 odst. 1 písm. a) (nápravná opatření s vyloučením náhrady újmy a poskytnutí výkonu), písm. b) (podnět jinému orgánu / komoře), odst. 2 (informace zdravotní pojišťovně).
+- *Související ustanovení téhož zákona:* § 95 (komise), § 94 (šetření), § 39, § 49 (autonomie poskytovatele).
+- *Související předpisy:* § 2956 a násl. OZ (náhrada újmy), zákon č. 220/1991 Sb. o ČLK/ČSK/ČLnK, § 42 zákona č. 48/1997 Sb. o veřejném zdravotním pojištění.
+- *Judikatura:* nosný výklad zdůrazňuje systémovou, nikoli reparační povahu nápravných opatření; náhrada újmy patří občanskoprávním soudům.
+
+**4. Subsumpce.** Nápravné opatření má systémovou povahu (dodržování standardů, doplnění dokumentace, školení). § 96 odst. 1 písm. a) výslovně zakazuje uložit jím náhradu újmy i poskytnutí zdravotního výkonu. Uložení odškodného a konkrétní operace tedy překračuje pravomoc správního orgánu a porušuje autonomii poskytovatele (§ 39, 49).
+
+**5. Řešení.** Rozhodnutí v části ukládající náhradu újmy a poskytnutí výkonu je nezákonné a napadnutelné. Správně může úřad uložit jen systémová opatření a podat podnět komoře či OČTŘ; o uložení opatření informuje zdravotní pojišťovnu. Praktický krok: napadnout exces, domáhat se zrušení dotčených výroků; náhradu újmy uplatnit civilní žalobou (§ 2956 OZ).
+
+**6. Varianty.** (a) Kdyby pochybení bylo individuálním selháním lékaře — člena komory, úřad by podal podnět komoře k disciplinárnímu řízení. (b) Kdyby zjištění zakládalo podezření z trestného činu, úřad by podal podnět OČTŘ.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Náprava má pomoci pozůstalým, proto odškodné." — Neutralizace: kompenzace je doménou civilních soudů; § 96 odst. 1 písm. a) ji jako nápravné opatření výslovně vylučuje.
+- *Protiargument:* „Úřad může nařídit konkrétní léčbu." — Neutralizace: nápravným opatřením nelze uložit poskytnutí zdravotního výkonu; to porušuje medicínskou autonomii.
+- *Slabé místo:* hranice mezi systémovým opatřením a zásahem do autonomie může být sporná; opatření musí zůstat na úrovni postupů a standardů.
+
+#### H. Praktický závěr
+
+Při zjištění pochybení uloží správní orgán poskytovateli systémová nápravná opatření (s lhůtou a zprávou o splnění), případně podá podnět jinému orgánu či komoře; nápravným opatřením nelze uložit náhradu újmy ani poskytnutí výkonu. O opatřeních informuje zdravotní pojišťovnu pacienta.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má uložené opatření systémovou povahu (nikoli náhradu újmy/poskytnutí výkonu)?
+- [ ] Byla stanovena lhůta pro splnění a pro zprávu o splnění?
+- [ ] Byl podán podnět jinému orgánu / komoře, je-li namístě?
+- [ ] Byla informována zdravotní pojišťovna pacienta (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o nápravných opatřeních, zápis komise / posudek odborníka, zdravotnická dokumentace, doklady o podnětu komoře/OČTŘ, sdělení zdravotní pojišťovně.
+
 ---
 
 ### § 97 — Neveřejnost a oznámení složení komise
@@ -1047,6 +1737,42 @@ Nápravná opatření tedy mají **systémovou, nikoli reparační povahu**: typ
 2. **Sdělení složení komise** — poskytovateli, pacientovi a stěžovateli (pokud jím není pacient). Toto sdělení umožňuje uplatnění **námitky podjatosti** (§ 95 odst. 3 ve spojení s § 14 SŘ) — strany řízení musí být seznámeny s tím, kdo o věci rozhoduje, aby mohly případnou podjatost identifikovat.
 
 Sdělení zahrnuje rovněž **jméno přizvaného právníka** (§ 95 odst. 2 písm. a) — i ten musí být nepodjatý a mohou proti němu být uplatněny námitky.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad ustaví nezávislou odbornou komisi, ale složení komise (jména členů, přizvaného právníka a odborníka) účastníkům nesdělí. Stěžovatel se až dodatečně dozví, že jeden z členů je blízkým kolegou dotčeného lékaře, a namítá, že kvůli neoznámení složení nemohl včas vznést námitku podjatosti. Důkazy: spis krajského úřadu, jmenovací akty, doklad o (ne)sdělení složení.
+
+**2. Právní otázka.** Splnil správní orgán povinnost sdělit složení komise podle § 97 a jaký vliv má neoznámení na možnost uplatnit námitku podjatosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 97 (neveřejnost jednání komise; povinnost sdělit poskytovateli, pacientovi a stěžovateli jména členů, odborníka a přizvaných osob podle § 95 odst. 2).
+- *Související ustanovení téhož zákona:* § 95 odst. 3 (nepodjatost), § 95 odst. 2 (přizvaný právník, účast poskytovatele/stěžovatele), § 94 odst. 3 (ustavení), § 96 (závěry).
+- *Související předpisy:* § 14 správního řádu (podjatost), čl. 38 odst. 2 Listiny (právo na projednání věci).
+- *Judikatura:* nosný výklad spojuje povinnost oznámit složení s reálnou možností uplatnit námitku podjatosti; bez znalosti složení je toto právo iluzorní.
+
+**4. Subsumpce.** § 97 ukládá sdělit jména členů komise, nezávislého odborníka i osob přizvaných podle § 95 odst. 2 poskytovateli, pacientovi a stěžovateli (není-li jím pacient). Úřad tuto povinnost nesplnil. Neoznámení znemožnilo stěžovateli identifikovat podjatost člena a včas ji namítnout (§ 95 odst. 3 ve spojení s § 14 SŘ). Jde o procesní vadu.
+
+**5. Řešení.** Postup úřadu byl procesně vadný. Úřad měl složení sdělit, aby strany mohly uplatnit námitky podjatosti. Praktický krok: namítnout neoznámení složení a podjatost konkrétního člena, požadovat nápravu; neveřejnost jednání přitom nebrání sdělení složení. Neveřejnost chrání citlivé údaje pacienta, nikoli anonymitu členů komise.
+
+**6. Varianty.** (a) Kdyby úřad složení řádně sdělil a strany námitku podjatosti nevznesly, závěr komise by touto vadou netrpěl. (b) Kdyby stěžovatelem byl sám pacient, sděloval by se okruh adresátů odpovídajícím způsobem (pacient zde facto = stěžovatel).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Jednání je neveřejné, proto se složení nesděluje." — Neutralizace: § 97 odlišuje neveřejnost jednání od povinnosti sdělit složení; obojí platí současně.
+- *Protiargument:* „Námitka podjatosti přišla pozdě." — Neutralizace: opožděnost je důsledkem nesplnění oznamovací povinnosti úřadu; vadu nelze klást k tíži stěžovateli.
+- *Slabé místo:* prokázání vlivu vady na výsledek může být sporné; argumentovat je třeba reálnou ztrátou možnosti uplatnit námitku podjatosti.
+
+#### H. Praktický závěr
+
+Jednání nezávislé odborné komise je neveřejné, avšak složení komise (členové, nezávislý odborník, přizvané osoby vč. právníka) se vždy sděluje poskytovateli, pacientovi a stěžovateli, aby mohli uplatnit námitku podjatosti. Neoznámení složení je procesní vadou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo složení komise sděleno poskytovateli, pacientovi a stěžovateli?
+- [ ] Zahrnovalo sdělení i nezávislého odborníka a přizvané osoby podle § 95 odst. 2?
+- [ ] Měly strany reálnou možnost uplatnit námitku podjatosti?
+- [ ] Byla zachována neveřejnost jednání a ochrana citlivých údajů pacienta?
+
+**Typicky rozhodné důkazy / podklady:** spis krajského úřadu, jmenovací akty členů, doklad o sdělení složení účastníkům, případné námitky podjatosti.
 
 ---
 
@@ -1134,6 +1860,43 @@ Oprávnění se uděluje pro:
 
 Oprávnění nelze převést ani **nepřechází na jinou osobu** (osobní status hodnotitele).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Konzultantská společnost CertMed, s.r.o., dlouhodobě spolupracuje s nemocnicí Alfa na zavádění interních procesů řízení kvality. Současně chce CertMed požádat ministerstvo o oprávnění k provádění externího hodnocení kvality a bezpečí pro lůžkovou péči. Jednatel CertMed je zároveň členem dozorčí rady akciové společnosti, která provozuje nemocnici Beta (poskytovatel). Důkazy: výpis z obchodního rejstříku CertMed a nemocnice Beta, smlouva CertMed s nemocnicí Alfa, předložené hodnotící standardy, seznam auditorů s doklady o způsobilosti.
+
+**2. Právní otázka.** Splňuje CertMed podmínku nezávislosti podle § 98 odst. 6 písm. b), je-li jeho jednatel členem kontrolního orgánu poskytovatele (nemocnice Beta)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 98 odst. 6 ZZS — podmínky udělení oprávnění PO; písm. b) vylučuje personální propojení statutárního/kontrolního orgánu žadatele s poskytovatelem.
+- *Související ustanovení téhož zákona:* § 99 (náležitosti žádosti a prohlášení o nezávislosti), § 104 odst. 3 (vyloučení podjatých osob z konkrétního hodnocení), § 116 (přestupky hodnotitele).
+- *Související předpisy:* vyhláška č. 102/2012 Sb. (minimální hodnotící standardy lůžkové péče); zákon č. 90/2012 Sb. o obchodních korporacích (vymezení statutárního a kontrolního orgánu); § 500 a násl. správního řádu.
+- *Judikatura:* nosný závěr soudů ve věcech akreditací — podmínky nezávislosti dozorového/certifikačního subjektu se posuzují materiálně podle skutečného personálního a ekonomického propojení, nikoli jen formálně podle prohlášení.
+
+**4. Subsumpce.** Znak „není poskytovatelem ani zdravotní pojišťovnou" CertMed splňuje. Znak podle písm. b) — „statutární orgán žadatele není členem kontrolního orgánu poskytovatele" — splněn NENÍ: jednatel CertMed je členem dozorčí rady nemocnice Beta, která je poskytovatelem. Existence vztahu CertMed–nemocnice Alfa je samostatným problémem „jednání ve shodě" (písm. c) pro konkrétní hodnocení.
+
+**5. Řešení.** Ministerstvo žádost zamítne pro nesplnění § 98 odst. 6 písm. b), dokud jednatel neukončí členství v dozorčí radě nemocnice Beta nebo dokud CertMed nezmění statutární orgán. Procesně: výzva k odstranění vad/doplnění, případně zamítavé rozhodnutí. Riziko: i kdyby ministerstvo oprávnění udělilo, hodnocení nemocnice Alfa by stejně padalo pod § 104 odst. 3 (předchozí konzultace) a vystavený certifikát by byl zpochybnitelný.
+
+**6. Varianty.** (a) Jednatel rezignuje na dozorčí radu nemocnice Beta před vydáním rozhodnutí → podmínka splněna, oprávnění lze udělit. (b) CertMed by sám byl poskytovatelem (např. provozoval ambulanci) → vyloučení již podle písm. a), neodstranitelné personální změnou orgánu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „postačí čestné prohlášení".* Žadatel může tvrdit, že předložil prohlášení o nezávislosti dle § 99 odst. 2 a tím podmínku doložil. Neutralizace: prohlášení je důkazním prostředkem, ne hmotněprávní podmínkou; je-li z rejstříků zjevný opak, ministerstvo vychází ze skutečného stavu.
+- *Protiargument „dozorčí rada není kontrolní orgán ve smyslu zákona".* Lze namítat, že § 98 míří jen na orgán s rozhodovací pravomocí. Neutralizace: dozorčí rada je typovým kontrolním orgánem korporace; výklad zužující pojem by obcházel účel normy (nezávislost hodnotitele).
+- *Slabé místo:* hranice „jednání ve shodě" (písm. c) je neostrá — pouhá předchozí obchodní spolupráce nezakládá automaticky koordinaci jednání; tento znak vyžaduje individuální posouzení a je důkazně náročný.
+
+#### H. Praktický závěr
+
+Oprávnění k externímu hodnocení kvality je osobní, nepřevoditelné a podmíněné materiální nezávislostí hodnotitele na hodnocených poskytovatelích a pojišťovnách. Personální propojení statutárních a kontrolních orgánů je překážkou, kterou nelze zhojit prohlášením, nýbrž jen faktickou změnou.
+
+**Checklist (žadatel / ministerstvo):**
+- [ ] Není žadatel sám poskytovatelem nebo zdravotní pojišťovnou?
+- [ ] Nejsou statutární/kontrolní orgány žadatele personálně propojeny s poskytovatelem nebo pojišťovnou (§ 98 odst. 5/6 písm. a–c)?
+- [ ] Má žadatel vypracované vlastní hodnotící standardy splňující min. standardy dle vyhlášky č. 102/2012 Sb.?
+- [ ] Je doloženo personální zabezpečení a osvědčení způsobilosti auditorů (§ 99 odst. 3)?
+- [ ] Je rozsah oprávnění (formy/druhy péče, ZZS) jednoznačně vymezen?
+
+**Typicky rozhodné důkazy / podklady:** výpisy z obchodního rejstříku žadatele a poskytovatelů, hodnotící standardy a pravidla procesu, seznam auditorů s doklady o způsobilosti, prohlášení o nezávislosti, smlouvy o spolupráci.
+
 ---
 
 ### § 99 — Žádost o udělení oprávnění
@@ -1201,6 +1964,43 @@ Klíčový institut: každá osoba, **jejímž prostřednictvím bude hodnocení
 
 § 99 odst. 4 zakotvuje **uznávání odborné kvalifikace získané v jiném členském státě EU, EHP nebo Švýcarsku** podle zákona č. 18/2004 Sb. o uznávání odborné kvalifikace, ve spojení s předpisy upravujícími uznávání kvalifikací pro výkon zdravotnického povolání. Uznávajícím orgánem je ministerstvo.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel — fyzická osoba MUDr. N. — podal žádost o oprávnění k hodnocení kvality lůžkové péče. V seznamu osob, jejichž prostřednictvím má hodnocení provádět, uvedl tři auditory. U dvou předložil osvědčení ministerstva o odborné způsobilosti, u třetího auditora (slovenského lékaře s kvalifikací získanou na Slovensku) osvědčení nepředložil, doložil však doklady o jeho slovenské specializaci. Důkazy: žádost, seznam osob, doklady o vzdělání a způsobilosti, diplom slovenského auditora.
+
+**2. Právní otázka.** Jak ministerstvo naloží se žádostí ve vztahu k auditorovi bez českého osvědčení a se zahraniční kvalifikací?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 99 odst. 1–2 (náležitosti a přílohy žádosti), odst. 3 (fikce žádosti o osvědčení odborné způsobilosti), odst. 4 (uznávání kvalifikace z EU/EHP/Švýcarska).
+- *Související ustanovení téhož zákona:* § 98 odst. 5/6 (hmotné podmínky oprávnění), § 104 odst. 2 (povinnosti při hodnocení).
+- *Související předpisy:* zákon č. 18/2004 Sb. o uznávání odborné kvalifikace; zákon č. 95/2004 Sb. a č. 96/2004 Sb. (způsobilost k výkonu zdravotnického povolání); správní řád.
+- *Judikatura:* nosný závěr — řízení o uznání kvalifikace z členského státu EU musí proběhnout podle uznávacích předpisů; nelze odmítnout bez posouzení rovnocennosti.
+
+**4. Subsumpce.** U dvou auditorů s českým osvědčením je podmínka § 99 odst. 3 splněna. U třetího auditora osvědčení chybí → podle § 99 odst. 3 věty druhé se žádost o oprávnění zároveň považuje za žádost o vydání osvědčení; doklady o způsobilosti byly přiloženy. Protože kvalifikace byla získána na Slovensku (členský stát EU/EHP), použije se odst. 4 — ministerstvo jako uznávací orgán posoudí rovnocennost.
+
+**5. Řešení.** Ministerstvo v jednom procesním rámci posoudí: (i) oprávnění žadatele, (ii) odbornou způsobilost třetího auditora postupem podle uznávacích předpisů. Pravděpodobný výsledek: je-li slovenská kvalifikace rovnocenná, ministerstvo vydá osvědčení a udělí oprávnění; jinak rozhodne, že osoba není odborně způsobilá, a oprávnění udělí jen v rozsahu zbylých auditorů. Procesně hrozí prodloužení lhůt kvůli uznávacímu řízení.
+
+**6. Varianty.** (a) Třetí auditor má kvalifikaci ze třetího státu (mimo EU/EHP/Švýcarsko) → nepoužije se odst. 4, uplatní se obecný režim uznávání; náročnější doložení. (b) Žadatel by neuvedl doklady o způsobilosti vůbec → ministerstvo vyzve k doplnění, jinak osvědčení nevydá a osoba nesmí hodnocení provádět.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „žádost o oprávnění není žádostí o osvědčení".* Žadatel může tvrdit, že o osvědčení pro auditory nežádal. Neutralizace: § 99 odst. 3 věta druhá zakládá zákonnou fikci — uvedení osoby bez osvědčení v seznamu se za žádost o osvědčení považuje ex lege.
+- *Protiargument „slovenská kvalifikace je automaticky platná".* Lze namítat volný pohyb služeb. Neutralizace: i u EU kvalifikace je nutné formální uznání ministerstvem; automatičnost se týká jen kategorií s automatickým uznáváním podle směrnice 2005/36/ES.
+- *Slabé místo:* lhůty správního řádu pro uznávací řízení mohou kolidovat se lhůtou pro vyřízení žádosti o oprávnění; chybí výslovné pravidlo o stavění lhůt.
+
+#### H. Praktický závěr
+
+Žádost o oprávnění je komplexním podáním, které v sobě nese i žádosti o osvědčení odborné způsobilosti jednotlivých auditorů. Chybějící osvědčení nebrání podání, ale podmiňuje rozsah uděleného oprávnění; u zahraničních kvalifikací nastupuje uznávací řízení.
+
+**Checklist (žadatel / ministerstvo):**
+- [ ] Obsahuje žádost všechny identifikační náležitosti FO/PO podle § 99 odst. 1?
+- [ ] Je přiloženo prohlášení o nezávislosti a seznam auditorů s kvalifikací?
+- [ ] Má každý auditor osvědčení ministerstva, nebo jsou doloženy doklady pro jeho vydání (odst. 3)?
+- [ ] Jde u některého auditora o kvalifikaci z EU/EHP/Švýcarska vyžadující uznání (odst. 4)?
+- [ ] Jsou hodnotící standardy a pravidla procesu předloženy pro celý žádaný rozsah?
+
+**Typicky rozhodné důkazy / podklady:** žádost s přílohami, seznam auditorů, osvědčení/doklady o odborné způsobilosti, diplomy a doklady o zahraniční kvalifikaci, prohlášení o splnění podmínek § 98 odst. 5/6.
+
 ---
 
 ### §§ 100–106 — Provádění a sankce; certifikát
@@ -1254,6 +2054,43 @@ Při splnění standardů hodnotící osoba vydá **certifikát kvality a bezpe�
 - datum vydání a dobu platnosti.
 
 Při nesplnění podmínek vydání certifikátu hodnotící osoba **písemně oznámí** poskytovateli, které podmínky nesplnil. Hodnotící osoba vede **evidenci poskytovatelů s certifikátem** a zveřejňuje ji na svých internetových stránkách (§ 106).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Hodnotící osoba HQ, s.r.o., uzavřela 1. 2. 2024 s nemocnicí Gama smlouvu o externím hodnocení kvality lůžkové péče. Hodnocení reálně provedla až 10. 3. 2025, tedy 13 měsíců po uzavření smlouvy. Audit vedl mimo jiné auditor, který v posledních 2 letech nemocnici Gama poskytl placenou konzultaci k systému řízení kvality. Na základě hodnocení HQ vydala certifikát kvality s platností 3 roky. Důkazy: smlouva, protokol o hodnocení, evidence auditorů, doklad o předchozí konzultaci, vydaný certifikát.
+
+**2. Právní otázka.** Je certifikát platně vydán, bylo-li hodnocení provedeno po 12měsíční lhůtě § 104 odst. 1 a podílela-li se na něm osoba vyloučená podle § 104 odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 104 odst. 1 (smlouva a 12měsíční lhůta provedení), odst. 2 (povinnost nestrannosti, dodržení standardů, evidence 5 let), odst. 3 (vyloučení osob z podjatosti), § 105 (certifikát a 3letá platnost).
+- *Související ustanovení téhož zákona:* § 103 (odejmutí oprávnění při hodnocení vyloučenou osobou), § 116 (přestupky hodnotitele), § 98 (rámec oprávnění).
+- *Související předpisy:* vyhláška č. 102/2012 Sb.; správní řád; § 1746 odst. 2 OZ (smlouva inominátní).
+- *Judikatura:* nosný závěr — porušení procesních pravidel certifikačního procesu (podjatost, překročení lhůty) zpochybňuje věrohodnost výstupu a může vést k jeho neúčinnosti vůči třetím osobám.
+
+**4. Subsumpce.** Lhůta § 104 odst. 1 (provedení do 12 měsíců) byla překročena (13 měsíců). Podmínka nepodjatosti § 104 odst. 3 byla porušena — auditor provedl konzultaci poskytovateli v posledních 2 letech. Jde tak o hodnocení provedené vyloučenou osobou (skutková podstata § 116 odst. 1 písm. d) a porušení zákonné lhůty.
+
+**5. Řešení.** Hodnocení trpí dvojí vadou. Ministerstvo může podle § 103 oprávnění HQ diskrečně odejmout (hodnocení vyloučenou osobou) a uložit pokutu podle § 116 (až 500 000 Kč za hodnocení vyloučenou osobou). Certifikát založený na vadném procesu je zpochybnitelný; poskytovatel se jím nemůže spolehlivě legitimovat. Praktický krok: opakování hodnocení nestrannou osobou v zákonné lhůtě nové smlouvy.
+
+**6. Varianty.** (a) Auditor konzultaci poskytl před více než 2 lety → vyloučení nenastává, vada podjatosti odpadá. (b) Hodnocení provedeno v 11. měsíci → lhůta dodržena; zůstává jen vada podjatosti, kterou lze řešit výměnou auditora a opakováním dotčené části.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „lhůta 12 měsíců je pořádková".* Lze namítat, že její překročení nemá vliv na obsah hodnocení. Neutralizace: i pořádkové překročení je porušením povinnosti hodnotitele dle § 104, navíc zde přistupuje samostatná vada podjatosti.
+- *Protiargument „konzultace nebyla ke kvalitě, ale k jinému tématu".* Neutralizace: § 104 odst. 3 vylučuje osobu, která poskytovateli poskytla konzultaci v dané oblasti; rozhodný je věcný překryv s předmětem hodnocení — nutno prokázat z obsahu konzultace.
+- *Slabé místo:* zákon výslovně nestanoví neplatnost certifikátu vydaného ve vadném procesu; jeho zpochybnitelnost se dovozuje výkladem a projevuje se hlavně v navazujících úhradových a smluvních vztazích.
+
+#### H. Praktický závěr
+
+Externí hodnocení je smluvní, časově limitovaný a nestranností podmíněný proces; certifikát platí 3 roky jen tehdy, byl-li proces bezvadný. Podjatost auditora a překročení 12měsíční lhůty zakládají odpovědnost hodnotitele a oslabují důkazní hodnotu certifikátu.
+
+**Checklist (hodnotitel / poskytovatel / ministerstvo):**
+- [ ] Je hodnocení provedeno do 12 měsíců od uzavření smlouvy (§ 104 odst. 1)?
+- [ ] Není žádný auditor vyloučen pro podjatost dle § 104 odst. 3 (pracovní vztah, funkce odborného zástupce, konzultace v posledních 2 letech)?
+- [ ] Byly dodrženy zveřejněné hodnotící standardy a vedena evidence po dobu 5 let?
+- [ ] Obsahuje certifikát všechny náležitosti § 105 (rozsah, místo, doba platnosti)?
+- [ ] Je certifikát evidován a zveřejněn dle § 106?
+
+**Typicky rozhodné důkazy / podklady:** smlouva s daty, protokol/zpráva o hodnocení, evidence auditorů a jejich vztahů k poskytovateli, doklady o předchozích konzultacích, vydaný certifikát, evidence dle § 106.
 
 ---
 
@@ -1309,6 +2146,43 @@ Při nesplnění podmínek vydání certifikátu hodnotící osoba **písemně o
 
 § 107 odst. 2 vyhrazuje **Ministerstvu obrany** kontrolu dodržování podmínek poskytování zdravotních služeb ve **zdravotnických zařízeních ozbrojených sil ČR umístěných v zahraničí** (typicky polní nemocnice v zahraničních misích).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel provozuje radiodiagnostické pracoviště (CT, RTG) a zároveň lékárnu. Krajský úřad zahájil kontrolu personálního zabezpečení. Souběžně podal podnět pacient na nesprávné dávkování při CT vyšetření. Vyvstává otázka, který orgán je k čemu příslušný. Důkazy: oprávnění poskytovatele, podnět pacienta, dokumentace o ozáření, personální evidence.
+
+**2. Právní otázka.** Které kontrolní orgány jsou věcně příslušné ke kontrole personálního zabezpečení, provozu lékárny a dodržování pravidel lékařského ozáření u téhož poskytovatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 107 odst. 1 — sedmičlenný katalog kontrolních orgánů s diferencovanou věcnou působností.
+- *Související ustanovení téhož zákona:* § 108 (předmět kontroly jednotlivých orgánů), § 109 (oprávnění kontrolních orgánů), § 118 (příslušnost k přestupkům).
+- *Související předpisy:* zákon č. 255/2012 Sb. (kontrolní řád); zákon č. 263/2016 Sb. (atomový zákon — SÚJB); zákon č. 378/2007 Sb. o léčivech (SÚKL).
+- *Judikatura:* nosný závěr — věcná příslušnost kontrolního orgánu je dána zákonem a nelze ji libovolně zaměnit; kontrola provedená nepříslušným orgánem je zatížena vadou.
+
+**4. Subsumpce.** Kontrola personálního zabezpečení a obecných podmínek → krajský úřad / příslušný správní orgán (§ 107 odst. 1 písm. b/c). Provoz lékárny, zacházení s léčivy → SÚKL (písm. d). Dodržování pravidel lékařského ozáření při CT → SÚJB (písm. e). Jde o tři paralelní působnosti k témuž poskytovateli.
+
+**5. Řešení.** Každý orgán koná v rámci své věcné působnosti samostatně; nedochází k překryvu. Krajský úřad prověří personální zabezpečení, postoupí část týkající se ozáření SÚJB a část týkající se lékárny SÚKL. Procesně: kontroly se vedou podle kontrolního řádu, výstupem je protokol; nápravná opatření ukládá podle § 109 ten orgán, který zjistil nedostatek.
+
+**6. Varianty.** (a) Poskytovatel je zařízením Vězeňské služby → kontrolu zdravotních služeb v něm provádí generální ředitelství VS (písm. f). (b) Jde o zdravotnické zařízení ozbrojených sil v zahraniční misi → příslušné je Ministerstvo obrany (§ 107 odst. 2), nikoli krajský úřad.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „kontrolu mohl provést kterýkoli orgán komplexně".* Neutralizace: katalog je taxativní a věcně dělený; univerzální dozor má jen ministerstvo (písm. a), specializované oblasti jsou vyhrazeny SÚKL/SÚJB/VS.
+- *Protiargument „komora už věc řeší disciplinárně".* Neutralizace: dozor komor (písm. g) je stavovský a běží paralelně se správní kontrolou; nevylučuje kontrolu správního orgánu.
+- *Slabé místo:* hranice mezi „obecným" technickým vybavením (krajský úřad) a vybavením lékárny/ozáření (SÚKL/SÚJB) může být v praxi sporná; vyžaduje koordinaci orgánů, jinak hrozí dvojí kontrola téhož.
+
+#### H. Praktický závěr
+
+Kontrolu poskytovatele vykonává podle předmětu vždy věcně příslušný orgán z taxativního katalogu § 107. U poskytovatele s více činnostmi působí orgány paralelně; klíčové je správné určení příslušnosti, aby zjištění obstála.
+
+**Checklist (poskytovatel / kontrolní orgán):**
+- [ ] Který orgán je věcně příslušný k danému předmětu kontroly (obecná kontrola, léčiva/lékárna, ozáření, VS, zahraniční mise)?
+- [ ] Jde o standardního poskytovatele, nebo osobu podle § 20 (krajský úřad dle písm. c)?
+- [ ] Je kontrola vedena podle kontrolního řádu (č. 255/2012 Sb.)?
+- [ ] Není kontrola vedena nepříslušným orgánem (riziko vady)?
+- [ ] Byla zjištění v překrývajících oblastech postoupena příslušnému orgánu?
+
+**Typicky rozhodné důkazy / podklady:** oprávnění poskytovatele a vymezení činností, pověření ke kontrole, protokol o kontrole, dokumentace k ozáření a léčivům, personální evidence.
+
 ---
 
 ### § 108 — Předmět kontroly
@@ -1345,6 +2219,43 @@ Ministerstvo, příslušný správní orgán a krajský úřad kontrolují **pln
 - **SÚKL** kontroluje **technické a věcné vybavení lékáren**, zacházení s léčivy a ZdrP při poskytování zdravotní péče, jakost a bezpečnost transfuzní služby a tkáňových zařízení.
 - **SÚJB** kontroluje dodržování pravidel **lékařského ozáření** podle zákona č. 263/2016 Sb. (atomový zákon).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad provádí kontrolu personálního zabezpečení poskytovatele lůžkové péče. Vznikne podezření, že poskytovatel uvádí jako kmenové sestry osoby, které ve skutečnosti pracují u jiného poskytovatele a jsou „na papíře" sdílené. Kontrolující zaměstnanci kraje požadují nahlédnout do pracovních smluv zaměstnanců. Poskytovatel odmítá s odkazem na ochranu soukromí zaměstnanců a GDPR. Důkazy: rozpis služeb, oznámené personální údaje, pracovní smlouvy, mzdové podklady.
+
+**2. Právní otázka.** Jsou zaměstnanci kraje oprávněni nahlížet do pracovních smluv zaměstnanců poskytovatele a za jakých podmínek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 108 odst. 1 (předmět kontroly), odst. 2 (oprávnění nahlížet do pracovních smluv v odůvodněných případech).
+- *Související ustanovení téhož zákona:* § 11 odst. 6 (personální zabezpečení), § 107 (kontrolní orgány), § 109 (nápravná opatření), § 117 (přestupky poskytovatele).
+- *Související předpisy:* zákon č. 255/2012 Sb. (kontrolní řád — povinnost součinnosti kontrolované osoby); vyhláška č. 99/2012 Sb. (min. personální zabezpečení); GDPR a zákon č. 110/2019 Sb. (zákonný titul zpracování — plnění úkolu ve veřejném zájmu).
+- *Judikatura:* nosný závěr — zásah do soukromí pracovněprávních vztahů je přípustný, je-li proveden na základě zákona, je nezbytný a přiměřený cíli kontroly.
+
+**4. Subsumpce.** Předmětem je personální zabezpečení (§ 108 odst. 1). Podezření na fiktivní/sdílené zaměstnance je „odůvodněným případem" ve smyslu § 108 odst. 2, který opravňuje nahlížet do pracovních smluv. Odmítnutí poskytovatele je porušením povinnosti součinnosti dle kontrolního řádu.
+
+**5. Řešení.** Zaměstnanci kraje jsou oprávněni nahlédnout do pracovních smluv v rozsahu nezbytném k ověření personálního zabezpečení; zákonný titul § 108 odst. 2 vylučuje námitku GDPR. Nahlížení musí být přiměřené (jen relevantní údaje, ne nad rámec ověření úvazků). Při zjištění fikce: nápravné opatření (§ 109), případně přestupek poskytovatele. Neumožnění vstupu/nahlížení pověřené osobě může být sankcionováno.
+
+**6. Varianty.** (a) Kontrola se netýká personálního zabezpečení, ale jen vybavení → oprávnění nahlížet do smluv podle odst. 2 nevzniká. (b) Kontrolu provádí SÚKL u lékárny → působnost odst. 2 (krajští zaměstnanci) se neuplatní; SÚKL postupuje podle odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nahlížení porušuje GDPR a soukromí zaměstnanců".* Neutralizace: § 108 odst. 2 je zákonným zmocněním (čl. 6 odst. 1 písm. e GDPR); zpracování je nezbytné pro výkon veřejné moci a limitované „odůvodněnými případy".
+- *Protiargument „neexistuje odůvodněný případ".* Neutralizace: odůvodněnost je dána doloženým podezřením z nesouladu oznámených údajů se skutečností; kontrolní orgán musí důvod zaznamenat do protokolu.
+- *Slabé místo:* mez „v odůvodněných případech" je neostrá; plošné a paušální nahlížení by bylo nepřiměřené a napadnutelné — nutná individualizace a minimalizace rozsahu.
+
+#### H. Praktický závěr
+
+Předmět kontroly je vázán na věcnou působnost orgánu. U personálního zabezpečení mají krajští zaměstnanci v odůvodněných případech zákonné oprávnění nahlížet do pracovních smluv; jde o úzce limitovaný a přiměřený průlom do soukromí, nikoli o paušální přístup.
+
+**Checklist (kontrolní orgán / poskytovatel):**
+- [ ] Spadá předmět kontroly do působnosti orgánu (odst. 1, 3, 4)?
+- [ ] Je u nahlížení do pracovních smluv doložen „odůvodněný případ" a zaznamenán do protokolu (odst. 2)?
+- [ ] Je rozsah nahlížení omezen na údaje nezbytné k ověření personálního zabezpečení?
+- [ ] Poskytuje kontrolovaná osoba součinnost podle kontrolního řádu?
+- [ ] Je u léčiv/ozáření respektována zvláštní působnost SÚKL/SÚJB (odst. 3, 4)?
+
+**Typicky rozhodné důkazy / podklady:** oznámené personální údaje, rozpisy služeb, pracovní smlouvy a mzdové podklady, protokol o kontrole s odůvodněním nahlížení, doklady o ozáření a léčivech (u SÚKL/SÚJB).
+
 ---
 
 ### § 109 — Oprávnění kontrolních orgánů
@@ -1370,6 +2281,43 @@ Ministerstvo, příslušný správní orgán a krajský úřad kontrolují **pln
 
 **Nápravná opatření** mají **dispoziční (systémový) charakter** — typicky doplnění chybějícího vybavení, navýšení personálu, úprava postupů. Stejně jako u § 96 odst. 1 písm. a) ZZS jimi **nelze uložit poskytnutí zdravotního výkonu** ani **náhradu újmy** (toto omezení ze stížnostního řízení se na kontrolu aplikuje analogicky vzhledem k povaze administrativního dozoru).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad při kontrole zjistil, že poskytovatel lůžkové péče nemá zpracovaný traumatologický plán a personální zabezpečení nočních směn nedosahuje minimálního standardu. Kontrolní orgán uložil nápravná opatření s lhůtou 60 dnů a vyžádal písemnou zprávu o jejich splnění. Pacient, jemuž byl dříve poskytnut výkon nesprávně, požaduje, aby kontrolní orgán poskytovateli uložil náhradu újmy a zopakování výkonu. Důkazy: protokol o kontrole, uložená nápravná opatření, zpráva poskytovatele.
+
+**2. Právní otázka.** Může kontrolní orgán v rámci § 109 uložit poskytovateli náhradu újmy a poskytnutí konkrétního zdravotního výkonu pacientovi?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 109 písm. a)–d) — čtyřsložkové oprávnění (nápravné opatření, lhůta, kontrola splnění, vyžádání zprávy).
+- *Související ustanovení téhož zákona:* § 96 odst. 1 (meze opatření ze stížnostního řízení), § 117 (přestupky), § 23–25 (pozastavení/odejmutí oprávnění).
+- *Související předpisy:* zákon č. 255/2012 Sb. (kontrolní řád); § 2894 a násl. OZ (náhrada újmy — civilní cesta).
+- *Judikatura:* nosný závěr — správní dozorový orgán nemůže nahrazovat soud při ukládání soukromoprávních nároků (náhrada újmy, plnění vůči konkrétní osobě); jeho opatření mají systémovou, nikoli reparační povahu.
+
+**4. Subsumpce.** Chybějící traumatologický plán a poddimenzovaný personál jsou systémové nedostatky → lze uložit nápravné opatření s lhůtou a kontrolovat splnění (§ 109 písm. a–c) a vyžádat zprávu (písm. d). Požadavek pacienta na náhradu újmy a zopakování výkonu je individuálním soukromoprávním nárokem → mimo dosah § 109.
+
+**5. Řešení.** Kontrolní orgán uloží/ponechá nápravná opatření, ověří jejich splnění; při nesplnění zahájí přestupkové řízení (§ 117) nebo iniciuje pozastavení/odejmutí oprávnění (§ 23–25). Náhradu újmy a poskytnutí výkonu nemůže uložit — pacienta odkáže na civilní řízení, popř. na stížnost dle § 93 a násl. Procesní krok: posouzení zprávy poskytovatele, případně následná kontrola na místě.
+
+**6. Varianty.** (a) Poskytovatel nesplní nápravné opatření ve lhůtě → eskalace k sankci/odejmutí oprávnění. (b) Nedostatek je natolik závažný, že bezprostředně ohrožuje pacienty → kontrolní orgán dá podnět k pozastavení oprávnění podle § 24, nezávisle na lhůtě nápravného opatření.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „kontrolní orgán má vymoci nápravu i ve prospěch pacienta".* Neutralizace: dozor směřuje k systémové nápravě, ne k reparaci individuální újmy; ta je věcí soudu (OZ).
+- *Protiargument „omezení z § 96 se na kontrolu nevztahuje".* Neutralizace: meze (zákaz uložit výkon či náhradu újmy) plynou z povahy administrativního dozoru obecně; § 96 je jejich vyjádřením pro stížnostní řízení a aplikuje se analogicky.
+- *Slabé místo:* § 109 sám nestanoví sankci za nesplnění nápravného opatření; vynutitelnost stojí na navazujících institutech (přestupky, odejmutí oprávnění), což může zpomalit reakci.
+
+#### H. Praktický závěr
+
+Kontrolní orgán disponuje uzavřeným cyklem nápravných nástrojů (opatření → lhůta → kontrola → zpráva), nikoli však pravomocí ukládat soukromoprávní plnění. Vynucení nápravy se opírá o navazující sankční a registrační instituty.
+
+**Checklist (kontrolní orgán / poskytovatel / pacient):**
+- [ ] Je nedostatek systémové povahy řešitelný nápravným opatřením (§ 109 písm. a)?
+- [ ] Byla stanovena přiměřená lhůta a vyžádána zpráva o splnění (písm. b, d)?
+- [ ] Není opatřením nepřípustně ukládáno poskytnutí výkonu nebo náhrada újmy?
+- [ ] Je při nesplnění zvolena správná eskalace (přestupek / pozastavení / odejmutí oprávnění)?
+- [ ] Byl pacient s individuálním nárokem odkázán na civilní řízení / stížnost?
+
+**Typicky rozhodné důkazy / podklady:** protokol o kontrole, rozhodnutí/uložení nápravného opatření se lhůtou, zpráva poskytovatele o splnění, navazující kontrolní zjištění, podklady k případné sankci.
+
 ---
 
 ## ČÁST JEDENÁCTÁ — Kraje (§ 110)
@@ -1393,6 +2341,43 @@ Ministerstvo, příslušný správní orgán a krajský úřad kontrolují **pln
 Působnost stanovená kraji touto normou je **výkonem přenesené působnosti** (§ 119 odst. 1 ZZS — viz níže). To znamená, že kraj vykonává tuto agendu jako státní správa delegovaná na samosprávné celky; rozhodnutí podléhá dozoru ministerstva a opravným prostředkům podle správního řádu, nikoli komunálním orgánům.
 
 > **Praktická poznámka:** Některé kraje řeší zajištění prohlídek prostřednictvím **koroner-systému** — smluvních lékařů, kteří v určené době zajišťují prohlídky pro celé území nebo jeho část. Tento systém je faktickou imitací anglosaského koronera (medical examiner), byť česká právní úprava formálně koronera neuznává jako samostatnou funkci.
+
+### F. Kazuistika
+
+**1. Modelová situace.** V noci je v rodinném domě nalezeno tělo zemřelého. Operátor linky 112 potřebuje k místu vyslat lékaře k prohlídce těla mimo zdravotnické zařízení, avšak na internetových stránkách kraje není zveřejněn aktuální seznam smluvních poskytovatelů s rozpisem služeb pro daný územní obvod, a centru tísňové komunikace nebyl seznam předán. Prohlídka se tak opozdí o několik hodin. Důkazy: výpis z 112, smlouvy kraje s poskytovateli dle § 84 odst. 2 písm. b), obsah webu kraje, časový rozpis služeb.
+
+**2. Právní otázka.** Splnil kraj svou povinnost podle § 110 a jaké jsou důsledky nezveřejnění a nepředání seznamu centru linky 112?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 110 — odpovědnost kraje za organizaci prohlídek, zveřejnění seznamu a jeho předání centru tísňové komunikace 112.
+- *Související ustanovení téhož zákona:* § 84 odst. 2 písm. b) (smluvní poskytovatel prohlídek), § 83 (oznámení úmrtí a nálezu těla), § 119 odst. 1 (přenesená působnost).
+- *Související předpisy:* zákon č. 374/2011 Sb. o ZZS a předpisy o JSDI/linky 112; zákon č. 129/2000 Sb. o krajích (organizace přenesené působnosti).
+- *Judikatura:* nosný závěr — nesplnění zákonné organizační povinnosti orgánu veřejné moci, vede-li ke škodě, může zakládat odpovědnost státu/územního celku za nesprávný úřední postup (zákon č. 82/1998 Sb.).
+
+**4. Subsumpce.** Kraj má trojí povinnost: organizovat prohlídky, zveřejnit seznam s rozpisem a obvodem a předat jej centru 112. Nezveřejnění a nepředání seznamu jsou porušením druhé a třetí složky § 110; opoždění prohlídky je důsledkem tohoto pochybení.
+
+**5. Řešení.** Kraj musí seznam neprodleně zveřejnit a předat centru 112 a zajistit jeho aktuálnost. Vznikla-li v důsledku prodlení škoda (např. znehodnocení důkazů o příčině smrti), přichází v úvahu odpovědnost za nesprávný úřední postup podle zák. č. 82/1998 Sb. Procesní kroky: aktualizace webu, datové předání rozpisu, kontrola pokrytí všech obvodů v rámci přenesené působnosti pod dozorem ministerstva.
+
+**6. Varianty.** (a) Seznam byl zveřejněn a předán, ale smluvní lékař se nedostavil → odpovědnost se přesouvá na plnění smlouvy a organizaci služeb, nikoli na informační povinnost. (b) V kraji vůbec nejsou smluvní poskytovatelé pro daný obvod → primární selhání organizační povinnosti dle § 84 odst. 2 písm. b) ve spojení s § 110.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „povinnost je jen pořádková a informativní".* Neutralizace: předání seznamu centru 112 má bezprostřední operační dopad na včasnost prohlídky; jeho zanedbání není bagatelní.
+- *Protiargument „za prodlení odpovídá poskytovatel, ne kraj".* Neutralizace: kraj odpovídá za organizaci a za informační tok; selhání ve zveřejnění/předání je jeho vlastní pochybení nezávislé na poskytovateli.
+- *Slabé místo:* § 110 sám nestanoví sankci za porušení; vynutitelnost se opírá o dozor ministerstva nad přenesenou působností a o obecnou odpovědnost za nesprávný úřední postup.
+
+### H. Praktický závěr
+
+Kraj v přenesené působnosti odpovídá za fungující systém prohlídek těl zemřelých mimo zdravotnické zařízení: musí mít smluvní poskytovatele, zveřejnit aktuální rozpis a obvody a předat je lince 112. Informační selhání má reálné operační i odpovědnostní následky.
+
+**Checklist (kraj / centrum 112 / poskytovatel):**
+- [ ] Má kraj uzavřené smlouvy s poskytovateli prohlídek pro celé území (§ 84 odst. 2 písm. b)?
+- [ ] Je seznam s časovým rozpisem a vymezením obvodů zveřejněn na webu kraje?
+- [ ] Byl seznam předán centru tísňové komunikace linky 112 a je aktualizován?
+- [ ] Pokrývá rozpis služeb celé území nepřetržitě (i noci a svátky)?
+- [ ] Je agenda vykonávána v režimu přenesené působnosti pod dozorem ministerstva?
+
+**Typicky rozhodné důkazy / podklady:** smlouvy kraje s poskytovateli, zveřejněný seznam a rozpis, doklad o předání centru 112, záznamy linky 112 o výjezdu, dokumentace o prohlídce a případné škodě.
 
 ---
 
@@ -1444,6 +2429,43 @@ V čele kliniky/ústavu stojí **přednosta** jmenovaný a odvolávaný:
 - **subsidiárně ministrem zdravotnictví po dohodě s rektorem** (pokud nedojde k dohodě FN s děkanem).
 
 Vztah FN a vysoké školy je upraven **rámcovou smlouvou** o klinické a praktické výuce, podmínkách využití majetku, výzkumné a vývojové činnosti a úhradě nákladů.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Ředitel fakultní nemocnice chce odvolat přednostu interní kliniky pro dlouhodobé organizační problémy a jmenovat nového. Děkan příslušné lékařské fakulty s odvoláním i s navrženým nástupcem nesouhlasí, neboť přednosta je zároveň garantem akreditovaného studijního programu. Mezi FN a fakultou nedojde k dohodě. Důkazy: zřizovací listina FN, rámcová smlouva FN s vysokou školou, statut společného pracoviště, korespondence ředitele a děkana.
+
+**2. Právní otázka.** Kdo a za jakých podmínek může jmenovat a odvolat přednostu společného pracoviště (kliniky) fakultní nemocnice, nedojde-li k dohodě ředitele FN s děkanem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 111 odst. 3 a 5 — společná pracoviště (kliniky/ústavy), jmenování a odvolávání přednosty ředitelem FN po dohodě s děkanem, subsidiárně ministrem po dohodě s rektorem.
+- *Související ustanovení téhož zákona:* § 111 odst. 1 (status státní příspěvkové organizace), odst. 2 a 4 (trojfunkční model — péče, výzkum, výuka).
+- *Související předpisy:* zákon č. 218/2000 Sb. (rozpočtová pravidla — příspěvková organizace); zákon č. 111/1998 Sb. o vysokých školách (akreditace, postavení děkana/rektora); zákon č. 320/2001 Sb. o finanční kontrole.
+- *Judikatura:* nosný závěr — u kogentně stanoveného mechanismu sdílené personální pravomoci nelze jednu stranu obejít; nedojde-li k dohodě, nastupuje zákonem určený subsidiární mechanismus.
+
+**4. Subsumpce.** Jmenování/odvolání přednosty je sdílenou pravomocí — primárně ředitel FN po dohodě s děkanem (§ 111 odst. 5). Absence dohody ředitele s děkanem aktivuje subsidiární mechanismus: rozhoduje ministr zdravotnictví po dohodě s rektorem vysoké školy.
+
+**5. Řešení.** Ředitel nemůže přednostu jednostranně odvolat ani jmenovat nového bez dohody s děkanem. Při trvajícím nesouhlasu se věc posune na úroveň ministr–rektor; rozhodnutí učiní ministr po dohodě s rektorem. Procesní krok: doložit pokus o dohodu s děkanem a teprve poté iniciovat subsidiární postup. Riziko: nerespektování postupu činí personální akt vadným a napadnutelným.
+
+**6. Varianty.** (a) Ředitel a děkan se dohodnou na nástupci → není třeba zapojovat ministra a rektora. (b) Jde o pracoviště, jemuž oprávnění udělilo Ministerstvo obrany (vojenská FN) → zřizovatelskou funkci a navazující postupy vykonává MO ČR (odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „ředitel FN je statutární orgán a rozhoduje sám".* Neutralizace: u společných pracovišť zákon výslovně podmiňuje personální rozhodnutí dohodou s děkanem; obecná pravomoc ředitele je tím speciálně omezena.
+- *Protiargument „bez dohody nelze přednostu vůbec vyměnit".* Neutralizace: zákon počítá s patovou situací a řeší ji subsidiárně (ministr po dohodě s rektorem), takže systém není blokovatelný.
+- *Slabé místo:* i subsidiární mechanismus vyžaduje „dohodu" (ministr–rektor); zákon neřeší výslovně situaci přetrvávajícího nesouhlasu na této úrovni, což může vést k politickému/správnímu vyjednávání.
+
+#### H. Praktický závěr
+
+Fakultní nemocnice je státní příspěvkovou organizací s integrovanou výukovou a vědeckou funkcí; personální obsazení společných pracovišť je sdílenou pravomocí FN a fakulty. Klíčem je dodržet vícestupňový dohodovací mechanismus, jinak je personální akt zpochybnitelný.
+
+**Checklist (ředitel FN / děkan / ministerstvo):**
+- [ ] Jde o společné pracoviště (kliniku/ústav) FN a lékařské fakulty?
+- [ ] Byl učiněn pokus o dohodu ředitele FN s děkanem o jmenování/odvolání přednosty?
+- [ ] Není-li dohoda, byl aktivován subsidiární postup (ministr po dohodě s rektorem)?
+- [ ] Je respektován status FN jako státní příspěvkové organizace (zřizovatel MZČR/MO ČR)?
+- [ ] Je personální akt v souladu s rámcovou smlouvou FN a vysoké školy?
+
+**Typicky rozhodné důkazy / podklady:** zřizovací listina FN, rámcová smlouva FN–VŠ, statut a vnitřní předpisy společného pracoviště, doklady o akreditaci studijního programu, korespondence dokládající (ne)dohodu.
 
 ---
 
@@ -1553,6 +2575,43 @@ Ministerstvo může ve výzvě stanovit **indikátory** — minimální hodnotí
 
 Ministerstvo zveřejňuje **seznam center** ve Věstníku Ministerstva zdravotnictví a na internetu — identifikace poskytovatele, místo poskytování, smluvní spolupracovníci, vymezení oborů/nemocí, doba platnosti.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministerstvo vyhlásilo výzvu k udělení statusu centra vysoce specializované kardiovaskulární péče s nejvyšším počtem 5 udělitelných statusů a stanovilo minimální počty výkonů za předchozí období. Žádost podalo 8 nemocnic. Nemocnice Delta splnila všechny technické a personální požadavky, ale nedosáhla stanoveného minimálního počtu výkonů. Skončila v pořadí na 6. místě. Podala rozklad. Důkazy: výzva, žádost a přílohy nemocnice Delta, doklady o objemu výkonů, rozhodnutí o pořadí a o neudělení statusu.
+
+**2. Právní otázka.** Má nemocnice Delta právní nárok na udělení statusu a jaké jsou účinky rozkladu proti rozhodnutí o (ne)udělení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 112 odst. 3–7 (soutěžní řízení, pořadí, nejvyšší počet statusů, neexistence právního nároku), odst. 5 (další podmínky — minimální počty výkonů), odst. 8 (rozklad bez odkladného účinku).
+- *Související ustanovení téhož zákona:* § 112a (indikátory), § 113 (zánik statusu), § 117 (přestupky poskytovatele).
+- *Související předpisy:* správní řád (řízení o výběru žádosti, rozklad); zákon o veřejném zdravotním pojištění (úhradové dopady statusu).
+- *Judikatura:* nosný závěr — kde zákon výslovně vylučuje právní nárok a stanoví výběr podle pořadí, soud přezkoumává zákonnost a nediskriminační aplikaci kritérií, nikoli věcnou „správnost" výběru.
+
+**4. Subsumpce.** Nemocnice Delta splnila kvalifikační požadavky, avšak nesplnila další podmínku dle § 112 odst. 5 (minimální počet výkonů) a v pořadí se nevešla do nejvyššího počtu statusů (odst. 4 písm. d). Na udělení statusu není podle odst. 7 in fine právní nárok. Rozklad podle odst. 8 nemá odkladný účinek.
+
+**5. Řešení.** Ministerstvo žádost po právu nevyhovělo — Delta buď nesplnila stanovenou podmínku, nebo se nevešla do kvóty. Rozklad lze podat, ale bez odkladného účinku; přezkum se soustředí na zákonnost a transparentnost aplikace kritérií (rovné zacházení, řádné odůvodnění pořadí). Procesní krok: napadnout případnou nepřezkoumatelnost odůvodnění pořadí, nikoli samotnou diskreci. Riziko: i úspěšný rozklad zpravidla vede k novému posouzení, ne automaticky k udělení statusu.
+
+**6. Varianty.** (a) Delta by splnila minimální počty a skončila do 5. místa → status by jí byl udělen k počátku následujícího kalendářního roku na 5 let. (b) Ministerstvo by aplikovalo kritéria diskriminačně či nepřezkoumatelně → vada zakládající důvod ke zrušení rozhodnutí v rozkladu/soudním přezkumu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „splnili jsme požadavky, máme nárok".* Neutralizace: § 112 odst. 7 výslovně vylučuje právní nárok; jde o výběr nejlepších v rámci omezené kvóty, ne o registrační typ řízení.
+- *Protiargument „rozklad pozastaví neudělení a umožní provoz centra".* Neutralizace: odst. 8 odkladný účinek vylučuje; do rozhodnutí o rozkladu status nevzniká.
+- *Slabé místo:* diskreční prvek výběru je obtížně přezkoumatelný; obrana stojí hlavně na vadách procesu (odůvodnění, rovné zacházení, dodržení výzvy), nikoli na věcné preferenci žadatele.
+
+#### H. Praktický závěr
+
+Status centra se získává soutěžním řízením v rámci omezené kvóty; na jeho udělení není právní nárok a rozklad nemá odkladný účinek. Obrana neúspěšného žadatele směřuje na zákonnost a transparentnost aplikace kritérií, nikoli na nárokovost.
+
+**Checklist (žadatel / ministerstvo):**
+- [ ] Splňuje žádost všechny požadavky výzvy (technické, personální, minimální počty dle odst. 5)?
+- [ ] Je jasné pořadí žadatelů a respektuje nejvyšší počet udělitelných statusů (odst. 4 písm. d)?
+- [ ] Je rozhodnutí o pořadí a (ne)udělení řádně a přezkoumatelně odůvodněno?
+- [ ] Bere žadatel v úvahu, že rozklad nemá odkladný účinek (odst. 8)?
+- [ ] Je status udělen k počátku kalendářního roku na 5 let (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** výzva ministerstva, žádost s přílohami, doklady o objemu výkonů a vybavení/personálu, rozhodnutí o vyřazení a o pořadí, odůvodnění výběru.
+
 ---
 
 ### § 113 — Zánik statusu centra
@@ -1588,6 +2647,43 @@ Ministerstvo zveřejňuje **seznam center** ve Věstníku Ministerstva zdravotni
 
 Poslední důvod (odst. 3 písm. c) zajišťuje **flexibilitu sítě center** — pokud potřeba určité specializované péče klesne (např. nové méně invazivní metody nahradí dříve centralizovaný výkon), ministerstvo může počet center redukovat bez sankčního charakteru.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Centrum vysoce specializované péče opakovaně (dva roky po sobě) neprokázalo splnění indikátorů poskytování péče podle § 112a — počet provedených výkonů trvale klesal. Ministerstvo zvažuje odejmutí statusu podle § 113 odst. 3 písm. b). Poskytovatel namítá, že pokles je dán epidemiologickými výkyvy, nikoli jeho pochybením. Důkazy: rozhodnutí o udělení statusu s indikátory, roční výkazy plnění indikátorů, korespondence o nápravných opatřeních.
+
+**2. Právní otázka.** Může ministerstvo odejmout status centra pro opakované neprokázání indikátorů a jaký je rozdíl mezi obligatorním a diskrečním odejmutím?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 113 odst. 1 (obligatorní zánik), odst. 2 (obligatorní odejmutí na žádost), odst. 3 písm. a)–c) (diskreční odejmutí — nesplnění podmínek, opakované neprokázání indikátorů, odpadnutí potřeby).
+- *Související ustanovení téhož zákona:* § 112a (indikátory a každoroční vykazování, nápravná opatření), § 112 (udělení statusu).
+- *Související předpisy:* správní řád (řízení o odejmutí, odůvodnění diskrece).
+- *Judikatura:* nosný závěr — u diskrečního odejmutí musí orgán prokázat naplnění zákonného důvodu a řádně odůvodnit využití správního uvážení; pouhý formální nedostatek bez posouzení příčin je nedostatečný.
+
+**4. Subsumpce.** Jde o diskreční důvod podle § 113 odst. 3 písm. b) — „opakovaně neprokázal splnění indikátorů". Znak „opakovaně" je naplněn (dva roky). Ministerstvo „může" odejmout — má prostor pro uvážení, v jehož rámci posoudí i namítané epidemiologické příčiny a předchozí nápravná opatření (§ 112a).
+
+**5. Řešení.** Ministerstvo je oprávněno status odejmout, musí však využití diskrece odůvodnit a zohlednit, zda předtím využilo nápravná opatření dle § 112a a zda pokles není objektivně podmíněn. Pravděpodobný výsledek: bylo-li centrum předem upozorněno a indikátory přesto trvale neplní, odejmutí obstojí; jinak hrozí zrušení pro nepřezkoumatelnost. Procesní krok: zahájit řízení, vyžádat vyjádření, zvážit alternativu k odejmutí.
+
+**6. Varianty.** (a) Poskytovatel sám požádá o odejmutí → ministerstvo status odejme obligatorně (odst. 2), bez uvážení. (b) Zanikne oprávnění poskytovat dané služby → status zaniká přímo ze zákona (odst. 1 písm. a), bez samostatného rozhodnutí o odejmutí.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „neprokázání indikátorů je automatický důvod odejmutí".* Neutralizace: jde o diskreční („může"), nikoli obligatorní důvod; ministerstvo musí uvážení odůvodnit a zvážit příčiny i předchozí kroky dle § 112a.
+- *Protiargument „pokles výkonů nelze klást za vinu poskytovateli".* Neutralizace: relevantní je neprokázání indikátorů a opakovanost; objektivní příčiny jsou polehčující okolností v rámci uvážení, ne automatickou překážkou odejmutí.
+- *Slabé místo:* hranice mezi diskrečním odejmutím dle písm. b) a odpadnutím potřeby dle písm. c) může splývat — jiný právní důvod vyžaduje jiné odůvodnění a jiné dokazování.
+
+#### H. Praktický závěr
+
+Status centra zaniká buď automaticky (zánik oprávnění), nebo odejmutím — obligatorním na žádost, jinak diskrečním. U diskrečního odejmutí pro neplnění indikátorů je rozhodující opakovanost, řádné odůvodnění uvážení a předchozí využití nápravných nástrojů dle § 112a.
+
+**Checklist (poskytovatel / ministerstvo):**
+- [ ] Jde o obligatorní zánik (odst. 1), obligatorní odejmutí na žádost (odst. 2), nebo diskreční odejmutí (odst. 3)?
+- [ ] Je u diskrečního odejmutí naplněn konkrétní zákonný důvod (písm. a/b/c)?
+- [ ] Byla u neplnění indikátorů předtím uložena nápravná opatření dle § 112a?
+- [ ] Je správní uvážení v rozhodnutí řádně odůvodněno a zohledňuje příčiny?
+- [ ] Bylo poskytovateli umožněno vyjádření v řízení?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o udělení statusu s indikátory, roční výkazy plnění indikátorů, doklady o uložených nápravných opatřeních, vyjádření poskytovatele k příčinám poklesu.
+
 ---
 
 ### § 113a — Centrum pro vzácná onemocnění
@@ -1622,6 +2718,43 @@ Poskytovatel je povinen **bez zbytečného odkladu oznámit ministerstvu** získ
 
 > **Praktická poznámka:** ERN jsou specializované virtuální sítě EU sdružující špičková pracoviště pro konkrétní vzácná onemocnění. Aktuálně existuje 24 ERN (např. ERN-EpiCARE pro vzácné epilepsie, ERN-LUNG pro vzácné nemoci plic). Členství v ERN je prestižní akreditací s přísnými kvalifikačními požadavky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pracoviště fakultní nemocnice získalo plné členství v Evropské referenční síti příslušné pro určité vzácné onemocnění, čímž ze zákona vzniká status centra pro vzácná onemocnění. Poskytovatel však členství neoznámil ministerstvu, takže pracoviště nebylo zařazeno do Národní sítě a do zveřejněného seznamu. O dva roky později členství v ERN zaniklo, ani to nebylo oznámeno. Důkazy: potvrzení o členství v ERN a o jeho zrušení, evidence Národní sítě, web a Věstník ministerstva.
+
+**2. Právní otázka.** Vzniká status centra pro vzácná onemocnění bez ohledu na oznámení ministerstvu a jaké jsou důsledky nesplnění notifikační povinnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 113a odst. 1 (vznik statusu získáním plného členství v ERN, trvání po dobu členství, notifikační povinnost bez zbytečného odkladu), odst. 2–4 (Národní síť, koordinace a zveřejnění ministerstvem).
+- *Související ustanovení téhož zákona:* § 112 (obecné centrum udělované soutěžně — kontrast), § 117 (přestupky poskytovatele — oznamovací povinnosti).
+- *Související předpisy:* čl. 12 směrnice 2011/24/EU (ERN); správní řád.
+- *Judikatura:* nosný závěr — kde status vzniká ze zákona splněním objektivní podmínky, navazující notifikace je deklaratorní povinností, jejíž porušení nemá konstitutivní účinek, ale zakládá odpovědnost.
+
+**4. Subsumpce.** Status centra pro vzácná onemocnění vzniká přímo ze zákona získáním plného členství v ERN (odst. 1), nezávisle na oznámení. Notifikační povinnost (oznámit získání i zrušení členství bez zbytečného odkladu) je samostatnou povinností; její nesplnění brání zařazení do Národní sítě a do seznamu.
+
+**5. Řešení.** Status existoval po dobu členství v ERN bez ohledu na opomenuté oznámení; jeho zánikem (ztrátou členství) zanikl. Nesplnění notifikační povinnosti je porušením povinnosti poskytovatele s rizikem postihu podle § 117 (oznamovací povinnosti) a praktickým důsledkem — pracoviště nebylo viditelné v Národní síti a seznamu, což mohlo ovlivnit přeshraniční spolupráci a úhrady. Procesní krok: dodatečné oznámení a doložení období členství.
+
+**6. Varianty.** (a) Poskytovatel členství řádně oznámí → ministerstvo jej zařadí do Národní sítě a zveřejní; status funguje plně. (b) Pracoviště usiluje o status, ale plné členství v ERN nezískalo → status nevzniká, alternativou je obecné centrum dle § 112 v soutěžním řízení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bez oznámení status nevznikl".* Neutralizace: odst. 1 váže vznik statusu na členství v ERN, nikoli na oznámení; notifikace je deklaratorní, ne konstitutivní.
+- *Protiargument „opomenutí oznámení je bezsankční".* Neutralizace: jde o zákonnou oznamovací povinnost poskytovatele, jejíž porušení je postižitelné v rámci přestupkového katalogu a má reálné praktické následky (neviditelnost v síti).
+- *Slabé místo:* zákon neřeší výslovně situaci přechodného „pozastaveného" či podmíněného členství v ERN; vznik a trvání statusu se odvíjí od kategorizace členství podle pravidel ERN, což může být sporné.
+
+#### H. Praktický závěr
+
+Status centra pro vzácná onemocnění je výjimkou z modelu soutěžního udělování — vzniká automaticky plným členstvím v ERN a trvá po dobu členství. Poskytovatel musí získání i zánik členství bezodkladně oznámit ministerstvu, jinak riskuje postih a vyřazení z viditelné Národní sítě.
+
+**Checklist (poskytovatel / ministerstvo):**
+- [ ] Má pracoviště plné členství v příslušné ERN (nikoli jen přidružené/podmíněné)?
+- [ ] Bylo získání členství oznámeno ministerstvu bez zbytečného odkladu?
+- [ ] Je poskytovatel veden v Národní síti a ve zveřejněném seznamu?
+- [ ] Bylo zrušení/pozastavení členství neprodleně oznámeno (zánik statusu)?
+- [ ] Nezvažuje se u pracoviště mimo ERN raději status obecného centra dle § 112?
+
+**Typicky rozhodné důkazy / podklady:** potvrzení o plném členství v ERN a o jeho zrušení, oznámení ministerstvu, evidence Národní sítě, zveřejněný seznam ve Věstníku a na webu.
+
 ---
 
 ### §§ 113c–113e — Screening
@@ -1652,6 +2785,43 @@ Ministerstvo **odejme status** při neudržení podmínek nebo při závažném/
 #### Procedurálně: rozklad bez odkladného účinku (§ 113e odst. 3)
 
 Rozklad proti rozhodnutí o **odejmutí statusu nemá odkladný účinek** — odejmutý poskytovatel nemůže do rozhodnutí o rozkladu screening provádět. Toto pravidlo chrání kvalitu screeningové péče (povinný okamžitý efekt).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovateli byl udělen status screeningového pracoviště pro mamografický screening karcinomu prsu. Při auditu kvality bylo zjištěno opakované nedodržování technických a kvalitativních požadavků programu (vadné kalibrace, nedostatečné druhé čtení snímků). Ministerstvo rozhodlo o odejmutí statusu. Poskytovatel podal rozklad a tvrdí, že do rozhodnutí o rozkladu může screening dál provádět. Důkazy: rozhodnutí o udělení statusu, podmínky screeningového programu, auditní protokoly, rozhodnutí o odejmutí statusu.
+
+**2. Právní otázka.** Může poskytovatel provádět screening po doručení rozhodnutí o odejmutí statusu, podal-li proti němu rozklad?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 113c (pojem a vyhlašování screeningu), § 113d (status screeningového pracoviště), § 113e (zánik a odejmutí statusu; rozklad bez odkladného účinku).
+- *Související ustanovení téhož zákona:* § 112 (analogický soutěžní mechanismus), § 117 (přestupky poskytovatele).
+- *Související předpisy:* správní řád (rozklad, odkladný účinek); Věstník MZ (vyhlášení programů a podmínek).
+- *Judikatura:* nosný závěr — vyloučení odkladného účinku zákonem znamená, že rozhodnutí je vykonatelné okamžitě; pokračování v zakázané činnosti je protiprávní bez ohledu na podaný opravný prostředek.
+
+**4. Subsumpce.** Odejmutí statusu pro nedodržování podmínek programu spadá pod § 113e. Rozklad proti tomuto rozhodnutí nemá odkladný účinek (§ 113e odst. 3). Rozhodnutí je tak vykonatelné doručením; status zaniká a poskytovatel nesmí screening provádět.
+
+**5. Řešení.** Poskytovatel nesmí po doručení rozhodnutí screening provádět, i když podal rozklad. Pokračování by bylo prováděním screeningu bez statusu (riziko přestupku a neúčinnosti výstupů vůči úhradovému systému). Procesní krok: zastavit screeningovou činnost, v rozkladu napadnout věcné posouzení; teprve případné zrušení rozhodnutí status obnoví. Riziko: nepřehlédnout, že odkladný účinek nelze přiznat ani na žádost, je-li zákonem vyloučen.
+
+**6. Varianty.** (a) Status zanikne zrušením celého screeningového programu nebo uplynutím doby vyhlášení → zánik nastává nezávisle na pochybení poskytovatele (§ 113e). (b) Pochybení je jen formální a odstranitelné → ministerstvo by mohlo místo odejmutí volit méně přísný postup, je-li to s podmínkami programu slučitelné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „do rozhodnutí o rozkladu mohu pokračovat".* Neutralizace: § 113e odst. 3 výslovně vylučuje odkladný účinek; rozhodnutí je okamžitě vykonatelné.
+- *Protiargument „odejmutí je nepřiměřené, šlo o dílčí pochybení".* Neutralizace: jde-li o opakované/závažné porušení podmínek screeningu, odejmutí obstojí; přiměřenost se hodnotí podle dopadu na kvalitu populačního screeningu (vyšší standard ochrany).
+- *Slabé místo:* okamžitá vykonatelnost dopadá tvrdě i v případě, že rozklad bude později úspěšný; náhrada za mezidobí, kdy poskytovatel nemohl screening provádět, není zákonem řešena.
+
+#### H. Praktický závěr
+
+Screening je organizovaný program sekundární prevence vyhlašovaný ministerstvem; provádění statusem vázaných screeningů vyžaduje status pracoviště. Rozhodnutí o odejmutí statusu je okamžitě vykonatelné — rozklad nemá odkladný účinek a v činnosti nelze pokračovat.
+
+**Checklist (poskytovatel / ministerstvo):**
+- [ ] Jde o screeningový program vyžadující status pracoviště (§ 113c–113d)?
+- [ ] Splňuje pracoviště průběžně technické, personální a kvalitativní podmínky programu?
+- [ ] Nastal zákonný důvod zániku/odejmutí statusu (§ 113e)?
+- [ ] Bere poskytovatel na vědomí, že rozklad nemá odkladný účinek a činnost musí zastavit?
+- [ ] Je rozhodnutí o odejmutí řádně odůvodněno závažností/opakovaností porušení?
+
+**Typicky rozhodné důkazy / podklady:** vyhlášení programu a jeho podmínek ve Věstníku, rozhodnutí o udělení statusu, auditní protokoly kvality, rozhodnutí o odejmutí statusu, doklady o doručení a vykonatelnosti.
 
 ---
 
@@ -1721,6 +2891,43 @@ Ministerstvo zapíše pacientskou organizaci do seznamu **do 30 dnů** od žádo
 
 Pacientskou organizací může být rovněž **ústav** (§ 402 OZ) nebo **obecně prospěšná společnost** (zákon č. 248/1995 Sb., po novele OZ existující v přechodném režimu), pokud splňují materiální podmínky autenticity pacientského hlasu. Ustanovení odst. 3 a 4 se použijí přiměřeně.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Zapsaný spolek „Hlas pacientů s diabetem" podal žádost o zápis do seznamu pacientských organizací. Spolek působí teprve 8 měsíců, na svých internetových stránkách nezveřejňuje účetní závěrku ani zdroje financování a členy jeho statutárního orgánu volí externí sponzor, nikoli členové spolku z řad pacientů. Chce následně zastupovat pacientskou veřejnost v řízeních o úhradě léčivých přípravků. Důkazy: stanovy spolku, výpis ze spolkového rejstříku, žádost s přílohami, web spolku, doklady o financování a o trvání činnosti.
+
+**2. Právní otázka.** Splňuje spolek podmínky pro zápis do seznamu pacientských organizací podle § 113f odst. 3 a může bez zápisu zastupovat pacientskou veřejnost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 113f odst. 1 (definiční znaky), odst. 2 (aktivní legitimace zapsaných organizací), odst. 3 písm. a)–d) (podmínky zápisu), odst. 4 (náležitosti žádosti).
+- *Související ustanovení téhož zákona:* odst. 5 (osvědčení / zamítnutí), odst. 6 (vyřazení), odst. 7 (subsidiární status ústavu/o.p.s.).
+- *Související předpisy:* § 214 a násl. OZ (spolek); zákon o účetnictví; zvláštní zákony zakládající účast pacientských organizací v řízeních (úhrady, HTA).
+- *Judikatura:* nosný závěr — zápis do veřejného seznamu s navazujícími procesními oprávněními je vázán na kumulativní splnění zákonných podmínek; jejich nesplnění je důvodem zamítnutí.
+
+**4. Subsumpce.** Spolek nesplňuje: (i) odst. 3 písm. b) — členy statutárního orgánu nevolí pacientští členové, ale sponzor (chybí autenticita pacientského hlasu); (ii) písm. c) — nezveřejňuje účetní závěrku a zdroje financování; (iii) písm. d) — nepůsobí alespoň 12 měsíců (jen 8). Bez zápisu nemá aktivní legitimaci dle odst. 2.
+
+**5. Řešení.** Ministerstvo žádost zamítne pro nesplnění podmínek odst. 3 (rozhodnutí do 30 dnů). Spolek nemůže bez zápisu zastupovat pacientskou veřejnost v řízeních dle odst. 2. Náprava: doplnit dobu činnosti na min. 12 měsíců, zavést transparentní zveřejňování hospodaření a změnit stanovy tak, aby orgány volili pacientští členové. Procesní krok: po splnění podmínek podat novou žádost.
+
+**6. Varianty.** (a) Spolek je vrcholovou organizací sdružující menší pacientské spolky (odst. 1 věta druhá) → posuzuje se autenticita prostřednictvím členských spolků. (b) Žadatelem je ústav nebo o.p.s. s prokazatelným zásadním vlivem pacientů (odst. 7) → podmínky odst. 3 a 4 se použijí přiměřeně.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „zápis je formalita, materiálně pacientům pomáháme".* Neutralizace: zápis je vázán na kumulativní podmínky (autenticita, transparence, stabilita); jejich nesplnění brání přiznání procesních oprávnění bez ohledu na deklarovaný účel.
+- *Protiargument „bez zápisu lze zastupovat na základě přizvání orgánem".* Neutralizace: odst. 2 spojuje zastupování právě se zápisem v seznamu; přizvání orgánem se týká zapsaných organizací.
+- *Slabé místo:* pojem „zásadní vliv" pacientů na činnost (odst. 1, 7) je neostrý; u organizací s externím financováním vyžaduje individuální posouzení reálné kontroly nad rozhodováním.
+
+### H. Praktický závěr
+
+Pacientská organizace získává procesní legitimaci k zastupování pacientské veřejnosti teprve zápisem do seznamu vedeného ministerstvem, podmíněným autenticitou pacientského hlasu, transparentností hospodaření a nejméně roční činností. Nesplnění byť jediné podmínky je důvodem zamítnutí.
+
+**Checklist (spolek / ministerstvo):**
+- [ ] Splňuje žadatel definiční znaky pacientské organizace (odst. 1)?
+- [ ] Volí členy statutárního a nejvyššího orgánu pacientští členové (odst. 3 písm. b)?
+- [ ] Zveřejňuje žadatel účetní závěrku/přehledy a zdroje financování (písm. c)?
+- [ ] Působí žadatel nejméně 12 měsíců před podáním žádosti (písm. d)?
+- [ ] Jsou k žádosti připojeny všechny přílohy dle odst. 4 (čestné prohlášení, výroční zpráva, závěrka)?
+
+**Typicky rozhodné důkazy / podklady:** stanovy a výpis ze spolkového rejstříku, žádost s přílohami, web s účetní závěrkou a zdroji financování, doklady o době a obsahu činnosti, údaje o struktuře členstva.
+
 ---
 
 ## ČÁST ČTRNÁCTÁ — Dobrovolnická činnost ve zdravotnictví (§ 113g)
@@ -1744,6 +2951,43 @@ Posledně uvedený zákaz je klíčový: dobrovolník nemůže provádět zdravo
 #### Zmocnění k vyhlášce (odst. 2)
 
 Ministerstvo může prováděcím právním předpisem stanovit **podmínky a omezení** výkonu dobrovolnické činnosti. Vztah k zákonu č. 198/2002 Sb. o dobrovolnické službě je subsidiární — obecná úprava dobrovolnictví se uplatní tam, kde ZZS nestanoví zvláštní pravidlo.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Nemocnice zařadila do dobrovolnického programu studentku ošetřovatelství. Vrchní sestra ji na nedostatek personálu fakticky využívá k podávání léků pacientům a k zápisům do zdravotnické dokumentace, ačkoli dobrovolnice není zaměstnankyní ani zdravotnickým pracovníkem v tomto vztahu a nedostává odměnu. Jeden pacient utrpí pochybení v medikaci. Důkazy: dobrovolnická smlouva/evidence, rozpis činností dobrovolnice, zdravotnická dokumentace se zápisy, organizační pokyny.
+
+**2. Právní otázka.** Je přípustné, aby dobrovolník v rámci dobrovolnické činnosti poskytoval zdravotní služby (podával léky, vedl dokumentaci)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 113g odst. 1 — pojmové znaky dobrovolnické činnosti, zejména zákaz poskytovat prostřednictvím dobrovolnictví zdravotní služby; odst. 2 (zmocnění k vyhlášce).
+- *Související ustanovení téhož zákona:* § 11 (oprávnění k poskytování zdravotních služeb), § 117 (přestupky poskytovatele), § 28 (souhlas a práva pacienta).
+- *Související předpisy:* zákon č. 198/2002 Sb. o dobrovolnické službě (subsidiárně); zákon č. 96/2004 Sb. (způsobilost k výkonu nelékařského zdravotnického povolání); § 2894 a násl. OZ (náhrada újmy).
+- *Judikatura:* nosný závěr — zdravotní výkony smí provádět jen osoby s odpovídající způsobilostí v zákonném vztahu k poskytovateli; obcházení tohoto pravidla zakládá odpovědnost poskytovatele.
+
+**4. Subsumpce.** Podávání léků a vedení zdravotnické dokumentace jsou poskytováním zdravotních služeb. § 113g odst. 1 věta druhá výslovně zakazuje poskytovat zdravotní služby prostřednictvím dobrovolnické činnosti. Využití dobrovolnice k těmto úkonům je porušením zákazu a vybočením z pojmu dobrovolnictví.
+
+**5. Řešení.** Poskytovatel jednal protiprávně — dobrovolník nesmí provádět zdravotní výkony ani vést dokumentaci. Důsledky: odpovědnost poskytovatele za pochybení v medikaci (újma pacienta dle OZ), riziko přestupku (poskytování péče bez náležitého personálního zabezpečení). Náprava: dobrovolnici lze využít jen k nezdravotnickým aktivitám (doprovod, společenská podpora). Procesní krok: úprava náplně dobrovolnické činnosti a poučení personálu.
+
+**6. Varianty.** (a) Dobrovolnice by byla současně v pracovněprávním vztahu jako zdravotnický pracovník a léky by podávala v této roli → nejde o dobrovolnickou činnost, zákaz § 113g se neuplatní. (b) Dobrovolnice jen předčítá a doprovází pacienty → plně v souladu s § 113g.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „dobrovolník jen vypomáhal, nešlo o péči".* Neutralizace: podání léku a zápis do dokumentace jsou typové zdravotní výkony; jejich povaha se nemění tím, že je provedl dobrovolník bez odměny.
+- *Protiargument „nedostatek personálu ospravedlňuje výpomoc".* Neutralizace: personální poddimenzování neopravňuje k obcházení pravidel způsobilosti; řešením je personální zajištění, ne nasazení dobrovolníka na výkony.
+- *Slabé místo:* hranice mezi „nezdravotnickou podporou" a faktickým zdravotním úkonem může být v praxi neostrá (např. pomoc s jídlem u rizikového pacienta); vyžaduje jasné vymezení náplně dobrovolnické činnosti.
+
+### H. Praktický závěr
+
+Dobrovolnická činnost ve zdravotnictví je altruistická, bezúplatná podpora mimo pracovněprávní vztah, jejímž prostřednictvím nelze poskytovat zdravotní služby. Nasazení dobrovolníka na zdravotní výkony je protiprávní a zakládá odpovědnost poskytovatele.
+
+**Checklist (poskytovatel):**
+- [ ] Je dobrovolník mimo pracovněprávní/členský vztah a bez nároku na odměnu (odst. 1)?
+- [ ] Je náplň dobrovolnické činnosti omezena na nezdravotnické aktivity?
+- [ ] Neprovádí dobrovolník zdravotní výkony, nepředepisuje léky, nevede zdravotnickou dokumentaci?
+- [ ] Je dobrovolnictví organizováno poskytovatelem a evidováno?
+- [ ] Jsou respektovány případné podmínky prováděcí vyhlášky (odst. 2) a subsidiárně zák. č. 198/2002 Sb.?
+
+**Typicky rozhodné důkazy / podklady:** dobrovolnická smlouva/evidence, vymezení náplně činnosti, organizační pokyny, zdravotnická dokumentace a rozpis služeb, doklady o personálním zabezpečení.
 
 ---
 
@@ -1800,6 +3044,43 @@ Duchovní péče je možná **pouze se souhlasem příjemce**. U pacienta nescho
 4. **Akreditovaný vzdělávací program pro nemocniční kaplany**.
 
 Vzdělávací požadavky reflektují **interdisciplinární povahu** funkce — kaplan musí kombinovat teologickou kompetenci s psychologickými dovednostmi (krizová intervence, doprovázení umírajících, paliativní péče) a komunikační kapacitou v multikulturním prostředí. V ČR je standardním poskytovatelem akreditovaného kurzu **Cestou změny — vzdělávací institut**, případně teologické fakulty UK a JČU.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Nemocniční kaplan při návštěvách na lůžkovém oddělení opakovaně pacientku, která je v paliativní fázi a vyjádřila příslušnost k jiné církvi, pobízí ke konverzi a k účasti na bohoslužbě své církve. Pacientka je rozrušena. Současně nemocnice nemá na webu ani na oddělení zveřejněnu informaci o možnosti duchovní péče a nevyčlenila k tomu žádný prostor. Důkazy: smlouva s nemocničním kaplanem, pověření církve, záznamy o návštěvách, stížnost pacientky, obsah webu a informací na oddělení.
+
+**2. Právní otázka.** Porušil kaplan zákaz misionářské činnosti a splnil poskytovatel své povinnosti podle § 113h; co je podmínkou poskytnutí duchovní péče?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 113h odst. 1 písm. a)–d) (povinnosti poskytovatele), odst. 2 (zákaz misionářské/prozelytické činnosti), odst. 3 (souhlas příjemce); § 113i (podmínky funkce kaplana).
+- *Související ustanovení téhož zákona:* § 28 odst. 3 písm. j) (právo pacienta na duchovní péči), § 34 odst. 7 (zástupný souhlas).
+- *Související předpisy:* čl. 15 a 16 Listiny (svoboda vyznání); zákon č. 3/2002 Sb. o církvích.
+- *Judikatura:* nosný závěr — svoboda vyznání zahrnuje i právo nebýt vystaven nátlaku ke změně vyznání; v institucionálně zranitelné situaci (hospitalizace) je ochrana před prozelytismem zvýšená.
+
+**4. Subsumpce.** Pobízení pacientky ke konverzi a k účasti na bohoslužbě je misionářskou/prozelytickou činností zakázanou § 113h odst. 2. Chybí-li navíc souhlas pacientky s touto duchovní péčí (odst. 3), je zásah neoprávněný. Poskytovatel porušil odst. 1 písm. b) (nevyčlenil prostor) a písm. c) (nezveřejnil informaci).
+
+**5. Řešení.** Kaplan jednal v rozporu se zákazem prozelytismu; duchovní péče je možná jen se souhlasem příjemce a má být doprovázející, nikoli formační. Poskytovatel musí zjednat nápravu organizačních povinností (prostor, informace) a řešit jednání kaplana ve smluvním a pověřovacím vztahu (podnět církvi, jež pověření vydala). Procesní krok: vyřízení stížnosti dle § 93 a násl., poučení personálu, doplnění informací a prostoru.
+
+**6. Varianty.** (a) Pacientka by o duchovní péči kaplana sama požádala a souhlasila s ní → péče by byla oprávněná, pokud by nepřekročila zákaz prozelytismu. (b) Pacientka by nebyla schopna vyslovit souhlas → nastupuje souhlas osob uvedených dle § 34 odst. 7, ne svévole kaplana.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „kaplan jen nabízel duchovní útěchu".* Neutralizace: nabídka péče je přípustná, avšak pobízení ke konverzi a účasti na bohoslužbě jiné církve překračuje hranici do zakázaného prozelytismu (odst. 2).
+- *Protiargument „povinnosti poskytovatele jsou jen doporučující".* Neutralizace: § 113h odst. 1 ukládá kumulativní povinnosti (smluvní kaplan, prostor, informace, respekt k liturgii); jejich neplnění je porušením zákona.
+- *Slabé místo:* hranice mezi legitimní nabídkou duchovní péče a nepřípustným pobízením je v praxi citlivá a důkazně náročná; opírá se o výpovědi a záznamy, nikoli o tvrdé doklady.
+
+### H. Praktický závěr
+
+Poskytovatel lůžkové péče musí zajistit dostupnou, ale nevtíravou duchovní péči: smluvního kaplana splňujícího podmínky § 113i, vyhrazený prostor a zveřejněnou informaci. Péče je vázána na souhlas pacienta a nesmí přejít v misionářský nátlak.
+
+**Checklist (poskytovatel / kaplan):**
+- [ ] Má poskytovatel smluvní vztah s kaplanem splňujícím podmínky § 113i?
+- [ ] Je vyčleněn vhodný prostor a zveřejněna informace o duchovní péči (odst. 1 písm. b, c)?
+- [ ] Je duchovní péče poskytována jen se souhlasem pacienta, popř. osob dle § 34 odst. 7 (odst. 3)?
+- [ ] Je respektován zákaz pobízení ke vstupu/vystoupení z církve a k (ne)účasti na úkonech (odst. 2)?
+- [ ] Je zachováno právo pacienta na duchovní péči i od jiné osoby než smluvního kaplana?
+
+**Typicky rozhodné důkazy / podklady:** smlouva s kaplanem a pověření církve, doklad o vzdělání a bezúhonnosti kaplana, informace zveřejněné na webu/oddělení, záznamy o návštěvách, stížnost a vyjádření pacienta.
 
 ---
 
@@ -1895,6 +3176,43 @@ Vzdělávací požadavky reflektují **interdisciplinární povahu** funkce — 
 
 > **Praktická poznámka k sazbě 15 000 Kč u padělání:** Sazba odráží předpoklad, že úmyslné padělání lékařské zprávy nebo posudku zpravidla naplňuje znaky **trestného činu padělání a vystavení nepravdivé lékařské zprávy, posudku a nálezu** podle § 350 TZ (sankce odnětí svobody až 5 let; viz [Komentář k TZ](/home/vojtech/Komentar-TZ-40-2009/)). Přestupek § 114 odst. 1 písm. k) tak nastupuje subsidiárně jen v situacích, kdy intenzita pochybení nedosahuje trestněprávní úrovně (typicky nedbalostní změny).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Lékař, který ukončil samostatnou praxi (oprávnění zaniklo), bez nového oprávnění dál soustavně a za úplatu ošetřuje pacienty v pronajaté ordinaci a vystavuje jim lékařské zprávy. Při kontrole odmítne vpustit pověřenou osobu správního orgánu do objektu. Krajský úřad zahájí přestupkové řízení. Důkazy: doklad o zániku oprávnění, evidence pacientů a plateb, nájemní smlouva, vystavené lékařské zprávy, protokol o znemožnění vstupu.
+
+**2. Právní otázka.** Naplnil lékař skutkovou podstatu přestupku poskytování zdravotních služeb bez oprávnění a přestupku neumožnění vstupu, a jaké pokuty hrozí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 114 odst. 1 písm. a) (poskytování bez oprávnění — vid nedokonavý „poskytuje"), písm. d) (neumožnění vstupu), odst. 2 (sazby — písm. a) 1 000 000 Kč, písm. c) 200 000 Kč).
+- *Související ustanovení téhož zákona:* § 11 odst. 2, § 57 odst. 2 písm. b), § 118 (příslubnost krajského úřadu).
+- *Související předpisy:* zákon č. 250/2016 Sb. (PřesZ — zavinění, ukládání pokut); § 420 OZ (podnikání); § 250 TZ a živnostenské/zdravotnické delikty.
+- *Judikatura:* NSS 4 A 29/2016 ze dne 28. 6. 2018 (citovaná u tohoto §) — skutková podstata používá vid nedokonavý („poskytuje"), míří na soustavné neoprávněné podnikání ve zdravotnictví ve smyslu § 420 OZ.
+
+**4. Subsumpce.** Soustavná, výdělečná a samostatná činnost bez oprávnění naplňuje znak „poskytuje zdravotní služby bez oprávnění" (písm. a) — vid nedokonavý potvrzuje, že rozhodná je soustavnost, nikoli jediný úkon. Znemožnění vstupu pověřené osobě naplňuje písm. d).
+
+**5. Řešení.** Krajský úřad (§ 118 písm. a) projedná oba přestupky; za neoprávněné poskytování lze uložit pokutu až 1 000 000 Kč (odst. 2 písm. a), za maření kontroly až 200 000 Kč (odst. 2 písm. c). Posoudí se zavinění a okolnosti dle PřesZ (soustavnost jako přitěžující). Procesní krok: zajistit důkazy o soustavnosti (počet pacientů, platby, doba). Riziko: souběh s živnostenskoprávní a daňovou odpovědností.
+
+**6. Varianty.** (a) Šlo by o jediné bezúplatné ošetření známého z ochoty → chybí soustavnost a výdělečnost; znak „poskytuje" (podnikání) by nemusel být naplněn. (b) Lékař by úmyslně padělal lékařskou zprávu → vedle přestupku písm. k) (15 000 Kč) hrozí subsidiárně trestní stíhání dle § 350 TZ při dostatečné intenzitě.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „šlo jen o jednotlivé ošetření, ne o poskytování".* Neutralizace: vid nedokonavý a vazba na pojem podnikání (NSS 4 A 29/2016) směřují k soustavné činnosti; je třeba prokázat opakovanost a výdělečnost, což zde důkazy dokládají.
+- *Protiargument „vstup jsem neumožnil kvůli ochraně dat pacientů".* Neutralizace: pověřená osoba správního orgánu má zákonné oprávnění vstupu (§ 57 odst. 2 písm. b); ochrana dat není důvodem k maření kontroly.
+- *Slabé místo:* hranice mezi soustavným poskytováním a nahodilou výpomocí je skutková a důkazně náročná; obžaloba/správní orgán nese důkazní břemeno soustavnosti.
+
+#### H. Praktický závěr
+
+§ 114 sankcionuje fyzické osoby za třináct typů pochybení; nejtvrději (až 1 000 000 Kč) za neoprávněné poskytování zdravotních služeb a porušení mlčenlivosti. Klíčem k neoprávněnému poskytování je soustavnost a výdělečnost činnosti, nikoli jediný úkon.
+
+**Checklist (správní orgán / fyzická osoba):**
+- [ ] Je činnost bez oprávnění soustavná a výdělečná (znak „poskytuje" — podnikání)?
+- [ ] Je správně určena sazba podle písmene (odst. 2 a)–e)?
+- [ ] Je dán krajský úřad jako příslušný orgán (§ 118 písm. a)?
+- [ ] Bylo posouzeno zavinění a polehčující/přitěžující okolnosti dle PřesZ?
+- [ ] Nehrozí u padělání dokumentace souběh s trestným činem dle § 350 TZ?
+
+**Typicky rozhodné důkazy / podklady:** doklad o (ne)existenci oprávnění, evidence pacientů a plateb, nájemní/provozní smlouvy, vystavené lékařské zprávy, protokol o kontrole a o znemožnění vstupu.
+
 ---
 
 ### § 115 — Přestupky právnických osob a podnikajících fyzických osob
@@ -1946,6 +3264,43 @@ Vzdělávací požadavky reflektují **interdisciplinární povahu** funkce — 
 
 Třístupňová sazbová struktura s vrcholem **1 000 000 Kč** za neoprávněné poskytování zdravotních služeb (písm. a). Středně závažné delikty (písm. g/h, neoprávněné nakládání s tělem zemřelého a hodnocení kvality bez oprávnění) sankcionovány **500 000 Kč**. Ostatní delikty **100 000 Kč**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Univerzitní vysoká škola provedla anatomickou pitvu k výukovým účelům, avšak na pracovišti, které není určeno k provádění anatomických pitev, a mimo rámec akreditovaného studijního programu, tedy v rozporu s § 88 odst. 6 ZZS. Současně obchodní společnost provozující soukromou kliniku poskytovala určité zdravotní služby ještě před zápisem do obchodního rejstříku, aniž zaslala správnímu orgánu doklad o podání návrhu na zápis. Důkazy: protokol o anatomické pitvě, akreditační dokumentace VŠ, výpis z obchodního rejstříku kliniky, oprávnění k poskytování služeb, korespondence se správním orgánem.
+
+**2. Právní otázka.** Naplnila univerzitní vysoká škola zvláštní přestupek podle § 115 odst. 2 a porušila klinika povinnost podle § 19 odst. 5 (§ 115 odst. 1 písm. b)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 115 odst. 1 písm. b) (nezaslání dokladu o zápisu do rejstříku), odst. 2 (anatomická pitva v rozporu s § 88 odst. 6 — přestupek univerzitní VŠ), odst. 3 (sazby — 500 000 Kč u odst. 2, 100 000 Kč u písm. b).
+- *Související ustanovení téhož zákona:* § 88 odst. 6 (anatomická pitva), § 19 odst. 5 (doklad o zápisu do rejstříku), § 118 písm. a) a c) (příslušnost).
+- *Související předpisy:* PřesZ (č. 250/2016 Sb.); zákon č. 111/1998 Sb. o vysokých školách; zákon č. 304/2013 Sb. o veřejných rejstřících.
+- *Judikatura:* nosný závěr — speciální skutkové podstaty vázané na konkrétní subjekt (univerzitní VŠ) se uplatní jen vůči tomuto subjektu; obecná pravidla odpovědnosti se řídí PřesZ.
+
+**4. Subsumpce.** Anatomická pitva mimo akreditovaný program a určené pracoviště naplňuje § 88 odst. 6 → přestupek univerzitní VŠ dle § 115 odst. 2 (sazba 500 000 Kč). Poskytování služeb klinikou před zápisem do rejstříku bez zaslání dokladu naplňuje § 115 odst. 1 písm. b) (sazba 100 000 Kč).
+
+**5. Řízení.** Přestupek univerzitní VŠ (odst. 2) projedná ministerstvo (§ 118 písm. c); přestupek kliniky (odst. 1 písm. b) krajský úřad (§ 118 písm. a). Posoudí se liberace dle PřesZ (zda subjekt vynaložil veškeré úsilí). Pravděpodobný výsledek: pokuty v rámci sazeb se zohledněním závažnosti. Procesní krok: doložit akreditační/rejstříkový stav k době jednání.
+
+**6. Varianty.** (a) VŠ by pitvu provedla na určeném pracovišti v rámci akreditovaného programu → § 88 odst. 6 by nebyl porušen, přestupek by nevznikl. (b) Klinika by doklad o podání návrhu na zápis zaslala včas → znak písm. b) by odpadl.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „VŠ není podnikatel, přestupek PO na ni nedopadá".* Neutralizace: § 115 odst. 2 zakládá zvláštní skutkovou podstatu výslovně pro univerzitní VŠ; obecné zařazení k PO/podnikajícím FO je nerozhodné.
+- *Protiargument „klinika fakticky vznikla a služby poskytovala oprávněně".* Neutralizace: povinnost dle § 19 odst. 5 (zaslat doklad o zápisu) je samostatná; její nesplnění je přestupkem bez ohledu na faktický vznik.
+- *Slabé místo:* u PO se uplatní možnost liberace dle PřesZ; správní orgán musí prokázat, že subjekt nevynaložil veškeré úsilí, jež po něm bylo možné požadovat.
+
+#### H. Praktický závěr
+
+§ 115 zrcadlí katalog § 114 pro právnické a podnikající fyzické osoby a přidává specifické delikty (doklad o zápisu do rejstříku, anatomická pitva univerzitní VŠ). Příslušnost se dělí mezi krajský úřad a ministerstvo; u PO je relevantní institut liberace.
+
+**Checklist (správní orgán / PO / VŠ):**
+- [ ] Jde o skutkovou podstatu odst. 1 (PO/podnikající FO) nebo odst. 2 (univerzitní VŠ)?
+- [ ] Je správně určena sazba dle odst. 3 a příslušný orgán dle § 118?
+- [ ] U anatomické pitvy: byla provedena v akreditovaném programu na určeném pracovišti (§ 88 odst. 6)?
+- [ ] U písm. b): byl zaslán doklad o podání návrhu/zápisu do rejstříku (§ 19 odst. 5)?
+- [ ] Byla zvážena možnost liberace dle PřesZ?
+
+**Typicky rozhodné důkazy / podklady:** protokol o anatomické pitvě a akreditační dokumentace, výpis z rejstříku a doklady o zápisu, oprávnění k poskytování služeb, korespondence se správním orgánem.
+
 ---
 
 ### § 116 — Přestupky osoby oprávněné provádět hodnocení kvality
@@ -1980,6 +3335,43 @@ Třístupňová sazbová struktura s vrcholem **1 000 000 Kč** za neoprávněn�
 | f) | Nedodržení personálních požadavků | **500 000 Kč** |
 
 Nejvyšší sazba **500 000 Kč** je vyhrazena pro **materiální porušení nezávislosti a integrity hodnotícího procesu** (porušení standardů, podjatost, nedostatečné personální zabezpečení) — tedy pochybení dotýkající se samé podstaty externí akreditace.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Osoba oprávněná provádět hodnocení kvality provedla u poskytovatele hodnocení prostřednictvím auditora, který byl v posledních dvou letech zaměstnán u hodnoceného poskytovatele (tedy osoba vyloučená podle § 104 odst. 3). Současně hodnotitel nikdy nezveřejnil své hodnotící standardy a pravidla procesu na internetu (§ 101 odst. 1). Ministerstvo zahájilo přestupkové řízení. Důkazy: protokol o hodnocení, evidence auditorů a jejich vztahů k poskytovateli, web hodnotitele, hodnotící standardy.
+
+**2. Právní otázka.** Které skutkové podstaty § 116 hodnotitel naplnil a jaké pokuty hrozí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 116 odst. 1 písm. a) (nezveřejnění standardů — 200 000 Kč), písm. d) (hodnocení vyloučenou osobou — 500 000 Kč).
+- *Související ustanovení téhož zákona:* § 101 odst. 1 a 2 (zveřejnění a oznamovací povinnost), § 104 odst. 2 a 3 (povinnosti a vyloučení), § 103 (odejmutí oprávnění), § 118 písm. c) (příslušnost ministerstva).
+- *Související předpisy:* PřesZ (č. 250/2016 Sb.); vyhláška č. 102/2012 Sb.
+- *Judikatura:* nosný závěr — porušení nestrannosti certifikačního orgánu (audit vyloučenou osobou) je závažným pochybením dotýkajícím se podstaty akreditace a odůvodňuje nejvyšší sazbu i odejmutí oprávnění.
+
+**4. Subsumpce.** Provedení hodnocení osobou vyloučenou podle § 104 odst. 3 naplňuje § 116 odst. 1 písm. d) (sazba 500 000 Kč). Trvalé nezveřejnění standardů naplňuje § 116 odst. 1 písm. a) (sazba 200 000 Kč). Jde o souběh dvou přestupků téhož pachatele.
+
+**5. Řešení.** Ministerstvo (§ 118 písm. c) projedná oba přestupky a uloží pokutu (úhrnný/asperační princip dle PřesZ, v rámci nejvyšší sazby 500 000 Kč). Vedle toho může podle § 103 oprávnění hodnotitele diskrečně odejmout (hodnocení vyloučenou osobou). Certifikáty vydané na základě vadného hodnocení jsou zpochybnitelné. Procesní krok: prokázat vztah auditora k poskytovateli v rozhodném dvouletém období.
+
+**6. Varianty.** (a) Auditor nebyl vyloučen (vztah k poskytovateli skončil před více než 2 lety) → odpadá písm. d); zůstává jen nezveřejnění standardů (písm. a). (b) Hodnotitel standardy zveřejnil, ale neoznámil jejich změnu → namísto písm. a) přichází písm. b) (100 000 Kč).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „auditor jednal nezávisle, vztah neovlivnil výsledek".* Neutralizace: § 104 odst. 3 stanoví vyloučení objektivně (formálně), bez ohledu na prokázané ovlivnění; již samo provedení vyloučenou osobou je přestupkem.
+- *Protiargument „nezveřejnění standardů je bagatelní".* Neutralizace: zveřejnění standardů je podmínkou transparentnosti a kontrolovatelnosti hodnocení; jde o samostatný přestupek se sazbou 200 000 Kč.
+- *Slabé místo:* prokázání vyloučenosti auditora vyžaduje doložit konkrétní vztah v rozhodném období; chybí-li evidence vztahů auditorů, je dokazování ztížené.
+
+#### H. Praktický závěr
+
+§ 116 postihuje pochybení hodnotitelů kvality; nejvyšší sazbou 500 000 Kč materiální zásahy do nezávislosti a integrity hodnocení (porušení standardů, podjatost, personální poddimenzování). Tyto delikty mohou vést i k odejmutí oprávnění a zpochybnění vydaných certifikátů.
+
+**Checklist (hodnotitel / ministerstvo):**
+- [ ] Jsou hodnotící standardy a pravidla procesu zveřejněny (§ 101 odst. 1)?
+- [ ] Byly oznámeny změny údajů (§ 101 odst. 2)?
+- [ ] Není žádný auditor vyloučen dle § 104 odst. 3 (podjatost)?
+- [ ] Jsou dodrženy standardy, evidence a personální požadavky (§ 104 odst. 2)?
+- [ ] Je u souběhu přestupků správně určena sazba a příslušnost ministerstva (§ 118 písm. c)?
+
+**Typicky rozhodné důkazy / podklady:** protokol o hodnocení, evidence auditorů a jejich vztahů k poskytovateli, doklady o zaměstnání/konzultacích, web hodnotitele se standardy, oznámení změn.
 
 ---
 
@@ -2040,6 +3432,43 @@ Pro téma **hospitalizace bez souhlasu pacienta** (§ 38 ZZS), které je institu
 
 > **Vazba na trestněprávní rámec ochranného léčení:** Ochranné léčení (§ 99 TZ) je sankčním opatřením ukládaným soudem v trestním řízení proti pachateli, jehož spáchaný trestný čin souvisí s duševní poruchou nebo závislostí. Provádí se buď v **ambulantní**, nebo **ústavní** formě poskytovatelem zdravotních služeb (typicky psychiatrická nemocnice). Procesně se ochranné léčení řídí TZ a TŘ, nikoli ZZS, ale fyzické provádění léčení (a zejména ústavní omezení svobody pacienta) podléhá hmotněprávním pravidlům ZZS o hospitalizaci a omezovacích prostředcích (§ 39 ZZS). Porušení těchto pravidel poskytovatelem provádějícím ochranné léčení je přestupkem podle § 117 ZZS, zatímco porušení samotných pravidel TZ/TŘ je samostatnou odpovědnostní vrstvou.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Psychiatrická nemocnice přijala pacienta bez jeho souhlasu, neboť v důsledku duševní poruchy bezprostředně a závažně ohrožoval své okolí (§ 38 ZZS). Lékař na něm aplikoval omezovací prostředky. Poskytovatel však neoznámil převzetí pacienta soudu způsobem a ve lhůtě podle § 40 ZZS, takže soud nemohl zahájit detenční řízení. Pacient byl v zařízení držen 5 dnů bez soudního přezkumu. Důkazy: zdravotnická dokumentace o přijetí a indikaci, záznam o použití omezovacích prostředků, doklad o (ne)oznámení soudu, časová osa.
+
+**2. Právní otázka.** Naplnil poskytovatel přestupek neoznámení hospitalizace bez souhlasu soudu podle § 117 odst. 1 písm. v) a jaký je vztah k záruce soudního přezkumu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 117 odst. 1 písm. v) (neoznámení hospitalizace soudu dle § 40 — sazba 200 000 Kč), návazně písm. n) (péče bez souhlasu — 1 000 000 Kč), odst. 4 (sazby).
+- *Související ustanovení téhož zákona:* § 38 (hospitalizace bez souhlasu), § 39 (omezovací prostředky), § 40 (oznamovací povinnost soudu), § 28 odst. 1 (souhlas pacienta).
+- *Související předpisy:* § 75 a násl. zákona č. 292/2013 Sb. o zvláštních řízeních soudních (detenční řízení); čl. 8 odst. 6 Listiny a čl. 5 odst. 4 EÚLP (habeas corpus); § 99 TZ (ochranné léčení).
+- *Judikatura:* nosný závěr — zbavení/omezení osobní svobody ve zdravotnickém zařízení musí být neprodleně podrobeno soudnímu přezkumu; neoznámení soudu porušuje procesní záruku čl. 5 odst. 4 EÚLP.
+
+**4. Subsumpce.** Přijetí bez souhlasu při bezprostředním ohrožení může být hmotněprávně oprávněné (§ 38). Neoznámení soudu ve lhůtě § 40 však naplňuje samostatný přestupek § 117 odst. 1 písm. v). Bylo-li navíc přijetí bez zákonného důvodu, hrozí i písm. n) (péče bez souhlasu).
+
+**5. Řešení.** Příslušný správní orgán (§ 118 písm. b) projedná přestupek; za neoznámení soudu hrozí pokuta až 200 000 Kč. I při oprávněné detenci je oznámení soudu obligatorní; jeho opomenutí zakládá odpovědnost bez ohledu na důvodnost hospitalizace. Procesní krok: ověřit dodržení lhůty oznámení a zahájení detenčního řízení. Riziko: souběh s odpovědností za neoprávněnou detenci (§ 117 odst. 1 písm. n), 1 000 000 Kč) a s nárokem pacienta na náhradu újmy.
+
+**6. Varianty.** (a) Poskytovatel oznámí převzetí soudu včas → přestupek písm. v) nevzniká, hospitalizace prochází soudním přezkumem. (b) Přijetí bez souhlasu zcela bez zákonného důvodu (chybí ohrožení dle § 38) → primárně přestupek písm. n) (péče bez souhlasu, 1 000 000 Kč), nikoli „jen" neoznámení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „hospitalizace byla důvodná, oznámení je formalita".* Neutralizace: oznámení soudu je ústavně podmíněnou procesní zárukou (čl. 5 odst. 4 EÚLP); jeho opomenutí je samostatným deliktem nezávislým na důvodnosti detence.
+- *Protiargument „postačí dokumentace v nemocnici".* Neutralizace: § 40 vyžaduje oznámení soudu, který zahajuje detenční řízení; interní dokumentace soudní přezkum nenahrazuje.
+- *Slabé místo:* § 117 obsahuje desítky skutkových podstat s pětistupňovou sazbou; správné podřazení konkrétního jednání pod přesné písmeno a sazbu je náročné a chybné určení může vést ke zrušení rozhodnutí.
+
+#### H. Praktický závěr
+
+§ 117 je nejrozsáhlejším katalogem přestupků (poskytovatel), s pětistupňovou sazbou až do 1 000 000 Kč. Pro detenční agendu jsou klíčové písm. n) (péče bez souhlasu) a v) (neoznámení hospitalizace soudu); oznámení soudu je obligatorní i u jinak oprávněné hospitalizace.
+
+**Checklist (poskytovatel / správní orgán):**
+- [ ] Je jednání správně podřazeno pod konkrétní písmeno odst. 1/2/3 a odpovídající sazbu (odst. 4)?
+- [ ] U hospitalizace bez souhlasu: byly splněny podmínky § 38 a oznámeno soudu dle § 40 (písm. v)?
+- [ ] Byl poskytnut zdravotní výkon se souhlasem, nebo jde o písm. n) (1 000 000 Kč)?
+- [ ] Je příslušným orgánem správní orgán příslušný k udělení oprávnění (§ 118 písm. b)?
+- [ ] Nehrozí souběh s náhradou újmy pacienta a s pravidly ochranného léčení (§ 99 TZ)?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace o přijetí a indikaci, záznam o omezovacích prostředcích, doklad o oznámení soudu a o zahájení detenčního řízení, časová osa, souhlas pacienta nebo jeho absence.
+
 ---
 
 ### § 118 — Příslušnost k projednání přestupků
@@ -2065,6 +3494,43 @@ Pro téma **hospitalizace bez souhlasu pacienta** (§ 38 ZZS), které je institu
 | c) | **Ministerstvo zdravotnictví** | § 115 odst. 2 — univerzitní VŠ; § 116 odst. 1 — hodnotitelé kvality |
 
 Místní příslušnost se řídí § 62 PřesZ (sídlo / místo spáchání). Procesně se přestupkové řízení vede podle PřesZ a podpůrně podle SŘ.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad zahájil a projednal přestupek poskytovatele podle § 117 odst. 1 (poskytování služeb neuvedených v oprávnění). Poskytovateli však oprávnění udělilo Ministerstvo obrany (vojenské zdravotnické zařízení). Poskytovatel v odvolání namítá, že krajský úřad nebyl k projednání věci příslušný. Důkazy: oprávnění poskytovatele s uvedením orgánu, který je udělil, rozhodnutí krajského úřadu, spis.
+
+**2. Právní otázka.** Byl krajský úřad věcně příslušný k projednání přestupku poskytovatele podle § 117, nebo náleží příslušnost jinému orgánu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 118 písm. a)–c) — věcná příslušnost (krajský úřad u § 114 odst. 1 a § 115 odst. 1; orgán příslušný k udělení oprávnění u § 117; ministerstvo u § 115 odst. 2 a § 116).
+- *Související ustanovení téhož zákona:* § 117 (přestupky poskytovatele), § 15–19 (udělení oprávnění a příslušné orgány, vč. MO/MV/MS).
+- *Související předpisy:* § 62 PřesZ (místní příslušnost); správní řád (důsledky nepříslušnosti).
+- *Judikatura:* nosný závěr — rozhodnutí vydané věcně nepříslušným orgánem je stiženo vadou; věcná příslušnost je podmínkou zákonnosti rozhodnutí.
+
+**4. Subsumpce.** U přestupků poskytovatele dle § 117 je podle § 118 písm. b) příslušný „správní orgán příslušný k udělení oprávnění", nikoli automaticky krajský úřad. Udělilo-li oprávnění Ministerstvo obrany, je k projednání přestupku § 117 příslušné MO ČR, ne krajský úřad.
+
+**5. Řešení.** Krajský úřad nebyl věcně příslušný; jeho rozhodnutí je vadné a v odvolacím/přezkumném řízení neobstojí. Věc náleží orgánu, který udělil oprávnění (zde MO ČR). Procesní krok: postoupení věci příslušnému orgánu (§ 12 SŘ), případně zrušení rozhodnutí pro nepříslušnost. U přestupků dle § 114/115 odst. 1 by naopak krajský úřad příslušný byl (písm. a).
+
+**6. Varianty.** (a) Šlo by o přestupek FO dle § 114 odst. 1 → příslušný krajský úřad (písm. a), rozhodnutí by obstálo. (b) Přestupek univerzitní VŠ dle § 115 odst. 2 nebo hodnotitele dle § 116 → příslušné ministerstvo (písm. c).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „krajský úřad běžně řeší zdravotnické přestupky".* Neutralizace: u § 117 zákon váže příslušnost na orgán, který udělil oprávnění; je-li jím MO/MV/MS, krajský úřad příslušný není.
+- *Protiargument „vada příslušnosti je nepodstatná".* Neutralizace: věcná příslušnost je základní podmínkou zákonnosti; její porušení je podstatnou vadou řízení.
+- *Slabé místo:* určení „orgánu příslušného k udělení oprávnění" vyžaduje znát konkrétní orgán u daného poskytovatele (krajský úřad vs. ministerstva); chyba v této identifikaci je nejčastějším zdrojem vad.
+
+#### H. Praktický závěr
+
+§ 118 rozděluje věcnou příslušnost mezi krajský úřad (přestupky FO a PO/podnikajících FO), orgán příslušný k udělení oprávnění (přestupky poskytovatele dle § 117) a ministerstvo (univerzitní VŠ a hodnotitelé). Správné určení příslušného orgánu je podmínkou zákonnosti rozhodnutí.
+
+**Checklist (správní orgán / účastník):**
+- [ ] O kterou kategorii přestupku jde (§ 114/115 odst. 1, § 117, § 115 odst. 2 / § 116)?
+- [ ] Který orgán udělil poskytovateli oprávnění (rozhodné pro § 117 — písm. b)?
+- [ ] Je příslušným orgánem krajský úřad, orgán udělující oprávnění, nebo ministerstvo?
+- [ ] Je správně určena místní příslušnost dle § 62 PřesZ?
+- [ ] Nebylo rozhodnutí vydáno věcně nepříslušným orgánem (riziko zrušení)?
+
+**Typicky rozhodné důkazy / podklady:** oprávnění poskytovatele s uvedením udělujícího orgánu, kvalifikace skutku pod konkrétní přestupkové ustanovení, spis přestupkového řízení, doklady o místní příslušnosti.
 
 ---
 
@@ -2121,6 +3587,43 @@ Tyto speciální zákony **mají přednost** v rozsahu vlastní úpravy; ZZS dop
 
 Toto pravidlo zajišťuje finanční dostupnost expertů ochotných působit v nezávislých odborných tělesech a brání faktickému selhání systému z důvodu nemožnosti odborníky angažovat.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad rozhodl v agendě podle ZZS (např. o oprávnění poskytovatele). Žadatel se obrátil na radu kraje s tím, aby rozhodnutí „politicky" změnila. Souběžně lékař, který jako nezávislý odborník působil v komisi podle § 95 ZZS, žádá o náhradu ušlého výdělku a jízdních výdajů, neboť je OSVČ a kvůli jednání komise musel zrušit ordinaci. Důkazy: rozhodnutí krajského úřadu, jednací řád rady kraje, doklad o ustavení odborníka do komise, doklady o ušlém výdělku a jízdních výdajích.
+
+**2. Právní otázka.** Mohou samosprávné orgány kraje zasáhnout do rozhodnutí v agendě ZZS a jaké náhrady náleží nezávislému odborníkovi?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 119 odst. 1 (přenesená působnost, výjimka § 44 odst. 5; subsidiarita vůči zvláštním zdravotnickým zákonům), odst. 2 (náhrady nezávislých odborníků a členů komisí).
+- *Související ustanovení téhož zákona:* § 95 (nezávislá odborná komise), § 44 odst. 5 (samostatná působnost), § 96 (závěry šetření).
+- *Související předpisy:* zákon č. 129/2000 Sb. o krajích (přenesená vs. samostatná působnost); zákon č. 374/2011 Sb. o ZZS, č. 373/2011 Sb. o specifických zdravotních službách, č. 285/2002 Sb. o transplantacích (subsidiarita).
+- *Judikatura:* nosný závěr — v přenesené působnosti rozhodují úředníci podle zákona; samosprávné orgány nemají věcnou pravomoc do rozhodování zasahovat a podléhá dozoru státu.
+
+**4. Subsumpce.** Agenda dle ZZS (mimo § 44 odst. 5) je přenesenou působností (odst. 1) — politické orgány samosprávy nemají rozhodovací pravomoc. Náhrady odborníka spadají pod odst. 2: jde o jiný úkon v obecném zájmu; OSVČ náleží náhrada ušlého výdělku v prokázané výši, účelně vynaložené náklady, přiměřená odměna a náhrada jízdních výdajů.
+
+**5. Řešení.** Rada kraje nemůže rozhodnutí v přenesené působnosti změnit; opravné prostředky se řídí správním řádem a dozorem ministerstva, ne komunálními orgány. Odborníkovi-OSVČ se přizná náhrada ušlého výdělku v doložené výši, náklady, odměna a jízdné. Procesní krok: doložit ušlý výdělek a jízdní výdaje; u rozhodnutí trvat na správní instanční cestě.
+
+**6. Varianty.** (a) Věc spadá pod § 44 odst. 5 (výjimka) → jde o samostatnou působnost se samosprávnou autonomií. (b) Odborník je v pracovním poměru → náleží mu náhrada platu/mzdy, nikoli ušlého výdělku OSVČ.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „kraj je samospráva, může korigovat svá rozhodnutí".* Neutralizace: u přenesené působnosti jde o výkon státní správy; samosprávné orgány do ní nezasahují a věc podléhá dozoru ministerstva.
+- *Protiargument „odborníkovi náleží jen symbolická odměna".* Neutralizace: odst. 2 garantuje OSVČ náhradu ušlého výdělku v prokázané výši, účelné náklady, přiměřenou odměnu a jízdné — nikoli jen paušál.
+- *Slabé místo:* prokázání „ušlého výdělku" u OSVČ je důkazně náročné; chybí-li doklady o reálném výpadku příjmu, hrozí krácení náhrady.
+
+#### H. Praktický závěr
+
+Působnost krajů a obcí dle ZZS je (až na § 44 odst. 5) přenesenou působností — rozhodují úředníci pod dozorem státu, nikoli samospráva. ZZS se vůči zvláštním zdravotnickým zákonům uplatní subsidiárně. Nezávislým odborníkům a členům komisí náleží zákonem vymezené náhrady, u OSVČ včetně ušlého výdělku.
+
+**Checklist (kraj / odborník / účastník):**
+- [ ] Jde o přenesenou působnost (mimo § 44 odst. 5)?
+- [ ] Nezasahují do rozhodování samosprávné orgány místo úředníků?
+- [ ] Neaplikuje se přednostně zvláštní zákon (ZZS subsidiárně — č. 374/2011, 373/2011, 285/2002 Sb.)?
+- [ ] Má odborník/člen komise doloženy náhrady (plat/mzda nebo ušlý výdělek, náklady, jízdné)?
+- [ ] Je přiznána přiměřená odměna podle odst. 2?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí v agendě ZZS, doklad o ustavení do komise, doklady o ušlém výdělku a jízdních výdajích, faktura/odměna, vymezení působnosti (přenesená/samostatná).
+
 ---
 
 ### § 119a — Zvláštní postupy k utajení a zajištění bezpečnosti
@@ -2145,6 +3648,43 @@ Standardní zdravotnické registry (Národní zdravotnický informační systém
 
 Subjekty oprávněné použít zvláštní postupy (odst. 2): zpravodajské služby ČR, PČR, Celní správa, GIBS, HZS ČR, Vojenská policie, ozbrojené síly, MZČR, MV ČR, MO ČR; jimi zřízení poskytovatelé zdravotních služeb (Ústřední vojenská nemocnice, zdravotnická zařízení Vězeňské služby); zdravotní pojišťovny ve smluvním vztahu s nimi.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Příslušník zpravodajské služby působící v utajené identitě je ošetřen ve zdravotnickém zařízení. Standardní postup by znamenal předání jeho identifikačních údajů do Národního zdravotnického informačního systému a vedení pacientského souhrnu, čímž by hrozilo odhalení krycí identity a ohrožení jeho bezpečnosti. Poskytovatel zvažuje, zda lze údaje do registrů nepředat běžným způsobem. Důkazy: vnitřní pokyny poskytovatele, usnesení vlády o zvláštních postupech, dokumentace o ošetření.
+
+**2. Právní otázka.** Lze u příslušníka zpravodajské služby uplatnit zvláštní postupy při předávání údajů do zdravotnických registrů a vedení pacientského souhrnu a co je jejich právním základem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 119a odst. 1 písm. a) (předávání údajů do registrů dle § 72 odst. 1), písm. b) (pacientský souhrn dle § 56a a dokumentace dle § 56b), odst. 3 (zvláštní postupy stanoví vláda usnesením).
+- *Související ustanovení téhož zákona:* § 72 (zdravotnické registry), § 56a, § 56b (pacientský souhrn, sdílení dokumentace), § 70 (NZIS).
+- *Související předpisy:* zákon č. 153/1994 Sb. o zpravodajských službách; zákon č. 412/2005 Sb. o ochraně utajovaných informací; GDPR (výjimky pro národní bezpečnost).
+- *Judikatura:* nosný závěr — zájem na ochraně utajované činnosti a bezpečnosti osob může odůvodnit zvláštní režim zpracování zdravotních údajů, je-li založen zákonem a konkretizován vládou.
+
+**4. Subsumpce.** Ošetření příslušníka zpravodajské služby v utajené identitě spadá pod účel utajení činnosti a ochrany bezpečnosti (odst. 1). Předávání údajů do registrů a vedení pacientského souhrnu lze realizovat zvláštními postupy podle § 119a, jejichž konkrétní podobu stanoví vláda usnesením (odst. 3).
+
+**5. Řešení.** Poskytovatel postupuje podle zvláštních postupů stanovených vládou — nikoli svévolně, ale v rámci usnesení vlády; nelze jen „nepředat" údaje bez tohoto základu. Zvláštní postup nahrazuje standardní předávání do NZIS a vedení souhrnu způsobem chránícím utajení. Procesní krok: ověřit, zda na situaci dopadá usnesení vlády a zda je poskytovatel oprávněným subjektem (odst. 2).
+
+**6. Varianty.** (a) Pacient není v utajené identitě a nejde o ochranu bezpečnosti → zvláštní postupy se neuplatní, platí standardní režim registrů. (b) Poskytovatel není subjektem dle odst. 2 → nemůže zvláštní postupy aplikovat a musí postupovat standardně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „poskytovatel může sám rozhodnout o nepředání údajů".* Neutralizace: zvláštní postupy stanoví vláda usnesením (odst. 3); poskytovatel je nemůže nahradit vlastním uvážením.
+- *Protiargument „výjimka porušuje práva pacienta a GDPR".* Neutralizace: jde o zákonem založený režim chránící národní bezpečnost a bezpečnost osob; GDPR umožňuje výjimky pro tyto účely, je-li zásah přiměřený.
+- *Slabé místo:* rozsah a podoba zvláštních postupů závisí na usnesení vlády, které není běžně publikováno; v praxi je obtížné ověřit přesný obsah postupu bez přístupu k vnitřním pravidlům.
+
+#### H. Praktický závěr
+
+§ 119a umožňuje zvláštní režim zpracování zdravotních údajů příslušníků bezpečnostních sborů a zpravodajských služeb v zájmu utajení a bezpečnosti. Postupy nejsou věcí volného uvážení poskytovatele — stanoví je vláda usnesením a aplikují je jen vymezené subjekty.
+
+**Checklist (poskytovatel / oprávněný subjekt):**
+- [ ] Jde o účel utajení činnosti nebo ochrany bezpečnosti příslušníků/vojáků (odst. 1)?
+- [ ] Je poskytovatel/subjekt v okruhu oprávněných osob (odst. 2)?
+- [ ] Existuje usnesení vlády stanovící zvláštní postup (odst. 3)?
+- [ ] Týká se postup předávání do registrů (§ 72) nebo pacientského souhrnu/dokumentace (§ 56a, 56b)?
+- [ ] Je zachována přiměřenost zásahu a soulad s předpisy o utajovaných informacích?
+
+**Typicky rozhodné důkazy / podklady:** usnesení vlády o zvláštních postupech, vnitřní pravidla poskytovatele, doklad o postavení subjektu dle odst. 2, dokumentace o ošetření, doklady o utajované identitě/bezpečnostním zájmu.
+
 ---
 
 ### § 120 — Zmocňovací ustanovení
@@ -2167,6 +3707,43 @@ Subjekty oprávněné použít zvláštní postupy (odst. 2): zpravodajské slu�
 | **č. 116/2012 Sb.** | § 70 odst. 6 | Náležitosti, forma a způsob předávání údajů NZIS |
 
 Tato vyhláškotvorba je **klíčovou výkladovou pomůckou** pro praktickou aplikaci ZZS, neboť konkretizuje obecné požadavky zákona do operacionalizovaných standardů.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad zamítl žádost o oprávnění poskytovatele s odůvodněním, že nesplnil požadavek na technické a věcné vybavení, který však není uveden přímo v zákoně, nýbrž jen ve vyhlášce č. 92/2012 Sb. Žadatel namítá, že vyhláška překračuje zákonné zmocnění a ukládá povinnosti nad rámec zákona. Důkazy: žádost a doklady o vybavení, rozhodnutí krajského úřadu, text vyhlášky č. 92/2012 Sb., znění § 120 a § 11 odst. 6 ZZS.
+
+**2. Právní otázka.** Je požadavek vyhlášky vydané na základě § 120 ZZS závazný, nebo překračuje zákonné zmocnění (vada secundum et intra legem)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 120 — souhrnné zmocnění MZČR k vydání vyhlášek k taxativně vyjmenovaným ustanovením (mj. § 11 odst. 6 — technické a věcné vybavení).
+- *Související ustanovení téhož zákona:* § 11 odst. 6 a 7 (vybavení a personální zabezpečení), § 16 a násl. (podmínky oprávnění).
+- *Související předpisy:* čl. 79 odst. 3 Ústavy (vyhlášky jen na základě a v mezích zákona); vyhláška č. 92/2012 Sb. (vybavení), č. 99/2012 Sb. (personál).
+- *Judikatura:* nosný závěr — prováděcí předpis je závazný, drží-li se v mezích zákonného zmocnění (secundum et intra legem); překročí-li je, soud k němu nepřihlédne.
+
+**4. Subsumpce.** § 120 výslovně zmocňuje MZČR k vyhlášce k § 11 odst. 6 (technické a věcné vybavení). Vyhláška č. 92/2012 Sb. konkretizuje právě tento požadavek. Pokud nepřekračuje rámec § 11 odst. 6, je závazná a krajský úřad podle ní postupuje oprávněně.
+
+**5. Řešení.** Požadavek vyhlášky je závazný, drží-li se v mezích zmocnění § 120 ve spojení s § 11 odst. 6; krajský úřad jej může aplikovat. Tvrdí-li žadatel exces vyhlášky, musí konkrétně prokázat, že ukládá povinnost nad rámec zákona; jinak námitka neobstojí. Procesní krok: porovnat napadený požadavek s textem zákonného zmocnění. Riziko: u skutečného excesu soud k vyhlášce nepřihlédne (čl. 95 odst. 1 Ústavy).
+
+**6. Varianty.** (a) Vyhláška by zaváděla povinnost bez opory v § 120/§ 11 odst. 6 → exces, soud k ní nepřihlédne, rozhodnutí by neobstálo. (b) Požadavek plyne přímo ze zákona, vyhláška jej jen opakuje → závaznost je nepochybná.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „povinnosti smí ukládat jen zákon, ne vyhláška".* Neutralizace: čl. 79 odst. 3 Ústavy připouští prováděcí předpisy konkretizující zákon; vyhláška vydaná v mezích zmocnění je závazná.
+- *Protiargument „vyhláška překračuje zmocnění".* Neutralizace: břemeno tvrzení a důkazu excesu nese žadatel; obecná námitka bez srovnání s textem zmocnění nestačí.
+- *Slabé místo:* hranice mezi přípustnou konkretizací a nepřípustným rozšířením povinností je výkladově citlivá; vyžaduje pečlivé porovnání vyhlášky se zákonným zmocněním.
+
+#### H. Praktický závěr
+
+§ 120 je souhrnným zmocněním pro prováděcí vyhlášky MZČR, které jsou klíčovou výkladovou a aplikační pomůckou ZZS. Jsou závazné, drží-li se secundum et intra legem; jejich exces opravňuje orgán i soud k jejich neaplikaci.
+
+**Checklist (poskytovatel / správní orgán):**
+- [ ] Opírá se aplikovaný požadavek o vyhlášku vydanou na základě některého ze zmocnění v § 120?
+- [ ] Drží se vyhláška v mezích konkrétního zákonného zmocnění (intra legem)?
+- [ ] Neukládá vyhláška povinnost nad rámec zákona (exces)?
+- [ ] Je u námitky excesu konkrétně označeno, v čem překračuje zmocnění?
+- [ ] Je správně určena rozhodná vyhláška (vybavení č. 92/2012, personál č. 99/2012, dokumentace č. 98/2012 atd.)?
+
+**Typicky rozhodné důkazy / podklady:** text rozhodné vyhlášky a zákonného zmocnění (§ 120, navazující §), žádost a doklady o splnění požadavků, rozhodnutí správního orgánu, srovnání rozsahu vyhláškové a zákonné úpravy.
 
 ---
 
@@ -2205,6 +3782,43 @@ Poskytovatelé se statusem centra přiznaným před účinností ZZS byli povinn
 #### Národní zdravotnické registry (§ 127)
 
 Ministerstvo bylo povinno do **24 měsíců** zřídit Národní registr poskytovatelů, Národní registr zdravotnických pracovníků a další specializované registry. Předchozí registry vedené ÚZIS byly do nových registrů převedeny.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba provozovala k 1. 4. 2012 nestátní zdravotnické zařízení (ambulanci) na základě registrace podle dosavadního zákona č. 160/1992 Sb. Po nabytí účinnosti ZZS pokračovala v poskytování zdravotních služeb. Krajský úřad však po více než roce zpochybnil, zda je oprávněna nadále poskytovat služby, neboť nepožádala o vydání nového oprávnění podle ZZS. Současně provozovatel zařízení zdravotnické záchranné služby (registrace dle č. 160/1992 Sb.) spoléhal, že jeho registrace platí dál. Důkazy: původní registrace dle č. 160/1992 Sb., doklad o pokračování činnosti, žádost o vydání oprávnění (či její absence), data účinnosti.
+
+**2. Právní otázka.** Mohla osoba s registrací podle č. 160/1992 Sb. po účinnosti ZZS nadále poskytovat zdravotní služby a jaký byl zvláštní režim u zdravotnické záchranné služby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 121 (kontinuita nestátních zdravotnických zařízení; právo na vydání oprávnění; zvláštní 12měsíční režim pro ZZS), § 122 (státní zdravotnická zařízení — 12 měsíců, žádost do 3 měsíců), § 123–127 (znalecké komise, jesle/kojenecké ústavy, traumatologický plán, statusy center, registry).
+- *Související ustanovení téhož zákona:* § 11 (oprávnění), § 16 a násl. (udělení oprávnění), § 119 (přenesená působnost).
+- *Související předpisy:* zákon č. 160/1992 Sb. (dosavadní úprava nestátních zdravotnických zařízení); zákon č. 374/2011 Sb. o ZZS.
+- *Judikatura:* nosný závěr — přechodná ustanovení zajišťují kontinuitu dříve nabytých oprávnění; jejich smysl je zabránit přerušení činnosti, nikoli legalizovat trvalé obejití nového režimu.
+
+**4. Subsumpce.** Podle § 121 mohla osoba s registrací dle č. 160/1992 Sb. na jejím základě nadále poskytovat zdravotní služby a měla právo na vydání oprávnění podle ZZS po doložení náležitostí. U zdravotnické záchranné služby však registrace pozbyla platnosti uplynutím 12 měsíců od účinnosti ZZS — bylo nutné samostatné oprávnění podle č. 374/2011 Sb.
+
+**5. Řešení.** Ambulance (nestátní zdravotnické zařízení) byla oprávněna pokračovat na základě dosavadní registrace a měla nárok na vydání oprávnění dle ZZS; pochybnost krajského úřadu je při doložení náležitostí lichá. Provozovatel ZZS naopak musel do 12 měsíců získat oprávnění podle č. 374/2011 Sb., jinak po této lhůtě poskytoval službu bez oprávnění. Procesní krok: doložit původní registraci a požádat o oprávnění; u ZZS ověřit dodržení 12měsíční lhůty.
+
+**6. Varianty.** (a) Šlo by o státní zdravotnické zařízení → režim § 122 (12 měsíců, žádost do 3 měsíců). (b) Poskytovatel se statusem centra dle dřívějších předpisů → musel do 6 měsíců oznámit úmysl pokračovat (§ 126), jinak status zanikl.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „registrace dle č. 160/1992 Sb. platí trvale".* Neutralizace: kontinuita je dočasná a směřuje k vydání nového oprávnění; u ZZS navíc registrace výslovně pozbyla platnosti po 12 měsících (§ 121).
+- *Protiargument „lhůty jsou pořádkové".* Neutralizace: marné uplynutí přechodných lhůt (12 měsíců u ZZS, 3 měsíce na žádost u státních zařízení) má hmotněprávní účinky — vede k poskytování bez oprávnění.
+- *Slabé místo:* přechodná ustanovení jsou časově navázaná na účinnost ZZS (2012/2013); jejich aplikace dnes je zpravidla již vyčerpaná, význam je hlavně výkladový a pro posouzení kontinuity dříve nabytých práv.
+
+#### H. Praktický závěr
+
+Přechodná ustanovení §§ 121–127 zajišťovala plynulý přechod z režimu zákona č. 160/1992 Sb. a č. 20/1966 Sb. do ZZS: kontinuitu nestátních a státních zařízení, transformaci komisí, jeslí a kojeneckých ústavů, lhůty pro traumatologické plány, statusy center a zřízení národních registrů. Klíčové je rozlišit dočasnou kontinuitu od trvalé platnosti a hlídat přechodné lhůty (zejména 12měsíční u ZZS).
+
+**Checklist (poskytovatel / správní orgán):**
+- [ ] Měla osoba registraci dle dosavadních předpisů (č. 160/1992 Sb.) a pokračuje v činnosti (§ 121)?
+- [ ] Požádala o vydání oprávnění dle ZZS a doložila náležitosti?
+- [ ] U zdravotnické záchranné služby: bylo do 12 měsíců získáno oprávnění dle č. 374/2011 Sb.?
+- [ ] U státního zařízení: byla podána žádost do 3 měsíců, činnost nejdéle 12 měsíců (§ 122)?
+- [ ] U statusu centra: bylo do 6 měsíců oznámeno pokračování (§ 126)?
+
+**Typicky rozhodné důkazy / podklady:** původní registrace/oprávnění dle dosavadních předpisů, žádost o vydání oprávnění dle ZZS, doklady o náležitostech, data účinnosti a běhu přechodných lhůt, oznámení o pokračování statusu centra.
 
 ---
 
@@ -2282,6 +3896,43 @@ Toto zrušení představuje **systémovou rekodifikaci českého zdravotnického
 - ústavněprávní posun k autonomii pacienta (informovaný souhlas, podrobné vymezení práv pacientů),
 - evropskoprávní harmonizaci (volný pohyb zdravotnických služeb, evropské referenční sítě, GDPR-compatibilita),
 - výzvy moderní medicíny (transplantace, asistovaná reprodukce, paliativní péče, vzácná onemocnění).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel zdravotních služeb (akciová společnost provozující nestátní zdravotnické zařízení) byl postižen krajským úřadem rozhodnutím z března 2013 za to, že v lednu 2012 (tj. ještě za účinnosti zákona č. 20/1966 Sb., o péči o zdraví lidu, a zákona č. 160/1992 Sb., o zdravotní péči v nestátních zdravotnických zařízeních) porušil povinnost při vedení zdravotnické dokumentace upravenou tehdejší vyhláškou č. 385/2006 Sb., o zdravotnické dokumentaci. Tato vyhláška byla § 128 bodem 22 zrušena k 1. 4. 2012. Poskytovatel namítá, že předpis, podle něhož je sankcionován, již neexistuje, a že nová úprava (ZZS a navazující vyhláška č. 98/2012 Sb.) je pro něj příznivější. Důkazy: znění obou vyhlášek, datum vyhlášení a účinnosti ZZS, kontrolní protokol, spisová dokumentace o vedení záznamů.
+
+**2. Právní otázka.** Jaký je hmotněprávní a časový dosah zrušovacího ustanovení § 128 — způsobí zrušení dřívějšího předpisu, že již nelze posuzovat (ani sankcionovat) jednání spáchané za jeho účinnosti, a jak se uplatní zásada použití pozdější příznivější úpravy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 128 ZZS — derogační (zrušovací) ustanovení rušící 28 právních předpisů (zákon č. 20/1966 Sb. a 25 navazujících vyhlášek včetně předpisů o nestátních zdravotnických zařízeních a zdravotnické dokumentaci) s účinností k datu nabytí účinnosti ZZS.
+- *Související ustanovení téhož zákona:* § 129 (účinnost — určuje okamžik, k němuž derogace nastává); §§ 121–127 (přechodná ustanovení — řeší kontinuitu oprávnění, řízení a statusů přes derogační předěl); § 120 (zmocňovací ustanovení — podklad pro nové prováděcí vyhlášky nahrazující zrušené).
+- *Související předpisy:* čl. 40 odst. 6 Listiny a § 2 odst. 1 zákona č. 250/2016 Sb., o odpovědnosti za přestupky (pozdější příznivější úprava); čl. 52 odst. 2 a 3 Legislativních pravidel vlády (technika derogace); § 57 zákona č. 90/1995 Sb., o jednacím řádu PSP, a obecné principy publikace ve Sbírce zákonů.
+- *Judikatura:* nosný závěr Ústavního soudu, že zrušení (derogace) právního předpisu nepůsobí zpětně a nemá vliv na právní vztahy a skutečnosti vzniklé za jeho účinnosti, není-li výslovně stanoveno jinak (princip nepravé retroaktivity); dále ustálená správní judikatura, že přestupek se posuzuje podle úpravy účinné v době spáchání, ledaže je pozdější úprava pro pachatele příznivější.
+
+**4. Subsumpce.** Jednání bylo spácháno v lednu 2012, tedy za účinnosti zrušených předpisů; znak „protiprávnosti v době spáchání" je naplněn podle tehdejší úpravy. Zrušení vyhlášky č. 385/2006 Sb. k 1. 4. 2012 (§ 128 bod 22) samo o sobě neodklízí odpovědnost za dřívější porušení — derogace působí pro futuro. Sporným znakem je, zda nová úprava vedení dokumentace není mírnější; je-li nově určité pochybení beztrestné nebo mírněji sankcionované, uplatní se příznivější pozdější úprava.
+
+**5. Řešení.** Odpovědnost za jednání z ledna 2012 trvá i po zrušení dotčené vyhlášky, neboť § 128 nemá retroaktivní účinky. Správní orgán však musí provést test příznivosti: srovná dosavadní a novou úpravu a aplikuje tu, která je pro poskytovatele příznivější (čl. 40 odst. 6 Listiny). Procesní kroky: zjistit přesné datum spáchání, ověřit znění obou předpisů k rozhodným datům, odůvodnit volbu příznivější normy. Riziko: opomenutí testu příznivosti zakládá nezákonnost rozhodnutí.
+
+**6. Varianty.** (a) Pokud by k pochybení došlo až po 1. 4. 2012, posuzovalo by se výlučně podle ZZS a nové vyhlášky — zrušené předpisy by byly bezvýznamné. (b) Pokud by přechodné ustanovení (§§ 121–127) výslovně zachovalo aplikaci dřívější vyhlášky pro určité dobíhající vztahy, derogace by se na ně neprojevila a postupovalo by se podle staré úpravy navzdory § 128.
+
+#### G. Protiargumenty a rizika
+
+- **„Zrušený předpis nelze aplikovat."** Protiargument tvrdí, že po derogaci předpis právně neexistuje, a tedy nelze podle něj nikoho postihnout. Neutralizace: derogace odklízí předpis do budoucna (nepravá retroaktivita); pro posouzení jednání spáchaného za účinnosti zrušeného předpisu se podle čl. 40 odst. 6 Listiny stále vychází z úpravy účinné v době spáchání, ledaže je pozdější úprava příznivější.
+- **Pochybnosti o datu nabytí účinnosti derogace.** § 128 sám datum neuvádí — odkazuje na § 129 (formule „prvním dnem čtvrtého kalendářního měsíce následujícího po vyhlášení"). Riziko chybného určení okamžiku zrušení. Neutralizace: ZZS byl vyhlášen 8. 12. 2011, derogace tedy nastala 1. 4. 2012; toto datum je třeba doložit odkazem na částku 131/2011 Sb.
+- **Slabé místo — kontinuita prováděcích předpisů.** Zrušením 25 vyhlášek mohla vzniknout mezera, než nabyly účinnosti nové vyhlášky podle § 120. Argumentace musí být podepřena ověřením, že navazující prováděcí předpis byl účinný k rozhodnému datu, jinak hrozí faktická regulační mezera.
+
+#### H. Praktický závěr
+
+§ 128 je čistě derogační ustanovení: ruší zákon č. 20/1966 Sb. (téměř 46 let účinnou „zdravotnickou ústavu"), zákon č. 160/1992 Sb. a 25 navazujících vyhlášek. Účinky nastupují k datu účinnosti ZZS (1. 4. 2012) a působí výhradně do budoucna. V praxi je rozhodující rozlišovat čas spáchání jednání a respektovat zásadu pozdější příznivější úpravy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Urči přesné datum spáchání posuzovaného jednání (před vs. po 1. 4. 2012).
+- [ ] Ověř, který konkrétní z 28 zrušených předpisů byl rozhodný a kdy byl § 128 zrušen.
+- [ ] Posuď, zda nová úprava (ZZS + prováděcí vyhlášky dle § 120) není pro adresáta příznivější (čl. 40 odst. 6 Listiny).
+- [ ] Ověř kontinuitu prováděcí úpravy a případné přechodné ustanovení (§§ 121–127).
+- [ ] V rozhodnutí odůvodni volbu aplikované normy a okamžik derogace (datum vyhlášení ZZS).
+
+**Typicky rozhodné důkazy / podklady:** znění zrušeného i nového předpisu k rozhodným datům; částka 131/2011 Sb. (datum vyhlášení ZZS); kontrolní protokol a spisová dokumentace; srovnávací tabulka příznivosti staré a nové úpravy.
 
 ---
 

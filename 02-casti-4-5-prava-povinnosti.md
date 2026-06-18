@@ -118,6 +118,42 @@ Odst. 7 upravuje **dozor** Vězeňské služby nebo Policie ČR u osob ve výkon
 
 Odst. 8 výslovně zakazuje, aby poskytovatel požadoval platbu za přítomnost zákonného zástupce, opatrovníka či osoby blízké, nebo aby touto platbou podmiňoval jejich přítomnost. Korektiv: poskytovatel může požadovat úhradu **účelně vynaložených nákladů** (např. lůžko, strava doprovázející osoby).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Pacient (62 let) je hospitalizován na interním oddělení s dekompenzovaným srdečním selháním. Personál mu sdělí, že na vícelůžkovém pokoji nemůže být přítomna jeho manželka přes noc, a současně bez jeho vědomí umožní přítomnost studentů medicíny u ranní vizity, při níž je pacient svlékán a vyšetřován. Pacient si stěžuje, že nebyl seznámen s vnitřním řádem a že mu nikdo nesdělil jména ošetřujících. Důkazy: zdravotnická dokumentace (záznam o seznámení s vnitřním řádem, záznam o přítomnosti praktikantů), vnitřní řád, svědectví spolupacientů.
+
+**2. Právní otázka.** Může poskytovatel paušálně vyloučit nepřetržitou přítomnost osoby blízké u dospělého pacienta a umožnit přítomnost studentů bez výslovného souhlasu pacienta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 odst. 3 písm. e) bod 3 (přítomnost osoby blízké), písm. g) (znát jména personálu), písm. h) (odmítnout přítomnost třetích osob), písm. d) (seznámení s vnitřním řádem).
+- *Související ustanovení téhož zákona:* § 46 odst. 1 písm. a) (povinnost seznámit pacienta s právy a vnitřním řádem; meze vnitřního řádu), § 45 odst. 2 písm. i) (informování o praktikantech), § 47 odst. 1 písm. b) (pobyt osoby s nezletilým).
+- *Související předpisy:* čl. 10 Listiny (soukromí a důstojnost), § 81 a násl. OZ (ochrana osobnosti).
+- *Judikatura:* obecně přijímaná zásada, že vnitřní řád nesmí omezovat práva pacienta nad míru nezbytně nutnou; ÚS opakovaně zdůrazňuje, že omezení autonomie a soukromí musí projít testem proporcionality.
+
+**4. Subsumpce.** Právo na přítomnost osoby blízké [písm. e) bod 3] je u dospělého pacienta podmíněno tím, že přítomnost nenaruší poskytování služeb a je v souladu s vnitřním řádem — není absolutní jako u nezletilých. Naproti tomu přítomnost studentů [písm. h) ve spojení s § 45 odst. 2 písm. i)] vyžaduje informování pacienta a respektování jeho práva ji odmítnout; tato podmínka splněna nebyla. Neseznámení s vnitřním řádem [písm. d)] je porušením § 46 odst. 1 písm. a).
+
+**5. Řešení.** Vyloučení noční přítomnosti manželky může být legitimní z provozních důvodů (vícelůžkový pokoj, klid ostatních pacientů), musí však být individuálně odůvodněno, nikoli paušální. Přítomnost studentů bez informování a možnosti ji odmítnout je protiprávní; pacient se může bránit stížností podle § 93 a žalobou na ochranu osobnosti. Praktický krok: doplnit do dokumentace záznam o seznámení s vnitřním řádem a o přítomnosti praktikantů.
+
+**6. Varianty.** (a) Jde-li o nezletilého pacienta, právo na nepřetržitou přítomnost zákonného zástupce [písm. e) bod 1] je silnější a provázané s § 47 odst. 1 písm. b). (b) Jde-li o pacienta v záchytné službě (odst. 6), práva podle písm. c), e), i), j) nelze uplatnit vůbec.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument provozní:* poskytovatel namítne, že přítomnost osoby blízké narušuje provoz vícelůžkového pokoje. Neutralizace: zákon výslovně připouští omezení „nenaruší-li přítomnost poskytnutí služeb"; omezení však musí být konkrétní a odůvodněné, nikoli plošný zákaz.
+- *Protiargument výukový:* fakultní nemocnice argumentuje výukovým posláním. Neutralizace: výuka nezbavuje povinnosti informovat pacienta [§ 45 odst. 2 písm. i)] a respektovat jeho právo odmítnout přítomnost studentů [písm. h)].
+- *Slabé místo:* katalog práv v odst. 3 je formulován s mnoha výhradami („v souladu s vnitřním řádem", „nenaruší-li") — jejich aplikace je vysoce kontextová a dokazování porušení závisí na kvalitě záznamů v dokumentaci.
+
+##### H. Praktický závěr
+
+Odst. 3 je katalog dílčích práv pacienta, jejichž většina je relativizována vnitřním řádem a provozními možnostmi; absolutní jsou jen práva chránící důstojnost a — u ohrožení života — duchovní péče [písm. j)]. Klíčová je transparentnost a řádný záznam v dokumentaci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl pacient seznámen s vnitřním řádem a je o tom záznam [písm. d), § 46 odst. 1 písm. a)]?
+- [ ] Byl informován o přítomnosti studentů a měl možnost ji odmítnout [písm. g), h), § 45 odst. 2 písm. i)]?
+- [ ] Je omezení přítomnosti osoby blízké individuálně odůvodněno, nebo jde o plošný zákaz?
+- [ ] Nejde o pacienta v záchytné službě / ve výkonu trestu, u nějž jsou některá práva vyloučena (odst. 6, 7)?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace (záznamy o seznámení s vnitřním řádem, o přítomnosti praktikantů), vnitřní řád, formulář určení osob, svědectví doprovázejících osob.
+
 ---
 
 #### § 29 — Volba poskytovatele u nezletilých a osob ve specifických situacích
@@ -165,6 +201,41 @@ Odst. 2 obsahuje **devět taxativních výjimek**, kdy se právo volby vůbec ne
 
 Smysl je čistě praktický: u akutních zásahů není čas na volbu; u pracovnělékařských služeb je poskytovatel vázán smluvním vztahem se zaměstnavatelem (§ 53 a násl. zákona č. 373/2011 Sb., o specifických zdravotních službách); u vězeňské medicíny je systém uzavřený z bezpečnostních důvodů.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec absolvuje vstupní pracovnělékařskou prohlídku u poskytovatele, kterého určil zaměstnavatel. Nesouhlasí se závěrem o nezpůsobilosti k práci a požaduje, aby posouzení provedl jeho vlastní praktický lékař, kterého si zvolil. Poskytovatel odmítne s tím, že volba se na pracovnělékařské služby nevztahuje. Důkazy: smlouva mezi zaměstnavatelem a poskytovatelem pracovnělékařských služeb, lékařský posudek, dokumentace o prohlídce.
+
+**2. Právní otázka.** Má zaměstnanec právo zvolit si pro účely pracovnělékajské prohlídky jiného poskytovatele, než kterého určil zaměstnavatel?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 odst. 2 písm. b) — možnost volby poskytovatele se nevztahuje na pracovnělékařské služby.
+- *Související ustanovení téhož zákona:* § 28 odst. 3 písm. b) (právo volby poskytovatele jako pravidlo).
+- *Související předpisy:* § 53 a násl. zákona č. 373/2011 Sb., o specifických zdravotních službách (pracovnělékařské služby a smluvní vztah se zaměstnavatelem); zákoník práce (povinnost podrobit se prohlídce).
+- *Judikatura:* ustálená praxe NSS, že posudkové a pracovnělékařské služby tvoří uzavřený režim vázaný na poskytovatele určeného zaměstnavatelem; opravným prostředkem je návrh na přezkoumání posudku, nikoli volba jiného lékaře.
+
+**4. Subsumpce.** Pracovnělékařská prohlídka spadá pod taxativní výjimku § 29 odst. 2 písm. b). Právo volby podle § 28 odst. 3 písm. b) se zde neuplatní. Zaměstnanec se brání postupem podle zákona č. 373/2011 Sb. (návrh na přezkoumání lékařského posudku), nikoli volbou jiného poskytovatele.
+
+**5. Řešení.** Odmítnutí poskytovatele je v souladu se zákonem. Zaměstnanec může podat návrh na přezkoumání posudku; teprve v tomto řízení se uplatní procesní obrana. Praktický krok: poučit klienta o lhůtě a náležitostech návrhu na přezkoumání posudku.
+
+**6. Varianty.** (a) Jde-li o běžnou ambulantní péči mimo posudkový režim, právo volby poskytovatele plně platí. (b) U nezletilého v ústavní výchově [odst. 1 písm. a)] vykonává volbu statutární orgán zařízení, nikoli rodič.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument autonomie:* zaměstnanec namítne zásah do práva na volbu lékaře. Neutralizace: § 29 odst. 2 je výslovná taxativní výjimka odůvodněná smluvním a posudkovým charakterem služby.
+- *Protiargument zástupného výkonu:* u dětí v ústavech rodič namítá své rodičovské právo. Neutralizace: § 29 odst. 1 svěřuje volbu statutárnímu orgánu zařízení tam, kde byla nařízena ústavní/ochranná výchova; jde o zákonné pravidlo.
+- *Slabé místo:* hranice mezi „posudkovou" službou (výjimka) a běžnou léčebnou péčí (volba platí) může být v konkrétním případě sporná.
+
+##### H. Praktický závěr
+
+§ 29 koriguje právo volby poskytovatele: u nezletilých v ústavech ji vykonává zástupný subjekt (odst. 1), v devíti taxativních situacích (odst. 2) se volba neuplatní vůbec. Obrana proti posudku probíhá zvláštním režimem, ne volbou jiného lékaře.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá situace pod některou z devíti výjimek odst. 2 (ZZS, pracovnělékařské, posudkové, vězeňské, vojenské)?
+- [ ] Jde o nezletilého, u nějž volbu vykonává zástupný subjekt podle odst. 1?
+- [ ] Je k dispozici zvláštní opravný prostředek (přezkoumání posudku) namísto volby poskytovatele?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o pracovnělékařských službách, lékařský posudek, soudní rozhodnutí o ústavní/ochranné výchově, registrace poskytovatele.
+
 ---
 
 #### § 30 — Komunikační práva osob se smyslovým či komunikačním postižením
@@ -188,6 +259,42 @@ Smysl je čistě praktický: u akutních zásahů není čas na volbu; u pracovn
 **Odst. 2** zavádí významnou výjimku: **slovenština se nepovažuje za cizí jazyk** ve vztahu k tlumočení. Toto pravidlo je zakotveno historicky (Československo) a praktická realita ukazuje, že je oboustranná srozumitelnost u většiny populace dostatečná.
 
 **Odst. 3** zaručuje přítomnost **vodicího psa nebo asistenčního psa**. Pojem „pes se speciálním výcvikem" je legální definicí, která vylučuje psy bez certifikovaného výcviku. Praktická realizace musí být sladěna s vnitřním řádem (hygienické zóny, sterilní prostředí — operační sály, JIP).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Neslyšící pacientka přijde na ambulanci gynekologie a žádá tlumočníka znakového jazyka pro sdělení výsledků vyšetření a získání informovaného souhlasu k zákroku. Zdravotnické zařízení tlumočníka odmítne zajistit a navrhne komunikaci písemně přes blok, ačkoli pacientka je primárně uživatelkou znakového jazyka a psaná čeština je pro ni druhým jazykem. Souhlas je následně podepsán bez plného porozumění. Důkazy: dokumentace o průběhu komunikace, záznam informovaného souhlasu, sdělení pacientky o úrovni porozumění.
+
+**2. Právní otázka.** Splnil poskytovatel povinnost zajistit srozumitelnou komunikaci, nabídl-li jen písemnou komunikaci namísto tlumočení znakového jazyka, jež si pacientka zvolila?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 odst. 1 — právo dorozumívat se způsobem a prostředky, které si pacient sám zvolí, včetně tlumočení druhou osobou.
+- *Související ustanovení téhož zákona:* § 31 (srozumitelná informace), § 34 odst. 1 písm. b) (informovanost jako podmínka platného souhlasu).
+- *Související předpisy:* zákon č. 155/1998 Sb., o komunikačních systémech neslyšících a hluchoslepých osob; čl. 9 Úmluvy o právech osob se zdravotním postižením (sdělení č. 10/2010 Sb. m. s.).
+- *Judikatura:* obecná zásada, že důkazní břemeno o srozumitelném poučení nese poskytovatel (NS sp. zn. 25 Cdo 2046/2008 — analogicky k § 31); informovaný souhlas bez porozumění je neplatný.
+
+**4. Subsumpce.** Pacientka uplatnila právo zvolit si dorozumívací prostředek (tlumočení znakového jazyka). Poskytovatel jej nahradil prostředkem, který pacientka neovládá v dostatečné míře. Tím nebyla splněna podmínka srozumitelnosti podle § 30 odst. 1 a navazující informovanosti podle § 31, takže souhlas podle § 34 odst. 1 písm. b) je vadný.
+
+**5. Řešení.** Poskytovatel byl povinen umožnit tlumočení znakového jazyka. Souhlas získaný bez porozumění je neúčinný; zákrok provedený na jeho základě může zakládat odpovědnost za zásah do integrity. Praktický krok: zajistit tlumočníka (i externího), případně odložit neneodkladný zákrok do zajištění srozumitelné komunikace.
+
+**6. Varianty.** (a) Šlo-li by o tlumočení ze slovenštiny, právo na tlumočníka by se neuplatnilo (odst. 2 — výjimka pro slovenštinu). (b) Jde-li o neodkladnou péči, kde tlumočení nelze včas zajistit, nastupuje režim § 38 (péče bez souhlasu) v nezbytném rozsahu.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument nákladový:* poskytovatel namítne nedostupnost a náklady tlumočníka. Neutralizace: zákon č. 155/1998 Sb. řeší úhradu tlumočení v daném rozsahu; nedostupnost neomlouvá poskytnutí neúčinného souhlasu.
+- *Protiargument adekvátnosti:* poskytovatel tvrdí, že písemná komunikace byla dostatečná. Neutralizace: § 30 odst. 1 dává volbu prostředku pacientovi, nikoli poskytovateli, a měřítkem je skutečné porozumění.
+- *Slabé místo:* prokázání úrovně porozumění pacienta je obtížné; bez záznamu o způsobu komunikace nese důkazní nevýhodu poskytovatel.
+
+##### H. Praktický závěr
+
+§ 30 zakládá široce pojaté právo na srozumitelnou komunikaci s volbou prostředku na straně pacienta. Pro platnost informovaného souhlasu je nezbytné reálné porozumění; pouhá písemná komunikace u uživatele znakového jazyka nestačí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zvolil pacient konkrétní dorozumívací prostředek a respektoval jej poskytovatel?
+- [ ] Nejde o tlumočení ze slovenštiny (výjimka odst. 2)?
+- [ ] Je v dokumentaci zaznamenán způsob komunikace a ověření porozumění?
+- [ ] Byl u uživatele vodicího/asistenčního psa umožněn jeho doprovod v souladu s vnitřním řádem (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** záznam o způsobu komunikace, formulář informovaného souhlasu, potvrzení o zajištění/nezajištění tlumočníka, certifikát psa se speciálním výcvikem.
 
 ---
 
@@ -268,6 +375,42 @@ Právo na informace je u nezletilého **paralelní**: náleží zákonnému zás
 
 Odst. 6 je důležitým prolomením mlčenlivosti: poskytovatel je **oprávněn** (nikoli povinen) sdělit pečujícím osobám informace nezbytné pro zajištění péče nebo pro **ochranu jejich zdraví** (typicky upozornění na infekci pacienta v rodině).
 
+###### F. Kazuistika
+
+**1. Modelová situace.** Pacient (54 let) podstoupil plánovanou laparoskopickou operaci, při níž došlo k peroperační komplikaci s následnou poruchou střevní pasáže. V dokumentaci je formulace „pacient poučen o operaci a rizicích, souhlasí". Pacient tvrdí, že o riziku této konkrétní komplikace nebyl informován a že kdyby byl, zákrok by odložil. Důkazy: záznam informovaného souhlasu, operační protokol, znalecký posudek o tom, zda šlo o typické riziko zákroku.
+
+**2. Právní otázka.** Splnil poskytovatel povinnost poučení podle § 31, je-li v dokumentaci jen obecná formule bez konkretizace sdělených rizik a alternativ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 odst. 1 a 2 — srozumitelná informace v dostatečném rozsahu, včetně rizik [písm. b)] a alternativ [písm. c)]; odst. 3 (záznam o podání informace).
+- *Související ustanovení téhož zákona:* § 34 odst. 1 písm. b) (informovanost jako podmínka souhlasu), § 28 odst. 2 (lege artis).
+- *Související předpisy:* čl. 5 Úmluvy o biomedicíně (sdělení č. 96/2001 Sb. m. s.), § 2901 a násl. OZ (odpovědnost za újmu).
+- *Judikatura:* NS sp. zn. 25 Cdo 2046/2008 — důkazní břemeno o náležitém poučení nese poskytovatel; stručná formule „pacient byl řádně poučen" nestačí, je třeba zaznamenat co konkrétně bylo sděleno.
+
+**4. Subsumpce.** Povinnost podle § 31 odst. 2 písm. b) zahrnuje sdělení i méně pravděpodobných, ale závažných rizik. Pouhá obecná formule v dokumentaci neprokazuje, že konkrétní riziko bylo sděleno. Důkazní břemeno tíží poskytovatele; nesplní-li je, hledí se na poučení jako na nedostatečné.
+
+**5. Řešení.** Poskytovatel pravděpodobně neunese důkazní břemeno o sdělení konkrétního rizika; souhlas je vadný a poskytovatel může odpovídat za újmu vzniklou neinformovaným zákrokem (i při lege artis provedení). Praktický krok do budoucna: strukturovaný formulář s výčtem konkrétně sdělených rizik a alternativ, podpis pacienta i lékaře.
+
+**6. Varianty.** (a) Pokud se pacient platně vzdal informace podle § 32 odst. 1, souhlas se považuje za informovaný i bez poučení. (b) Pokud šlo o atypické, v literatuře neuváděné riziko, nelze poskytovateli vytýkat jeho nesdělení.
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument formální:* poskytovatel namítne, že pacient podepsal souhlas. Neutralizace: podpis sám neprokazuje obsah a srozumitelnost poučení; rozhodný je doložitelný rozsah sdělených informací.
+- *Protiargument kauzality:* poskytovatel tvrdí, že i při poučení by pacient zákrok podstoupil. Neutralizace: posuzuje se hypotetický postoj rozumného pacienta i konkrétního pacienta; břemeno tvrzení o jiném rozhodnutí je na pacientovi, ale vada poučení zůstává.
+- *Slabé místo:* hranice „dostatečného rozsahu" rizik je neostrá; spor se často přesouvá na znalecké posouzení typičnosti rizika.
+
+###### H. Praktický závěr
+
+§ 31 je obsahový pilíř informovaného souhlasu: informace musí být srozumitelná, v dostatečném rozsahu (šest složek odst. 2) a podaná způsobilým ošetřujícím pracovníkem s řádným záznamem. Obecná formule v dokumentaci nestačí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje záznam konkrétně, co bylo pacientovi sděleno (diagnóza, rizika, alternativy)?
+- [ ] Podával informaci způsobilý ošetřující pracovník (např. operatér), nikoli administrativa [odst. 3]?
+- [ ] Byla informace srozumitelná z hlediska průměrného pacienta, ne odbornou hantýrkou?
+- [ ] Nevzdal se pacient informace podle § 32, čímž se souhlas považuje za informovaný?
+
+**Typicky rozhodné důkazy / podklady:** formulář informovaného souhlasu s konkretizací rizik, zdravotnická dokumentace, operační/výkonový protokol, znalecký posudek o typičnosti rizika.
+
 ---
 
 ##### § 32 — Vzdání se podání informace a terapeutická retence
@@ -308,6 +451,42 @@ Praxe: terapeutická retence se v moderní medicíně **používá výjimečně*
 #### Zadržení informace zákonnému zástupci nezletilého (odst. 3)
 
 Odst. 3 dovoluje poskytovateli zadržet informaci o zdravotním stavu nezletilého pacienta jeho **zákonnému zástupci, pěstounovi nebo jiné pečující osobě**, je-li podezření, že se tato osoba na pacientovi dopouští **domácího/sexuálního násilí, zneužívání, týrání či ohrožování zdravého vývoje**. Obdobně u pacientů s ustanoveným zástupcem. Toto pravidlo je v rovnováze s § 28 odst. 5 a § 35 odst. 5.
+
+###### F. Kazuistika
+
+**1. Modelová situace.** U pacientky (48 let) je zjištěno pokročilé onkologické onemocnění s nepříznivou prognózou. Ošetřující lékař se obává akutní depresivní reakce a informaci o prognóze nesdělí. Pacientka se přitom opakovaně dotazuje, protože chce sepsat závěť a uspořádat rodinné záležitosti. Rodina lékaře žádá, aby pacientce „raději nic neříkal". Důkazy: dokumentace s indikací léčby, záznam o dotazech pacientky, psychiatrické zhodnocení rizika.
+
+**2. Právní otázka.** Je za této situace přípustná terapeutická retence informace o nepříznivé prognóze podle § 32 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 odst. 2 — terapeutická retence; kontraindikace písm. c) (pacient výslovně žádá pravdivou informaci, aby si zajistil osobní záležitosti).
+- *Související ustanovení téhož zákona:* § 31 (povinnost informovat), § 32 odst. 1 (právo vzdát se informace).
+- *Související předpisy:* čl. 10 Listiny (důstojnost, autonomie), § 81 a násl. OZ.
+- *Judikatura:* doktrína i rozhodovací praxe zdůrazňují silný nárok pacienta na pravdivou informaci; paternalistická retence je zpravidla v rozporu s autonomií pacienta.
+
+**4. Subsumpce.** Retence by připadala v úvahu jen při důvodném předpokladu závažné újmy na zdraví. Zde však nastupuje kontraindikace písm. c): pacientka výslovně žádá pravdivou informaci, aby si zařídila osobní záležitosti. Tato kontraindikace retenci vylučuje bez ohledu na riziko depresivní reakce.
+
+**5. Řešení.** Lékař je povinen informaci sdělit; přání rodiny není právně relevantní (právo na informaci náleží pacientce, ne rodině). Vhodné je sdělení citlivou formou, s nabídkou psychologické podpory. Praktický krok: záznam o sdělení informace a o nabídnuté podpoře.
+
+**6. Varianty.** (a) Pokud by se pacientka informace předem platně vzdala (§ 32 odst. 1), lékař by ji nesděloval — s výjimkou infekční nemoci. (b) Pokud by nešlo o žádost pacientky a hrozila by akutní suicidální reakce, krátkodobá retence v nezbytném rozsahu by byla obhajitelná.
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument terapeutický:* lékař namítne ochranu pacientky před újmou. Neutralizace: písm. c) výslovně vylučuje retenci, žádá-li pacient pravdivou informaci kvůli osobním záležitostem.
+- *Protiargument rodinný:* rodina argumentuje „nejlepším zájmem". Neutralizace: nositelem práva na informaci je pacient; rodina nemá právo veta nad sdělením informace pacientovi.
+- *Slabé místo:* hranice „závažné újmy na zdraví" je vágní a může svádět k nadužívání retence; bez psychiatrického zhodnocení je retence obtížně obhajitelná.
+
+###### H. Praktický závěr
+
+§ 32 zakotvuje dvě protichůdná práva: právo nevědět (odst. 1, s výjimkou infekčních nemocí) a úzce vymezenou terapeutickou retenci (odst. 2) se třemi kontraindikacemi. V praxi se retence používá výjimečně; přání pacienta znát pravdu má přednost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Žádá pacient výslovně pravdivou informaci kvůli osobním záležitostem [kontraindikace písm. c)]?
+- [ ] Nejde o infekční nemoc, u níž se k vzdání se informace nepřihlíží [odst. 1]?
+- [ ] Je retence časově a rozsahově omezena na nezbytně nutnou míru a doložena (např. psychiatricky)?
+- [ ] U nezletilého: je dán důvod zadržení informace zástupci pro podezření z násilí [odst. 3]?
+
+**Typicky rozhodné důkazy / podklady:** záznam o vzdání se informace (podepsaný pacientem a pracovníkem), dokumentace o dotazech pacienta, psychiatrické/psychologické zhodnocení, záznam o sdělení informace.
 
 ---
 
@@ -361,6 +540,42 @@ Pacient může za svého života toto právo **vyloučit** ve vztahu k určitým
 #### Osoby, které přišly s pacientem do styku (odst. 5)
 
 Odst. 5 zakládá **právo třetí osoby** na informace o zdravotním stavu pacienta v nezbytném rozsahu, jsou-li tyto informace **rozhodné pro ochranu jejich zdraví** — typicky pacient s aktivní TBC, kontakt v zaměstnání či v rodině. Toto pravidlo je výjimkou z mlčenlivosti (§ 51 odst. 2 písm. c) — viz tam) a je nutné je vykládat **restriktivně** (jen v nezbytném rozsahu).
+
+###### F. Kazuistika
+
+**1. Modelová situace.** Pacient zemře v nemocnici. Jeho dospělá dcera žádá nahlédnout do zdravotnické dokumentace a získat informaci o výsledku pitvy, neboť zvažuje žalobu pro tvrzené pochybení. Nemocnice odmítne s odkazem na mlčenlivost. Ukáže se, že pacient za života vyslovil zákaz sdělovat informace „komukoli z rodiny". Důkazy: zdravotnická dokumentace, záznam o zákazu sdělování informací, pitevní zpráva, doklad o postavení osoby blízké.
+
+**2. Právní otázka.** Mají osoby blízké zemřelému právo na informace a nahlížení do dokumentace, vyslovil-li pacient za života obecný zákaz sdělování informací rodině?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 odst. 4 — práva osob blízkých zemřelého na informace, výsledek pitvy a nahlížení; limit při zákazu vysloveném pacientem.
+- *Související ustanovení téhož zákona:* § 33 odst. 1 (určení osob a zákaz), § 65 (nahlížení do dokumentace), § 51 odst. 2 (výjimky z mlčenlivosti).
+- *Související předpisy:* § 22 odst. 1 OZ (osoba blízká), § 81 a násl. OZ (ochrana osobnosti i posmrtně).
+- *Judikatura:* NSS 9 Ads 135/2016 — povinnost mlčenlivosti podle § 51 je stanovena k ochraně práv pacientů; přístup pozůstalých je nutno poměřovat s vůlí pacienta.
+
+**4. Subsumpce.** Podle § 33 odst. 4 mají osoby blízké zemřelého zásadně právo na informace a nahlížení. Vyslovil-li však pacient za života zákaz vůči určitým osobám blízkým, lze informaci podat jen v zájmu ochrany jejich zdraví nebo zdraví další osoby a jen v nezbytném rozsahu. Účel „příprava žaloby" pod tuto výjimku nespadá.
+
+**5. Řešení.** Pro účel sporu o náhradu újmy nelze zákaz prolomit cestou § 33 odst. 4. Dcera však může uplatnit práva v civilním řízení; soud si může dokumentaci vyžádat a poskytovatel ji předá podle § 51 odst. 3. Praktický krok: poučit klientku o nutnosti procesní cesty (žaloba, vyžádání dokumentace soudem/znalcem).
+
+**6. Varianty.** (a) Nevyslovil-li pacient zákaz, má dcera plný přístup podle § 33 odst. 4. (b) Existuje-li zdravotní důvod (dědičná choroba ohrožující dceru), lze informaci podat i přes zákaz v nezbytném rozsahu.
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument pietní:* pozůstalá namítne právo znát příčinu smrti blízkého. Neutralizace: vůle pacienta vyjádřená za života má přednost; výjimkou je jen ochrana zdraví.
+- *Protiargument procesní:* poskytovatel může bránit i důvodný přístup soudu. Neutralizace: § 51 odst. 3 umožňuje předání dokumentace pro řízení a znalecké posouzení — equality of arms.
+- *Slabé místo:* rozsah a adresnost zákazu vysloveného pacientem bývá nejasný; obecná formulace „nikomu z rodiny" může být sporná co do dosahu.
+
+###### H. Praktický závěr
+
+§ 33 umožňuje pacientovi pozitivně určit i zakázat okruh informovaných osob (odst. 1), stanoví fallback kaskádu při neschopnosti volby (odst. 3) a otevírá dokumentaci pozůstalým (odst. 4) — vždy s respektem k zákazu vyslovenému pacientem, prolomitelnému jen pro ochranu zdraví.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje záznam o určení osob / zákazu podle § 33 odst. 1?
+- [ ] Jde o osobu blízkou ve smyslu § 22 OZ, případně osobu pacientem určenou?
+- [ ] Brání přístupu zákaz vyslovený pacientem za života a není dán zdravotní důvod pro jeho prolomení?
+- [ ] Lze cíle dosáhnout procesní cestou (vyžádání dokumentace soudem, § 51 odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace, záznam o určení/zákazu osob, pitevní zpráva, doklad o postavení osoby blízké, případné rozhodnutí soudu o vyžádání dokumentace.
 
 ---
 
@@ -436,6 +651,42 @@ Pokud ani osobu blízkou nelze dosáhnout, nastupuje režim **péče bez souhlas
 
 > **Srovnání s civilním právem:** Tato úprava se odlišuje od obecné úpravy zastoupení v § 436 a násl. OZ — jde o **speciální zákonné zastoupení sui generis** pro účely zdravotních služeb, vázané hierarchicky.
 
+###### F. Kazuistika
+
+**1. Modelová situace.** Pacient (35 let, plně svéprávný, bez známek duševní poruchy) je přijat s krvácením do trávicího traktu vyžadujícím transfuzi. Jako svědek Jehovův transfuzi odmítá. Lékař jej opakovaně poučí o tom, že bez transfuze hrozí smrt. Pacient podepíše negativní revers. Stav se zhorší a pacient upadne do bezvědomí; přítomná manželka žádá transfuzi. Důkazy: záznam o opakovaném poučení, negativní revers, případné dříve vyslovené přání, dokumentace průběhu.
+
+**2. Právní otázka.** Je poskytovatel vázán negativním reversem dospělého svéprávného pacienta i poté, co pacient pozbude vědomí, a může transfuzi povolit manželka podle § 34 odst. 7?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 odst. 3 (negativní revers), odst. 4 (odvolatelnost souhlasu), odst. 7 (kaskáda zástupného souhlasu).
+- *Související ustanovení téhož zákona:* § 36 (dříve vyslovené přání), § 38 odst. 3 písm. a) (neodkladná péče bez souhlasu; nedotčeno dříve vyslovené přání).
+- *Související předpisy:* čl. 7 odst. 1 Listiny (nedotknutelnost osoby), § 93 OZ.
+- *Judikatura:* ÚS sp. zn. III. ÚS 459/03 — princip autonomie; pacient s plnou způsobilostí má právo odmítnout i život zachraňující léčbu, je-li informován.
+
+**4. Subsumpce.** Negativní revers je projevem autonomie svéprávného informovaného pacienta. Kaskáda zástupného souhlasu podle § 34 odst. 7 nastupuje jen tam, kde pacient nevyjádřil vlastní vůli — zde však pacient vůli projevil (odmítl transfuzi). Manželka proto nemůže platně udělit zástupný souhlas v rozporu s jasně vyjádřenou vůlí pacienta.
+
+**5. Řešení.** Revers svéprávného informovaného pacienta je třeba respektovat i po ztrátě vědomí, vztahuje-li se na danou situaci; zástupný souhlas manželky jej nepřebíjí. Praktický krok: pečlivě zaznamenat rozsah a aktuálnost odmítnutí; je-li pochybnost o rozsahu, posoudit § 36/§ 38. Riziko: nejasně formulovaný revers zhoršuje právní jistotu.
+
+**6. Varianty.** (a) Šlo-li by o nezletilého, přednost má ochrana života (§ 35, § 38). (b) Pokud by revers byl vázán jen na konkrétní výkon a nastala jiná situace, zástupný souhlas podle odst. 7 by se uplatnil.
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument záchrany života:* lékař namítne povinnost zachránit život. Neutralizace: u svéprávného informovaného pacienta autonomie převažuje (III. ÚS 459/03); povinnost lege artis nezahrnuje vnucení odmítnuté léčby.
+- *Protiargument zástupného souhlasu:* manželka argumentuje § 34 odst. 7. Neutralizace: kaskáda nastupuje jen při absenci vlastní vůle pacienta, nikoli proti ní.
+- *Slabé místo:* rozsah a trvání reversu po ztrátě vědomí může být sporný; bez výslovného dříve vysloveného přání (§ 36) hrozí výkladová nejistota.
+
+###### H. Praktický závěr
+
+§ 34 definuje souhlas (svobodný, informovaný), jeho formu (písemně vždy u hospitalizace), odvolatelnost, negativní revers a kaskádu zástupného souhlasu. Klíčové je, že zástupný souhlas (odst. 7) nenahrazuje vlastní vyjádřenou vůli pacienta.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je souhlas/revers svobodný a informovaný a řádně zaznamenán a podepsán [odst. 1, 3, 5]?
+- [ ] Je u hospitalizace souhlas v písemné formě [odst. 2]?
+- [ ] Vyjádřil pacient vlastní vůli, nebo nastupuje teprve kaskáda zástupného souhlasu [odst. 7]?
+- [ ] Existuje dříve vyslovené přání (§ 36) vztahující se na danou situaci?
+
+**Typicky rozhodné důkazy / podklady:** písemný souhlas/revers, záznam o opakovaném poučení o riziku, dříve vyslovené přání, zdravotnická dokumentace s podpisy pacienta/pracovníka/svědka.
+
 ---
 
 ##### § 35 — Nezletilí pacienti
@@ -483,6 +734,42 @@ Odst. 4 stanoví, že odst. 1–3 se použijí **obdobně** u pacientů s ustano
 #### Vyloučení přítomnosti při podezření na násilí (odst. 5)
 
 Pokud má poskytovatel **podezření**, že na nezletilém pacientovi nebo pacientovi s ustanoveným zástupcem bylo spácháno **domácí/sexuální násilí**, zneužívání, týrání či ohrožování zdravého vývoje, **vyloučí přítomnost** osob podle § 28 odst. 3 písm. e při vyšetření za účelem vyloučení známek těchto skutečností. Toto pravidlo je nezbytné k získání **nezkreslené anamnézy** a zabránění tomu, aby pachatel ovlivnil pacientovu výpověď či vyšetření.
+
+###### F. Kazuistika
+
+**1. Modelová situace.** Šestnáctiletá dívka přijde sama na gynekologii s žádostí o předepsání antikoncepce. Je rozumově a volně vyspělá, orientovaná, chápe povahu i důsledky zákroku. Matka se posléze dozví o předpisu a podá stížnost, že nebyla požádána o souhlas. Důkazy: dokumentace o posouzení vyspělosti pacientky, záznam o poučení a souhlasu nezletilé.
+
+**2. Právní otázka.** Mohla nezletilá samostatně vyslovit souhlas s předepsáním antikoncepce a postačoval její souhlas bez souhlasu zákonného zástupce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 odst. 1 (princip vzrůstající autonomie nezletilého), odst. 2 (souběžná informace zákonnému zástupci bez práva veta).
+- *Související ustanovení téhož zákona:* § 31 odst. 5 (právo na informace), § 38 odst. 4 (péče bez souhlasu u nezletilých).
+- *Související předpisy:* § 31 OZ (vyvratitelná domněnka vyspělosti), čl. 12 Úmluvy o právech dítěte, § 858 OZ (rodičovská odpovědnost).
+- *Judikatura:* ÚS sp. zn. I. ÚS 2078/16 — při konfliktu vůle rodiče a vyspělého nezletilého má přednost autonomie pacienta, je-li úkon přiměřený jeho vyspělosti.
+
+**4. Subsumpce.** Předpis antikoncepce je úkon, jehož povahu a důsledky 16letá vyspělá pacientka chápe. Podle § 35 odst. 1 jí lze službu poskytnout na základě jejího souhlasu. Podle odst. 2 lze (nikoli nutno) informovat zákonného zástupce, ale ten nemá právo veta.
+
+**5. Řešení.** Souhlas nezletilé byl dostatečný; postup lékaře byl správný za předpokladu doloženého posouzení vyspělosti. Stížnost matky není důvodná v části požadující její souhlas. Praktický krok: zaznamenat individuální posouzení rozumové a volní vyspělosti a obsah poučení.
+
+**6. Varianty.** (a) U závažného invazivního zákroku (operace) je třeba paralelně získat souhlas zákonného zástupce a důkladněji posoudit vyspělost. (b) Při neodkladné/akutní péči, kde nelze získat souhlas zástupce bez odkladu, rozhoduje ošetřující pracovník (odst. 3).
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument rodičovské odpovědnosti:* matka namítne § 858 OZ. Neutralizace: rodičovská odpovědnost nezahrnuje právo rozhodovat proti kvalifikované vůli dostatečně vyspělého dítěte (I. ÚS 2078/16).
+- *Protiargument posouzení vyspělosti:* zpochybnění, že dívka byla dostatečně vyspělá. Neutralizace: nese-li poskytovatel doložené individuální posouzení, obstojí; absence záznamu je rizikem.
+- *Slabé místo:* „přiměřenost vyspělosti věku" je neurčitá; u hraničních zákroků hrozí spor a je vhodný dvojí souhlas.
+
+###### H. Praktický závěr
+
+§ 35 zavádí klouzavou škálu autonomie nezletilého: čím vyšší vyspělost, tím větší váha jeho názoru, až po samostatný souhlas u přiměřených úkonů. Zákonný zástupce má právo na informaci, nikoli automatické veto; u pacienta s ustanoveným zástupcem se posuzuje vyspělost bez ohledu na věk.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je individuálně posouzena a zaznamenána rozumová a volní vyspělost nezletilého [odst. 1]?
+- [ ] Je úkon přiměřený této vyspělosti, nebo vyžaduje i souhlas zákonného zástupce?
+- [ ] Jde o neodkladnou/akutní péči, kde rozhoduje ošetřující pracovník [odst. 3]?
+- [ ] Je při podezření na násilí vyloučena přítomnost osob podle § 28 odst. 3 písm. e [odst. 5]?
+
+**Typicky rozhodné důkazy / podklady:** záznam o posouzení vyspělosti, dokumentace o poučení a souhlasu, případný souhlas zákonného zástupce, záznam o důvodech akutního postupu.
 
 ---
 
@@ -560,6 +847,42 @@ Dříve vyslovené přání nemůže učinit:
 
 Odst. 6 však výslovně chrání **odvolání** dříve vysloveného přání učiněného před omezením svéprávnosti — pacient může své rozhodnutí kdykoli vzít zpět, i kdyby v mezidobí ztratil plnou svéprávnost.
 
+###### F. Kazuistika
+
+**1. Modelová situace.** Pacient s pokročilým nádorovým onemocněním sepíše doma dokument „v případě zástavy oběhu si nepřeji resuscitaci", podepíše jej a uloží. Po měsících je přivezen v bezvědomí s oběhovou zástavou. Rodina dokument předloží. Lékař ZZS jej však nerespektuje a zahájí KPR s odůvodněním, že dokument nesplňuje zákonné formální požadavky. Důkazy: předložený dokument, dokumentace ZZS, případné poučení lékaře specialisty.
+
+**2. Právní otázka.** Bylo dříve vyslovené přání pro lékaře závazné, postrádalo-li úředně ověřený podpis a písemné poučení lékaře se specializovanou způsobilostí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36 odst. 2 (kumulativní podmínky respektování), odst. 3 (forma — úředně ověřený podpis, písemné poučení lékaře specialisty), odst. 5 (meze).
+- *Související ustanovení téhož zákona:* § 38 odst. 3 písm. a) (neodkladná péče; nedotčeno dříve vyslovené přání).
+- *Související předpisy:* čl. 9 Úmluvy o biomedicíně (sdělení č. 96/2001 Sb. m. s.), čl. 7 Listiny.
+- *Judikatura:* doktrinální závěr, že forma podle § 36 odst. 3 je konstitutivní; neformální přání není právně závazné, byť je morálně významným vodítkem.
+
+**4. Subsumpce.** Dokument nesplňuje konstitutivní formu (chybí úředně ověřený podpis a písemné poučení lékaře specialisty). Není proto „dříve vysloveným přáním" ve smyslu § 36, které by bylo poskytovatel povinen respektovat. Podmínky odst. 2 nejsou splněny (chybí třetí podmínka — poučení specialistou).
+
+**5. Řešení.** Lékař ZZS postupoval formálně v souladu se zákonem, zahájil-li KPR. Dokument je však významným indikátorem vůle pacienta a v lůžkovém zařízení lze využít zjednodušenou formu podle odst. 4. Praktický krok: pacientům v paliativní situaci doporučit sepsání DNR ve formě podle odst. 3, případně zaznamenat přání při hospitalizaci dle odst. 4.
+
+**6. Varianty.** (a) Pokud by přání bylo sepsáno s ověřeným podpisem a poučením specialisty, bylo by závazné a KPR by se neprováděla. (b) Přání nelze respektovat, pokud nabádá k aktivnímu způsobení smrti nebo ohrožuje jiné osoby (odst. 5).
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument autonomie:* rodina namítne zjevnou vůli pacienta. Neutralizace: forma je konstitutivní; v terénu ZZS nemá lékař možnost ověřit pravost a poučení, proto zákon vyžaduje přísnou formu.
+- *Protiargument zjednodušené formy:* dokument mohl být učiněn dle odst. 4. Neutralizace: odst. 4 platí jen pro služby zajišťované konkrétním poskytovatelem za hospitalizace, ne pro domácí dokument předložený ZZS.
+- *Slabé místo:* přísná forma může v praxi vést k nerespektování skutečné vůle pacienta v terénu; chybí centrální registr dříve vyslovených přání.
+
+###### H. Praktický závěr
+
+§ 36 je české provedení čl. 9 Úmluvy o biomedicíně. Závazné je jen přání splňující kumulativně tři podmínky odst. 2 a konstitutivní formu odst. 3 (nebo zjednodušenou formu odst. 4 za hospitalizace). Nelze jím požadovat aktivní usmrcení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má přání písemnou formu a úředně ověřený podpis [odst. 3], nebo jde o platnou formu odst. 4 za hospitalizace?
+- [ ] Obsahuje písemné poučení lékaře se specializovanou způsobilostí [odst. 2, 3]?
+- [ ] Nastala konkrétní předvídatelná situace, k níž se přání vztahuje, a je pacient neschopen nového vyjádření [odst. 2]?
+- [ ] Nenabádá přání k aktivnímu způsobení smrti a neohrožuje jiné osoby [odst. 5]?
+
+**Typicky rozhodné důkazy / podklady:** listina dříve vysloveného přání s ověřeným podpisem, písemné poučení specialisty, zdravotnická dokumentace (u formy dle odst. 4), dokumentace ZZS o průběhu zásahu.
+
 ---
 
 ##### § 37 — Utajený porod
@@ -597,6 +920,41 @@ Anonymita je zajištěna **ve zdravotnické dokumentaci** (zvláštní režim �
 #### Kritika institutu
 
 Institut utajeného porodu je v české odborné literatuře předmětem **kritiky**: psychologové upozorňují, že dítě ztrácí možnost dohledat své biologické rodiče, což může vést k **psychickým problémům v dospělosti**. ESLP v rozsudku **Odièvre proti Francii** (2003, č. 42326/98) potvrdil přípustnost francouzského „accouchement sous X", podobného institutu, ale judikoval, že systém musí umožnit dítěti alespoň přístup k základním zdravotním informacím o biologické matce (bez identity).
+
+###### F. Kazuistika
+
+**1. Modelová situace.** Vdaná žena s trvalým pobytem v ČR, žijící fakticky odděleně od manžela, žádá v porodnici o utajený porod a prohlašuje, že o dítě nehodlá pečovat. Porodnice váhá, protože ženě svědčí manželova domněnka otcovství. Důkazy: žádost ženy s prohlášením, doklad o trvalém pobytu, údaj o existenci manželství (matrika).
+
+**2. Právní otázka.** Má vdaná žena, jejímuž manželu svědčí domněnka otcovství, právo na utajený porod podle § 37?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 37 odst. 1 (osobní rozsah — trvalý pobyt v ČR, vyloučení vdané ženy s domněnkou otcovství manžela), odst. 2 (písemná žádost a prohlášení), odst. 3 (anonymita).
+- *Související ustanovení téhož zákona:* § 55 odst. 2 (zvláštní režim dokumentace).
+- *Související předpisy:* § 776 OZ (domněnka otcovství manžela), § 971 OZ (svěření do péče zařízení), zákon č. 422/2004 Sb. (původ institutu).
+- *Judikatura:* ESLP Odièvre proti Francii (2003, č. 42326/98) — přípustnost anonymního porodu při zachování přístupu dítěte k nezbytným zdravotním informacím.
+
+**4. Subsumpce.** Žena sice má trvalý pobyt v ČR, je však vdaná a manželu svědčí domněnka otcovství (§ 776 OZ). Tím je naplněna negativní podmínka § 37 odst. 1, která vdané ženy z institutu vylučuje — bez ohledu na faktické odloučení od manžela.
+
+**5. Řešení.** Porodnice nemůže utajený porod podle § 37 poskytnout; právo na utajení totožnosti ženě nesvědčí. Žena může řešit situaci jinými nástroji (popření otcovství, souhlas s osvojením). Praktický krok: poučit ženu o nemožnosti utajeného porodu a o alternativách rodinněprávní povahy.
+
+**6. Varianty.** (a) Pokud by žena nebyla vdaná, právo na utajený porod by jí svědčilo. (b) U cizinky bez trvalého pobytu v ČR institut rovněž nelze využít.
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument faktického odloučení:* žena namítne, že s manželem nežije. Neutralizace: rozhodná je právní existence manželství a domněnka otcovství (§ 776 OZ), nikoli faktický stav.
+- *Protiargument práv dítěte:* obecná kritika anonymity. Neutralizace: systém musí dle ESLP umožnit dítěti přístup k základním zdravotním informacím o matce bez její identity (odst. 3 — výjimka pro pojišťovnu).
+- *Slabé místo:* restriktivní osobní rozsah může nutit ohrožené ženy k rizikovějším řešením; institut je v literatuře kritizován.
+
+###### H. Praktický závěr
+
+§ 37 nabízí ženě bez manžela s trvalým pobytem v ČR „třetí cestu" mezi přerušením těhotenství a výchovou dítěte — anonymní porod s následnou adopcí. Vdané ženy s domněnkou otcovství manžela jsou vyloučeny. Anonymita je zajištěna ve zdravotnické dokumentaci s výjimkou údajů pro úhradu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má žena trvalý pobyt v ČR a není vdaná (resp. nesvědčí manželu domněnka otcovství) [odst. 1]?
+- [ ] Předložila písemnou žádost s prohlášením, že nehodlá o dítě pečovat [odst. 2]?
+- [ ] Je zajištěn zvláštní režim dokumentace zachovávající anonymitu [odst. 3, § 55 odst. 2]?
+
+**Typicky rozhodné důkazy / podklady:** písemná žádost o utajený porod s prohlášením, doklad o trvalém pobytu, údaj o rodinném stavu, zdravotnická dokumentace ve zvláštním režimu.
 
 ---
 
@@ -694,6 +1052,42 @@ Poskytovatel je povinen o hospitalizaci podle odst. 1 písm. b) nebo c) **bez zb
 Odst. 7: bez souhlasu lze poskytnout též **záchytnou službu** a další zdravotní služby podle zákona o ochraně veřejného zdraví.
 
 Odst. 8: lze provést **orientační/odborné vyšetření na alkohol/návykové látky** u pacienta neschopného vyslovit souhlas. Toto pravidlo je významné v urgentní medicíně — diagnostika otrav, zhodnocení vědomí.
+
+###### F. Kazuistika
+
+**1. Modelová situace.** Muž (40 let) je přivezen na psychiatrický příjem poté, co doma vyhrožoval sebevraždou a fyzicky napadl rodinného příslušníka. Jeví známky akutní psychotické dekompenzace, je pod vlivem alkoholu. Odmítá hospitalizaci a chce odejít. Lékař rozhodne o hospitalizaci bez souhlasu. Pacient v době vyšetření neútočí. Důkazy: příjmová dokumentace, psychiatrické vyšetření, výpovědi rodiny a personálu, toxikologie.
+
+**2. Právní otázka.** Jsou splněny podmínky hospitalizace bez souhlasu podle § 38 odst. 1 písm. b), jestliže pacient v okamžiku vyšetření aktivně neútočí, hrozba však trvá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 38 odst. 1 písm. b) (bezprostřední a závažné ohrožení sebe/okolí při známkách duševní poruchy nebo vlivu návykové látky, nelze-li hrozbu odvrátit jinak).
+- *Související ustanovení téhož zákona:* § 40 (oznámení soudu do 24 hodin), § 39 (omezovací prostředky).
+- *Související předpisy:* čl. 8 odst. 6 Listiny, § 75 a násl. zákona č. 292/2013 Sb. (detenční řízení).
+- *Judikatura:* NS 24 Cdo 2368/2024 — musí být bezprostředně přítomna hrozba následku, nikoli nutně její projevy; ÚS III. ÚS 916/13 — § 38 obsahuje taxativní výčet důvodů; NS 24 Cdo 1150/2022 — soud zkoumá i trvání důvodů do propuštění.
+
+**4. Subsumpce.** Kumulativní podmínky písm. b) jsou naplněny: hrozba je bezprostřední a závažná (vyhrožování sebevraždou, napadení), pacient jeví známky duševní poruchy a je pod vlivem návykové látky, hrozbu nelze odvrátit mírněji. Podle NS 24 Cdo 2368/2024 není nutné, aby pacient v okamžiku posouzení útočil — postačí bezprostřední přítomnost hrozby.
+
+**5. Řešení.** Hospitalizace bez souhlasu je zákonná. Poskytovatel musí do 24 hodin oznámit věc soudu (§ 40), který do 7 dnů rozhodne o přípustnosti převzetí. Praktický krok: pečlivě zdokumentovat konkrétní projevy a důvody, proč nelze hrozbu odvrátit jinak.
+
+**6. Varianty.** (a) Pokud by chyběla duševní porucha i vliv návykové látky a šlo jen o rozčilení, podmínky písm. b) by nebyly splněny. (b) Šlo-li by o bezvědomí po nehodě, uplatnil by se titul podle písm. c) a péče bez souhlasu podle odst. 3.
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument absence projevů:* pacient namítne, že v době vyšetření neútočil. Neutralizace: NS 24 Cdo 2368/2024 — rozhodná je bezprostřední hrozba, ne aktuální projev; vyčkávat na realizaci hrozby by odporovalo smyslu zákona.
+- *Protiargument mírnějšího prostředku:* pacient tvrdí, že stačila ambulantní intervence. Neutralizace: je třeba doložit, že hrozbu nešlo odvrátit jinak (princip ultima ratio).
+- *Slabé místo:* posouzení „bezprostřednosti" a „nemožnosti jiného řešení" je odborně i důkazně náročné; nedostatečná dokumentace oslabuje obhajitelnost detence v detenčním řízení.
+
+###### H. Praktický závěr
+
+§ 38 je hlavní výjimka z principu souhlasu — rozlišuje hospitalizaci bez souhlasu (odst. 1, tři tituly) a neodkladnou péči bez souhlasu (odst. 3). Důvody jsou taxativní; hrozba musí být bezprostřední, byť se nemusí projevit; vždy navazuje soudní kontrola podle § 40.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je naplněn některý z taxativních titulů odst. 1 (a/b/c) a doloženy jeho znaky?
+- [ ] U písm. b): je hrozba bezprostřední a závažná a nelze ji odvrátit mírněji?
+- [ ] Bylo respektováno případné dříve vyslovené přání u neodkladné péče [odst. 3 písm. a)]?
+- [ ] Byla splněna oznamovací povinnost a navazuje detenční řízení (§ 40)?
+
+**Typicky rozhodné důkazy / podklady:** příjmová a psychiatrická dokumentace, záznam o konkrétních projevech ohrožení, toxikologie, výpovědi personálu a rodiny, oznámení soudu.
 
 ---
 
@@ -795,6 +1189,42 @@ Záznam do **60 dnů** od použití. Evidence je předmětem **kontrol státníh
 
 O **přerušení nebo ukončení** omezení rozhoduje **lékař, sestra pro péči v psychiatrii** nebo **dětská sestra pro dětskou a dorostovou psychiatrii**. V nedostupnosti — i jiný zdravotnický pracovník nelékařského povolání; následně musí být některý kvalifikovaný informován.
 
+###### F. Kazuistika
+
+**1. Modelová situace.** Agresivní pacient na psychiatrickém oddělení je fixován kurty po dobu 9 hodin. V dokumentaci chybí záznam o indikaci lékařem (omezení indikovala sestra), o průběžném dohledu i o informování zákonného zástupce nepřítomného pacienta s ustanoveným opatrovníkem. Pacient si po propuštění stěžuje. Důkazy: dokumentace o použití omezovacího prostředku, ošetřovatelské záznamy, centrální evidence, výpovědi personálu.
+
+**2. Právní otázka.** Bylo použití kurtů v souladu s § 39, chybí-li indikace lékařem, doklad o dohledu a o informování opatrovníka?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39 odst. 2 (kumulativní podmínky a ultima ratio), odst. 3 (procesní záruky — indikace lékařem, dohled, informování, záznam), odst. 4 (centrální evidence), odst. 5 (ukončení).
+- *Související ustanovení téhož zákona:* § 40 odst. 1 písm. b) (oznámení dodatečného omezení soudu).
+- *Související předpisy:* čl. 7 a 8 Listiny, standardy CPT Rady Evropy.
+- *Judikatura:* obecné požadavky na proporcionalitu zásahu do osobní integrity; nedodržení procesních záruk zakládá nezákonnost omezení a možnou odpovědnost za zásah do osobnostních práv.
+
+**4. Subsumpce.** I při materiálně důvodném omezení (agrese) musí být splněny procesní záruky odst. 3: indikace lékařem (sestra jen výjimečně s následným potvrzením lékaře), průběžný dohled, informování opatrovníka, záznam. Jejich absence činí použití omezovacího prostředku vadným, byť účel mohl být legitimní.
+
+**5. Řešení.** Pochybení procesních záruk zakládá protiprávnost a možný nárok pacienta na zadostiučinění (§ 81 a násl. OZ). Pacient se může bránit stížností (§ 93) i žalobou. Praktický krok: doplnit do procesů jednoznačné protokoly o indikaci, dohledu a evidenci.
+
+**6. Varianty.** (a) Pokud by lékař indikaci dodatečně potvrdil a dohled byl prokazatelně zajištěn, vada by byla zmírněna. (b) Šlo-li by o pouhý mechanický úchop sloužící k aplikaci jiného prostředku, do centrální evidence se nezaznamenává (odst. 4).
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument nutnosti:* poskytovatel namítne akutní nebezpečí. Neutralizace: nebezpečí ospravedlňuje použití, nikoli však absenci dohledu, záznamu a indikace lékařem.
+- *Protiargument personální:* nedostatek lékařů odůvodňuje indikaci sestrou. Neutralizace: odst. 3 písm. d) to připouští jen výjimečně a s neprodleným potvrzením lékaře.
+- *Slabé místo:* dohled a jeho intenzita jsou obtížně doložitelné bez kontinuálních ošetřovatelských záznamů; chybějící centrální evidence je samostatným pochybením.
+
+###### H. Praktický závěr
+
+§ 39 dovoluje šest typů omezovacích prostředků jen jako ultima ratio při bezprostředním ohrožení, na nezbytně nutnou dobu, s rozsáhlými procesními zárukami (indikace lékařem, dohled, informování, záznam, centrální evidence). Materiální důvodnost nezhojí procesní pochybení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Šlo o ultima ratio při bezprostředním ohrožení a nejméně omezující prostředek [odst. 2]?
+- [ ] Indikoval omezení lékař (či sestra s následným potvrzením lékaře) [odst. 3 písm. d)]?
+- [ ] Byl zajištěn a zaznamenán průběžný dohled a informování oprávněných osob [odst. 3]?
+- [ ] Je vedena centrální evidence a oznámeno dodatečné omezení soudu [odst. 4, § 40 odst. 1 písm. b)]?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace o použití omezovacího prostředku (důvod, čas, indikace), ošetřovatelské záznamy o dohledu, centrální evidence, oznámení soudu.
+
 ---
 
 ##### § 40 — Oznamovací povinnost vůči soudu (detenční řízení)
@@ -828,6 +1258,42 @@ Lhůta běží **od indikace hospitalizace** nebo dodatečného omezení. Soud p
 
 Pokud pacient (či zástupce) **dodatečně vysloví souhlas** do 24 hodin od indikace, **oznamovací povinnost zaniká** — situace se „normalizuje" zpětně. Toto pravidlo má praktický význam u akutních stavů, kdy se pacient po stabilizaci ztotožní s léčbou.
 
+###### F. Kazuistika
+
+**1. Modelová situace.** Pacient je v sobotu ráno hospitalizován bez souhlasu podle § 38 odst. 1 písm. b). Nemocnice oznámí věc soudu až v pondělí, tj. 50 hodin po indikaci, s odůvodněním, že o víkendu „soud neúřaduje". Pacient mezitím souhlas nevyslovil. Důkazy: čas indikace hospitalizace, datum a čas odeslání oznámení soudu, dokumentace.
+
+**2. Právní otázka.** Byla dodržena oznamovací povinnost podle § 40 odst. 1, oznámil-li poskytovatel hospitalizaci bez souhlasu soudu až za 50 hodin?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40 odst. 1 (oznámení soudu do 24 hodin od indikace), odst. 2 (zánik povinnosti při dodatečném souhlasu do 24 hodin).
+- *Související ustanovení téhož zákona:* § 38 odst. 1 písm. b), c); § 39 (dodatečné omezení).
+- *Související předpisy:* čl. 8 odst. 6 Listiny (oznámení do 24 hodin, rozhodnutí soudu do 7 dnů), § 75 a násl. zákona č. 292/2013 Sb.
+- *Judikatura:* NS 24 Cdo 1150/2022 — soud zkoumá zákonnost převzetí i trvání důvodů; ÚS III. ÚS 916/13 — taxativnost důvodů detence.
+
+**4. Subsumpce.** Lhůta 24 hodin je kategorická a běží od indikace hospitalizace bez ohledu na pracovní dobu soudu (soudy mají pohotovostní režim pro detence). Oznámení po 50 hodinách lhůtu porušuje. Výjimka odst. 2 (dodatečný souhlas do 24 hodin) se neuplatní, neboť souhlas vysloven nebyl.
+
+**5. Řešení.** Poskytovatel porušil oznamovací povinnost; jde o vadu řízení o zákonnosti detence a možný zásah do osobní svobody (čl. 8 Listiny). Praktický krok: zavést pohotovostní postup pro oznamování detencí soudu i mimo úřední dny.
+
+**6. Varianty.** (a) Pokud by pacient do 24 hodin vyslovil souhlas, oznamovací povinnost by zanikla (odst. 2). (b) U dodatečného omezení pacienta přijatého se souhlasem se oznamuje obdobně podle odst. 1 písm. b).
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument provozní:* poskytovatel se hájí nedostupností soudu o víkendu. Neutralizace: lhůta je ústavně zakotvena a soudy zajišťují pohotovost pro detenční věci; provozní důvod neomlouvá zmeškání.
+- *Protiargument formality:* opožděné oznámení je „jen" formální vada. Neutralizace: jde o záruku osobní svobody; její porušení může vést k nezákonnosti dalšího držení.
+- *Slabé místo:* určení okamžiku „indikace" může být sporné; bez přesného časového záznamu se běh lhůty obtížně prokazuje.
+
+###### H. Praktický závěr
+
+§ 40 zajišťuje soudní kontrolu detence: hospitalizaci bez souhlasu (a dodatečné omezení) je nutno oznámit soudu do 24 hodin od indikace, nedojde-li v téže lhůtě k dodatečnému souhlasu. Lhůta plyne z čl. 8 odst. 6 Listiny a je kategorická.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl přesně zaznamenán okamžik indikace hospitalizace/omezení?
+- [ ] Bylo oznámení soudu odesláno do 24 hodin [odst. 1]?
+- [ ] Nevyslovil pacient/zástupce dodatečný souhlas do 24 hodin, čímž povinnost zaniká [odst. 2]?
+- [ ] Jde o titul, který se oznamuje (§ 38 odst. 1 písm. b), c), dodatečné omezení)?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace s časem indikace, doklad o odeslání oznámení soudu, záznam o případném dodatečném souhlasu, spis detenčního řízení.
+
 ---
 
 ##### § 40a — Sociálně-zdravotní služby
@@ -839,6 +1305,41 @@ Pokud pacient (či zástupce) **dodatečně vysloví souhlas** do 24 hodin od in
 **Výklad:**
 
 § 40a (vložený novelou č. 363/2021 Sb.) řeší **kolizní pravidlo** pro sociálně-zdravotní služby — typicky pobytové sociální služby s integrovanou zdravotní péčí (domovy pro seniory, domovy pro osoby se zdravotním postižením). V těchto případech se omezovací prostředky řídí **§ 89 zákona č. 108/2006 Sb., o sociálních službách**, nikoli § 39 ZZS. Cílem je vyhnout se dvojímu právnímu režimu v jednom zařízení.
+
+###### F. Kazuistika
+
+**1. Modelová situace.** V domově pro seniory, kde jsou poskytovány sociálně-zdravotní služby, je neklidný klient s demencí na noc fixován. Zařízení i kontrolní orgán řeší, zda použití omezovacího opatření a jeho evidence mají probíhat podle § 39 ZZS nebo podle zákona o sociálních službách. Důkazy: typ poskytované služby (registrace), záznam o omezení, evidence opatření.
+
+**2. Právní otázka.** Podle kterého právního režimu se posuzuje použití opatření omezujících volný pohyb u sociálně-zdravotní služby podle § 2a písm. b) a c)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40a — vyloučení § 39 a 40 ZZS; odkaz na zákon o sociálních službách.
+- *Související ustanovení téhož zákona:* § 2a (sociálně-zdravotní služby), § 39 a § 40 (jinak režim omezovacích prostředků a oznámení soudu).
+- *Související předpisy:* § 89 zákona č. 108/2006 Sb., o sociálních službách (opatření omezující pohyb).
+- *Judikatura:* obecné principy proporcionality zásahu do osobní svobody se uplatní v obou režimech; rozhodný je správný výběr právního základu.
+
+**4. Subsumpce.** Jde-li o poskytování sociálně-zdravotních služeb podle § 2a písm. b) a c), § 39 a 40 ZZS se nepoužijí; opatření omezující volný pohyb se řídí § 89 zákona o sociálních službách. Aplikace § 39 ZZS by zde byla nesprávným právním základem.
+
+**5. Řešení.** Zařízení postupuje podle § 89 zákona o sociálních službách (podmínky, evidence, oznamovací povinnosti tam stanovené). Praktický krok: ve smíšených zařízeních jasně oddělit, kdy jde o zdravotní službu (režim § 39 ZZS) a kdy o sociálně-zdravotní službu (režim sociálních služeb).
+
+**6. Varianty.** (a) Jde-li o čistě zdravotní službu (např. akutní lůžková psychiatrie), uplatní se § 39 a 40 ZZS. (b) Hraniční situace vyžaduje posouzení podle převažujícího charakteru a registrace služby.
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument jednotného režimu:* zařízení namítne praktičnost jednotného postupu podle ZZS. Neutralizace: § 40a je výslovné kolizní pravidlo, které ZZS pro tyto služby vylučuje.
+- *Protiargument nejasné kvalifikace:* spor, zda jde o zdravotní či sociálně-zdravotní službu. Neutralizace: rozhoduje vymezení podle § 2a a registrace poskytovatele.
+- *Slabé místo:* dvojí režim v jednom zařízení vyvolává riziko záměny právního základu a tím vad evidence a oznámení.
+
+###### H. Praktický závěr
+
+§ 40a je kolizní pravidlo: u sociálně-zdravotních služeb podle § 2a písm. b) a c) se omezovací opatření řídí zákonem o sociálních službách, nikoli § 39 a 40 ZZS. Cílem je jednotný režim podle povahy služby a vyhnutí se dvojkolejnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o sociálně-zdravotní službu podle § 2a písm. b) a c)?
+- [ ] Byl použit správný právní základ (§ 89 zákona o sociálních službách, ne § 39 ZZS)?
+- [ ] Jsou splněny evidenční a oznamovací povinnosti dle příslušného režimu?
+
+**Typicky rozhodné důkazy / podklady:** registrace poskytovatele a druh služby, záznamy o použití opatření, evidence podle zákona o sociálních službách.
 
 ---
 
@@ -898,6 +1399,42 @@ Pacient, zákonný zástupce, opatrovník, určená osoba i osoba blízká jsou 
 - Pacient/zákonný zástupce — poskytovatel může **odmítnout** poskytnutí služby, **není-li** nutná **neodkladná péče**.
 - Jiná osoba — poskytovatel může odmítnout součinnost nebo neumožnit návštěvu (s výjimkou potvrzení totožnosti samotným pacientem).
 
+###### F. Kazuistika
+
+**1. Modelová situace.** Pacient před operací zatají, že je HIV pozitivní a že užívá warfarin. Při zákroku dojde k poranění zdravotníka a u pacienta ke krvácivé komplikaci. Současně se ukáže, že pacient během hospitalizace popíjel donesený alkohol a odmítl dechovou zkoušku nařízenou lékařem. Důkazy: anamnestický záznam, laboratorní nálezy, záznam o nařízení a odmítnutí vyšetření, dokumentace.
+
+**2. Právní otázka.** Porušil pacient povinnosti podle § 41 odst. 1 a jaké to má důsledky (včetně možnosti ukončení péče a odpovědnostních dopadů)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 41 odst. 1 písm. d) (pravdivá anamnéza, včetně infekčních nemocí a léků), písm. e) (abstinence a podrobení se vyšetření).
+- *Související ustanovení téhož zákona:* § 48 odst. 2 písm. d), e) (ukončení péče), § 50 odst. 1 písm. a) (právo zdravotníka znát infekční status), § 32 odst. 1 (od infekčních nemocí se nelze odchýlit).
+- *Související předpisy:* § 152 trestního zákoníku (šíření nakažlivé lidské nemoci), § 2901 a násl. OZ (náhrada újmy).
+- *Judikatura:* obecné zásady odpovědnosti za újmu vzniklou porušením povinnosti; spoluzavinění pacienta může snížit odpovědnost poskytovatele.
+
+**4. Subsumpce.** Zatajení HIV statusu a užívání warfarinu porušuje § 41 odst. 1 písm. d); od informace o infekční nemoci se pacient nemůže odchýlit (§ 32 odst. 1). Požívání alkoholu a odmítnutí vyšetření porušuje písm. e). Tato porušení mohou zakládat spoluzavinění pacienta a u úmyslného šíření i trestní odpovědnost.
+
+**5. Řešení.** Porušení povinností pacienta zmírňuje nebo vylučuje odpovědnost poskytovatele za vzniklé komplikace a může — není-li způsobeno zdravotním stavem — odůvodnit ukončení péče podle § 48 odst. 2 písm. d)/e), nedojde-li k ohrožení života pacienta. Praktický krok: pečlivě zaznamenat zatajení a porušení, zajistit poexpoziční postup u poraněného zdravotníka.
+
+**6. Varianty.** (a) Pokud by nedodržování postupu bylo způsobeno zdravotním stavem pacienta, péči ukončit nelze (§ 48 odst. 2 in fine). (b) U neodkladné péče nelze přijetí odmítnout ani pro odepření prokázání totožnosti (odst. 4).
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument autonomie:* pacient namítne právo nesdělovat citlivé údaje. Neutralizace: § 41 odst. 1 písm. d) ukládá pravdivou anamnézu; u infekčních nemocí jde o veřejný zájem a bezpečnost personálu (§ 50).
+- *Protiargument zdravotního stavu:* pacient tvrdí, že nespolupráce plyne z nemoci. Neutralizace: výjimka platí jen prokáže-li se souvislost se zdravotním stavem; jinak jde o porušení povinnosti.
+- *Slabé místo:* prokázání, že pacient informaci skutečně zatajil (a nikoli ji nevěděl), může být obtížné; rozhodný je obsah anamnestického záznamu.
+
+###### H. Praktický závěr
+
+§ 41 zakládá recipročnost vztahu: pacient má pět povinností (compliance, vnitřní řád, úhrada nehrazených služeb, pravdivá anamnéza, abstinence/vyšetření). Jejich porušení může vést k ukončení péče (§ 48) a ovlivnit odpovědnostní vztahy; u zástupce se některé povinnosti uplatní obdobně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Poskytl pacient pravdivou anamnézu včetně infekcí a léků [odst. 1 písm. d)]?
+- [ ] Dodržoval zákaz návykových látek a podrobil se nařízenému vyšetření [odst. 1 písm. e)]?
+- [ ] Není nedodržování postupu způsobeno zdravotním stavem (vliv na ukončení péče)?
+- [ ] Byla u odepření totožnosti zvážena výjimka neodkladné péče [odst. 4]?
+
+**Typicky rozhodné důkazy / podklady:** anamnestický a ošetřovatelský záznam, laboratorní/toxikologické nálezy, záznam o nařízení a odmítnutí vyšetření, doklad totožnosti / čestné prohlášení osoby blízké.
+
 ---
 
 ##### § 42 — Práva a povinnosti pěstouna a ústavních zařízení
@@ -935,6 +1472,42 @@ Tito jsou tedy oprávněni:
 - informovat o totožnosti, doprovázet dítě;
 - podávat stížnosti (§ 93 odst. 1).
 
+###### F. Kazuistika
+
+**1. Modelová situace.** Dítě umístěné na základě rozhodnutí soudu v dětském domově (zařízení pro výkon ústavní výchovy) potřebuje akutní zákrok, hrozí nebezpečí z prodlení a biologického rodiče nelze bez odkladu zastihnout. Nemocnice váhá, zda může souhlas udělit ředitel zařízení. Důkazy: rozhodnutí soudu o ústavní výchově, dokumentace o nedosažitelnosti rodiče, záznam o akutní indikaci.
+
+**2. Právní otázka.** Může za dítě v ústavním zařízení vyslovit souhlas se zdravotní službou statutární orgán zařízení, hrozí-li nebezpečí z prodlení a nelze získat vyjádření zákonného zástupce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 42 — přiznání práv a povinností zákonného zástupce pěstounovi/statutárnímu orgánu zařízení v rozsahu vyjmenovaných ustanovení [mj. § 38 odst. 2, § 41 odst. 2 a 3, § 93 odst. 1; souhlas při nebezpečí z prodlení].
+- *Související ustanovení téhož zákona:* § 35 (nezletilí), § 38 odst. 4 (péče bez souhlasu u nezletilých), § 31 odst. 5 (informace).
+- *Související předpisy:* § 971 OZ, zákon č. 109/2002 Sb. (ústavní a ochranná výchova), zákon č. 359/1999 Sb. (sociálně-právní ochrana dětí).
+- *Judikatura:* obecné principy přednosti nejlepšího zájmu dítěte a nutnosti zaznamenat důvody, pro které nebyl získán souhlas zákonného zástupce.
+
+**4. Subsumpce.** Dítě je svěřeno do zařízení na základě rozhodnutí soudu; § 42 přiznává statutárnímu orgánu zařízení práva zákonného zástupce ve vyjmenovaném rozsahu, včetně souhlasu při nebezpečí z prodlení, nelze-li získat vyjádření zákonného zástupce. Důvody se zaznamenají do dokumentace.
+
+**5. Řešení.** Souhlas může udělit statutární orgán zařízení (nebo jím pověřená osoba); v krajní nouzi rozhodne ošetřující pracovník podle § 35 odst. 3 / § 38. Praktický krok: do dokumentace zaznamenat nedosažitelnost zákonného zástupce a důvody postupu.
+
+**6. Varianty.** (a) U dítěte v pěstounské péči vykonává tato oprávnění pěstoun. (b) Jde-li o neodkladnou péči, lze ji poskytnout i bez souhlasu podle § 38 odst. 4.
+
+###### G. Protiargumenty a rizika
+
+- *Protiargument rodičovských práv:* biologický rodič namítne svá práva. Neutralizace: § 42 ve spojení s rozhodnutím soudu přenáší vymezená oprávnění na zařízení; jde o zákonný režim.
+- *Protiargument rozsahu:* zařízení překročí vyjmenovaný rozsah § 42. Neutralizace: oprávnění jsou taxativně vázána na konkrétní ustanovení; mimo ně rozhoduje soud/zákonný zástupce.
+- *Slabé místo:* hranice „nebezpečí z prodlení" a doložení nedosažitelnosti rodiče bývají sporné; bez záznamu je postup obtížně obhajitelný.
+
+###### H. Praktický závěr
+
+§ 42 řeší, kdo rozhoduje o zdravotní péči o děti v ústavech a pěstounské péči: pěstoun či statutární orgán zařízení vykonává práva zákonného zástupce ve vyjmenovaném rozsahu (informace, souhlas při nebezpečí z prodlení, omezovací prostředky, stížnosti). Mimo tento rozsah platí obecná pravidla.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dítě svěřeno do zařízení/pěstounské péče rozhodnutím soudu?
+- [ ] Spadá konkrétní úkon do rozsahu oprávnění vyjmenovaných v § 42?
+- [ ] Je doložena nedosažitelnost zákonného zástupce a důvody postupu při nebezpečí z prodlení?
+- [ ] Nejde o neodkladnou péči podle § 38 odst. 4?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí soudu o ústavní/ochranné výchově nebo svěření do péče, záznam o nedosažitelnosti zákonného zástupce, dokumentace o indikaci a souhlasu.
+
 ---
 
 ### HLAVY II–V — Zvláštní typy zdravotnických zařízení
@@ -948,6 +1521,42 @@ Hlavy II až V Části čtvrté vymezují **čtyři zvláštní typy** zdravotni
 **Výklad:** Hospic je legálně definován jako specializované **lůžkové zařízení paliativní péče** pro pacienty v terminálním stadiu. Charakteristickým rysem je integrace zdravotní péče s **odborným sociálním poradenstvím** poskytovaným podle § 37 zákona č. 108/2006 Sb., o sociálních službách — a to **pro pacienta i osoby blízké** (provázení rodin).
 
 Hospicová péče je v ČR rozvíjena od 90. let 20. století (první hospic — Hospic Anežky České v Červeném Kostelci, 1995); legální definice byla doplněna novelou č. 290/2017 Sb. v reakci na **zákon o paliativní péči** připravený mezirezortně.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Zařízení se prezentuje jako „hospic", poskytuje však pouze ambulantní konzultace bez lůžkové paliativní péče a bez návazného sociálního poradenství pro rodiny. Zdravotní pojišťovna i registrující orgán zkoumají, zda zařízení splňuje legální definici hospice. Důkazy: registrace druhu a formy péče, popis poskytovaných služeb, smlouva o sociálním poradenství.
+
+**2. Právní otázka.** Splňuje zařízení legální definici hospice podle § 44a, neposkytuje-li lůžkovou paliativní péči a sociální poradenství?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44a — hospic jako lůžkové zařízení paliativní péče pro pacienty v terminálním stavu s návazným odborným sociálním poradenstvím pro pacienta i osoby blízké.
+- *Související ustanovení téhož zákona:* ustanovení o registraci druhu a formy zdravotní péče.
+- *Související předpisy:* § 37 zákona č. 108/2006 Sb., o sociálních službách (odborné sociální poradenství).
+- *Judikatura:* zde spíše definiční/registrační praxe než nosné soudní rozhodnutí.
+
+**4. Subsumpce.** Definice hospice vyžaduje (a) léčebnou, paliativní a ošetřovatelskou lůžkovou péči, (b) pacienty v terminálním stavu a (c) odborné sociální poradenství pro pacienta i blízké. Absence lůžkové péče a sociálního poradenství znamená, že znaky definice nejsou naplněny.
+
+**5. Řízení.** Zařízení nemůže užívat označení a režim hospice; musí buď doplnit chybějící prvky, nebo se registrovat jako jiný druh péče. Praktický krok: uvést registraci a fakticky poskytované služby do souladu s § 44a.
+
+**6. Varianty.** (a) Doplní-li zařízení lůžkovou paliativní péči a smluvně zajistí sociální poradenství, definici splní. (b) Mobilní (domácí) paliativní péče je samostatným modelem a nezakládá automaticky status hospice ve smyslu § 44a.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument terminologický:* zařízení namítne zavedené označení „hospic". Neutralizace: rozhodná je legální definice § 44a, ne marketingové označení.
+- *Protiargument integrace služeb:* zařízení tvrdí, že sociální poradenství zajišťuje jiný subjekt. Neutralizace: definice vyžaduje, aby poradenství bylo součástí poskytované péče (vlastní nebo smluvně zajištěné).
+- *Slabé místo:* hranice mezi hospicovou lůžkovou péčí a jinou paliativní/ošetřovatelskou péčí může být v registrační praxi sporná.
+
+##### H. Praktický závěr
+
+§ 44a definuje hospic jako lůžkové zařízení paliativní péče pro terminálně nemocné s integrovaným odborným sociálním poradenstvím pro pacienta i blízké. Bez těchto znaků nelze status hospice přiznat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Poskytuje zařízení léčebnou, paliativní a ošetřovatelskou lůžkovou péči?
+- [ ] Jde o pacienty v terminálním stavu onemocnění?
+- [ ] Je zajištěno odborné sociální poradenství pro pacienta i osoby blízké?
+- [ ] Odpovídá registrace fakticky poskytovaným službám?
+
+**Typicky rozhodné důkazy / podklady:** registrace druhu a formy péče, popis poskytovaných služeb, smlouva/registrace k sociálnímu poradenství.
 
 #### §§ 44b–44d — Centrum duševního zdraví (CDZ)
 
@@ -964,6 +1573,41 @@ Specializace CDZ podle cílové skupiny:
 - Adiktologické poruchy;
 - Pacienti s nařízeným ochranným léčením.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel chce zřídit centrum duševního zdraví a poskytovat mobilním týmem péči pacientům se závažnou duševní poruchou v jejich domácím prostředí. Nedisponuje však registrací k sociálním službám CDZ ani je nemá smluvně zajištěny. Registrující orgán posuzuje, zda lze činnost povolit jako CDZ. Důkazy: registrace zdravotních služeb, doklad o registraci/smluvním zajištění sociálních služeb, popis mobilního týmu.
+
+**2. Právní otázka.** Lze provozovat centrum duševního zdraví bez integrace sociálních služeb (vlastní registrací nebo smluvně)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* §§ 44b–44d — CDZ jako platforma komunitní psychiatrie s integrací zdravotních a sociálních služeb a péčí ve vlastním sociálním prostředí pacienta.
+- *Související ustanovení téhož zákona:* § 2a (sociálně-zdravotní služby), § 51 odst. 2 písm. e) (sdílení údajů se sociálními pracovníky).
+- *Související předpisy:* zákon č. 108/2006 Sb., o sociálních službách (registrace sociálních služeb CDZ); Strategie reformy psychiatrické péče.
+- *Judikatura:* zde převažuje registrační a koncepční praxe nad nosným soudním rozhodnutím.
+
+**4. Subsumpce.** Pojmovým znakem CDZ je integrace zdravotních a sociálních služeb; poskytovatel musí být držitelem registrace i k sociálním službám CDZ, nebo si je smluvně zajistit. Bez tohoto znaku činnost nesplňuje definici CDZ.
+
+**5. Řešení.** Registraci jako CDZ nelze povolit, dokud poskytovatel nezajistí integraci sociálních služeb. Praktický krok: doplnit registraci/smluvní zajištění sociálních služeb a nastavit sdílení údajů podle § 51 odst. 2 písm. e).
+
+**6. Varianty.** (a) Zajistí-li poskytovatel sociální služby smluvně, podmínka je splněna. (b) Specializace CDZ (děti, senioři, adiktologie) určuje cílovou skupinu a personální/věcné požadavky.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument zdravotní povahy:* poskytovatel namítne, že poskytuje jen zdravotní péči. Neutralizace: definice CDZ pojmově zahrnuje integraci se sociálními službami.
+- *Protiargument dostupnosti:* nedostatek sociálních kapacit v regionu. Neutralizace: zákon umožňuje smluvní zajištění; bez něj však status CDZ nevzniká.
+- *Slabé místo:* koordinace sdílení údajů mezi zdravotními a sociálními pracovníky vyžaduje pečlivé nastavení mlčenlivosti (§ 51 odst. 2 písm. e)).
+
+##### H. Praktický závěr
+
+CDZ (§§ 44b–44d) je nástroj komunitní psychiatrie s povinnou integrací zdravotních a sociálních služeb a péčí ve vlastním prostředí pacienta. Bez registrace či smluvního zajištění sociální složky status CDZ nevzniká.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je zajištěna integrace zdravotních a sociálních služeb (registrace nebo smlouva)?
+- [ ] Odpovídá specializace CDZ cílové skupině (dospělí, děti, senioři, adiktologie, ochranné léčení)?
+- [ ] Je nastaveno sdílení údajů se sociálními pracovníky v souladu s § 51 odst. 2 písm. e)?
+
+**Typicky rozhodné důkazy / podklady:** registrace zdravotních i sociálních služeb, smlouva o zajištění sociální složky, popis mobilního týmu a cílové skupiny.
+
 #### § 44f — Centrum komplexní péče o děti (CKPD)
 
 CKPD slouží **nezletilým pacientům se somatickým život ohrožujícím nebo život limitujícím onemocněním** (typicky nevyléčitelné metabolické a neurodegenerativní choroby, závažné vrozené vady). Specifika:
@@ -971,6 +1615,42 @@ CKPD slouží **nezletilým pacientům se somatickým život ohrožujícím nebo
 - Péče **ve vlastním sociálním prostředí** pacienta (mobilní domácí péče);
 - **Odlehčovací péče** (respite care) — přijetí pacienta až na 14 po sobě jdoucích dnů a max. 60 dnů v 12 kalendářních měsících, **na žádost** nepřetržitě pečující osoby. Smyslem je umožnit pečující osobě **odpočinek** a udržet pacienta v domácím prostředí.
 - Odborné **sociální poradenství** pro pacienta i blízké.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Rodina pečuje doma o dítě s nevyléčitelným neurodegenerativním onemocněním. Vyčerpaná pečující osoba žádá CKPD o odlehčovací (respite) pobyt dítěte na 20 po sobě jdoucích dnů. Zařízení váhá nad rozsahem a limity odlehčovací péče. Důkazy: žádost pečující osoby, zdravotní dokumentace dítěte, evidence dosud čerpané odlehčovací péče v daném roce.
+
+**2. Právní otázka.** V jakém rozsahu lze poskytnout odlehčovací péči v CKPD na žádost nepřetržitě pečující osoby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44f — CKPD pro nezletilé se život ohrožujícím/limitujícím onemocněním; odlehčovací péče (max. 14 po sobě jdoucích dnů, max. 60 dnů za 12 kalendářních měsíců).
+- *Související ustanovení téhož zákona:* § 47 (povinnosti lůžkové péče), § 31 odst. 5 (informace zástupci).
+- *Související předpisy:* zákon č. 108/2006 Sb. (sociální poradenství), zákon č. 359/1999 Sb. (sociálně-právní ochrana dětí).
+- *Judikatura:* zde převažuje aplikační/registrační praxe.
+
+**4. Subsumpce.** Odlehčovací péče je limitována na 14 po sobě jdoucích dnů a 60 dnů ročně. Požadavek na 20 po sobě jdoucích dnů překračuje limit nepřetržitého pobytu; vyhovět lze nejvýše do 14 dnů (a v rámci ročního stropu 60 dnů).
+
+**5. Řešení.** Zařízení může poskytnout odlehčovací pobyt nejvýše 14 po sobě jdoucích dnů; zbytek je třeba řešit jiným způsobem (např. následný pobyt po přestávce, jiná služba). Praktický krok: ověřit dosud vyčerpaný roční limit a informovat pečující osobu o mezích.
+
+**6. Varianty.** (a) Pokud v roce nebyla odlehčovací péče čerpána, zůstává k dispozici plných 60 dnů (rozdělených do pobytů max. po 14 dnech). (b) Mimo odlehčovací péči lze poskytovat lůžkovou/stacionární či domácí péči podle stavu dítěte.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument potřebnosti:* pečující osoba namítne vyčerpání a nutnost delšího pobytu. Neutralizace: limit je zákonný; delší potřeba se řeší kombinací služeb, ne překročením limitu.
+- *Protiargument kontinuity:* obava z přerušení péče o dítě. Neutralizace: CKPD zajišťuje návaznost a domácí/stacionární péči i mimo odlehčovací pobyt.
+- *Slabé místo:* evidence čerpání ročního limitu napříč poskytovateli může být nejednotná; riziko překročení stropu.
+
+##### H. Praktický závěr
+
+§ 44f vymezuje CKPD pro děti se závažným život limitujícím onemocněním s důrazem na vývoj, domácí prostředí a odlehčovací péči (max. 14 dnů v kuse, 60 dnů ročně) pro úlevu pečujícím osobám.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o nezletilého se somatickým život ohrožujícím/limitujícím onemocněním?
+- [ ] Nepřekračuje odlehčovací pobyt 14 po sobě jdoucích dnů?
+- [ ] Nepřekročí se roční strop 60 dnů odlehčovací péče?
+- [ ] Je zajištěno sociální poradenství pro pacienta i blízké?
+
+**Typicky rozhodné důkazy / podklady:** žádost pečující osoby, zdravotní dokumentace dítěte, evidence čerpané odlehčovací péče, registrace CKPD.
 
 #### § 44g — Urgentní příjem
 
@@ -983,6 +1663,41 @@ Urgentní příjem musí mít **nepřetržitě** zajištěna pracoviště:
 - klinická biochemie a hematologie.
 
 Smyslem definice je **standardizace** úrovně urgentní medicíny v ČR a vymezení dvou kategorií podle síly diagnostických a terapeutických možností.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel akutní lůžkové péče provozuje „urgentní příjem", nemá však nepřetržitě dostupné laboratorní zázemí (klinickou biochemii a hematologii) ani zobrazovací metody. Při kontrole vznikne otázka, zda lze pracoviště označovat za urgentní příjem a jaké úrovni odpovídá. Důkazy: doklady o nepřetržité dostupnosti pracovišť, registrace, statut centra vysoce specializované péče.
+
+**2. Právní otázka.** Splňuje pracoviště podmínky urgentního příjmu podle § 44g a které úrovni (typ I/II) odpovídá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44g — urgentní příjem pro nepřetržitý příjem akutních a neodkladných stavů; typ I (u center vysoce specializované péče) a typ II; nepřetržitá dostupnost skiagrafie, ultrazvuku, klinické biochemie a hematologie.
+- *Související ustanovení téhož zákona:* § 47 (povinnosti lůžkové péče), § 46 odst. 1 písm. e) (součinnost při mimořádných událostech).
+- *Související předpisy:* předpisy o vysoce specializované péči (statut center).
+- *Judikatura:* zde převažuje registrační a koncepční praxe.
+
+**4. Subsumpce.** Urgentní příjem musí mít nepřetržitě zajištěna pracoviště skiagrafie, ultrazvuku, klinické biochemie a hematologie. Bez nepřetržité dostupnosti tohoto zázemí pracoviště nesplňuje definici urgentního příjmu; typ I navíc předpokládá statut centra vysoce specializované péče.
+
+**5. Řešení.** Pracoviště nelze označovat za urgentní příjem, dokud nezajistí požadované zázemí; jinak musí být provozováno jako jiná forma akutní péče. Praktický krok: doložit nepřetržitou dostupnost diagnostiky a zařadit pracoviště do správného typu.
+
+**6. Varianty.** (a) Má-li poskytovatel statut centra vysoce specializované traumatologické/kardiovaskulární/cerebrovaskulární péče, jde o typ I. (b) U ostatních poskytovatelů akutní lůžkové péče jde nejvýše o typ II.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument zavedeného označení:* poskytovatel namítne dosavadní praxi. Neutralizace: rozhodná je legální definice a nepřetržitá dostupnost zázemí, ne historické označení.
+- *Protiargument dostupnosti „na zavolání":* poskytovatel tvrdí, že diagnostika je dostupná pohotovostně. Neutralizace: zákon žádá nepřetržitou dostupnost příslušných pracovišť.
+- *Slabé místo:* výklad „nepřetržité dostupnosti" (vlastní vs. smluvní zajištění) může být v praxi sporný.
+
+##### H. Praktický závěr
+
+§ 44g standardizuje urgentní příjem ve dvou úrovních (typ I u center vysoce specializované péče, typ II u ostatních) s povinnou nepřetržitou dostupností základní zobrazovací a laboratorní diagnostiky. Bez tohoto zázemí status urgentního příjmu nevzniká.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o pracoviště pro nepřetržitý příjem akutních a neodkladných stavů?
+- [ ] Je nepřetržitě dostupná skiagrafie, ultrazvuk, klinická biochemie a hematologie?
+- [ ] Má poskytovatel statut centra vysoce specializované péče (typ I), nebo jde o typ II?
+
+**Typicky rozhodné důkazy / podklady:** doklady o nepřetržité dostupnosti pracovišť, registrace, statut centra vysoce specializované péče, provozní řád.
 
 ---
 
@@ -1061,6 +1776,42 @@ Pokud pacient svévolně opustí lůžkové zařízení, poskytovatel **bez zbyt
 - u nezletilého/pacienta s ust. zástupcem — zákonného zástupce/opatrovníka;
 - **Policii ČR**, je-li ohrožen život/zdraví pacienta nebo třetích osob.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Pacient v žalobě tvrdí, že poskytovatel postupoval non lege artis, protože se neřídil doporučeným edukačním materiálem odborné společnosti. Poskytovatel namítá, že se od materiálu odůvodněně odchýlil s ohledem na individuální stav pacienta. Současně se zjistí, že poskytovatel nemá uzavřené povinné pojištění odpovědnosti. Důkazy: zdravotnická dokumentace s odůvodněním postupu, edukační materiál, znalecký posudek, pojistná smlouva.
+
+**2. Právní otázka.** Zakládá odchýlení od edukačního materiálu automaticky postup non lege artis podle § 45 odst. 1 a jaké důsledky má absence povinného pojištění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45 odst. 1 (povinnost lege artis), odst. 2 písm. m) (povinné pojištění odpovědnosti).
+- *Související ustanovení téhož zákona:* § 4 odst. 5 (definice náležité odborné úrovně), § 28 odst. 2 (právo pacienta), § 47 odst. 3 písm. a) (odůvodnění odchýlení v dokumentaci).
+- *Související předpisy:* § 2643 a § 2924/2925 OZ (odpovědnost za újmu), § 117 a násl. ZZS (správní sankce).
+- *Judikatura:* ÚS II. ÚS 1093/15 — lege artis nelze ztotožňovat s postupem dle edukačního materiálu; o správném postupu rozhoduje samostatný úsudek lékaře, schematizace medicíny není možná.
+
+**4. Subsumpce.** Odchýlení od edukačního materiálu není automaticky non lege artis (II. ÚS 1093/15); rozhodný je samostatný odborný úsudek a jeho odůvodnění v dokumentaci (§ 47 odst. 3 písm. a)). Absence povinného pojištění je samostatným porušením § 45 odst. 2 písm. m) bez ohledu na výsledek sporu o lege artis.
+
+**5. Řešení.** Při řádně odůvodněném odchýlení nemusí jít o non lege artis. Absence pojištění je správním deliktem (§ 117 a násl. ZZS) a může vést k pokutě a ohrožení oprávnění. Praktický krok: doložit odůvodnění postupu v dokumentaci a bezodkladně sjednat povinné pojištění a zaslat smlouvu krajskému úřadu.
+
+**6. Varianty.** (a) Pokud odchýlení nebylo odborně odůvodněné, může jít o non lege artis se vznikem odpovědnosti za újmu. (b) Pokud by edukační materiál odpovídal jedinému správnému postupu pro daný stav, jeho nedodržení by odpovědnost spíše zakládalo.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument standardizace:* žalobce tvrdí závaznost edukačního materiálu. Neutralizace: II. ÚS 1093/15 — materiál je vodítkem, ne závazným standardem; rozhoduje individuální úsudek.
+- *Protiargument formálního pojištění:* poskytovatel namítne, že nedostatek pojištění nesouvisí s újmou. Neutralizace: jde o samostatnou veřejnoprávní povinnost se samostatnou sankcí.
+- *Slabé místo:* doložení odborné odůvodněnosti odchýlení závisí na kvalitě záznamu a znaleckém posouzení.
+
+##### H. Praktický závěr
+
+§ 45 je protějškem práva pacienta na lege artis péči a katalogem 14 instrumentálních povinností poskytovatele. Lege artis je samostatný odborný úsudek, ne mechanické plnění edukačních materiálů; povinné pojištění odpovědnosti je nepodkročitelná podmínka provozu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je postup lege artis posouzen podle § 4 odst. 5, nikoli mechanicky podle edukačního materiálu?
+- [ ] Je odchýlení od uznávaného postupu odůvodněno v dokumentaci [§ 47 odst. 3 písm. a)]?
+- [ ] Má poskytovatel povinné pojištění odpovědnosti a zaslal smlouvu správnímu orgánu [odst. 2 písm. m)]?
+- [ ] Plní poskytovatel transparentní a návaznostní povinnosti (ceny, předání dokumentace, NZIS)?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace s odůvodněním postupu, edukační materiál/doporučený postup, znalecký posudek, pojistná smlouva, seznam cen.
+
 ---
 
 #### § 46 — Vnitřní organizační povinnosti
@@ -1126,6 +1877,42 @@ Výjimka: **Vězeňská služba** (jejíž pracovníci jsou primárně vázáni 
 #### Studenti a praktikanti (odst. 2)
 
 Studenti zdravotnických oborů smějí provádět při praktické výuce jen **činnosti, které jsou součástí výuky**, a to **pod přímým vedením** zdravotnického pracovníka **způsobilého k samostatnému výkonu povolání** a **v pracovněprávním vztahu** k poskytovateli (nebo s definovanou rolí učitele/akademického pracovníka).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Vnitřní řád nemocnice plošně zakazuje pacientům přijímat návštěvy mimo dvě hodiny denně a zakazuje nošení vlastních potravin. Pacient se cítí omezen nad nezbytnou míru. Současně si vyžádal druhý názor u externího konziliáře, jemuž nemocnice odmítla zpřístupnit potřebné údaje z dokumentace. Důkazy: vnitřní řád, žádost o konziliární služby, dokumentace o (ne)zpřístupnění údajů.
+
+**2. Právní otázka.** Smí vnitřní řád plošně omezit návštěvy a stravu a je poskytovatel povinen zpřístupnit konziliáři údaje z dokumentace?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 46 odst. 1 písm. a) (meze vnitřního řádu — jen nezbytně nutné omezení), písm. d) (zpřístupnění údajů konziliáři).
+- *Související ustanovení téhož zákona:* § 28 odst. 3 písm. c) (právo na druhý názor), písm. i) (návštěvy), § 51 odst. 2 písm. a) (výjimka z mlčenlivosti pro návaznost).
+- *Související předpisy:* čl. 10 Listiny (soukromí, důstojnost).
+- *Judikatura:* obecná zásada, že vnitřní akt poskytovatele nesmí omezovat zákonná práva pacienta nad nezbytnou míru.
+
+**4. Subsumpce.** Vnitřní řád nesmí zasahovat do práv pacienta nad míru nezbytnou pro chod zařízení a práva ostatních pacientů. Plošný a paušální zákaz návštěv/stravy bez vazby na konkrétní provozní důvod tuto mez překračuje. Poskytovatel je naopak povinen zpřístupnit konziliáři údaje nezbytné pro druhý názor (§ 46 odst. 1 písm. d)).
+
+**5. Řešení.** Plošná omezení vnitřního řádu jsou v rozporu s § 46 odst. 1 písm. a); pacient se může bránit stížností (§ 93). Odmítnutí zpřístupnit údaje konziliáři je porušením § 46 odst. 1 písm. d). Praktický krok: revidovat vnitřní řád tak, aby omezení byla individualizovaná a odůvodněná; zpřístupnit konziliáři nezbytné údaje.
+
+**6. Varianty.** (a) Omezení návštěv z důvodu epidemie nařízeného orgánem ochrany veřejného zdraví je legitimní. (b) Zpřístupnění údajů konziliáři je limitováno rozsahem nezbytným pro konzultaci.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument provozní:* nemocnice hájí klidový režim. Neutralizace: omezení musí být nezbytné a přiměřené, ne plošné; lze volit mírnější opatření.
+- *Protiargument mlčenlivosti:* poskytovatel namítne ochranu údajů. Neutralizace: zpřístupnění konziliáři je zákonnou výjimkou z mlčenlivosti (§ 51 odst. 2 písm. a)) v nezbytném rozsahu.
+- *Slabé místo:* posouzení „nezbytně nutné míry" je kontextové; bez odůvodnění konkrétních omezení nese důkazní nevýhodu poskytovatel.
+
+##### H. Praktický závěr
+
+§ 46 vymezuje vnitřní organizační povinnosti: vnitřní řád smí omezit práva pacienta jen v nezbytně nutné míře, poskytovatel zajišťuje koordinovaný individuální léčebný postup, zpřístupnění údajů konziliáři a součinnost při mimořádných událostech. Studenti jednají jen pod přímým vedením způsobilého pracovníka.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Omezuje vnitřní řád práva pacienta jen v nezbytně nutné míře a odůvodněně [písm. a)]?
+- [ ] Byl pacient seznámen s právy, povinnostmi a vnitřním řádem?
+- [ ] Byly konziliáři zpřístupněny nezbytné údaje z dokumentace [písm. d)]?
+- [ ] Provádějí studenti jen činnosti výuky pod přímým vedením způsobilého pracovníka [odst. 2]?
+
+**Typicky rozhodné důkazy / podklady:** vnitřní řád, záznam o seznámení pacienta, žádost o konziliární služby a doklad o zpřístupnění údajů, dokumentace o vedení praktikantů.
 
 ---
 
@@ -1219,6 +2006,42 @@ Registrující poskytovatel (nebo jiný přijímající) je povinen — vyžaduj
 - **důležité informace** o zdravotním stavu;
 - výsledky **provedených vyšetření**;
 - informace o **dosud provedené léčbě**.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Soběstačnosti zbavený senior po cévní mozkové příhodě je z lůžkového oddělení propuštěn v pátek odpoledne domů, aniž by byla zajištěna následná péče a aniž by byl informován obecní úřad obce s rozšířenou působností; pacient navíc nebyl vybaven léky na nezbytnou dobu. Doma zůstane bez pomoci. Důkazy: propouštěcí zpráva, záznam o soběstačnosti, doklad o (ne)informování ORP, záznam o vybavení léky.
+
+**2. Právní otázka.** Porušil poskytovatel povinnosti při propuštění nesoběstačného pacienta podle § 47 odst. 1 písm. f) a odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 47 odst. 1 písm. f) (vybavení léky na 3 dny), odst. 2 (sociální propustka — informování ORP u nesoběstačného pacienta bez zajištěné péče).
+- *Související ustanovení téhož zákona:* § 47 odst. 5 (doporučení k navazující péči), § 48 odst. 2 (ukončení péče s ohledem na § 47 odst. 2).
+- *Související předpisy:* zákon č. 108/2006 Sb. (sociální služby), zákon č. 359/1999 Sb. (u nezletilých).
+- *Judikatura:* obecné principy návaznosti péče a ochrany ohrožených osob; porušení může zakládat odpovědnost za újmu.
+
+**4. Subsumpce.** U nesoběstačného pacienta bez zajištěné následné péče vzniká povinnost včas informovat ORP (odst. 2) a vybavit pacienta léky na nezbytnou dobu (odst. 1 písm. f)). Propuštění bez splnění těchto povinností je porušením § 47.
+
+**5. Řešení.** Poskytovatel pochybil; propuštění mělo proběhnout až po vyrozumění osoby zajišťující péči, případně po informování ORP, s vybavením léky. Praktický krok: zavést kontrolu „social discharge" a checklist propuštění (soběstačnost, návaznost, léky, ORP).
+
+**6. Varianty.** (a) Je-li následná péče prokazatelně zajištěna rodinou, povinnost informovat ORP nevzniká. (b) U nezletilého se závažnou sociální problematikou v rodině se postupuje obdobně (informování příslušného orgánu).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument kapacitní:* nemocnice tlačí na uvolnění lůžka. Neutralizace: tlak na kapacitu neopravňuje propuštění ohrožující zdraví nesoběstačného pacienta bez návaznosti.
+- *Protiargument odpovědnosti rodiny:* poskytovatel tvrdí, že péči má zajistit rodina. Neutralizace: bez prokazatelného zajištění péče vzniká povinnost informovat ORP (odst. 2).
+- *Slabé místo:* posouzení soběstačnosti a „zajištěnosti" následné péče je skutkové; bez záznamu je obhajitelnost slabá.
+
+##### H. Praktický závěr
+
+§ 47 ukládá poskytovateli lůžkové/jednodenní péče specifické povinnosti: oddělenou hospitalizaci, rooming-in, traumatologický plán, vybavení léky při propuštění, sociální propustku u nesoběstačných, systém kvality a bezpečí, antibiotickou politiku a prevenci infekcí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl nesoběstačný pacient propuštěn až po zajištění/vyrozumění o následné péči [odst. 2]?
+- [ ] Byl informován ORP, není-li následná péče zajištěna [odst. 2]?
+- [ ] Byl pacient vybaven léky na nezbytnou dobu [odst. 1 písm. f)]?
+- [ ] Plní zařízení povinnosti kvality a bezpečí (odůvodnění odchýlení, ATB politika, prevence infekcí) [odst. 3, 4]?
+
+**Typicky rozhodné důkazy / podklady:** propouštěcí zpráva, hodnocení soběstačnosti, doklad o informování ORP, záznam o vybavení léky, traumatologický plán, dokumentace systému kvality.
 
 ---
 
@@ -1325,6 +2148,42 @@ Poskytovatel **nesmí**:
 
 Toto pravidlo je zásadní antikorupční nástroj. Porušení může vést k pokutě podle § 117 a násl. ZZS.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Praktický lékař odmítne registrovat nového pacienta s odůvodněním, že „nebere nové klienty", ačkoli reálně má kapacitu a pacient je pojištěncem jeho smluvní pojišťovny. Jiný pacient je z péče vyloučen poté, co opakovaně urážel personál — jeho chování však pramení z neléčené duševní poruchy. Důkazy: dokumentace o kapacitě, písemná zpráva o odmítnutí/ukončení, posouzení, zda chování souvisí se zdravotním stavem.
+
+**2. Právní otázka.** Byly naplněny taxativní důvody odmítnutí přijetí (§ 48 odst. 1) a ukončení péče (§ 48 odst. 2 písm. d))?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 48 odst. 1 písm. a) (únosné pracovní zatížení), písm. c) (smluvní pojišťovna); odst. 2 písm. d) (ukončení pro chování, není-li způsobeno zdravotním stavem); odst. 5 (písemná zpráva).
+- *Související ustanovení téhož zákona:* § 48 odst. 3 (zákaz odmítnutí u neodkladné péče/porodu/krizí), § 93 (stížnost).
+- *Související předpisy:* zákon č. 48/1997 Sb. (veřejné zdravotní pojištění), směrnice 2011/24/EU a nařízení 883/2004 (pojištěnci EU).
+- *Judikatura:* ÚS Pl. ÚS 19/13 — poskytovatelé nemohou odmítnout neodkladnou péči a u smluvních pojištěnců ani péči jinou (nestanoví-li zákon jinak).
+
+**4. Subsumpce.** Odmítnutí registrace lze opřít jen o taxativní důvody odst. 1; „nebereme nové" bez naplnění únosného pracovního zatížení (legálně definovaného) není zákonným důvodem. Ukončení péče podle písm. d) je vyloučeno, je-li závadné chování způsobeno zdravotním stavem pacienta.
+
+**5. Řešení.** Odmítnutí registrace bez zákonného důvodu je protiprávní; pacient se brání stížností (§ 93) a podnětem správnímu orgánu. Ukončení péče u pacienta s duševní poruchou je nepřípustné podle § 48 odst. 2 in fine. Praktický krok: vydat řádně odůvodněnou písemnou zprávu jen tam, kde je naplněn zákonný důvod.
+
+**6. Varianty.** (a) Jde-li o pojištěnce nesmluvní pojišťovny mimo EU, lze přijetí odmítnout (odst. 1 písm. c)), nejde-li o neodkladnou péči. (b) Spáchá-li pacient úmyslný trestný čin vůči personálu nezpůsobený zdravotním stavem, lze péči ukončit (písm. f)).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument kapacity:* lékař tvrdí naplněnou kapacitu. Neutralizace: „únosné pracovní zatížení" je legálně definováno (snížení kvality péče již přijatým pacientům); pouhé tvrzení nestačí.
+- *Protiargument problémového pacienta:* poskytovatel chce ukončit péči pro chování. Neutralizace: nelze, je-li chování způsobeno zdravotním stavem, a nikdy tak, aby došlo k ohrožení života/zdraví pacienta.
+- *Slabé místo:* posouzení souvislosti chování se zdravotním stavem je odborné; bez dokumentace je ukončení péče napadnutelné.
+
+##### H. Praktický závěr
+
+§ 48 chrání dostupnost péče: odmítnout přijetí či ukončit péči lze jen z taxativních důvodů, vždy bez ohrožení života/zdraví pacienta a u neodkladné péče, porodu či krizí vůbec ne. O odmítnutí/ukončení se vydává písemná zpráva; nelegitimní úhrady jsou zakázány.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán taxativní důvod odmítnutí (odst. 1) či ukončení (odst. 2)?
+- [ ] Není závadné chování pacienta způsobeno jeho zdravotním stavem (vylučuje ukončení dle písm. d), e))?
+- [ ] Nejde o neodkladnou péči, porod nebo krizovou situaci (zákaz odmítnutí, odst. 3)?
+- [ ] Byla vydána písemná zpráva s odůvodněním [odst. 5] a nebyly požadovány nelegitimní úhrady [odst. 6]?
+
+**Typicky rozhodné důkazy / podklady:** písemná zpráva o odmítnutí/ukončení, dokumentace o kapacitě a smluvním vztahu s pojišťovnou, posouzení souvislosti chování se zdravotním stavem, seznam cen.
+
 ---
 
 ### Práva a povinnosti zdravotnického pracovníka (§§ 49–50)
@@ -1362,6 +2221,42 @@ Toto pravidlo je zásadní antikorupční nástroj. Porušení může vést k po
 #### Konzilium (odst. 3) — záznam do zdravotnické dokumentace
 
 Pokud se zdravotnický pracovník podílel na **konziliu** (§ 2 odst. 5 — společné posouzení více odborníky), provede o tom **záznam do zdravotnické dokumentace**. Záznam obsahuje obecné náležitosti a **identifikační údaje** poskytovatele/pracovníka. Záznam obdrží i poskytovatel, který si konzilium vyžádal.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Lékař mimo službu je svědkem dopravní nehody; zraněný má masivní krvácení a obvyklá pomoc (ZZS) není včas dostupná. Lékař odmítne pomoc poskytnout s tím, že „nemá pracoviště ani vybavení". Zraněný utrpí vážnější následek. Důkazy: svědectví o průběhu, časové údaje o dostupnosti ZZS, odborná způsobilost lékaře.
+
+**2. Právní otázka.** Měl lékař povinnost poskytnout odbornou první pomoc podle § 49 odst. 1 písm. b) i mimo výkon zaměstnání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 49 odst. 1 písm. a) (lege artis v rozsahu způsobilosti, etické principy), písm. b) (povinnost neprodlené odborné první pomoci, není-li pomoc včas dostupná obvyklým způsobem).
+- *Související ustanovení téhož zákona:* § 50 odst. 1 písm. b) (právo neposkytnout péči při přímém ohrožení vlastního života/zdraví).
+- *Související předpisy:* § 150 trestního zákoníku (neposkytnutí pomoci; odst. 2 — vyšší sazba u osoby povinné podle povahy zaměstnání).
+- *Judikatura:* ustálený výklad, že zdravotnický pracovník má kvalifikovanou povinnost první pomoci silnější než obecná občanská povinnost.
+
+**4. Subsumpce.** Povinnost podle § 49 odst. 1 písm. b) je kvalifikovaná a není vázána jen na výkon zaměstnání: lékař byl povinen poskytnout odbornou první pomoc, neboť hrozilo bezprostřední ohrožení života a obvyklá pomoc nebyla včas dostupná. Výjimka § 50 odst. 1 písm. b) (přímé ohrožení vlastního života) zde tvrzena nebyla.
+
+**5. Řešení.** Odmítnutí pomoci je porušením § 49 odst. 1 písm. b) a může zakládat trestní odpovědnost podle § 150 odst. 2 TZ. Praktický krok: poskytnout pomoc v rozsahu možností a způsobilosti, přivolat ZZS, zaznamenat okolnosti.
+
+**6. Varianty.** (a) Pokud by pomoc byla dostupná obvyklým způsobem (přítomná ZZS), povinnost zasáhnout osobně by se oslabila. (b) Hrozilo-li by lékaři přímé ohrožení života (např. hořící vrak), uplatnila by se výjimka § 50 odst. 1 písm. b).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument absence zázemí:* lékař namítne chybějící vybavení. Neutralizace: povinnost je poskytnout odbornou první pomoc v rámci možností, ne plnou nemocniční péči.
+- *Protiargument mimopracovní doby:* lékař tvrdí, že není ve službě. Neutralizace: kvalifikovaná povinnost první pomoci není omezena na pracovní dobu.
+- *Slabé místo:* hranice „dostupnosti obvyklým způsobem" a rozsahu možné pomoci je skutková; rozhodují konkrétní okolnosti a způsobilost.
+
+##### H. Praktický závěr
+
+§ 49 ukládá zdravotnickému pracovníkovi tři pilíře povinností: lege artis v rozsahu způsobilosti a dle etiky, neprodlenou odbornou první pomoc a další zákonné povinnosti. Povinnost první pomoci je kvalifikovaná a trestně podložená (§ 150 odst. 2 TZ).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Hrozilo bezprostřední ohrožení života/zdraví a nebyla pomoc včas dostupná obvyklým způsobem [odst. 1 písm. b)]?
+- [ ] Poskytl pracovník pomoc v rozsahu své způsobilosti a možností?
+- [ ] Nešlo o situaci přímého ohrožení vlastního života/zdraví [§ 50 odst. 1 písm. b)]?
+- [ ] Byl o konziliu proveden záznam do dokumentace [odst. 3]?
+
+**Typicky rozhodné důkazy / podklady:** svědectví o průběhu události, časové údaje o dostupnosti ZZS, doklad o odborné způsobilosti, zdravotnická dokumentace / záznam o zásahu.
 
 ---
 
@@ -1424,6 +2319,42 @@ Obdobně se postupuje, odmítne-li poskytnutí služeb **sám poskytovatel** (po
 #### Ústavněprávní zakotvení
 
 Výhrada svědomí je ústavněprávně zakotvena v čl. 15 odst. 1 Listiny (svoboda myšlení, svědomí a náboženského vyznání) a v čl. 9 EÚLP. ESLP v rozsudku **Pichon a Sajous proti Francii** (2001) potvrdil, že svoboda svědomí má své meze tam, kde **kolektivní zájem** vyžaduje **dostupnost služeb**.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Pacientka v pokročilém těhotenství s diagnostikovaným stavem indikujícím ukončení těhotenství žádá výkon. Jediný přítomný gynekolog výkon odmítne z náboženských důvodů. Poskytovatel není schopen zajistit jiného pracovníka ani jiného poskytovatele včas a stav pacientky se zhoršuje, hrozí vážné poškození zdraví. Důkazy: dokumentace o indikaci, záznam o výhradě svědomí, doklad o (ne)možnosti zajistit jiného pracovníka/poskytovatele.
+
+**2. Právní otázka.** Může se zdravotnický pracovník dovolat výhrady svědomí podle § 50 odst. 2, hrozí-li bez výkonu vážné ohrožení zdraví pacientky a poskytovatel nemá náhradu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 50 odst. 2 — výhrada svědomí, procesní postup a její mez (nelze odmítnout, hrozí-li ohrožení života/vážné ohrožení zdraví a poskytovatel nemá náhradu).
+- *Související ustanovení téhož zákona:* § 49 odst. 1 (lege artis, první pomoc), § 48 odst. 3 (zákaz odmítnutí neodkladné péče/porodu).
+- *Související předpisy:* čl. 15 odst. 1 Listiny, čl. 9 EÚLP; zákony o specifických zdravotních službách (UPT, sterilizace, asistovaná reprodukce).
+- *Judikatura:* ESLP Pichon a Sajous proti Francii (2001) — svoboda svědomí má meze tam, kde kolektivní zájem vyžaduje dostupnost služby.
+
+**4. Subsumpce.** Výhrada svědomí je zásadně přípustná, avšak má absolutní mez: nelze ji uplatnit, pokud by odmítnutím došlo k ohrožení života/vážnému ohrožení zdraví pacienta a poskytovatel není schopen zajistit jinou náhradu. Zde tato mez nastává, takže pracovník je povinen výkon provést.
+
+**5. Řešení.** Za daných okolností povinnost lege artis (a zákaz odmítnout neodkladnou péči) převažuje nad svobodou svědomí; pracovník musí péči poskytnout. Praktický krok: o výhradě i o nemožnosti zajistit náhradu učinit záznam; provést výkon k odvrácení ohrožení zdraví.
+
+**6. Varianty.** (a) Je-li dostupný jiný pracovník/poskytovatel a stav pacientky to umožňuje, výhradu lze uplatnit s následným zajištěním péče jinde. (b) Odmítne-li péči sám poskytovatel (právnická osoba, např. církevní nemocnice), postupuje se obdobně podle poslední věty odst. 2.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument svobody svědomí:* pracovník namítne čl. 15 Listiny. Neutralizace: svoboda svědomí má mez v ohrožení života/zdraví pacienta při absenci náhrady (§ 50 odst. 2 in fine; Pichon a Sajous).
+- *Protiargument organizační:* poskytovatel tvrdí, že náhradu nelze zajistit. Neutralizace: právě tehdy se výhrada neuplatní a péči je nutno poskytnout.
+- *Slabé místo:* posouzení „vážného ohrožení zdraví" a reálné nedostupnosti náhrady je skutkové a časově tísnivé; rozhodují záznamy a organizační opatření.
+
+##### H. Praktický závěr
+
+§ 50 chrání pracovníka (právo na informace o infekci, právo na vlastní bezpečnost) a zakotvuje výhradu svědomí s procesním postupem zajištění náhrady. Výhrada má absolutní mez: nikdy nesmí vést k ohrožení života/zdraví pacienta, nelze-li zajistit náhradu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o výkon, u nějž lze výhradu svědomí uplatnit, a byl o ní informován poskytovatel [odst. 2]?
+- [ ] Zajistil poskytovatel jiného pracovníka/poskytovatele a neodmítl to pacient?
+- [ ] Nehrozí ohrožení života/vážné ohrožení zdraví při absenci náhrady (mez výhrady)?
+- [ ] Je o výhradě a postupu proveden záznam v dokumentaci?
+
+**Typicky rozhodné důkazy / podklady:** záznam o uplatnění výhrady svědomí, dokumentace o indikaci výkonu, doklad o (ne)možnosti zajistit náhradu, písemná zpráva podle § 48 odst. 5.
 
 ---
 
@@ -1563,6 +2494,42 @@ Mlčenlivost zdravotníka má strukturní paralely s **advokátní mlčenlivost�
 - **Správní rovina:** pokuta podle § 117 a násl. ZZS až do **1 000 000 Kč**.
 - **Pracovněprávní rovina:** porušení povinnosti vyplývající z právních předpisů vztahujících se k vykonávané práci — možnost výpovědi/okamžitého zrušení pracovního poměru (§ 52 písm. g), § 55 odst. 1 písm. b) zákoníku práce).
 - **Disciplinární rovina:** opatření Komory (důtka, pokuta, vyloučení).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Bývalá zdravotní sestra po skončení pracovního poměru zveřejní na sociální síti, že konkrétní (jmenovaná) veřejně známá osoba byla léčena na onkologii nemocnice. Současně advokát poškozeného pacienta žádá nemocnici o vydání kopie dokumentace pro civilní spor o náhradu újmy. Důkazy: doklad o bývalém pracovním poměru sestry, obsah zveřejnění, žádost o dokumentaci pro soudní řízení.
+
+**2. Právní otázka.** Porušila bývalá sestra mlčenlivost, ač již nepracuje u poskytovatele, a smí poskytovatel vydat dokumentaci pro účely civilního sporu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 51 odst. 1 (rozsah mlčenlivosti), odst. 3 (sdělení pro ochranu vlastních práv poskytovatele a předání dokumentace znalci/účastníkovi řízení), odst. 5 písm. b) (trvalost mlčenlivosti i po skončení vztahu).
+- *Související ustanovení téhož zákona:* § 51 odst. 2 (výjimky), § 65 (nahlížení do dokumentace).
+- *Související předpisy:* § 180 trestního zákoníku (neoprávněné nakládání s osobními údaji), § 81 a násl. OZ (ochrana osobnosti), § 117 a násl. ZZS (správní sankce).
+- *Judikatura:* NSS 9 Ads 135/2016 — povinnost mlčenlivosti podle § 51 je stanovena k ochraně práv pacientů.
+
+**4. Subsumpce.** Mlčenlivost trvá i po skončení pracovního poměru [§ 51 odst. 5 písm. b)]; zveřejnění údaje o léčbě konkrétní osoby je jejím porušením. Naproti tomu vydání dokumentace pro civilní spor spadá pod výjimku § 51 odst. 3 (ochrana práv, předání znalci/účastníkovi) a porušením mlčenlivosti není.
+
+**5. Řešení.** Jednání bývalé sestry zakládá odpovědnost trestní (§ 180 TZ), občanskoprávní (ochrana osobnosti) i případně disciplinární. Vydání dokumentace pro soudní řízení je zákonné podle § 51 odst. 3. Praktický krok: u zveřejnění zajistit důkazy a poučit poškozeného o nárocích; u žádosti pro spor předat dokumentaci v nezbytném rozsahu.
+
+**6. Varianty.** (a) Zprostí-li pacient poskytovatele mlčenlivosti [odst. 2 písm. b)], lze sdělit údaje v rozsahu zproštění. (b) Jde-li o oznámení špatného zacházení s osobou omezenou na svobodě, sdělení státnímu zástupci není porušením mlčenlivosti [odst. 2 písm. f)].
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument veřejného zájmu:* bývalá sestra namítne „veřejný zájem" na informaci o známé osobě. Neutralizace: mlčenlivost chrání pacienta a trvá i po skončení vztahu; veřejná známost pacienta ji neruší.
+- *Protiargument ochrany práv poskytovatele:* pacient zpochybní vydání dokumentace. Neutralizace: § 51 odst. 3 výslovně umožňuje sdělení a předání dokumentace pro řízení v nezbytném rozsahu (equality of arms).
+- *Slabé místo:* rozsah „nezbytného rozsahu" sdělení pro řízení je neostrý; nadměrné sdělení může samo porušit mlčenlivost.
+
+#### H. Praktický závěr
+
+§ 51 zakládá širokou, trvalou veřejnoprávní mlčenlivost o všem, co se poskytovatel dozvěděl, s taxativními výjimkami (návaznost, zproštění, zákonné případy, trestní řízení, sociálně-zdravotní integrace, oznámení špatného zacházení) a s možností sdělení pro ochranu vlastních práv. Porušení má trestní, občanskoprávní, správní, pracovněprávní i disciplinární následky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá sdělení pod některou taxativní výjimku [odst. 2], zproštění pacientem [odst. 2 písm. b)] nebo ochranu práv poskytovatele [odst. 3]?
+- [ ] Je sdělení omezeno na nezbytný rozsah?
+- [ ] Je respektována trvalost mlčenlivosti i u bývalých pracovníků a studentů [odst. 5]?
+- [ ] Byla u oznámení špatného zacházení dodržena cesta na státního zástupce [odst. 2 písm. f)]?
+
+**Typicky rozhodné důkazy / podklady:** záznam o zproštění mlčenlivosti, žádost soudu/účastníka o dokumentaci, doklad o (bývalém) pracovním vztahu, obsah neoprávněného sdělení, znalecký posudek.
 
 ---
 

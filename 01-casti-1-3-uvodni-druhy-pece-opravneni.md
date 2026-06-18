@@ -46,6 +46,42 @@ K této trojici přistupují **zákon č. 48/1997 Sb. o veřejném zdravotním p
 
 > **Praktická poznámka:** Při výkladu kteréhokoli pojmu ZZS je třeba vždy ověřit, zda speciální zákon (zejména ZSZS, ZZZS, ZVZP nebo zákon o léčivech) tento pojem nemodifikuje; ZZS působí jako obecná norma, ale ne ve smyslu subsidiarity správního řádu — speciální zdravotnické zákony ho rozšiřují, nikoli vytlačují.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel wellness studia nabízí „lymfodrenážní a detoxikační kúry", při nichž zaměstnankyně-kosmetička provádí měření tělesného složení, doporučuje doplňky stravy a aplikuje přístrojovou „mikroproudovou terapii" inzerovanou jako léčbu otoků a bolestí. Krajská hygienická stanice obdrží podnět; je třeba obstarat reklamní materiály, ceník, smluvní podmínky s klienty, fotodokumentaci přístrojů a výslechy klientů o tom, co jim bylo slibováno.
+
+**2. Právní otázka.** Spadá nabízená činnost pod předmět zákona o zdravotních službách (§ 1) jako „zdravotní služba", a tedy do registračního a kontrolního režimu ZZS, nebo jde o živnost mimo působnost zákona?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 ZZS — pětičlenná věcná působnost; zákon dopadá na „zdravotní služby a podmínky jejich poskytování".
+- *Související ustanovení téhož zákona:* § 2 odst. 2 a 4 (definice zdravotní služby a zdravotní péče), § 4 odst. 4 (obor zdravotní péče), § 11 odst. 1 (vázanost oprávněním).
+- *Související předpisy:* zákon č. 96/2004 Sb. (nelékařská povolání), zákon č. 455/1991 Sb. (živnostenský zákon — vymezení negativní působnosti, zdravotní služby nejsou živností).
+- *Judikatura:* NSS k měření zraku refraktometrem (provádění zdravotní služby osobou bez kvalifikace = poskytování bez oprávnění) — analogicky pro každou činnost naplňující znaky zdravotní péče.
+
+**4. Subsumpce.** Rozhodující je, zda činnost směřuje k některému z účelů zdravotní péče (§ 2 odst. 4 — předcházení/odstranění nemoci, ovlivnění zdravotního stavu). Je-li „terapie" prezentována jako léčba otoků a bolestí, naplňuje účel ovlivnění zdravotního stavu a jde o zdravotní službu v působnosti § 1; čistě kosmetická, esteticky neléčebná aplikace bez tvrzení o léčbě by mohla zůstat živností.
+
+**5. Řešení.** Pokud činnost objektivně i podle prezentace směřuje k léčebnému účelu, podléhá ZZS: vyžaduje oprávnění, kvalifikovaný personál a registrované zařízení. Provozování bez oprávnění je přestupkem (§ 115) a může být i trestným činem. Praktický krok hygieny/krajského úřadu: výzva k ukončení, sankční řízení, případně předání orgánům činným v trestním řízení.
+
+**6. Varianty.** (a) Studio by nabízelo výhradně relaxační masáže bez jakéhokoli léčebného tvrzení — mimo působnost ZZS, jde o živnost. (b) Přístroj by byl zdravotnickým prostředkem a aplikace doporučena lékařem v rámci léčebně rehabilitační péče — plně v režimu ZZS u registrovaného poskytovatele.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Jde o živnost, nikoli zdravotnictví." — Neutralizace: působnost ZZS se posuzuje materiálně podle účelu činnosti (§ 1 ve spojení s § 2 odst. 4), nikoli podle sebeoznačení provozovatele; rozhodující je léčebné tvrzení a faktický obsah.
+- *Protiargument:* „Zákon je jen rámcový a sám nestanoví zákazy." — Neutralizace: § 1 vymezuje působnost, na niž navazují konkrétní povinnosti (§ 11) a sankce (§ 115); rámcovost nevylučuje vynutitelnost.
+- *Slabé místo:* hranice mezi estetickou/wellness službou a zdravotní péčí je v praxi neostrá; chybí-li jednoznačné léčebné tvrzení, je subsumpce sporná a nese důkazní riziko.
+
+#### H. Praktický závěr
+
+§ 1 určuje, na co zákon vůbec dopadá; před aplikací kteréhokoli dalšího ustanovení je třeba ověřit, zda posuzovaná činnost je „zdravotní službou" a zda ji nemodifikuje speciální zákon (ZSZS, ZZZS, ZVZP, zákon o léčivech).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Naplňuje činnost některý z účelů zdravotní péče (§ 2 odst. 4)?
+- [ ] Nejde o specifickou službu podle ZSZS/transplantačního zákona/UPT (§ 2 odst. 3)?
+- [ ] Existuje oprávnění (§ 11 odst. 1), nebo jde o výkon bez oprávnění?
+- [ ] Není pojem modifikován speciálním zákonem (lex specialis)?
+
+**Typicky rozhodné důkazy / podklady:** reklamní a smluvní materiály, ceník, popis a kategorizace použitých přístrojů, výpovědi klientů, odborné/znalecké posouzení účelu činnosti.
+
 ---
 
 ### § 2 — Klíčové pojmy: poskytovatel, zdravotní služby, zdravotní péče, konzilium
@@ -178,6 +214,42 @@ Zdravotní péče je definována **dvouúrovňově**:
 
 Konzilium je legální procesní institut, který opravňuje **konsultujícího poskytovatele nebo zdravotnického pracovníka provádět zdravotní výkony diagnostické péče v místě poskytování péče jiného (žádajícího) poskytovatele**, aniž by konsultující měl pro toto místo vlastní oprávnění. Jde o jednu z mála zákonných výjimek z principu místní vázanosti oprávnění (§ 11 odst. 5). Praktický význam: superkonzultace v nemocnicích (např. neurolog z FN přizvaný do regionální nemocnice), virtuální konzilia (telekonzilia).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Oční optika provádí v prodejně „bezplatné měření zraku" refraktometrem a na jeho základě vydává zákazníkům brýle; měření obsluhuje prodavač bez kvalifikace optometristy či oftalmologa. Konkurenční poskytovatel podá podnět krajskému úřadu. Je třeba obstarat doklad o kvalifikaci obsluhy, popis přístroje a postupu, evidenci provedených měření a fotodokumentaci pracoviště.
+
+**2. Právní otázka.** Je měření zraku refraktometrem „zdravotní službou" ve smyslu § 2 odst. 2 ZZS, k jejímuž výkonu je třeba odborná kvalifikace a oprávnění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 2 písm. a) (zdravotní služba = poskytování zdravotní péče zdravotnickými pracovníky), § 2 odst. 4 písm. b) (diagnostické výkony).
+- *Související ustanovení téhož zákona:* § 11 odst. 1 a 3 (poskytování jen oprávněnými a způsobilými osobami), § 4 odst. 4 (obory).
+- *Související předpisy:* § 11 odst. 2 zákona č. 96/2004 Sb. (kvalifikace optometristy), zákon č. 95/2004 Sb. (oftalmolog).
+- *Judikatura:* NSS 30 Ad 15/2021 — měření zraku refraktometrem je zdravotní službou, k jejímuž výkonu jsou oprávněni oftalmologové a optometristé; provádí-li je nekvalifikovaná osoba, jde o poskytování bez oprávnění. NSS 10 As 94/2023 — předepisování léčivých přípravků je zdravotní péčí vyhrazenou lékaři.
+
+**4. Subsumpce.** Měření zraku je diagnostickým výkonem (zjišťování zdravotního stavu — § 2 odst. 4 písm. b), prováděným za účelem korekce zraku; jde tedy o zdravotní péči a tím o zdravotní službu (§ 2 odst. 2 písm. a). Provádí-li je osoba bez kvalifikace optometristy/oftalmologa, je porušen § 11 odst. 3 a jde o poskytování bez oprávnění.
+
+**5. Řešení.** Optika musí pro tuto činnost zaměstnávat optometristu/oftalmologa a mít odpovídající oprávnění; jinak jde o přestupek (§ 115) a v krajním případě trestný čin. Pravděpodobný výsledek: zákaz dosavadní praxe, sankce, nutnost personálního a registračního zajištění.
+
+**6. Varianty.** (a) Optika by pouze vydávala brýle podle receptu vystaveného externím očním lékařem a sama by zrak neměřila — mimo režim zdravotní služby. (b) Měření by prováděl zaměstnaný optometrista u registrovaného poskytovatele — plně v souladu se ZZS.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Jde jen o orientační, nezávazné měření, ne o diagnózu." — Neutralizace: i orientační diagnostický výkon je zdravotní péčí podle § 2 odst. 4 písm. b); zákon nerozlišuje podle závaznosti, ale podle povahy úkonu.
+- *Protiargument:* „Refraktometr měří automaticky, obsluha jen čte hodnoty." — Neutralizace: kvalifikace se vyžaduje pro výkon jako celek (indikace, provedení, interpretace), nikoli pro mechanické čtení; NSS výslovně podřadil tuto činnost pod zdravotní službu.
+- *Slabé místo:* u nových technologií (samoobslužné kiosky, AI diagnostika) je hranice „výkonu zdravotnickým pracovníkem" sporná a může vyžadovat individuální posouzení.
+
+#### H. Praktický závěr
+
+§ 2 je výkladovým srdcem zákona: dvouvrstvý aparát (zdravotní služby × zdravotní péče) určuje, co spadá do registračního režimu. Při subsumpci je nutné nejprve zařadit činnost do katalogu § 2 odst. 2 a/nebo účelů § 2 odst. 4.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Naplňuje činnost katalog zdravotních služeb (§ 2 odst. 2) nebo účel zdravotní péče (§ 2 odst. 4)?
+- [ ] Provádí ji způsobilý zdravotnický pracovník (§ 11 odst. 3, z. 95/2004, z. 96/2004)?
+- [ ] Jde o výkon vyhrazený určité profesi (např. předepis léčiv = lékař)?
+- [ ] Nejde o konzilium s oprávněním provádět diagnostiku v cizím ZZ (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o kvalifikaci personálu, popis přístroje a postupu, evidence výkonů, reklamní materiály, odborné posouzení povahy úkonu.
+
 ---
 
 ### § 2a — Sociálně-zdravotní služby
@@ -203,6 +275,42 @@ Konzilium je legální procesní institut, který opravňuje **konsultujícího 
 | Centrum duševního zdraví (§ 44b) | Komunitní péče v duševním zdraví | Sociální rehabilitace, sociálně terapeutická dílna |
 
 **Praktický důsledek:** Subjekt provozující domov pro seniory, který chce poskytovat i ošetřovatelskou péči, musí získat **dvě oprávnění** — registraci sociální služby (krajský úřad podle § 78 zákona o sociálních službách) a oprávnění k poskytování zdravotních služeb podle ZZS pro shodné místo (§ 11 odst. 8). Tato kumulace je důsledkem reformy z roku 2014 (novela č. 254/2014 Sb. a 312/2017 Sb.), která měla odstranit „šedou zónu" zdravotní péče poskytované zdravotníky v sociálních zařízeních bez výslovné regulace.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Domov pro seniory (registrovaná sociální služba) chce svým klientům poskytovat ošetřovatelskou péči vlastními zaměstnanými sestrami (převazy, aplikace léčiv, péče o dekubity) a vykazovat ji zdravotním pojišťovnám. Dosud sestry pracovaly „neformálně". Je třeba obstarat registraci sociální služby, doklad o personálním a věcném zabezpečení a smlouvy se zdravotními pojišťovnami.
+
+**2. Právní otázka.** Může domov pro seniory poskytovat ošetřovatelskou péči klientům jen na základě registrace sociální služby, nebo musí získat i oprávnění k poskytování zdravotních služeb podle ZZS?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2a písm. b) — ošetřovatelskou péči v zařízeních sociálních služeb (§ 10 odst. 1 písm. c) lze poskytovat pouze jako součást sociálně-zdravotních služeb.
+- *Související ustanovení téhož zákona:* § 10 odst. 1 písm. c), § 11 odst. 8 (kumulativní registrace pro shodné místo), § 16.
+- *Související předpisy:* zákon č. 108/2006 Sb. o sociálních službách (§ 78 — registrace), zákon č. 48/1997 Sb. (úhrady).
+- *Judikatura:* obecně přijímaný závěr, že zdravotní péči lze poskytovat jen na základě oprávnění podle ZZS; absence registrace = poskytování bez oprávnění.
+
+**4. Subsumpce.** Ošetřovatelská péče poskytovaná sestrami klientům je zdravotní péčí (§ 5 odst. 2 písm. g). Podle § 2a písm. b) ji lze poskytovat výhradně jako součást sociálně-zdravotních služeb, což podle § 11 odst. 8 vyžaduje kumulativně registraci sociální služby i oprávnění podle ZZS pro shodné místo. Pouhá registrace sociální služby nestačí.
+
+**5. Řešení.** Domov musí získat oprávnění k poskytování zdravotních služeb (ošetřovatelská péče v zařízeních sociálních služeb) u krajského úřadu pro totožné místo, jaké má v registraci sociální služby. Teprve pak může péči vykazovat pojišťovnám. Do té doby je vykazování i samotné poskytování protiprávní.
+
+**6. Varianty.** (a) Klient by docházel za péčí k externí agentuře domácí péče s vlastním oprávněním — domov nepotřebuje zdravotní registraci. (b) Domov by poskytoval sociálně-zdravotní lůžkovou péči (§ 9 odst. 2 písm. e) — rovněž dvojí registrace, ale v režimu lůžkové péče.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Sestry jen pečují o klienty v rámci sociální služby, není to zdravotnictví." — Neutralizace: ošetřovatelská péče je výslovně zdravotní péčí (§ 5 odst. 2 písm. g) a § 2a ji podmiňuje dvojí registrací.
+- *Protiargument:* „Dvojí registrace je nadbytečná administrativa." — Neutralizace: zákonodárce ji zavedl právě k odstranění „šedé zóny" zdravotní péče v sociálních zařízeních (novely 2014/2017); bez ní hrozí odepření úhrad a sankce.
+- *Slabé místo:* hranice mezi „sociální" péčí o soběstačnost a „zdravotní" ošetřovatelskou péčí může být v konkrétních úkonech sporná.
+
+#### H. Praktický závěr
+
+§ 2a vytváří hybridní režim: tři typy služeb existují výlučně na pomezí ZZS a zákona o sociálních službách a vyžadují kumulativní registraci pro shodné místo poskytování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o některou ze tří hybridních služeb (§ 9/2/e, § 10/1/c, § 44b)?
+- [ ] Má subjekt registraci sociální služby (§ 78 z. 108/2006 Sb.)?
+- [ ] Má oprávnění podle ZZS pro shodné místo (§ 11 odst. 8)?
+- [ ] Jsou obě registrace pro totožnou adresu poskytování?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o registraci sociální služby, oprávnění podle ZZS, doklady o personálním a věcném zabezpečení, smlouvy se zdravotními pojišťovnami.
 
 ---
 
@@ -282,6 +390,42 @@ Zákon definuje **čtyři obory**, ve kterých existuje formálně-právní inst
 - Pro praktiky a pediatry zahrnuje péče **vždy návštěvní službu** (§ 7 odst. 3).
 - Registrující poskytovatel vede **trvalou zdravotnickou dokumentaci** s evidencí dispenzární péče, preventivních prohlídek a vakcinací.
 - Vzájemná **změna registrujícího poskytovatele** je možná zpravidla po 3 měsících (§ 11 a § 30 zákona o veřejném zdravotním pojištění č. 48/1997 Sb. ve spojení s pojistnou smlouvou).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Turista bez vědomí je přivezen na urgentní příjem; není znám jeho pojistný status ani totožnost. Lékaři zahájí neodkladnou diagnostiku a léčbu a založí zdravotnickou dokumentaci. Po stabilizaci se zjistí, že jde o cizince bez pojištění. Nemocnice řeší, zda vůbec šlo o „pacienta" se všemi právy a kdo nese náklady. Je třeba obstarat záznam o přijetí, dokumentaci o průběhu a doklady o totožnosti.
+
+**2. Právní otázka.** Vzniká postavení „pacienta" se zákonnými právy (§ 28 a násl.) i u osoby v bezvědomí bez formálního přijetí do péče a bez pojištění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 odst. 1 — pacientem je fyzická osoba, které jsou poskytovány zdravotní služby (deskriptivní, bez vazby na smlouvu či pojištění).
+- *Související ustanovení téhož zákona:* § 38 odst. 3 (neodkladná péče bez souhlasu), § 28 odst. 1 (práva pacienta), § 53 (dokumentace), § 3 odst. 2 a 3 (ošetřující pracovník, ILP).
+- *Související předpisy:* zákon č. 48/1997 Sb. (úhrada u nepojištěných — samoplátcovský režim), čl. 7 Listiny.
+- *Judikatura:* ústavní zásada nedotknutelnosti osoby a její omezení v stavu nouze; péče se poskytuje bez ohledu na pojistný status.
+
+**4. Subsumpce.** Jakmile jsou osobě poskytovány zdravotní služby, je pacientem ve smyslu § 3 odst. 1 — bez ohledu na vědomí, totožnost, pojištění a existenci smlouvy. Náleží jí práva pacienta; neodkladná péče se poskytuje i bez souhlasu (§ 38 odst. 3).
+
+**5. Řešení.** Osoba je plnohodnotným pacientem; nemocnice musí poskytnout neodkladnou péči, vést dokumentaci a respektovat práva pacienta. Náklady u nepojištěného cizince se řeší samoplátcovsky (případně přes mezistátní úmluvy či nařízení EU 883/2004, je-li pojištěncem EU/EHP/CH — pak jde o nezbytnou péči dle § 5 odst. 1 písm. c).
+
+**6. Varianty.** (a) Osoba je pojištěncem EU se zachráncem EHIC — péče v režimu nezbytné péče, hrazená přes mezistátní zúčtování. (b) Stav by nebyl neodkladný a osoba odmítla péči — bez souhlasu nelze pokračovat (§ 28 odst. 3, § 34), avšak postavení pacienta tím nezaniká.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez smlouvy a bez pojištění nejde o pacienta." — Neutralizace: § 3 odst. 1 váže pojem výhradně na faktické poskytování služeb, nikoli na právní vztah či úhradu.
+- *Protiargument:* „Osoba v bezvědomí nemůže uplatňovat práva pacienta." — Neutralizace: práva se uplatní i zástupně/objektivně (neodkladná péče bez souhlasu, ochrana dokumentace); nemožnost projevu vůle práva neruší.
+- *Slabé místo:* rozsah práv u zemřelého je jen částečný (§ 78–88), což vyžaduje samostatné posouzení.
+
+#### H. Praktický závěr
+
+§ 3 definuje subjektní pojmy, na nichž stojí celá Část čtvrtá. Pojem pacienta je široký a aktivuje se okamžikem poskytování služeb; ošetřující pracovník a ILP určují odpovědnostní rámec.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou osobě fakticky poskytovány zdravotní služby (→ je pacientem)?
+- [ ] Je určen ošetřující zdravotnický pracovník koordinující ILP (odst. 2, 3)?
+- [ ] Jde o hospitalizaci (> 24 h, odst. 4) nebo jednodenní péči?
+- [ ] U primární péče: byl vyplněn a podepsán registrační list (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** záznam o přijetí, zdravotnická dokumentace, registrační list, doklady o totožnosti a pojistném statusu, záznam o poskytnutí neodkladné péče.
 
 ---
 
@@ -364,6 +508,42 @@ Tato definice je **právním standardem péče** (*lex artis medicinae*). Tři k
 - správním deliktem podle § 117 ZZS.
 
 > **Praktická poznámka — důkazní břemeno:** V medicínsko-odpovědnostních sporech tíží daňový subjekt důkazní břemeno tvrzení o porušení *lex artis*, ale soud zpravidla nařídí znalecký posudek. Standardem znalecké interpretace je *průměrný odborník v daném oboru za daných podmínek*, nikoli špička oboru.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacientka s metastazujícím nádorem žaluje nemocnici za to, že jí nebyla nasazena nákladná cílená biologická léčba dostupná ve fakultním centru; regionální nemocnice ji léčila standardním chemoterapeutickým protokolem. Tvrdí porušení lex artis. Je třeba obstarat kompletní dokumentaci, doporučené postupy odborné společnosti, SmPC přípravků, indikační kritéria a znalecký posudek.
+
+**2. Právní otázka.** Porušila regionální nemocnice „náležitou odbornou úroveň" (§ 4 odst. 5) tím, že neaplikovala nejmodernější léčbu dostupnou jen ve specializovaném centru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 5 — náležitá odborná úroveň = pravidla vědy a uznávané postupy, při respektování individuality pacienta, s ohledem na konkrétní podmínky a objektivní možnosti.
+- *Související ustanovení téhož zákona:* § 28 odst. 2 (právo na péči na náležité odborné úrovni), § 45 odst. 2 (předávání pacienta), § 4 odst. 4 (obory).
+- *Související předpisy:* § 2910 a násl. zákona č. 89/2012 Sb. (odpovědnost za újmu), § 143, § 147–148 zákona č. 40/2009 Sb. (trestní odpovědnost), čl. 4 Úmluvy o biomedicíně.
+- *Judikatura:* ÚS III.ÚS 2253/13 — lex artis (náležitá odborná úroveň) zahrnuje profesní standardy; NSS 15 Ad 9/2025 — součástí lege artis je prvek individualizace postupu a ohled na objektivní možnosti.
+
+**4. Subsumpce.** Standard se neměří podle špičky oboru, ale podle průměrného odborníka za daných podmínek; součástí je ohled na „objektivní možnosti" (§ 4 odst. 5). Pokud byla indikovaná cílená léčba součástí uznávaných postupů a pacientka splňovala indikační kritéria, mohlo dojít k pochybení, pokud nebyla ani nabídnuta převzetí/přeložení do centra; pokud objektivní možnosti či indikace bránily, lex artis porušen nebyl.
+
+**5. Řešení.** Klíčové je, zda náležitá odborná úroveň vyžadovala alespoň indikovat a zajistit překlad do specializovaného centra (kontinuita a návaznost péče, § 45). Pravděpodobný výsledek závisí na znaleckém posudku: pochybením bývá nikoli „neprovedení" centrové léčby v regionu, nýbrž opomenutí pacientku k ní odeslat.
+
+**6. Varianty.** (a) Pacientka by nesplňovala indikační kritéria cílené léčby — lex artis dodržen. (b) Nemocnice by pacientku vědomě nepřeložila navzdory indikaci a možnosti — silné riziko odpovědnosti za újmu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Standard se rovná nejlepší dostupné léčbě." — Neutralizace: § 4 odst. 5 výslovně relativizuje standard „konkrétními podmínkami a objektivními možnostmi"; měřítkem je průměrný, nikoli špičkový odborník.
+- *Protiargument:* „Ohled na objektivní možnosti je výmluva pro podstandardní péči." — Neutralizace: objektivní možnosti nesmějí krýt opomenutí odeslat pacienta tam, kde péče dostupná je; povinnost návaznosti (§ 45) zůstává.
+- *Slabé místo:* obsah lex artis je dynamický a doložitelný hlavně znalecky; chybějící či rozporné posudky oslabují argumentaci na obou stranách.
+
+#### H. Praktický závěr
+
+§ 4 dodává klíčové pojmy včetně odpovědnostního standardu lex artis. V medicínskoprávních sporech je § 4 odst. 5 ve spojení s § 28 odst. 2 výchozí normou pro posouzení správnosti postupu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odpovídal postup uznávaným medicínským postupům (EBM, doporučené postupy, SmPC)?
+- [ ] Byla respektována individualita pacienta (komorbidity, preference)?
+- [ ] Byly zohledněny objektivní možnosti pracoviště — a využita povinnost odeslat/přeložit?
+- [ ] Byl výkon proveden ve správném oboru a místě (§ 4 odst. 1, 4)?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace, doporučené postupy odborných společností, SmPC, indikační kritéria, znalecký posudek, doklady o personálním a věcném vybavení.
 
 ---
 
@@ -467,6 +647,42 @@ Tato definice je **právním standardem péče** (*lex artis medicinae*). Tři k
 
 > **Praktická poznámka — prováděcí předpisy:** Odst. 3 deleguje na prováděcí předpis (vyhlášku Ministerstva zdravotnictví) stanovení obsahu, časového rozmezí a okruhu adresátů preventivních prohlídek a dispenzární péče. Konkretizace: vyhláška č. 70/2012 Sb. o preventivních prohlídkách a vyhláška č. 39/2012 Sb. o dispenzární péči.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient si u nemocnice nárokuje bezplatné provedení plánované operace tříselné kýly mimo pořadník s odůvodněním, že jde o „neodkladnou péči". Nemocnice ho zařadila na čekací listinu. Pacient podává stížnost a posléze žalobu. Je třeba obstarat dokumentaci o zdravotním stavu, indikaci a zařazení na pořadník.
+
+**2. Právní otázka.** Lze plánovaný výkon (operace nekomplikované kýly) kvalifikovat jako neodkladnou péči podle § 5 odst. 1 písm. a), a tím obejít pořadník?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 1 — druhy péče dle naléhavosti (neodkladná, akutní, nezbytná, plánovaná); § 5 odst. 2 — druhy dle účelu.
+- *Související ustanovení téhož zákona:* § 38 odst. 3 (neodkladná péče bez souhlasu), § 9 (lůžková péče), § 2 odst. 4.
+- *Související předpisy:* zákon č. 48/1997 Sb. (úhrady, čekací doby), nařízení EU 883/2004 (nezbytná péče u pojištěnců EU).
+- *Judikatura:* NSS 3 Ad 7/2025 — neodkladná péče dle § 5 odst. 1 písm. a) se nevztahuje na řadu případů plánované, často i akutní péče, která zákonné podmínky nesplňuje.
+
+**4. Subsumpce.** Neodkladná péče předpokládá bezprostřední ohrožení života/zdraví, náhlou intenzivní bolest nebo náhlé změny chování. Nekomplikovaná tříselná kýla bez známek uskřinutí tyto znaky nenaplňuje — jde o plánovanou péči (§ 5 odst. 1 písm. d). Klasifikace dle naléhavosti a dle účelu se aplikuje kumulativně (zde plánovaná + léčebná).
+
+**5. Řešení.** Pacient nemá nárok na provedení mimo pořadník z titulu neodkladnosti. Zařazení na čekací listinu je v souladu se zákonem. Teprve při uskřinutí kýly (náhlé ohrožení) by šlo o neodkladnou péči s okamžitým nárokem a možností výkonu i bez souhlasu (§ 38 odst. 3).
+
+**6. Varianty.** (a) Kýla se uskřinula s rizikem nekrózy střeva — neodkladná péče, okamžitý výkon. (b) Pacient je pojištěncem EU na krátkém pobytu se zhoršující se symptomatologií — posouzení jako nezbytná péče (§ 5 odst. 1 písm. c) v rozsahu, aby nemusel vycestovat dříve.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bolest je intenzivní, jde tedy o neodkladnou péči." — Neutralizace: zákon vyžaduje náhlou nebo intenzivní bolest spojenou s ohrožujícím stavem; chronická či snesitelná bolest u plánovatelného stavu znaky neodkladnosti nenaplňuje.
+- *Protiargument:* „Každé odkládání operace zhoršuje stav." — Neutralizace: pouhé teoretické riziko progrese nestačí; rozhodující je bezprostřednost ohrožení. NSS výslovně vylučuje extenzivní výklad neodkladnosti.
+- *Slabé místo:* hranice mezi akutní a neodkladnou péčí je klinicky proměnlivá; v hraničních stavech je nutné individuální medicínské posouzení.
+
+#### H. Praktický závěr
+
+§ 5 řídí dvě nezávislé klasifikace, jež určují právní důsledky (souhlas, úhrada, pořadníky). Při sporu o nárok na péči je nutné správně zařadit stav podle naléhavosti i účelu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Naplňuje stav znaky neodkladné péče (bezprostřední ohrožení / náhlá intenzivní bolest)?
+- [ ] Jde o pojištěnce EU/EHP/CH → nezbytná péče (písm. c)?
+- [ ] Jaký je účel péče (preventivní, diagnostická, léčebná, paliativní…)?
+- [ ] Je výkon plánovatelný (pořadník) nebo vyžaduje okamžité provedení?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace, indikace, záznam o zařazení na čekací listinu, doklad o pojistném statusu, případně znalecké posouzení naléhavosti.
+
 ---
 
 ### § 6 — Formy zdravotní péče
@@ -490,6 +706,42 @@ Tato definice je **právním standardem péče** (*lex artis medicinae*). Tři k
 | Jednodenní | Lůžko < 24 h | S pobytem na lůžku, ale do 24 h; nutná návaznost na akutní intenzivní péči | § 8 |
 | Lůžková | Lůžko ≥ 24 h | Hospitalizace; nepřetržitý provoz | § 9 |
 | Ve vlastním sociálním prostředí | Doma / mobilní | Návštěvní služba; domácí péče; ošetřovatelská péče v zařízeních sociálních služeb | § 10 |
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel chce zřídit „centrum jednodenní chirurgie", kde bude provádět operace a pacienty nechávat 12 hodin na lůžku k pooperačnímu sledování. V žádosti o oprávnění uvede formu „ambulantní péče". Krajský úřad žádost prověřuje. Je třeba obstarat provozní řád, popis výkonů, dobu pobytu na lůžku a doklad o zajištění návazné intenzivní péče.
+
+**2. Právní otázka.** Pod jakou formu zdravotní péče (§ 6) spadá poskytování, při němž pacient pobývá na lůžku 12 hodin po operaci, a jaké registrační podmínky se na ni vážou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 — čtyři formy péče (ambulantní, jednodenní, lůžková, VSP).
+- *Související ustanovení téhož zákona:* § 7 (ambulantní), § 8 (jednodenní — pobyt < 24 h, nutná návaznost akutní intenzivní péče), § 9 (lůžková), § 3 odst. 4 (hospitalizace), § 11 odst. 6.
+- *Související předpisy:* vyhláška č. 92/2012 Sb. (věcné vybavení), vyhláška č. 99/2012 Sb. (personální zabezpečení).
+- *Judikatura:* nosný výkladový závěr — forma péče se určuje podle faktického režimu pobytu pacienta, nikoli podle označení v žádosti.
+
+**4. Subsumpce.** Pobyt na lůžku po dobu kratší než 24 hodin s ohledem na charakter výkonů odpovídá jednodenní péči (§ 8), nikoli ambulantní (§ 7 odst. 1 výslovně vylučuje přijetí na lůžko). Na jednodenní péči se vážou přísnější podmínky, zejména zajištění nepřetržité dostupnosti akutní lůžkové péče intenzivní.
+
+**5. Řešení.** Poskytovatel musí žádat o oprávnění pro formu jednodenní péče, nikoli ambulantní, a doložit zajištění návazné intenzivní péče (vlastní JIP nebo smluvně). Při nesprávném zařazení krajský úřad žádosti v dané podobě nevyhoví nebo vyzve k úpravě.
+
+**6. Varianty.** (a) Pacient by po výkonu neležel na lůžku a odešel domů týž den bez lůžkového pobytu — ambulantní péče (§ 7). (b) Pobyt by trval přes 24 hodin se záměrem vícedenního sledování — lůžková péče (§ 9) s povinností nepřetržitého provozu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pacient odchází týž den, jde tedy o ambulanci." — Neutralizace: rozhodující je přijetí na lůžko, nikoli délka v rámci dne; přijetí na lůžko vylučuje ambulantní formu (§ 7 odst. 1).
+- *Protiargument:* „Zajištění intenzivní péče je nadbytečné u jednoduchých výkonů." — Neutralizace: § 8 podmínku stanoví bezvýjimečně pro jednodenní péči kvůli riziku eskalace u invazivních výkonů.
+- *Slabé místo:* některé hraniční výkony (krátká observace po infuzi) mohou být sporné mezi ambulantní a jednodenní formou.
+
+#### H. Praktický závěr
+
+§ 6 určuje organizační formu, od níž se odvíjejí registrační, personální, vybavenostní i úhradové požadavky. Správné zařazení formy je předpokladem zákonného oprávnění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Dochází k přijetí pacienta na lůžko? (ne → ambulantní; ano + < 24 h → jednodenní; ≥ 24 h → lůžková)
+- [ ] Je u jednodenní péče zajištěna návaznost akutní intenzivní péče (§ 8)?
+- [ ] Odpovídá věcné a personální vybavení dané formě (vyhl. 92/2012, 99/2012)?
+- [ ] Je forma správně uvedena v žádosti i v oprávnění (§ 19)?
+
+**Typicky rozhodné důkazy / podklady:** provozní řád, popis výkonů a režimu pobytu, doklad o zajištění intenzivní péče, doklady o vybavení a personálu.
 
 ---
 
@@ -531,6 +783,42 @@ Pro **praktické lékaře** (dospělí) a **pediatry** (děti) je návštěvní 
 
 Pro zubaře a gynekology obligatorní návštěvní služba **není** stanovena, byť ji mohou poskytovat dobrovolně.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Imobilní pacient (stav po cévní mozkové příhodě) registrovaný u praktického lékaře žádá o návštěvu doma kvůli horečce a kašli. Praktik návštěvu odmítne s tím, že „má plnou čekárnu" a ať volá záchranku. Rodina podá stížnost krajskému úřadu. Je třeba obstarat zdravotnickou dokumentaci, registrační list, záznam o žádosti o návštěvu a o jejím odmítnutí.
+
+**2. Právní otázka.** Je registrující praktický lékař povinen poskytnout návštěvní službu imobilnímu pacientovi, nebo jde o volitelnou službu, již lze odmítnout pro provozní vytíženost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 odst. 3 — součástí primární ambulantní péče registrujícího praktika a pediatra je vždy návštěvní služba.
+- *Související ustanovení téhož zákona:* § 4 odst. 2 (návštěvní služba), § 4 odst. 5 (objektivní možnosti), § 7 odst. 2 písm. a) (koordinace primární péče), § 3 odst. 5 (registrující poskytovatel).
+- *Související předpisy:* zákon č. 48/1997 Sb., zákon č. 372/2011 Sb. — povinnosti poskytovatele (§ 45).
+- *Judikatura:* obecný výkladový závěr — odmítnutí obligatorní návštěvní služby je možné jen z objektivních důvodů, nikoli pro pouhou vytíženost.
+
+**4. Subsumpce.** U praktika je návštěvní služba obligatorní součástí primární ambulantní péče (§ 7 odst. 3). Pacient je imobilní a nemůže se dostavit; návštěva je tedy indikována. „Plná čekárna" není objektivní nemožností ve smyslu § 4 odst. 5, nýbrž otázkou organizace práce.
+
+**5. Řešení.** Praktik byl povinen návštěvu zajistit (případně v rámci ordinačního/návštěvního času, nikoli ji paušálně odmítnout). Odmítnutí může být porušením povinností poskytovatele s důsledky podle § 24/§ 117. Legitimní by bylo jen reálné objektivní bránění (souběžná akutní událost, nedostupnost).
+
+**6. Varianty.** (a) Pacientem by byl mobilní dospělý schopný dostavit se do ordinace — návštěva indikována není. (b) Šlo by o zubaře nebo gynekologa — obligatorní návštěvní služba není stanovena (§ 7 odst. 3 a contrario).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Návštěvní služba je věcí kapacity lékaře." — Neutralizace: § 7 odst. 3 ji činí povinnou součástí péče praktika/pediatra; není volitelná.
+- *Protiargument:* „Pacient měl volat záchrannou službu." — Neutralizace: ZZS (§ 7a) a ZZZS odlišují pohotovost/záchranku od návštěvní služby; banální stav imobilního pacienta patří praktikovi, ne do systému neodkladné péče.
+- *Slabé místo:* hranice „objektivních možností" (§ 4 odst. 5) je flexibilní; při skutečné kolizi povinností může být odmítnutí ospravedlnitelné.
+
+#### H. Praktický závěr
+
+§ 7 člení ambulantní péči na primární, specializovanou a stacionární; klíčovou povinností je obligatorní návštěvní služba u praktiků a pediatrů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o registrujícího praktika nebo pediatra (→ obligatorní návštěvní služba)?
+- [ ] Je pacient objektivně neschopen dostavit se do ordinace?
+- [ ] Existuje skutečná objektivní překážka (§ 4 odst. 5), nebo jen provozní vytíženost?
+- [ ] Byl postup řádně zdokumentován?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace, registrační list, záznam o žádosti a odmítnutí návštěvy, rozpis ordinačních a návštěvních hodin.
+
 ---
 
 ### § 7a — Pohotovostní služba
@@ -565,6 +853,42 @@ Pohotovostní služba **není totéž co zdravotnická záchranná služba** (§
 
 > **Praktická poznámka — lékárenská pohotovostní služba:** § 2 odst. 2 písm. j) bod 3 ji uvádí jako součást pohotovostní služby, organizačně je však upravena zákonem č. 378/2007 Sb. o léčivech (§ 79 a násl. — povinnost zajistit dosažitelnost léčivých přípravků mimo standardní otevírací dobu).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Samostatná zubní ordinace inzeruje „zubní pohotovost 24/7". Pacient s akutní bolestí v noci dorazí, ordinace je zavřená a telefon neodpovídá. Pacient skončí na urgentním příjmu nemocnice. Krajský úřad prošetřuje, zda ordinace splňuje podmínky pohotovostní služby. Je třeba obstarat povolení/oprávnění, rozvrh služeb a doklad o věcném a personálním zabezpečení.
+
+**2. Právní otázka.** Za jakých podmínek může poskytovatel poskytovat pohotovostní službu podle § 7a a jaké jsou minimální požadavky na její zajištění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7a — pohotovostní služba (LPS pro dospělé s urgentním příjmem, LPS pro děti, zubní pohotovost) a odst. 3 (prováděcí předpis o minimálním vybavení a časovém rozsahu).
+- *Související ustanovení téhož zákona:* § 2 odst. 2 písm. j) (pohotovostní služba jako zdravotní služba), § 44g (urgentní příjem), § 7 (ambulantní forma), § 11 odst. 1.
+- *Související předpisy:* prováděcí vyhláška k § 7a odst. 3, zákon č. 378/2007 Sb. (lékárenská pohotovost).
+- *Judikatura:* výkladový závěr — pohotovostní služba je samostatnou zdravotní službou vázanou oprávněním a minimálními standardy; její provozování bez splnění podmínek je protiprávní.
+
+**4. Subsumpce.** Zubní pohotovost je formou pohotovostní služby (§ 7a odst. 2 písm. c), kterou lze poskytovat jen na základě oprávnění a při splnění minimálního věcného, technického a personálního zabezpečení včetně časového rozsahu. Pouhá inzerce „24/7" bez reálného zajištění tyto požadavky nenaplňuje a je klamavá.
+
+**5. Řešení.** Ordinace buď musí pohotovost reálně provozovat dle stanovených standardů (rozvrh, dosažitelnost personálu), nebo ji nesmí nabízet. Krajský úřad může uložit nápravu, sankci, případně řešit poskytování bez náležitého oprávnění. Pacientova akutní bolest patří jinak do systému pohotovosti/urgentního příjmu.
+
+**6. Varianty.** (a) Ordinace by měla řádné oprávnění a rozvrh zubní pohotovosti a jen jednorázově selhala — řešilo by se jako provozní pochybení. (b) Šlo by o lékařskou pohotovost pro dospělé — tu smí provozovat jen poskytovatel s urgentním příjmem (§ 7a odst. 2 písm. a, § 44g).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pohotovost zajišťujeme telefonicky podle potřeby." — Neutralizace: § 7a odst. 3 předpokládá minimální časový rozsah a personální i věcné zabezpečení; nahodilá dostupnost požadavky nesplňuje.
+- *Protiargument:* „Pohotovost je totéž co záchranná služba, postačí odkázat na 155." — Neutralizace: pohotovostní služba je ambulantní, na pevném pracovišti, odlišná od výjezdové ZZS (§ 2 odst. 2 písm. d).
+- *Slabé místo:* konkrétní minimální parametry závisí na prováděcím předpisu, jehož znění je nutné ověřit pro dané období.
+
+#### H. Praktický závěr
+
+§ 7a kodifikuje třístupňovou architekturu pohotovostní služby jako ambulantní formy provázané s lůžkovými poskytovateli akutní péče. Provozování vyžaduje oprávnění a splnění minimálních standardů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] O jaký typ pohotovosti jde (LPS dospělí / LPS děti / zubní)?
+- [ ] Má LPS pro dospělé poskytovatel urgentní příjem (§ 44g)?
+- [ ] Jsou splněny minimální požadavky na vybavení, personál a časový rozsah (odst. 3)?
+- [ ] Odpovídá inzerovaná dostupnost realitě?
+
+**Typicky rozhodné důkazy / podklady:** oprávnění a jeho rozsah, rozvrh služeb, doklady o personálním a věcném zabezpečení, evidence ošetřených pacientů, reklamní materiály.
+
 ---
 
 ### § 8 — Jednodenní péče
@@ -586,6 +910,42 @@ Jednodenní péče je **hybridní formou** mezi ambulantní a lůžkovou péčí
 
 1. Provozováním JIP přímo u poskytovatele jednodenní péče (typicky integrovaná zdravotnická zařízení s lůžkovou i jednodenní péčí);
 2. Smluvně zajištěnou dostupností u jiného poskytovatele lůžkové akutní intenzivní péče v dosahu (typicky pro samostatná centra jednodenní péče — *day surgery centres*).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Samostatné centrum jednodenní chirurgie (oční operace katarakty) nemá vlastní JIP a spoléhá na to, že „v případě komplikace zavolá záchranku". U pacienta dojde po výkonu k oběhové komplikaci; než dorazí ZZS a převeze ho do 20 km vzdálené nemocnice, stav se zhorší. Krajský úřad prošetřuje splnění podmínek jednodenní péče. Je třeba obstarat provozní řád, smlouvy o zajištění intenzivní péče a dokumentaci o průběhu.
+
+**2. Právní otázka.** Splňuje centrum podmínku „nepřetržité dostupnosti akutní lůžkové péče intenzivní" podle § 8, pokud se spoléhá pouze na přivolání záchranné služby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 — jednodenní péče vyžaduje zajištěnou nepřetržitou dostupnost akutní lůžkové péče intenzivní.
+- *Související ustanovení téhož zákona:* § 9 odst. 2 písm. a) (akutní intenzivní péče), § 6 (formy), § 11 odst. 6 (vybavení), § 16 odst. 1 písm. f), g).
+- *Související předpisy:* vyhláška č. 92/2012 Sb., vyhláška č. 99/2012 Sb., zákon č. 374/2011 Sb. (ZZZS).
+- *Judikatura:* výkladový závěr — „dostupnost" musí být reálně a předem smluvně/organizačně zajištěna, nikoli pouze hypotetická.
+
+**4. Subsumpce.** Podmínka § 8 vyžaduje zajištěnou dostupnost — buď vlastní JIP, nebo smluvně garantovanou návaznost u poskytovatele intenzivní péče v dosahu. Spoléhání na obecné přivolání ZZS bez smluvní garance a bez ohledu na dojezdovou dobu tuto podmínku nenaplňuje.
+
+**5. Řešení.** Centrum musí mít doloženo reálné zajištění intenzivní péče (smlouva s nemocnicí, dojezd, převzetí pacienta). Bez něj nesmí jednodenní péči poskytovat; krajský úřad může uložit nápravu, pozastavit nebo odejmout oprávnění (§ 24). Z hlediska odpovědnosti hrozí i odpovědnost za újmu, pokud absence zajištění přispěla k poškození.
+
+**6. Varianty.** (a) Centrum sídlí v areálu nemocnice s vlastní JIP a smlouvou o převzetí — podmínka splněna. (b) Šlo by o čistě ambulantní výkon bez pobytu na lůžku (§ 7) — podmínka § 8 by se neuplatnila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Záchranná služba je vždy dostupná, podmínka je splněna." — Neutralizace: obecná existence ZZS není „zajištěnou dostupností akutní lůžkové intenzivní péče" pro daného poskytovatele; vyžaduje se konkrétní organizační/smluvní garance.
+- *Protiargument:* „U katarakty komplikace prakticky nehrozí." — Neutralizace: § 8 stanoví podmínku bezvýjimečně pro všechny invazivní výkony jednodenní péče bez ohledu na statistické riziko.
+- *Slabé místo:* zákon nestanoví explicitní maximální dojezdovou vzdálenost; přiměřenost zajištění je nutné posoudit individuálně.
+
+#### H. Praktický závěr
+
+§ 8 vymezuje jednodenní péči jako hybridní formu s lůžkovým pobytem do 24 hodin a klíčovou bezpečnostní podmínkou návaznosti intenzivní péče.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o pobyt na lůžku < 24 h s ohledem na charakter výkonů?
+- [ ] Je doloženo zajištění nepřetržité dostupnosti akutní lůžkové intenzivní péče?
+- [ ] Je zajištění vlastní (JIP) nebo smluvní, a je reálné (dojezd, převzetí)?
+- [ ] Odpovídá vybavení a personál jednodenní péči (vyhl. 92/2012, 99/2012)?
+
+**Typicky rozhodné důkazy / podklady:** provozní řád, smlouva o zajištění intenzivní péče, doklady o vybavení a personálu, dokumentace o průběhu výkonu a komplikacích.
 
 ---
 
@@ -648,6 +1008,42 @@ Klíčový rozdíl je v **aktivním pasivním režimu péče**:
 
 Toto rozlišení je klíčové i pro **úhrady ze zdravotního pojištění** (rozdílné platební mechanismy — DRG u akutních, paušál u následných a dlouhodobých).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zdravotní pojišťovna odmítá hradit pobyt pacienta na rehabilitačním lůžku jako „následnou lůžkovou péči" s tím, že pacient nemá funkční potenciál ke zlepšení a jde fakticky o dlouhodobou péči s nižší úhradou. Pacient je po těžké CMP, částečně závislý na podpoře funkcí. Je třeba obstarat dokumentaci, hodnocení funkčního potenciálu a rehabilitační plán.
+
+**2. Právní otázka.** Jde o následnou lůžkovou péči (§ 9 odst. 2 písm. c) s funkčním potenciálem ke zlepšení, nebo o dlouhodobou lůžkovou péči (písm. d), kde podstatné zlepšení nelze očekávat — s odlišným úhradovým mechanismem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 2 — pětivrstvá kategorizace lůžkové péče (akutní intenzivní/standardní, následná, dlouhodobá, sociálně-zdravotní).
+- *Související ustanovení téhož zákona:* § 9 odst. 1 (nepřetržitý provoz), § 5 odst. 2 písm. f), g) (rehabilitace, ošetřovatelská péče), § 3 odst. 4 (hospitalizace).
+- *Související předpisy:* zákon č. 48/1997 Sb. (úhradové mechanismy — DRG u akutních, paušál u následných/dlouhodobých), zákon č. 108/2006 Sb. (u sociálně-zdravotní péče).
+- *Judikatura:* nosný závěr — zařazení do vrstvy lůžkové péče se řídí klinickým stavem pacienta a jeho funkčním potenciálem, nikoli organizačním zařazením oddělení.
+
+**4. Subsumpce.** Rozhodující je funkční potenciál: má-li pacient potenciál ke zlepšení a péče (zejm. rehabilitační) k němu směřuje, jde o následnou péči (písm. c, případně NIP u závislých na podpoře funkcí). Nelze-li stav podstatně zlepšit a bez ošetřovatelské péče se zhoršuje, jde o dlouhodobou péči (písm. d).
+
+**5. Řešení.** Klíčem je objektivní hodnocení funkčního potenciálu a rehabilitačního plánu (znalecky/odborně). Pokud potenciál a aktivní rehabilitace existují, náleží zařazení a úhrada následné péče; jinak dlouhodobé. Spor se řeší doložením rehabilitačních cílů a jejich plnění.
+
+**6. Varianty.** (a) Pacient je úplně závislý na podpoře základních životních funkcí — následná intenzivní péče (NIP) v rámci písm. c bodu 3. (b) Stav je trvale stabilní bez potenciálu, vyžaduje jen ošetřovatelskou péči — dlouhodobá péče (písm. d), případně DIOP.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument (pojišťovny):* „Bez měřitelného zlepšení jde o dlouhodobou péči." — Neutralizace: zákon u následné péče vyžaduje funkční potenciál ke zlepšení nebo udržení, nikoli prokázané zlepšení; rozhodný je potenciál a aktivní rehabilitační program.
+- *Protiargument (poskytovatele):* „Každá rehabilitace zakládá následnou péči." — Neutralizace: chybí-li reálný funkční potenciál a jde o udržovací péči, jde o dlouhodobou péči bez ohledu na formální rehabilitační aktivitu.
+- *Slabé místo:* hodnocení funkčního potenciálu je medicínsky proměnlivé a v čase se mění; vyžaduje opakované a doložené posuzování.
+
+#### H. Praktický závěr
+
+§ 9 strukturuje lůžkovou péči podle klinické situace pacienta; správné zařazení do vrstvy určuje úhradový režim i personální a provozní požadavky (nepřetržitý provoz).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyžaduje stav hospitalizaci, kterou nelze nahradit ambulantně (odst. 1)?
+- [ ] Do které vrstvy spadá (akutní intenzivní/standardní, následná, dlouhodobá, sociálně-zdravotní)?
+- [ ] Má pacient funkční potenciál ke zlepšení/udržení (následná × dlouhodobá)?
+- [ ] Je zajištěn nepřetržitý provoz a odpovídající personál (vyhl. 99/2012)?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace, hodnocení funkčního stavu a potenciálu, rehabilitační plán a záznamy o jeho plnění, úhradové podklady pojišťovny.
+
 ---
 
 ### § 10 — Zdravotní péče poskytovaná ve vlastním sociálním prostředí pacienta
@@ -691,6 +1087,42 @@ Tato dvě ustanovení odráží trend **deinstitucionalizace** péče a domácí
 #### Limit dle odst. 3 — výkony „nevyžadující" zdravotnické zařízení
 
 Ve VSP lze provádět jen takové výkony, jejichž provedení **není podmíněno technickým a věcným vybavením** zdravotnického zařízení (vyjma výslovně povolených v odst. 2). Důsledek: invazivní výkony vyžadující sterilní operační prostředí, RTG/CT/MRI, laboratoře, JIP, ARO a další zařízení **nelze** provádět doma — nejde o protizákonný zákaz, ale o objektivní bezpečnostní limit.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Agentura domácí péče chce u pacienta s amyotrofickou laterální sklerózou v domácím prostředí zajišťovat domácí umělou plicní ventilaci a navíc provádět odběry na rozsáhlé biochemické a zobrazovací vyšetření „v terénu". Revizní lékař pojišťovny zpochybňuje rozsah služeb poskytovaných doma. Je třeba obstarat oprávnění agentury, indikace a popis prováděných výkonů a technického zázemí.
+
+**2. Právní otázka.** Které výkony lze poskytovat ve vlastním sociálním prostředí pacienta podle § 10, a jaký je limit pro výkony vyžadující vybavení zdravotnického zařízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 — typy péče ve VSP (návštěvní služba, domácí péče, ošetřovatelská péče v ZSS); odst. 2 (UPV a dialýza doma); odst. 3 (limit na výkony nevyžadující vybavení ZZ).
+- *Související ustanovení téhož zákona:* § 4 odst. 2 a 3 (návštěvní služba, VSP), § 5 odst. 2 (druhy péče), § 11 odst. 5 písm. d) (poskytování mimo ZZ).
+- *Související předpisy:* zákon č. 48/1997 Sb. (úhrada domácí péče), vyhláška č. 92/2012 Sb.
+- *Judikatura:* výkladový závěr — domácí péče je limitována povahou výkonů, jež nevyžadují vybavení zdravotnického zařízení (vyjma výslovně povolených UPV a dialýzy).
+
+**4. Subsumpce.** Domácí UPV je výslovně povolena (§ 10 odst. 2). Naproti tomu rozsáhlá zobrazovací a laboratorní vyšetření vyžadují technické a věcné vybavení zdravotnického zařízení a podle § 10 odst. 3 je ve VSP provádět nelze (odběr biologického materiálu pro laboratoř je přípustný, samotné laboratorní zpracování doma nikoli; RTG/CT/MRI vyloučeny).
+
+**5. Řešení.** Agentura smí zajišťovat domácí UPV a ošetřovatelské a rehabilitační výkony nevyžadující vybavení ZZ; rozsáhlejší diagnostiku musí pacient absolvovat u poskytovatele se zdravotnickým zařízením. Limit § 10 odst. 3 je objektivní bezpečnostní hranicí, nikoli sankčním zákazem.
+
+**6. Varianty.** (a) Místo UPV by šlo o peritoneální dialýzu — rovněž výslovně povolena doma (§ 10 odst. 2). (b) Pacient by byl v domově pro seniory — ošetřovatelská péče v ZSS (§ 10 odst. 1 písm. c) s nutností dvojí registrace (§ 11 odst. 8).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Moderní mobilní přístroje umožní vše provést doma." — Neutralizace: § 10 odst. 3 váže limit na to, zda výkon vyžaduje vybavení ZZ; technická dostupnost mobilního přístroje nepřekonává zákonný limit u výkonů typicky vázaných na ZZ.
+- *Protiargument:* „UPV a dialýza ukazují, že i náročné výkony jsou doma možné." — Neutralizace: jde o taxativní výjimky (odst. 2); rozšiřovat je analogicky na jiné náročné výkony nelze.
+- *Slabé místo:* u některých výkonů (např. drobné chirurgické ošetření) je sporné, zda „vyžadují" vybavení ZZ; nutné individuální posouzení.
+
+#### H. Praktický závěr
+
+§ 10 vymezuje péči ve VSP a její limity. Domácí péče je flexibilní, ale ohraničená povahou výkonů; dvě technicky náročné výjimky (UPV, dialýza) jsou výslovně povoleny.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o návštěvní službu, domácí péči nebo ošetřovatelskou péči v ZSS (odst. 1)?
+- [ ] Vyžaduje výkon vybavení zdravotnického zařízení (→ ve VSP nelze, odst. 3)?
+- [ ] Nejde o výslovně povolenou UPV nebo dialýzu (odst. 2)?
+- [ ] U péče v ZSS: je splněna dvojí registrace (§ 11 odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** oprávnění poskytovatele a jeho rozsah, indikace a popis výkonů, doklady o technickém zázemí, smlouvy se zdravotními pojišťovnami.
 
 ---
 
@@ -813,6 +1245,43 @@ Zvláštní vybavení vozidel ZZS (sanitky, RV — rendez vous, LZS — letecká
 
 Jak zmíněno u § 2a — kumulativní podmínka registrace u sociální i zdravotní agendy, pro **shodné místo poskytování**. Provázanost je kontrolovaná krajským úřadem (zpravidla týž úřad rozhoduje o obou registracích).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel registrovaný pro ambulantní ortopedickou péči v Brně začne jednou týdně ordinovat v pronajaté místnosti v jiném městě, aniž by toto místo měl uvedeno v oprávnění. Současně zde provádí drobné aplikace injekcí. Konkurent podá podnět krajskému úřadu. Je třeba obstarat oprávnění a jeho rozsah (místa poskytování), nájemní smlouvu a evidenci ošetřených pacientů.
+
+**2. Právní otázka.** Porušil poskytovatel § 11 odst. 1 a 5 tím, že poskytuje zdravotní služby v místě neuvedeném v oprávnění, mimo zákonné výjimky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 odst. 1 (vázanost obsahem oprávnění) a odst. 5 (místní vázanost a její taxativní výjimky).
+- *Související ustanovení téhož zákona:* § 19 odst. 1 písm. c) (místa poskytování v rozhodnutí), § 20a (změna oprávnění), § 16 odst. 1 písm. f), § 24 (sankce).
+- *Související předpisy:* § 115 ZZS (přestupek), § 251 zákona č. 40/2009 Sb. (neoprávněné podnikání), vyhláška č. 92/2012 Sb.
+- *Judikatura:* nosný závěr — poskytování v místě neuvedeném v oprávnění mimo zákonné výjimky je poskytováním bez oprávnění.
+
+**4. Subsumpce.** Ambulantní ortopedická péče v ordinaci nepatří mezi výjimky § 11 odst. 5 (konzultace na dálku, VSP, doprava, ZZS atd.). Poskytování v novém městě bez uvedení místa v oprávnění porušuje § 11 odst. 1 a 5; jde o vybočení z oprávnění = poskytování bez oprávnění.
+
+**5. Řešení.** Poskytovatel musí před zahájením péče v novém místě požádat o změnu oprávnění (§ 20a) a místo doložit (užívací právo, vybavení, personál, provozní řád). Bez toho hrozí sankce dle § 115, případně § 24 (pozastavení/odejmutí) a v krajním případě trestní postih. Praktický krok: okamžité přerušení nezákonného provozu a podání žádosti o změnu.
+
+**6. Varianty.** (a) Poskytoval by v novém místě jen konzultace na dálku nebo návštěvní službu ve VSP — kryto výjimkami § 11 odst. 5 písm. a), d). (b) Šlo by o mobilní preventivní výkony — režim § 11a (zvláštní povolení krajského úřadu).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Jde jen o dočasné ordinování, není to nové zařízení." — Neutralizace: § 11 odst. 5 váže poskytování na místa uvedená v oprávnění bez ohledu na frekvenci; i pravidelné dočasné ordinování je poskytováním v neuvedeném místě.
+- *Protiargument:* „Aplikace injekcí je banální výkon." — Neutralizace: rozsah oprávnění (odst. 1) se vztahuje na všechny služby a všechna místa; závažnost výkonu vázanost neoslabuje.
+- *Slabé místo:* hranice mezi „místem poskytování" a krátkodobou výjimkou (např. návštěvní služba) může být v konkrétním uspořádání sporná.
+
+#### H. Praktický závěr
+
+§ 11 je uzlovým ustanovením Hlavy II — sedm imperativů (vázanost oprávněním, kvalifikace, personál, místní vázanost, vybavení, dopravní prostředky, dvojí registrace). Porušení může vést k pozastavení či odejmutí oprávnění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Poskytují se jen služby a v místech uvedených v oprávnění (odst. 1, 5)?
+- [ ] Spadá poskytování mimo ZZ pod některou z výjimek odst. 5 písm. a)–j)?
+- [ ] Je personál způsobilý a v dostatečném počtu (odst. 3, 4; vyhl. 99/2012)?
+- [ ] Je zařízení technicky a věcně vybaveno (odst. 6; vyhl. 92/2012)?
+- [ ] U sociálně-zdravotní péče: je splněna dvojí registrace (odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o oprávnění a jeho rozsah, nájemní/užívací smlouvy, provozní řád, doklady o personálu a vybavení, evidence ošetřených pacientů.
+
 ---
 
 ### § 11a–11b — Poskytování preventivní péče mimo zdravotnické zařízení
@@ -859,6 +1328,43 @@ Jak zmíněno u § 2a — kumulativní podmínka registrace u sociální i zdrav
 **Limit:** lze provádět jen výkony, jejichž provedení **není podmíněno technickým a věcným vybavením** zdravotnického zařízení (typicky odběry krve, RTG plic, mamografie v mobilním mamobusu se zvláštním vybavením).
 
 § 11b stanoví **tři důvody zániku povolení** (pohlcení zánikem oprávnění, uplynutí doby, odejmutí) a **čtyři důvody odejmutí** (přestal splňovat podmínky, závažné nebo opakované porušení, rozpor s povolením, žádost) plus jeden fakultativní (3 měsíce neaktivity).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel chce za epidemie chřipky zřídit mobilní očkovací místo na náměstí a v nákupním centru. Začne očkovat, aniž požádal o povolení krajského úřadu a aniž má stanovisko hygieny. Krajská hygienická stanice zjistí nedostatky v protiepidemických opatřeních. Je třeba obstarat oprávnění poskytovatele, žádost o povolení, stanovisko KHS a popis hygienických opatření.
+
+**2. Právní otázka.** Smí poskytovatel provádět preventivní očkování mimo zdravotnické zařízení bez povolení podle § 11a, jen na základě svého obecného oprávnění k poskytování zdravotních služeb?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11a — akcesorní povolovací režim pro preventivní výkony mimo ZZ; nutnost souhlasného závazného stanoviska KHS (odst. 4); limit na výkony nevyžadující vybavení ZZ (odst. 2).
+- *Související ustanovení téhož zákona:* § 11 odst. 5 písm. c) (výjimka z místní vázanosti), § 11b (zánik a odejmutí povolení), § 5 odst. 2 písm. a) (preventivní péče).
+- *Související předpisy:* zákon č. 258/2000 Sb. o ochraně veřejného zdraví, zákon č. 500/2004 Sb. (správní řád).
+- *Judikatura:* výkladový závěr — povolení podle § 11a je samostatnou podmínkou vedle oprávnění; bez něj je poskytování mimo ZZ protiprávní.
+
+**4. Subsumpce.** Mobilní očkování je preventivní výkon mimo ZZ; podle § 11a odst. 1 je možné jen na základě povolení krajského úřadu vydaného na základě souhlasného závazného stanoviska KHS (odst. 4). Obecné oprávnění k poskytování zdravotních služeb nestačí. Poskytování bez povolení je v rozporu se zákonem.
+
+**5. Řešení.** Poskytovatel musí nejprve podat žádost o povolení (§ 11a odst. 5, 6) s vymezením činností, míst a doby, doložit stanovisko KHS a hygienicko-protiepidemická opatření; teprve po vydání povolení smí očkovat. Do té doby je provoz nutné zastavit; hrozí sankce a odejmutí případně uděleného povolení (§ 11b).
+
+**6. Varianty.** (a) Očkování by probíhalo v ordinaci (ve ZZ) — povolení podle § 11a se nevyžaduje. (b) Šlo by o odběry pro mamografický screening v mobilní jednotce — opět nutné povolení § 11a a stanovisko KHS.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Mám oprávnění očkovat, místo nerozhoduje." — Neutralizace: § 11a zavádí pro výkony mimo ZZ akcesorní povolovací režim; oprávnění samo o sobě poskytování mimo ZZ nelegitimizuje.
+- *Protiargument:* „V nouzové epidemické situaci je rychlost přednější než formality." — Neutralizace: zákon nestanoví výjimku z povolení pro běžné epidemie; ochrana veřejného zdraví (stanovisko KHS) je nezbytnou podmínkou.
+- *Slabé místo:* za krizových stavů mohou krizové předpisy režim modifikovat; je nutné ověřit aktuální mimořádná opatření.
+
+#### H. Praktický závěr
+
+§ 11a (s navazujícím § 11b o zániku a odejmutí povolení) zřizuje samostatný povolovací režim pro preventivní výkony mimo zdravotnické zařízení, podmíněný stanoviskem hygieny.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o preventivní výkon prováděný mimo ZZ (→ nutné povolení § 11a)?
+- [ ] Má poskytovatel oprávnění k odpovídajícím zdravotním službám?
+- [ ] Bylo vydáno souhlasné závazné stanovisko KHS (odst. 4)?
+- [ ] Nejde o výkon vyžadující vybavení ZZ (odst. 2)?
+- [ ] Obsahuje žádost vymezení činností, míst a doby (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** oprávnění poskytovatele, žádost o povolení a rozhodnutí o něm, závazné stanovisko KHS, popis hygienicko-protiepidemických opatření, vymezení míst a doby.
 
 ---
 
@@ -908,6 +1414,42 @@ Telemedicínské služby lze poskytovat **i mimo ZZ** ve dvou scénářích:
 
 > **Praktická poznámka — odpovědnost a kvalita:** Telemedicína nesnižuje standard „náležité odborné úrovně" (§ 4 odst. 5). Lékař provádějící telekonzultaci je odpovědný stejně, jako by konzultaci prováděl prezenčně. Rizikem je technický limit — nemožnost provést fyzikální vyšetření, omezené vizuální informace; lékař proto musí jasně **odlišit situace vyžadující prezenční vyšetření** a pacienta o tom poučit.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Telemedicínská platforma nabízí „online lékaře 24/7" s videokonzultacemi a vystavováním e-receptů. Komunikace probíhá přes běžnou videoaplikaci bez ověření totožnosti pacienta; hovory jsou plošně nahrávány „pro účely kvality" bez výslovného souhlasu. Pacientovi je na dálku předepsán lék, který mu uškodí. Je třeba obstarat dokumentaci konzultace, technické parametry komunikace, doklad o souhlasu s nahráváním a o autentizaci.
+
+**2. Právní otázka.** Splňuje platforma podmínky § 11c pro poskytování telemedicínských služeb (šifrování, ověření identity, souhlas s nahráváním), a jaký je standard odpovědnosti lékaře při telekonzultaci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11c — definice telemedicíny, tři technické požadavky (kvalita/bezpečnost, šifrování, ověření identity), souhlas s nahráváním.
+- *Související ustanovení téhož zákona:* § 4 odst. 5 (náležitá odborná úroveň), § 53 odst. 1 (informace o pacientovi), § 11 odst. 5 písm. j) (poskytování mimo ZZ), § 31 (informovaný souhlas).
+- *Související předpisy:* prováděcí vyhláška k § 11c odst. 3, nařízení (EU) 2016/679 (GDPR — zpracování záznamu), zákon č. 89/2012 Sb. (odpovědnost za újmu).
+- *Judikatura:* nosný závěr — telemedicína nesnižuje standard lex artis; lékař odpovídá jako při prezenční péči.
+
+**4. Subsumpce.** Platforma porušuje § 11c: chybí ověření identity komunikujících stran, není doloženo šifrování splňující požadavky a nahrávání probíhá bez souhlasu pacienta. Z hlediska odpovědnosti se standard náležité odborné úrovně (§ 4 odst. 5) nemění; nemožnost fyzikálního vyšetření musí lékař zohlednit a indikovat prezenční vyšetření, je-li potřebné.
+
+**5. Řešení.** Telemedicínské služby lze poskytovat jen při splnění všech tří technických podmínek a se souhlasem s nahráváním. Platforma musí zavést silnou autentizaci, šifrování a režim souhlasu; jinak jde o protiprávní poskytování a porušení GDPR. Za škodlivý e-recept odpovídá lékař stejně jako prezenčně, posílena nedostatkem řádné anamnézy na dálku.
+
+**6. Varianty.** (a) Konzultace by sloužila jen k vzdálenému telemonitoringu dat z certifikovaného zdravotnického prostředku (§ 11c odst. 2 písm. b) — užší režim, ale stále s technickými požadavky. (b) Pacient by udělil výslovný souhlas s nahráváním a byl řádně autentizován — část vad odpadá.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Telemedicína je méně náročná, standard může být nižší." — Neutralizace: § 4 odst. 5 platí beze změny; technický limit (absence fyzikálního vyšetření) zvyšuje, nikoli snižuje nároky na obezřetnost lékaře.
+- *Protiargument:* „Nahrávání slouží kvalitě, souhlas není nutný." — Neutralizace: § 11c odst. 1 výslovně podmiňuje nahrávání souhlasem pacienta; bez něj je nepřípustné.
+- *Slabé místo:* konkrétní technické standardy (typ šifrování, způsob autentizace) určuje prováděcí předpis, jehož aktuální znění je nutné ověřit.
+
+#### H. Praktický závěr
+
+§ 11c kodifikuje telemedicínu jako řádnou zdravotní službu vázanou třemi technickými podmínkami a souhlasem s nahráváním, při zachování plného standardu odpovědnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je komunikační kanál šifrovaný a splňuje technické požadavky (odst. 1)?
+- [ ] Je prokázána identita komunikujících stran (silná autentizace)?
+- [ ] Byl získán souhlas pacienta s nahráváním, je-li nahráváno?
+- [ ] Zohlednil lékař limity dálkové péče a indikoval prezenční vyšetření, bylo-li třeba (§ 4 odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** záznam a dokumentace konzultace, technické parametry a logy komunikace, doklad o autentizaci pacienta, projev souhlasu s nahráváním, e-recept a jeho odůvodnění.
+
 ---
 
 ### § 12 — Způsobilost k samostatnému výkonu zdravotnického povolání
@@ -951,6 +1493,42 @@ Pro každý obor zdravotní péče musí mít poskytovatel (nebo odborný zástu
 
 > **Praktická poznámka — odborný zástupce v ordinaci s.r.o.:** Velmi rozšířená praxe — lékař podniká přes s.r.o. (z důvodů daňové optimalizace, ručení), a v této s.r.o. je sám statutárním orgánem (jednatelem) a současně odborným zástupcem. § 14 odst. 2 výslovně připouští souběh funkce statutárního orgánu a odborného zástupce (s daňovými důsledky — odborný zástupce musí být v pracovněprávním nebo obdobném vztahu, případně smluvním vztahu, pokud je statutárním orgánem nebo manželem poskytovatele).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Lékař bez dokončeného specializačního vzdělávání (v pre-atestační přípravě) si založí s.r.o. a žádá o oprávnění k poskytování ambulantní interní péče, přičemž sám sebe uvádí jako odborného zástupce. Krajský úřad ověřuje jeho způsobilost. Je třeba obstarat doklady o vzdělání, doklad o zařazení do specializačního vzdělávání a údaj o členství v komoře.
+
+**2. Právní otázka.** Může lékař bez atestace (bez způsobilosti k samostatnému výkonu povolání) být sám odborným zástupcem poskytovatele a poskytovat samostatně zdravotní služby ve svém oboru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 — způsobilost k samostatnému výkonu povolání (bez přímého vedení a odborného dohledu); odst. 2 a 3 (požadavky na poskytovatele a korespondence oborů).
+- *Související ustanovení téhož zákona:* § 14 (odborný zástupce), § 16 (podmínky oprávnění), § 11 odst. 3.
+- *Související předpisy:* zákon č. 95/2004 Sb. (atestace lékařů), zákon č. 96/2004 Sb. (nelékaři), nařízení vlády č. 31/2010 Sb. (obory).
+- *Judikatura:* nosný závěr — samostatný výkon povolání předpokládá dokončené specializační vzdělávání; lékař v přípravě pracuje pod dohledem školitele.
+
+**4. Subsumpce.** Lékař bez atestace není způsobilý k samostatnému výkonu povolání (§ 12 odst. 1). Podle § 12 odst. 3 písm. a) se pro poskytování v oborech specializačního vzdělávání lékařů vyžaduje způsobilost k samostatnému výkonu alespoň v jednom z těchto oborů. Bez ní nemůže být ani sám sebe odborným zástupcem (§ 14 odst. 1 vyžaduje způsobilost dle § 12).
+
+**5. Řešení.** Oprávnění nelze udělit, dokud poskytovatel (PO) neustanoví způsobilého odborného zástupce s atestací. Lékař v přípravě může pracovat jako zaměstnanec pod odborným dohledem školitele, nikoli jako samostatný poskytovatel či odborný zástupce. Krajský úřad žádost v dané podobě zamítne.
+
+**6. Varianty.** (a) Lékař by získal atestaci alespoň v jednom oboru — způsobilost splněna, může být odborným zástupcem. (b) Šlo by o nelékařské služby a odborným zástupcem by byl lékař způsobilý vykonávat odborný dohled (§ 12 odst. 3 písm. d) — přípustné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Lékař má diplom a je členem komory, to stačí." — Neutralizace: § 12 vyžaduje způsobilost k *samostatnému* výkonu (atestaci), nikoli pouze získanou odbornou způsobilost; členství v komoře samo nestačí.
+- *Protiargument:* „Bude pracovat opatrně pod dálkovou supervizí." — Neutralizace: zákon vyžaduje formální způsobilost, nikoli faktickou opatrnost; bez atestace je třeba ustanovit způsobilého odborného zástupce.
+- *Slabé místo:* u některých oborů jiný předpis připouští poskytování i lékařem s jinou specializací (§ 12 odst. 3 písm. a in fine); nutno ověřit konkrétní obor.
+
+#### H. Praktický závěr
+
+§ 12 stanoví kvalifikační jádro poskytování: poskytovatel-FO musí být sám způsobilý nebo ustanovit způsobilého odborného zástupce; PO vždy ustanovuje odborného zástupce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je poskytovatel/odborný zástupce způsobilý k samostatnému výkonu povolání (atestace)?
+- [ ] Odpovídá způsobilost oboru poskytovaných služeb (odst. 3)?
+- [ ] Jde o FO podle § 16 odst. 2 (odborného zástupce nelze ustanovit)?
+- [ ] Je u PO ustanoven odborný zástupce (§ 16 odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** diplomy a doklady o specializačním vzdělávání (atestaci), potvrzení o členství v komoře, doklad o zařazení do přípravy, pracovní/smluvní vztah odborného zástupce.
+
 ---
 
 ### § 13 — Bezúhonnost
@@ -983,6 +1561,42 @@ ZZS používá **restriktivnější** standard bezúhonnosti oproti obecné defi
 Standardní doklad: **výpis z rejstříku trestů** (ne starší 3 měsíců). Pro cizince + osoby pobývající mimo ČR posledních 3 letech déle než 6 měsíců — i doklad z příslušného státu. Pokud stát výpis nevydává — **čestné prohlášení**.
 
 **Procesní zjednodušení:** Krajský úřad si výpis z RT žádá **sám** v elektronické podobě (odst. 3), žadatel ho nepředkládá.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Lékař byl pravomocně odsouzen za usmrcení z nedbalosti při operaci (podmíněný trest). Žádá o oprávnění k poskytování chirurgické péče. Krajský úřad si vyžádá výpis z rejstříku trestů. Je třeba obstarat trestní rozsudek, údaj o případném zahlazení a výpis z RT.
+
+**2. Právní otázka.** Brání odsouzení za nedbalostní trestný čin spáchaný při poskytování zdravotních služeb (s podmíněným trestem) udělení oprávnění z důvodu nesplnění podmínky bezúhonnosti podle § 13?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13 — dvojí test bezúhonnosti: závažnostní (úmyslný TČ, NPO ≥ 1 rok) a profesní (jakýkoli TČ spáchaný při poskytování zdravotních služeb).
+- *Související ustanovení téhož zákona:* § 16 odst. 1 písm. c) (bezúhonnost jako podmínka), § 14 odst. 1 (bezúhonnost odborného zástupce), § 23 (odnětí při ztrátě bezúhonnosti).
+- *Související předpisy:* § 105 zákona č. 40/2009 Sb. (zahlazení odsouzení), § 143 TZ (usmrcení z nedbalosti), zákon č. 269/1994 Sb. o Rejstříku trestů.
+- *Judikatura:* nosný závěr — profesní test postihuje i nedbalostní a podmíněně potrestané činy spáchané při poskytování zdravotních služeb.
+
+**4. Subsumpce.** Závažnostní test (písm. a) nebyl naplněn (nejde o úmyslný TČ s NPO ≥ 1 rok). Profesní test (písm. b) je však naplněn: jde o trestný čin spáchaný při poskytování zdravotních služeb, a to bez ohledu na nedbalostní formu a podmíněný trest. Žadatel proto není bezúhonný, dokud nedojde k zahlazení.
+
+**5. Řešení.** Dokud na žadatele není hleděno, jako by nebyl odsouzen (zahlazení dle § 105 TZ), nesplňuje podmínku bezúhonnosti a oprávnění mu nelze udělit (§ 16 odst. 1 písm. c). Po zahlazení se bezúhonnost obnovuje. Krajský úřad si výpis z RT obstará sám (§ 13 odst. 3).
+
+**6. Varianty.** (a) Odsouzení by se týkalo TČ nesouvisejícího s poskytováním zdravotních služeb a šlo by o nedbalostní čin s podmíněným trestem — profesní ani závažnostní test by nebyl naplněn, bezúhonnost zachována. (b) Došlo by k zahlazení odsouzení — bezúhonnost obnovena, oprávnění lze udělit.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Šlo jen o nedbalost a podmíněný trest, bezúhonnost není dotčena." — Neutralizace: profesní test (písm. b) postihuje *jakýkoli* TČ spáchaný při poskytování zdravotních služeb bez ohledu na zavinění a druh trestu.
+- *Protiargument:* „Standard ZZS je přísnější než živnostenský zákon, je to nepřiměřené." — Neutralizace: přísnější standard je záměrný vzhledem k ochraně pacientů; jeho ústavnost není zpochybňována.
+- *Slabé místo:* posouzení, zda byl TČ spáchán „při poskytování zdravotních služeb", může být v hraničních případech sporné.
+
+#### H. Praktický závěr
+
+§ 13 zavádí přísnější dvojí test bezúhonnosti; profesní složka je klíčová ve zdravotnictví, protože postihuje i nedbalostní pochybení v rámci péče.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje pravomocné odsouzení za úmyslný TČ s NPO ≥ 1 rok (závažnostní test)?
+- [ ] Existuje odsouzení za jakýkoli TČ spáchaný při poskytování zdravotních služeb (profesní test)?
+- [ ] Došlo k zahlazení (hledí se, jako by nebyl odsouzen)?
+- [ ] U cizinců/osob pobývajících v zahraničí: je doložena bezúhonnost z příslušného státu?
+
+**Typicky rozhodné důkazy / podklady:** výpis z Rejstříku trestů, trestní rozsudek, doklad o zahlazení, doklady o bezúhonnosti ze zahraničí, případně čestné prohlášení.
 
 ---
 
@@ -1056,6 +1670,42 @@ Jedna osoba nemůže být odborným zástupcem pro **více než 2 poskytovatele*
 
 Odborný zástupce má **vlastní oznamovací povinnost** vůči poskytovateli (do 10 dnů). Při ukončení funkce nebo zániku podmínek musí poskytovatel **do 10 dnů** ustanovit nového odborného zástupce a **bezodkladně** požádat o změnu oprávnění. Nedodržení = důvod pro odejmutí oprávnění (§ 24 odst. 2 písm. a).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Síť lékáren formálně uvádí jako odborného zástupce jednoho farmaceuta pro pět provozoven, kde reálně nepůsobí. V jedné z lékáren dojde k pochybení jiných farmaceutů při zacházení s léčivy. Komora zahájí disciplinární řízení proti odbornému zástupci. Je třeba obstarat pracovní smlouvu odborného zástupce, rozpis jeho přítomnosti, organizační dokumentaci a doklady o jeho zapojení do odborného řízení.
+
+**2. Právní otázka.** Lze činit odborného zástupce odpovědným za jednotlivá pochybení jiných farmaceutů, a může jedna osoba být odborným zástupcem pro pět poskytovatelů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14 — funkce odborného řízení; odst. 3 (max. 2 poskytovatelé); odst. 2 (pracovněprávní/obdobný vztah); odst. 5 (náhrada při ukončení funkce).
+- *Související ustanovení téhož zákona:* § 12 (způsobilost), § 16 (podmínky oprávnění), § 24 odst. 2 (odejmutí při ztrátě odborného zástupce).
+- *Související předpisy:* zákon č. 220/1991 Sb. (komory a disciplinární odpovědnost), zákon č. 378/2007 Sb. (lékárny), zákon č. 89/2012 Sb. (statutární orgán).
+- *Judikatura:* NSS 17 Ad 7/2024 — za běžné zacházení s léčivy odpovídají primárně lékárníci a vedoucí; odborný zástupce odpovídá jen za závažné nedostatky v odborném řízení, nikoli za každé jednotlivé pochybení.
+
+**4. Subsumpce.** Uvádění jednoho odborného zástupce pro pět poskytovatelů porušuje § 14 odst. 3 (max. 2). Odpovědnost odborného zástupce se zároveň omezuje na odborné řízení (§ 14 odst. 1): nelze mu přičítat každé jednotlivé pochybení jiných farmaceutů, nýbrž jen závažné nedostatky v řízení činnosti.
+
+**5. Řešení.** Síť musí pro každé místo zajistit odborného zástupce v souladu s limitem dvou poskytovatelů a v pracovněprávním/obdobném vztahu reálně vykonávajícího řízení; jinak hrozí odejmutí oprávnění (§ 24 odst. 2). V disciplinárním řízení nelze odborného zástupce trestat za izolovaná pochybení personálu bez prokázání selhání odborného řízení.
+
+**6. Varianty.** (a) Odborný zástupce by reálně řídil dvě lékárny a v jedné by selhal systém kontroly léčiv — disciplinární odpovědnost za nedostatky v řízení by přicházela v úvahu. (b) Odborný zástupce by byl statutárním orgánem poskytovatele — postačí smluvní vztah (§ 14 odst. 2 in fine).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Odborný zástupce ručí za vše, co se v provozu stane." — Neutralizace: NSS jeho odpovědnost omezuje na závažné nedostatky v odborném řízení; za běžný provoz odpovídají jednotliví pracovníci a vedoucí.
+- *Protiargument:* „Jedna kompetentní osoba zvládne řídit více provozoven." — Neutralizace: § 14 odst. 3 stanoví tvrdý limit dvou poskytovatelů kvůli reálné kontrole; faktická schopnost limit nepřekonává.
+- *Slabé místo:* hranice mezi „odborným řízením" a „běžným provozem" je v konkrétních případech neostrá a vyžaduje skutkové posouzení.
+
+#### H. Praktický závěr
+
+§ 14 vymezuje odborného zástupce jako garanta odborné stránky péče s reálnou kontrolou; limit dvou poskytovatelů a požadavek pracovněprávního vztahu brání fiktivnímu „obchodu s odbornými zástupci".
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Splňuje odborný zástupce kumulativní podmínky § 14 odst. 1 (způsobilost, komora, svéprávnost, bezúhonnost, pobyt, absence překážek)?
+- [ ] Je v pracovněprávním/obdobném vztahu (nebo smluvním u statutára/manžela)?
+- [ ] Nepřekračuje limit dvou poskytovatelů (odst. 3)?
+- [ ] Při ukončení funkce: byl do 10 dnů ustanoven nový a podána žádost o změnu (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní/smluvní dokumentace odborného zástupce, rozpis přítomnosti, doklady o způsobilosti a členství v komoře, organizační a kontrolní dokumentace provozu.
+
 ---
 
 ## Část třetí — Oprávnění k poskytování zdravotních služeb
@@ -1103,6 +1753,42 @@ ZZS zavádí **dvě klíčová závazná stanoviska**:
 2. **Ministerstvo zdravotnictví** pro lázeňskou péči (odst. 3) — povolení podle lázeňského zákona č. 164/2001 Sb. (využívání přírodního léčivého zdroje — minerálního pramene, peloidu — nebo klimatických podmínek). Bez tohoto povolení nelze udělit oprávnění k lázeňské léčebně rehabilitační péči.
 
 K dalším závazným stanoviskům viz **§ 16 odst. 1 písm. i)** — schválení provozního řádu krajskou hygienickou stanicí podle zákona č. 258/2000 Sb. o ochraně veřejného zdraví.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soukromá firma chce v areálu vězení provozovat lékárnu a zároveň ambulanci pro civilní pacienty z okolí. Podá žádost o oprávnění ke krajskému úřadu. Krajský úřad i Vězeňská služba si nárokují příslušnost; u lékárny chybí stanovisko SÚKL. Je třeba obstarat zřizovací dokumenty zařízení, doklad o místě poskytování a stanovisko SÚKL.
+
+**2. Právní otázka.** Který správní orgán je příslušný k udělení oprávnění (§ 15 odst. 1) a jaká závazná stanoviska jsou nutná pro lékárenskou péči?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15 — příslušnost (krajský úřad vs. MO/MSp/MV); odst. 2 (závazné stanovisko SÚKL pro lékárenskou péči); odst. 3 (povolení MZ pro lázeňskou péči).
+- *Související ustanovení téhož zákona:* § 16 odst. 1 písm. h) (stanovisko SÚKL jako podmínka), § 18 (žádost), § 19 (rozhodnutí).
+- *Související předpisy:* zákon č. 378/2007 Sb. (SÚKL, lékárny), zákon č. 555/1992 Sb. (Vězeňská služba), zákon č. 164/2001 Sb. (lázeňský zákon).
+- *Judikatura:* výkladový závěr — rezortní příslušnost se odvíjí od zřizovatele zařízení; absence závazného stanoviska brání udělení oprávnění.
+
+**4. Subsumpce.** Pokud zařízení nezřídila Vězeňská služba/MSp, nejde o rezortní výjimku (§ 15 odst. 1 písm. c) a příslušný je krajský úřad podle místa zařízení (písm. a). Pro lékárenskou péči je nezbytné souhlasné závazné stanovisko SÚKL (§ 15 odst. 2, § 16 odst. 1 písm. h); bez něj oprávnění udělit nelze.
+
+**5. Řešení.** Žadatel musí žádat u věcně příslušného orgánu (zde krajský úřad, není-li zařízení zřízeno MSp) a doložit stanovisko SÚKL k lékárně (lhůta SÚKL 30 dnů). Bez stanoviska SÚKL krajský úřad oprávnění k lékárenské péči neudělí; ambulanci lze posoudit samostatně.
+
+**6. Varianty.** (a) Zařízení by zřídila Vězeňská služba ČR — příslušné je Ministerstvo spravedlnosti (§ 15 odst. 1 písm. c). (b) Šlo by o lázeňskou léčebně rehabilitační péči — nutné předchozí povolení MZ podle lázeňského zákona (§ 15 odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Žádost lze podat u kteréhokoli krajského úřadu." — Neutralizace: § 15 odst. 1 písm. a) váže příslušnost na místo zdravotnického zařízení; podání u nepříslušného orgánu vede k postoupení.
+- *Protiargument:* „Stanovisko SÚKL je jen formalita." — Neutralizace: jde o závazné stanovisko, bez něhož nelze oprávnění k lékárenské péči udělit (§ 16 odst. 1 písm. h).
+- *Slabé místo:* u zařízení s nejasným zřizovatelem může být určení rezortní příslušnosti sporné a vyžadovat výklad.
+
+#### H. Praktický závěr
+
+§ 15 určuje, kdo rozhoduje o oprávnění, a zavádí dvě klíčová závazná stanoviska (SÚKL pro lékárny, MZ pro lázně) jako nezbytné podklady.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kdo zřídil zařízení a kde je umístěno (→ krajský úřad nebo MO/MSp/MV)?
+- [ ] Jde o lékárenskou péči (→ nutné stanovisko SÚKL, § 15 odst. 2)?
+- [ ] Jde o lázeňskou péči (→ nutné povolení MZ, § 15 odst. 3)?
+- [ ] Byla žádost podána u věcně příslušného orgánu?
+
+**Typicky rozhodné důkazy / podklady:** zřizovací dokumenty zařízení, doklad o místě poskytování, závazné stanovisko SÚKL, povolení MZ pro lázně, žádost s náležitostmi § 18.
 
 ---
 
@@ -1186,6 +1872,42 @@ ZZS rozlišuje **tři druhy poskytovatelů** s odlišnými registračními poža
 
 **Praktický dopad:** Při prodeji ordinace nový vlastník MUSÍ získat **vlastní oprávnění**; nelze koupit „zdravotnické podnikání" jako celek včetně licence. To je hluboký rozdíl oproti řadě profesí (kde je smluvní převod možný).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Praktický lékař odejde do důchodu a chce „prodat" svou ordinaci — vybavení, nájemní smlouvu i kartotéku pacientů — kolegovi. Domnívají se, že kupec převezme i oprávnění. Krajský úřad je upozorní, že oprávnění je nepřevoditelné. Je třeba obstarat smlouvu o převodu majetkových práv, žádost nástupce o oprávnění a žádost převodce o odnětí.
+
+**2. Právní otázka.** Lze oprávnění k poskytování zdravotních služeb převést na nástupce spolu s ordinací, nebo musí nástupce získat oprávnění vlastní?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16 odst. 4 — oprávnění nelze převést ani nepřechází na jinou osobu; odst. 1–3 (podmínky udělení podle typu poskytovatele).
+- *Související ustanovení téhož zákona:* § 18 odst. 3 (zjednodušený režim pro nabyvatele), § 23 odst. 3 (synchronizovaný přechod), § 27 (pokračování po smrti).
+- *Související předpisy:* zákon č. 89/2012 Sb. (převod závodu — neaplikuje se na oprávnění), zákon č. 48/1997 Sb. (smlouvy s pojišťovnami).
+- *Judikatura:* nosný závěr — veřejnoprávní oprávnění je vázáno na osobu poskytovatele a není předmětem soukromoprávního převodu.
+
+**4. Subsumpce.** Podle § 16 odst. 4 oprávnění nelze převést ani nepřechází; lze převést jen majetková práva (vybavení, nájem). Nástupce musí získat vlastní oprávnění splněním podmínek § 16 odst. 1 (nebo 3). Kartotéku lze předat jen za podmínek ochrany dokumentace a volby pacienta.
+
+**5. Řešení.** Strany použijí synchronizovaný postup: převodce požádá o odnětí svého oprávnění a nástupce o udělení nového; krajský úřad může rozhodnout k bezprostředně následujícímu dni (§ 23 odst. 3), s využitím zjednodušeného doložení (§ 18 odst. 3). Tím se fakticky zajistí kontinuita „přechodu péče", byť oprávnění zůstává individuální.
+
+**6. Varianty.** (a) Převodce by zemřel před převodem — uplatní se pokračování podle § 27 (max. 90 dnů). (b) Nástupcem by byla s.r.o. — musí ustanovit odborného zástupce (§ 16 odst. 3) a doložit absenci překážek § 17.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Prodávám závod jako celek včetně licence (§ 2175 OZ)." — Neutralizace: § 16 odst. 4 je speciální a veřejnoprávní oprávnění z převodu závodu výslovně vylučuje; nástupce potřebuje vlastní oprávnění.
+- *Protiargument:* „Pacienti přejdou automaticky." — Neutralizace: pacienti mají právo volby poskytovatele; přechod kartotéky je podmíněn jejich souhlasem a ochranou dokumentace.
+- *Slabé místo:* časová koordinace odnětí a udělení je citlivá; selhání synchronizace může způsobit přerušení péče a úhrad.
+
+#### H. Praktický závěr
+
+§ 16 stanoví tři režimy udělení oprávnění (FO standardní, FO bezzařízenová, PO) a klíčové pravidlo nepřevoditelnosti; „prodej ordinace" se realizuje synchronizovaným odnětím a udělením.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] O jaký typ poskytovatele jde (FO § 16/1, FO § 16/2, PO § 16/3)?
+- [ ] Jsou splněny všechny kumulativní podmínky daného odstavce?
+- [ ] Nepokouší se strany o převod oprávnění (zakázáno odst. 4)?
+- [ ] Je využit synchronizovaný postup § 23 odst. 3 a zjednodušení § 18 odst. 3?
+
+**Typicky rozhodné důkazy / podklady:** doklady o kvalifikaci a bezúhonnosti, užívací právo k prostorám, doklady o vybavení a personálu, smlouva o převodu majetkových práv, žádosti o odnětí a udělení oprávnění.
+
 ---
 
 ### § 17 — Překážky udělení oprávnění
@@ -1250,6 +1972,42 @@ ZZS znemožňuje obcházení sankcí přes **kapitálovou fluktuaci**. Pokud lé
 
 Reciproční pravidlo v písm. f) — FO, která byla v orgánu PO s překážkou, nemůže získat oprávnění individuálně.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Lékaři, jemuž bylo před dvěma lety odňato oprávnění pro opakované poskytování péče pod vlivem alkoholu (§ 24 odst. 4 písm. a), nyní založí s.r.o., v níž je jediným společníkem a jednatelem, a tato s.r.o. žádá o oprávnění k poskytování zdravotních služeb. Krajský úřad prověřuje vazby společníka. Je třeba obstarat rozhodnutí o předchozím odnětí, výpis z obchodního rejstříku a doklady o vlastnické struktuře.
+
+**2. Právní otázka.** Brání odnětí oprávnění fyzické osobě před dvěma lety udělení oprávnění právnické osobě, jejímž jediným společníkem a jednatelem tato osoba je?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17 — překážky udělení; písm. b) (karenční doba 3 roky po odnětí), písm. g) (anti-shell — PO s osobou s překážkou v orgánu/jako společníkem).
+- *Související ustanovení téhož zákona:* § 24 odst. 4 písm. a) (odnětí pro alkohol), § 16 odst. 1 písm. l) a odst. 3 písm. d) (absence překážek jako podmínka), § 14 odst. 1 písm. b).
+- *Související předpisy:* zákon č. 89/2012 Sb. (PO, statutární orgán), zákon č. 304/2013 Sb. (obchodní rejstřík).
+- *Judikatura:* nosný závěr — překážky se přenášejí na propojené osoby, aby nebylo možné sankci obcházet kapitálovou strukturou.
+
+**4. Subsumpce.** Odnětí podle § 24 odst. 4 písm. a) zakládá překážku podle § 17 písm. b) trvající 3 roky; ta dosud neuplynula (jsou teprve 2 roky). Protože je osoba s touto překážkou jediným společníkem a jednatelem žádající PO, uplatní se anti-shell pravidlo § 17 písm. g) a oprávnění PO nelze udělit.
+
+**5. Řešení.** Žádosti nelze vyhovět, dokud karenční lhůta tří let neuplyne. Lékař nemůže obejít sankci založením s.r.o. ani působením v jejím orgánu či jako většinový společník. Po uplynutí lhůty překážka odpadne a o oprávnění lze žádat.
+
+**6. Varianty.** (a) Karenční lhůta tří let by již uplynula — překážka odpadá, oprávnění lze udělit. (b) Lékař by nebyl ve vedení ani většinovým společníkem, jen řadovým zaměstnancem — překážka § 17 písm. g) by se neuplatnila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Žadatelem je samostatná právnická osoba, nikoli potrestaný lékař." — Neutralizace: § 17 písm. g) přenáší překážku na PO, jejímž společníkem/orgánem je osoba s nevypršenou překážkou; oddělení právní subjektivity sankci neobejde.
+- *Protiargument:* „Lékař se napravil, lhůta je formalistická." — Neutralizace: karenční doba 3 let je tvrdou zákonnou podmínkou bez prostoru pro správní uvážení; náprava ji nezkracuje.
+- *Slabé místo:* určení „většinového" společníka či faktického ovládání může být u složitějších struktur skutkově sporné.
+
+#### H. Praktický závěr
+
+§ 17 vymezuje sedm překážek ve třech kategoriích (sankční, insolvenční, reputační/přenesené) s anti-shell ochranou bránící obcházení přes propojené osoby.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Trvá zákaz činnosti nebo karenční doba po odnětí (písm. a, b)?
+- [ ] Existuje insolvenční překážka (písm. c–e)?
+- [ ] Je v orgánu/mezi společníky PO osoba s překážkou (písm. f, g — anti-shell)?
+- [ ] Uplynula již případná tříletá karenční lhůta?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o předchozím odnětí oprávnění, výpis z obchodního rejstříku, doklady o vlastnické a řídicí struktuře, insolvenční rejstřík, doklady o zákazu činnosti.
+
 ---
 
 ### § 18 — Žádost o udělení oprávnění
@@ -1296,6 +2054,42 @@ Pro FO podle § 16 odst. 1 vyžaduje zákon **čtrnáct kategorií dokladů**:
 
 Pro **nabyvatele majetkových práv** (typicky kupec ordinace) lze nahradit některé doklady prohlášením o nezměněnosti — zjednodušený režim.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel-FO podá žádost o oprávnění k ambulantní gynekologické péči, ale nepřiloží schválený provozní řád od orgánu ochrany veřejného zdraví ani doklad o užívacím právu k prostorám. Krajský úřad ho vyzve k doplnění. Je třeba obstarat provozní řád, rozhodnutí KHS o jeho schválení a nájemní/vlastnickou smlouvu.
+
+**2. Právní otázka.** Jaké náležitosti a přílohy musí žádost o udělení oprávnění obsahovat (§ 18) a jaké jsou důsledky jejich absence?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 18 — náležitosti žádosti a přílohy (čtrnáct kategorií dokladů pro FO podle § 16 odst. 1).
+- *Související ustanovení téhož zákona:* § 16 (podmínky), § 19 (rozhodnutí), § 13 odst. 3 (RT obstarává úřad), § 18 odst. 3 (zjednodušení pro nabyvatele).
+- *Související předpisy:* § 37 a § 45 zákona č. 500/2004 Sb. (správní řád — náležitosti podání, výzva k odstranění vad), zákon č. 258/2000 Sb. (provozní řád).
+- *Judikatura:* nosný závěr — bez kompletních příloh nelze podmínky § 16 ověřit a žádost je třeba doplnit, jinak se neudělí.
+
+**4. Subsumpce.** Schválený provozní řád (§ 16 odst. 1 písm. i, § 18 odst. 2) a doklad o užívacím právu (§ 16 odst. 1 písm. f) jsou obligatorní přílohy. Jejich absence je odstranitelnou vadou žádosti; krajský úřad vyzve k doplnění v přiměřené lhůtě (§ 45 SŘ). Bez doplnění nelze podmínky § 16 ověřit.
+
+**5. Řešení.** Žadatel doloží chybějící přílohy ve stanovené lhůtě; teprve poté lze vydat kladné rozhodnutí (§ 19). Pokud vady neodstraní, řízení může být zastaveno nebo žádost zamítnuta. Doklad o bezúhonnosti si úřad obstará sám (§ 13 odst. 3), ten žadatel nepředkládá.
+
+**6. Varianty.** (a) Žadatel je nabyvatelem majetkových práv po předchozím poskytovateli — některé doklady nahradí prohlášením o nezměněnosti (§ 18 odst. 3). (b) Žadatel podle § 16 odst. 2 (v cizím zařízení) — místo části dokladů předloží smlouvu s provozovatelem zařízení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Přílohy doložím až dodatečně po udělení." — Neutralizace: podmínky § 16 musí být prokázány před udělením; bez příloh je nelze ověřit a oprávnění udělit.
+- *Protiargument:* „Provozní řád je vnitřní dokument, schválení KHS je nadbytečné." — Neutralizace: schválení orgánem ochrany veřejného zdraví je výslovnou podmínkou (§ 16 odst. 1 písm. i).
+- *Slabé místo:* rozsah požadovaných dokladů se liší podle typu poskytovatele a druhu péče; přehlédnutí specifické přílohy (SÚKL, MZ, § 44d/g) vede k prodlení.
+
+#### H. Praktický závěr
+
+§ 18 stanoví obsah žádosti a katalog příloh prokazujících splnění podmínek § 16; úplnost žádosti je předpokladem rychlého a kladného rozhodnutí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje žádost identifikační údaje a vymezení formy/oborů/druhu péče a míst poskytování?
+- [ ] Jsou přiloženy doklady o způsobilosti, vybavení, personálu a provozním řádu?
+- [ ] Jsou doložena specifická stanoviska/povolení (SÚKL, MZ, § 44d/g), jsou-li relevantní?
+- [ ] Bylo přiloženo prohlášení o absenci překážek § 17?
+
+**Typicky rozhodné důkazy / podklady:** vyplněná žádost, doklady o kvalifikaci a personálu, provozní řád a rozhodnutí KHS o jeho schválení, doklad o užívacím právu, prohlášení k překážkám § 17.
+
 ---
 
 ### § 19 — Rozhodnutí o udělení oprávnění
@@ -1329,6 +2123,42 @@ Současně do 3 pracovních dnů **zaznamenává** údaje do:
 
 PO vznikající **zápisem do obchodního rejstříku** (s.r.o., a.s., družstvo) může získat oprávnění **před** zápisem; právo poskytovat zdravotní služby vzniká **dnem zápisu do rejstříku**. Pokud k zápisu nedojde do 90 dnů od právní moci rozhodnutí nebo od podání návrhu, **oprávnění zaniká**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost zakládá novou nemocniční s.r.o.; získá oprávnění k poskytování lůžkové péče ještě před zápisem do obchodního rejstříku. Z důvodu sporu mezi společníky se zápis do rejstříku protáhne a uskuteční se až po 100 dnech od právní moci rozhodnutí o oprávnění. Mezitím s.r.o. začne fakticky poskytovat péči. Je třeba obstarat rozhodnutí o oprávnění, návrh na zápis a výpis z rejstříku s datem zápisu.
+
+**2. Právní otázka.** Kdy vzniká právnické osobě vznikající zápisem do obchodního rejstříku právo poskytovat zdravotní služby a co se stane, nedojde-li k zápisu včas (§ 19 odst. 5)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 19 — náležitosti rozhodnutí, distribuce a záznam do registrů; odst. 5 (vznik práva dnem zápisu do rejstříku; zánik oprávnění při nezapsání do 90 dnů).
+- *Související ustanovení téhož zákona:* § 16 odst. 3 (PO), § 22 (zánik oprávnění), § 11 odst. 1 (poskytování jen na základě oprávnění).
+- *Související předpisy:* zákon č. 304/2013 Sb. (veřejné rejstříky), zákon č. 111/2009 Sb. (základní registry — NRPZS, registr osob).
+- *Judikatura:* nosný závěr — u PO vznikajících zápisem se právo poskytovat odvíjí od konstitutivního zápisu; poskytování před ním je bez oprávnění.
+
+**4. Subsumpce.** Podle § 19 odst. 5 právo poskytovat vzniká dnem zápisu do rejstříku. Nedojde-li k zápisu do 90 dnů od právní moci rozhodnutí (zde 100 dnů), oprávnění zaniká. Poskytování péče před zápisem i po marném uplynutí lhůty je poskytováním bez oprávnění (§ 11 odst. 1).
+
+**5. Řešení.** S.r.o. nesměla poskytovat péči před zápisem; po uplynutí 90denní lhůty oprávnění zaniklo a je nutné žádat znovu. Faktické poskytování v mezidobí je přestupkem (§ 115). Praktický krok: zastavit provoz, dosáhnout zápisu, případně podat novou žádost o oprávnění.
+
+**6. Varianty.** (a) Zápis by proběhl 30. den — právo poskytovat vzniká tímto dnem, oprávnění platí. (b) Šlo by o již existující PO (ne vznikající zápisem) — oprávnění by nabylo účinků standardně bez podmínky § 19 odst. 5.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Oprávnění jsme získali, můžeme rovnou poskytovat." — Neutralizace: u PO vznikajících zápisem § 19 odst. 5 váže vznik práva na zápis; samotné rozhodnutí nestačí.
+- *Protiargument:* „Zdržení zápisu nezavinila s.r.o." — Neutralizace: 90denní lhůta je objektivní; její marné uplynutí vede k zániku oprávnění bez ohledu na zavinění.
+- *Slabé místo:* běh a počítání lhůty (od právní moci vs. od podání návrhu na zápis) může být v konkrétním případě sporné.
+
+#### H. Praktický závěr
+
+§ 19 vymezuje obsah a účinky rozhodnutí o oprávnění, jeho distribuci dotčeným orgánům a záznam do registrů; u nově vznikajících PO je rozhodný den zápisu do rejstříku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje rozhodnutí formu, obory, druh, název a místa poskytování (odst. 1)?
+- [ ] Jde o PO vznikající zápisem do rejstříku (→ právo vzniká zápisem, odst. 5)?
+- [ ] Byl zápis proveden do 90 dnů (jinak oprávnění zaniká)?
+- [ ] Byly údaje zapsány do NRPZS a registru osob a rozesláno dotčeným orgánům (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o udělení oprávnění a doklad o jeho právní moci, návrh na zápis do rejstříku, výpis z rejstříku s datem zápisu, výpis z NRPZS.
+
 ---
 
 ### § 20 — Hostující osoby z EU/EHP/Švýcarska
@@ -1348,6 +2178,42 @@ PO vznikající **zápisem do obchodního rejstříku** (s.r.o., a.s., družstvo
 
 > **Praktická poznámka — limit režimu § 20:** Hostující osoby smí poskytovat **pouze** návštěvní službu a domácí péči — **nelze** ambulantní péči v ordinaci, lůžkovou péči, lékárenskou péči nebo specializované služby. Pro takové činnosti je nutné získat plné oprávnění podle § 16.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Rakouská lékařka usazená a oprávněná k výkonu praxe v Rakousku chce v příhraničí ČR dojíždět za imobilními krajany a poskytovat jim návštěvní službu a domácí péči. Začne tak činit, aniž to předem oznámila krajskému úřadu. Krajský úřad zjistí činnost při kontrole. Je třeba obstarat doklad o oprávnění v Rakousku, oznámení krajskému úřadu a popis poskytovaných služeb.
+
+**2. Právní otázka.** Smí osoba usazená v jiném státě EU poskytovat v ČR návštěvní službu a domácí péči bez českého oprávnění, a za jakých procesních podmínek (§ 20)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 20 — hostující osoby z EU/EHP/CH; rozsah (jen návštěvní služba a domácí péče); předchozí oznámení 7 dní předem; sankční pravomoc krajského úřadu (zákaz až 3 roky).
+- *Související ustanovení téhož zákona:* § 11 odst. 2 písm. c) (výjimka z oprávnění), § 4 odst. 2 (návštěvní služba), § 10 (domácí péče).
+- *Související předpisy:* směrnice 2005/36/ES, zákon č. 18/2004 Sb. (uznávání kvalifikací), směrnice 2011/24/EU.
+- *Judikatura:* nosný závěr — režim volného pohybu služeb je podmíněn oznámením a omezen na vymezené služby; jeho překročení vyžaduje plné oprávnění.
+
+**4. Subsumpce.** Návštěvní služba a domácí péče jsou v rozsahu § 20 přípustné bez českého oprávnění, avšak jen po předchozím oznámení krajskému úřadu (7 dní předem) a s doložením oprávnění v zemi usazení. Lékařka oznamovací povinnost nesplnila; ostatní služby (ordinace, lůžková péče) by vyžadovaly plné oprávnění podle § 16.
+
+**5. Řešení.** Lékařka musí činnost předem oznámit a doložit oprávnění z Rakouska; teprve pak smí návštěvní službu a domácí péči poskytovat. Při závažném porušení může krajský úřad rozhodnutím zakázat poskytování na území ČR až na 3 roky (odvolání bez odkladného účinku). Pro širší činnost je nutné plné oprávnění.
+
+**6. Varianty.** (a) Lékařka by chtěla v ČR otevřít stálou ordinaci — režim § 20 nestačí, nutné oprávnění dle § 16. (b) Ztratila by oprávnění v Rakousku — musí to bezodkladně oznámit a nesmí v ČR pokračovat.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Volný pohyb služeb v EU umožňuje poskytovat bez formalit." — Neutralizace: § 20 váže výjimku na předchozí oznámení a doložení oprávnění; bezformální poskytování není kryto.
+- *Protiargument:* „Mohu poskytovat jakékoli služby, ne jen návštěvní a domácí péči." — Neutralizace: § 20 rozsah taxativně omezuje; ostatní služby vyžadují plné oprávnění.
+- *Slabé místo:* posouzení „dočasnosti a příležitostnosti" výkonu (kritérium volného pohybu služeb) může být u pravidelného dojíždění sporné.
+
+#### H. Praktický závěr
+
+§ 20 transponuje volný pohyb služeb: hostující osoby z EU/EHP/CH mohou v ČR bez oprávnění poskytovat jen návštěvní službu a domácí péči, po předchozím oznámení a s doložením oprávnění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je osoba usazená a oprávněná v jiném státě EU/EHP/CH?
+- [ ] Omezují se služby na návštěvní službu a domácí péči?
+- [ ] Bylo poskytování oznámeno krajskému úřadu 7 dní předem?
+- [ ] Je doloženo oprávnění v zemi usazení (s překladem, není-li slovenské)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o oprávnění v domovském státě, oznámení krajskému úřadu, doklad o kvalifikaci a jejím uznání, popis a evidence poskytovaných služeb.
+
 ---
 
 ### § 20a–20b — Změna oprávnění
@@ -1364,6 +2230,42 @@ PO vznikající **zápisem do obchodního rejstříku** (s.r.o., a.s., družstvo
 Žádost (§ 20b) musí obsahovat údaj o požadované změně a doklady podle § 18 odst. 2 prokazující splnění podmínek pro nový rozsah.
 
 > **Praktická poznámka — odlišení od § 21 (oznamování změn):** Žádost o změnu (§ 20a) je nutná pro **strukturální změny** parametrů oprávnění uvedených přímo v rozhodnutí. **Pouhé** oznámení změny (§ 21) postačí pro změny **údajů, které nejsou v rozhodnutí přímo uvedeny**, ale figurují v žádosti nebo dokladech (např. změna sestry v personálním zabezpečení, změna provozního řádu po drobné úpravě). Pokud změna ohrožuje podmínky, krajský úřad rozhodne o změně, pozastavení nebo odejmutí oprávnění z moci úřední.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Ambulantní poskytovatel se stěhuje do nových prostor o ulici dál a chce navíc rozšířit péči o nový obor (fyzioterapie). Domnívá se, že stačí změnu jen oznámit (§ 21). Krajský úřad upozorní, že jde o změnu údajů uvedených přímo v oprávnění. Je třeba obstarat doklad o užívacím právu k novým prostorám, doklady o vybavení a personálu pro nový obor.
+
+**2. Právní otázka.** Vyžaduje změna adresy místa poskytování a rozšíření o nový obor žádost o změnu oprávnění (§ 20a), nebo postačí pouhé oznámení změny (§ 21)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 20a–20b — změna oprávnění (žádost při změně rozsahu služeb, adresy míst, doby platnosti, odborného zástupce).
+- *Související ustanovení téhož zákona:* § 19 odst. 1 písm. b), c) (údaje v rozhodnutí), § 21 (oznamování změn), § 18 odst. 2 (doklady).
+- *Související předpisy:* zákon č. 500/2004 Sb. (správní řád), vyhláška č. 92/2012 Sb. a č. 99/2012 Sb.
+- *Judikatura:* nosný závěr — pro změny parametrů uvedených přímo v rozhodnutí je nutná žádost o změnu, nikoli pouhé oznámení.
+
+**4. Subsumpce.** Adresa místa poskytování (§ 19 odst. 1 písm. c) i rozsah služeb/oborů (písm. b) jsou parametry uvedené přímo v rozhodnutí. Jejich změna proto vyžaduje žádost o změnu oprávnění (§ 20a) s doložením podmínek pro nový rozsah (§ 18 odst. 2), nikoli jen oznámení podle § 21.
+
+**5. Řešení.** Poskytovatel podá žádost o změnu oprávnění a doloží užívací právo k novým prostorám, vybavení a personál pro fyzioterapii; do vydání rozhodnutí o změně nesmí v nových prostorách ani v novém oboru poskytovat. Pouhé oznámení by nestačilo a vystavilo by ho riziku poskytování mimo rozsah oprávnění (§ 11 odst. 1).
+
+**6. Varianty.** (a) Měnila by se jen drobnost mimo rozhodnutí (např. obměna sestry v personálu) — postačí oznámení (§ 21). (b) Měnil by se odborný zástupce — opět žádost o změnu (§ 20a), navazující na § 14 odst. 5.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stěhování je jen oznamovaná změna." — Neutralizace: adresa míst poskytování je v rozhodnutí (§ 19 odst. 1 písm. c), proto je nutná žádost o změnu (§ 20a).
+- *Protiargument:* „Nový obor začnu poskytovat hned a změnu doložím dodatečně." — Neutralizace: do rozhodnutí o změně by šlo o poskytování mimo rozsah oprávnění (§ 11 odst. 1) se sankčním rizikem.
+- *Slabé místo:* rozlišení mezi „údajem v rozhodnutí" a „údajem mimo rozhodnutí" může být v hraničních případech nejasné a rozhoduje o volbě postupu.
+
+#### H. Praktický závěr
+
+§ 20a–20b oddělují strukturální změny oprávnění (žádost o změnu) od pouhých oznamovaných změn (§ 21); volbu postupu určuje, zda je měněný údaj uveden přímo v rozhodnutí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Mění se rozsah služeb, adresa míst, doba platnosti nebo odborný zástupce (→ žádost § 20a)?
+- [ ] Jsou doloženy doklady prokazující podmínky pro nový rozsah (§ 18 odst. 2)?
+- [ ] Nezačíná se poskytovat v novém místě/oboru před rozhodnutím o změně?
+- [ ] Jde naopak jen o údaj mimo rozhodnutí (→ stačí oznámení § 21)?
+
+**Typicky rozhodné důkazy / podklady:** žádost o změnu oprávnění, doklad o užívacím právu k novým prostorám, doklady o vybavení a personálu pro nový obor, doklady k novému odbornému zástupci.
 
 ---
 
@@ -1382,6 +2284,42 @@ PO vznikající **zápisem do obchodního rejstříku** (s.r.o., a.s., družstvo
 #### Reciproční oznamovací povinnost (odst. 1 in fine)
 
 Jiné správní orgány vydávající podkladová rozhodnutí (závazná stanoviska, povolení) **musí neprodleně** oznámit krajskému úřadu změny svých rozhodnutí. To zajišťuje synchronizaci mezi rezortními a regionálními agendami.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Odborný zástupce právnické osoby (jediný způsobilý) náhle ukončí pracovní poměr a odejde ke konkurenci. Poskytovatel-s.r.o. po dobu pěti týdnů neustanoví nového odborného zástupce a neoznámí změnu krajskému úřadu, přesto dál poskytuje péči. Krajský úřad se o stavu dozví z podnětu. Je třeba obstarat doklad o ukončení funkce odborného zástupce, evidenci o (ne)ustanovení nástupce a o oznámení změny.
+
+**2. Právní otázka.** Jaké jsou důsledky toho, že poskytovatel ve lhůtě neoznámí změnu a neustanoví nového odborného zástupce, takže přestane splňovat podmínku § 16 odst. 3 písm. b)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 21 — obecná oznamovací povinnost (15 dní), trojí důsledek změny (záznam / změna / pozastavení nebo odejmutí).
+- *Související ustanovení téhož zákona:* § 14 odst. 5 (10denní lhůta pro nového odborného zástupce), § 16 odst. 3 písm. b), § 24 odst. 2 (pozastavení/odejmutí při ztrátě odborného zástupce).
+- *Související předpisy:* zákon č. 500/2004 Sb. (řízení z moci úřední), zákon č. 89/2012 Sb.
+- *Judikatura:* nosný závěr — ztráta způsobilého odborného zástupce bez náhrady je porušením podmínek oprávnění s následkem jeho pozastavení/odejmutí.
+
+**4. Subsumpce.** Poskytovatel byl povinen do 10 dnů ustanovit nového odborného zástupce (§ 14 odst. 5) a do 15 dnů oznámit změnu (§ 21). Tím, že tak neučinil, přestal splňovat podmínku § 16 odst. 3 písm. b); jde o změnu nesplňující podmínky podle § 21 odst. 3, jež může vést k pozastavení nebo odejmutí oprávnění (§ 24 odst. 2).
+
+**5. Řešení.** Poskytovatel musí bezodkladně ustanovit nového odborného zástupce a požádat o změnu oprávnění; do té doby je další poskytování rizikové. Krajský úřad může zahájit řízení, jehož prvním úkonem může být i rozhodnutí o pozastavení/odejmutí (§ 21 odst. 3). Provoz bez odborného zástupce je v rozporu se zákonem.
+
+**6. Varianty.** (a) Poskytovatel by do 10 dnů ustanovil nového způsobilého odborného zástupce a oznámil změnu — důsledkem je jen rozhodnutí o změně oprávnění. (b) Změna by se týkala údaje mimo rozhodnutí, podmínky by zůstaly splněny — postačí záznam do spisu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Změnu jsem nahlásil se zpožděním, ale nahlásil." — Neutralizace: rozhodující není jen oznámení, ale faktické splnění podmínek; bez způsobilého odborného zástupce podmínka § 16 odst. 3 chybí.
+- *Protiargument:* „Provoz nelze ze dne na den zastavit kvůli pacientům." — Neutralizace: zájem na kontinuitě péče neospravedlňuje provoz bez odborného řízení; řešením je rychlé ustanovení náhrady, nikoli pokračování bez něj.
+- *Slabé místo:* posouzení, zda krajský úřad zvolí pozastavení nebo odejmutí, závisí na závažnosti a době trvání nedostatku.
+
+#### H. Praktický závěr
+
+§ 21 zakládá obecnou oznamovací povinnost (15 dní) s odstupňovanými důsledky podle toho, zda změna ohrožuje podmínky oprávnění; nesplnění může vést až k pozastavení či odejmutí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla změna oznámena do 15 dnů ode dne, kdy se o ní poskytovatel dozvěděl?
+- [ ] Týká se změna údaje v rozhodnutí, nebo mimo něj?
+- [ ] Zůstávají splněny podmínky oprávnění (§ 16)?
+- [ ] U ztráty odborného zástupce: byl do 10 dnů ustanoven nový (§ 14 odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** oznámení změny a doklad o jeho včasnosti, doklady o (ne)ustanovení nového odborného zástupce, rozhodnutí o oprávnění, evidence o trvání nedostatku.
 
 ---
 
@@ -1402,6 +2340,42 @@ Oprávnění zaniká **ex lege** (vyjma písm. f) na základě sedmi důvodů:
 #### Vztah k pokračování (písm. a)
 
 Smrt FO-poskytovatele automaticky zaniká oprávnění **ledaže** je aktivován institut § 27 — pokračování v poskytování zdravotních služeb. Pak oprávnění **zaniká nikoli dnem smrti, nýbrž až vznikem oprávnění pokračovatele** (nebo po 90 dnech). Tento institut je klíčový pro **kontinuitu péče** o pacienty zesnulého poskytovatele.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Praktický lékař-FO bez nástupce a bez dědiců provozující ordinaci náhle zemře. Pacienti zůstanou bez registrujícího lékaře. Nikdo neoznámí krajskému úřadu úmysl pokračovat podle § 27. Krajský úřad řeší další osud oprávnění a kartotéky. Je třeba obstarat úmrtní list, údaj o případném pokračovateli a doklady o zdravotnické dokumentaci.
+
+**2. Právní otázka.** Zaniká oprávnění poskytovatele-FO automaticky jeho smrtí, nebo trvá dál, a co se stane s kontinuitou péče a dokumentací?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22 — zánik oprávnění ze sedmi důvodů; písm. a) (smrt FO, nepostupuje-li se podle § 27).
+- *Související ustanovení téhož zákona:* § 27 (pokračování po smrti), § 57 a násl. (nakládání s dokumentací), § 19 odst. 4 (záznam do registrů).
+- *Související předpisy:* zákon č. 89/2012 Sb. (dědictví), vyhláška o zdravotnické dokumentaci, zákon č. 48/1997 Sb.
+- *Judikatura:* nosný závěr — smrtí FO oprávnění zaniká ex lege, ledaže je aktivován institut pokračování (§ 27).
+
+**4. Subsumpce.** Podle § 22 písm. a) oprávnění zaniká smrtí poskytovatele-FO, není-li uplatněno pokračování podle § 27. Jelikož nikdo úmysl pokračovat neoznámil, oprávnění zaniká dnem smrti. Vzniká povinnost zajistit osud zdravotnické dokumentace a informovat dotčené subjekty.
+
+**5. Řešení.** Oprávnění zaniká; krajský úřad provede výmaz z NRPZS a registru osob a řeší předání/úschovu zdravotnické dokumentace (typicky určení správce dokumentace dle § 57 a násl.). Pacienti si zvolí jiného registrujícího poskytovatele. Pokud by se přihlásil pokračovatel do 15 dnů, uplatnil by se § 27.
+
+**6. Varianty.** (a) Do 15 dnů od úmrtí by se přihlásil způsobilý pokračovatel oprávněný užívat zařízení — oprávnění by zaniklo až vznikem oprávnění pokračovatele/po 90 dnech (§ 27). (b) Poskytovatelem by byla PO a zanikla by výmazem z rejstříku — zánik podle § 22 písm. b).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Oprávnění je majetkové právo a přechází na dědice." — Neutralizace: oprávnění je veřejnoprávní a nepřevoditelné (§ 16 odst. 4); smrtí zaniká, dědicům nepřechází (mimo institut § 27).
+- *Protiargument:* „Dokumentaci lze po smrti volně zlikvidovat." — Neutralizace: nakládání s dokumentací je upraveno samostatně (§ 57 a násl.); je třeba zajistit její úschovu/předání.
+- *Slabé místo:* časová tíseň mezi úmrtím a zajištěním dokumentace může ohrozit kontinuitu péče, není-li uplatněn § 27.
+
+#### H. Praktický závěr
+
+§ 22 stanoví důvody zániku oprávnění, převážně ex lege; u FO je smrt klíčovým důvodem s návazností na institut pokračování (§ 27) a na ochranu dokumentace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nastal některý z důvodů zániku (smrt, zánik PO, uplynutí doby, odnětí…)?
+- [ ] U smrti FO: byl uplatněn institut pokračování (§ 27)?
+- [ ] Byl proveden výmaz z NRPZS a registru osob?
+- [ ] Je zajištěn osud zdravotnické dokumentace (§ 57 a násl.)?
+
+**Typicky rozhodné důkazy / podklady:** úmrtní list / doklad o zániku PO, oznámení o pokračování (§ 27), doklady o zajištění dokumentace, výpis z NRPZS.
 
 ---
 
@@ -1424,6 +2398,42 @@ Lhůta podání žádosti: **60 dnů přede dnem požadovaného odnětí** (umo�
 Klíčové ustanovení pro **prodej ordinace**: pokud poskytovatel chce převést **majetková práva** (vybavení, nájemní smlouvu) na jinou osobu, **synchronizuje** žádost o odnětí svého oprávnění s žádostí nástupce o udělení nového oprávnění. Při souběhu žádostí krajský úřad **rozhoduje současně** o odnětí dosavadnímu a o udělení nástupci, **k bezprostředně následujícímu dni**. Odvolání nemá odkladný účinek.
 
 Tento mechanismus **nepřevoditelné** oprávnění obchází formálně — fakticky dochází k „přechodu péče" o pacienty, byť právní oprávnění je každému poskytovateli individuální.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zubní lékař-FO odchází do důchodu a chce předat ordinaci nástupci tak, aby pacienti nezůstali bez péče ani jeden den. Podá žádost o odnětí svého oprávnění; nástupce současně žádá o udělení nového oprávnění pro stejné prostory. Krajský úřad řeší časovou koordinaci. Je třeba obstarat obě žádosti, smlouvu o převodu majetkových práv a doklady o splnění podmínek nástupce.
+
+**2. Právní otázka.** Jak zajistit bezešvý přechod péče při „prodeji ordinace", když oprávnění je nepřevoditelné — jak funguje synchronizované odnětí a udělení podle § 23?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 — obligatorní odnětí (ztráta podmínek, překážky, na žádost); odst. 2 (lhůta 60 dnů); odst. 3 (synchronizovaný přechod na nástupce, odvolání bez odkladného účinku).
+- *Související ustanovení téhož zákona:* § 16 odst. 4 (nepřevoditelnost), § 18 odst. 3 (zjednodušení pro nabyvatele), § 25 (oznamování), § 22 písm. f).
+- *Související předpisy:* zákon č. 48/1997 Sb. (smlouvy s pojišťovnami), zákon č. 89/2012 Sb. (převod majetkových práv).
+- *Judikatura:* nosný závěr — kontinuita „přechodu péče" se zajišťuje synchronizací odnětí a udělení, nikoli převodem oprávnění.
+
+**4. Subsumpce.** Odnětí na žádost se podává 60 dnů předem (§ 23 odst. 2). Při převodu majetkových práv lze žádost o odnětí synchronizovat s žádostí nástupce; krajský úřad rozhodne současně o odnětí dosavadnímu a udělení nástupci k bezprostředně následujícímu dni (§ 23 odst. 3). Tím se zajistí kontinuita, ač oprávnění zůstává individuální.
+
+**5. Řešení.** Strany podají koordinované žádosti s odkazem na synchronní přechod; nástupce využije zjednodušené doložení (§ 18 odst. 3). Krajský úřad rozhodne o odnětí i udělení k navazujícímu dni; odvolání nemá odkladný účinek. Smlouvy s pojišťovnami a převzetí dokumentace se řeší samostatně.
+
+**6. Varianty.** (a) Nástupce by nesplnil podmínky § 16 — synchronizaci nelze provést, hrozí přerušení péče. (b) Poskytovatel by jen ukončil činnost bez nástupce — prosté odnětí na žádost s 60denní lhůtou (§ 23 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stačí převést ordinaci a oprávnění přejde s ní." — Neutralizace: oprávnění je nepřevoditelné (§ 16 odst. 4); řešením je synchronizované odnětí a udělení (§ 23 odst. 3).
+- *Protiargument:* „60denní lhůtu lze ignorovat při dohodě stran." — Neutralizace: lhůta chrání administrativní vypořádání a pacienty; při jejím nedodržení úřad odejme k 60. dni od podání.
+- *Slabé místo:* selhání časové koordinace (např. opožděné doložení podmínek nástupce) může způsobit mezeru v oprávnění a přerušení úhrad.
+
+#### H. Praktický závěr
+
+§ 23 upravuje povinné odnětí oprávnění; jeho odst. 3 je praktickým nástrojem pro bezešvý „přechod péče" na nástupce navzdory nepřevoditelnosti oprávnění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán důvod obligatorního odnětí (ztráta podmínek, překážka, žádost)?
+- [ ] Byla žádost o odnětí podána 60 dnů předem (odst. 2)?
+- [ ] Při převodu: jsou žádosti převodce a nástupce synchronizovány (odst. 3)?
+- [ ] Splňuje nástupce podmínky § 16 a využil zjednodušení § 18 odst. 3?
+
+**Typicky rozhodné důkazy / podklady:** žádost o odnětí a žádost nástupce o udělení, smlouva o převodu majetkových práv, doklady o splnění podmínek nástupce, doklady o vypořádání se s pojišťovnami a dokumentací.
 
 ---
 
@@ -1472,6 +2482,42 @@ Před zahájením řízení o změně nebo odejmutí podle odst. 1, 2 nebo 3 pí
 
 Maximálně **1 rok**. V rozhodnutí o pozastavení musí být uvedeny **konkrétní zdravotní služby**, které po tuto dobu nelze poskytovat (může jít o pozastavení **dílčí** — např. pozastavení lékárenské péče u poskytovatele, který poskytuje i další služby).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** U poskytovatele ambulantní péče se opakovaně potvrdí, že ošetřuje pacienty pod vlivem alkoholu; navíc dlouhodobě neplatí pojistné na sociální zabezpečení a vede chaotickou zdravotnickou dokumentaci. Vyvstane i podezření, že pozbyl zdravotní způsobilost. Krajský úřad zvažuje sankci. Je třeba obstarat kontrolní protokoly, doklady o dluhu na pojistném, vzorky dokumentace a podklady pro lékařský posudek o zdravotní způsobilosti.
+
+**2. Právní otázka.** Jakou sankci podle vícestupňové škály § 24 zvolit a je krajský úřad povinen směřovat řízení k opatření lékařského posudku při podezření na ztrátu zdravotní způsobilosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 — škála sankcí: odst. 1 (změna/pozastavení/odejmutí), odst. 2 (povinné při ztrátě kvalifikace/pojištění), odst. 3 (fakultativní při závažném/opakovaném porušení, vadné dokumentaci, neplacení pojistného), odst. 4 (nejtěžší — alkohol/návykové látky), odst. 5 (zásada nápravy), odst. 6 (doba pozastavení max. 1 rok).
+- *Související ustanovení téhož zákona:* § 16 (podmínky), § 17 (překážky), § 53 a násl. (dokumentace).
+- *Související předpisy:* zákon č. 95/2004 Sb. (zdravotní způsobilost), zákon č. 500/2004 Sb. (správní řád), zákon č. 589/1992 Sb. (pojistné).
+- *Judikatura:* NSS 46 A 68/2017 — při důvodném podezření na ztrátu zdravotní způsobilosti má správní orgán v zásadě povinnost směřovat řízení k opatření lékařského posudku o zdravotní způsobilosti.
+
+**4. Subsumpce.** Poskytování pod vlivem alkoholu je důvodem fakultativního odejmutí podle § 24 odst. 4 písm. a) (zde bez povinnosti předchozí nápravy dle odst. 5). Vadná dokumentace a neplacení pojistného spadají pod odst. 3. Při podezření na ztrátu zdravotní způsobilosti je třeba opatřit lékařský posudek (judikatura NSS).
+
+**5. Řešení.** Krajský úřad může s ohledem na opakované poskytování pod vlivem alkoholu přistoupit k odejmutí (odst. 4), případně k pozastavení do 1 roku (odst. 6) s vymezením konkrétních pozastavených služeb. U odstranitelných nedostatků (odst. 3 písm. a, c, d) musí nejprve poskytnout lhůtu k nápravě (odst. 5). Souběžně vede řízení k posudku o zdravotní způsobilosti.
+
+**6. Varianty.** (a) Šlo by o jednorázové odstranitelné pochybení v dokumentaci — postup přes nápravu (odst. 5), nikoli rovnou odejmutí. (b) Poskytovatel by neměl povinné pojištění odpovědnosti — povinné pozastavení/odejmutí podle odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Před každým odnětím musí být dána lhůta k nápravě." — Neutralizace: zásada nápravy (odst. 5) se vztahuje na odst. 1, 2 a 3 písm. a, c, d; u nejtěžších provinění (odst. 4) ji zákon nepředepisuje.
+- *Protiargument:* „Pozastavení je nepřiměřené, stačí pokuta." — Neutralizace: § 24 je samostatným nástrojem ochrany pacientů vedle přestupkové roviny; volba sankce odpovídá závažnosti a opakování.
+- *Slabé místo:* prokázání poskytování „pod vlivem" vyžaduje spolehlivé důkazy (měření, svědectví); bez nich je sankce dle odst. 4 napadnutelná.
+
+#### H. Praktický závěr
+
+§ 24 poskytuje stupňovanou škálu sankcí od změny přes pozastavení (max. 1 rok) po odejmutí, se zásadou nápravy u odstranitelných nedostatků a bez ní u nejtěžších provinění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Do kterého odstavce § 24 spadá zjištěné porušení (1, 2, 3 nebo 4)?
+- [ ] Jde o odstranitelný nedostatek vyžadující lhůtu k nápravě (odst. 5)?
+- [ ] Je při pozastavení vymezen konkrétní rozsah pozastavených služeb a doba ≤ 1 rok (odst. 6)?
+- [ ] Při podezření na ztrátu zdravotní způsobilosti: směřuje řízení k lékařskému posudku?
+
+**Typicky rozhodné důkazy / podklady:** kontrolní protokoly, doklady o měření/svědectví k požití alkoholu, vzorky zdravotnické dokumentace, doklady o dluhu na pojistném, lékařský posudek o zdravotní způsobilosti.
+
 ---
 
 ### § 25 — Oznamování změny, zániku a pozastavení oprávnění
@@ -1484,6 +2530,42 @@ Procesní pravidlo: **Krajský úřad** rozesílá stejnopis rozhodnutí (do 15 
 Specifický oznamovací režim **uznávacímu orgánu odborných kvalifikací** (Ministerstvo zdravotnictví) — u pozastavení/odejmutí z důvodu odst. 1 písm. b, c nebo § 17 písm. a.
 
 **Záznam do registrů** — do 3 pracovních dnů do NRPZS a registru osob.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad odejme poskytovateli oprávnění k lékárenské péči. Pacienti i zdravotní pojišťovny se však o tom dozvědí až po měsících, neboť úřad rozhodnutí nerozeslal pojišťovnám ani je nezaznamenal do registrů. Pojišťovna mezitím proplácela vykázanou péči. Je třeba obstarat rozhodnutí o odnětí, doklad o jeho právní moci a doklady o rozeslání a záznamu do registrů.
+
+**2. Právní otázka.** Komu a v jaké lhůtě je krajský úřad povinen oznámit změnu, zánik nebo pozastavení oprávnění a zaznamenat je do registrů (§ 25)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 — rozeslání stejnopisu rozhodnutí do 15 dnů od právní moci (subjektům dle § 19 odst. 4 a zdravotním pojišťovnám); záznam do NRPZS a registru osob do 3 pracovních dnů; zvláštní režim vůči uznávacímu orgánu.
+- *Související ustanovení téhož zákona:* § 19 odst. 4 (okruh subjektů, registry), § 24 (sankční rozhodnutí), § 22 (zánik).
+- *Související předpisy:* zákon č. 111/2009 Sb. (základní registry), zákon č. 48/1997 Sb. (pojišťovny, SÚKL).
+- *Judikatura:* nosný závěr — oznamovací a evidenční povinnosti zajišťují právní jistotu třetích osob a aktuálnost veřejných registrů.
+
+**4. Subsumpce.** Krajský úřad byl povinen do 15 dnů od právní moci rozeslat stejnopis rozhodnutí mj. zdravotním pojišťovnám a SÚKL a do 3 pracovních dnů zaznamenat změnu do NRPZS a registru osob. Tím, že tak neučinil, porušil § 25 a způsobil, že třetí osoby jednaly v nevědomosti o zániku oprávnění.
+
+**5. Řízení/řešení.** Úřad musí oznámení a záznamy neprodleně provést. Pojišťovna, která plnila v dobré víře na základě neaktualizovaného registru, řeší vrácení plnění s poskytovatelem; pochybení úřadu může zakládat odpovědnost státu za nesprávný úřední postup (zákon č. 82/1998 Sb.). Aktuálnost NRPZS je klíčová pro ochranu pacientů i plátců.
+
+**6. Varianty.** (a) Šlo by o pouhé pozastavení části služeb — oznamuje se rovněž, s vymezením rozsahu. (b) Pozastavení/odnětí z důvodu § 24 odst. 1 písm. b, c nebo § 17 písm. a — navíc zvláštní oznámení uznávacímu orgánu (MZ).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Rozhodnutí je účinné bez ohledu na oznámení třetím osobám." — Neutralizace: účinnost rozhodnutí a oznamovací povinnost jsou odlišné; opomenutí oznámení nezpochybňuje zánik oprávnění, ale zakládá riziko škody a odpovědnosti.
+- *Protiargument:* „Záznam do registru je jen evidenční." — Neutralizace: NRPZS plní informační funkci pro pacienty a plátce; jeho neaktuálnost má reálné majetkové důsledky.
+- *Slabé místo:* odpovědnost za škodu způsobenou opožděným záznamem vyžaduje prokázání příčinné souvislosti a dobré víry poškozeného.
+
+#### H. Praktický závěr
+
+§ 25 zajišťuje informační synchronizaci: rozhodnutí o změně, zániku či pozastavení oprávnění se rozesílají dotčeným orgánům a pojišťovnám a promítají do veřejných registrů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl stejnopis rozhodnutí rozeslán do 15 dnů subjektům dle § 19 odst. 4 a pojišťovnám?
+- [ ] Byl proveden záznam do NRPZS a registru osob do 3 pracovních dnů?
+- [ ] Bylo provedeno zvláštní oznámení uznávacímu orgánu (je-li relevantní)?
+- [ ] Je rozsah pozastavení/odnětí ve sděleních jednoznačně vymezen?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí a doklad o jeho právní moci, doklady o rozeslání dotčeným subjektům, výpis z NRPZS a registru osob, korespondence s pojišťovnami.
 
 ---
 
@@ -1507,6 +2589,42 @@ Po dobu přerušení poskytovatel **zajistí**, aby pacientovi, který si zvolí
 #### Pokračování po přerušení (odst. 4)
 
 Oznámení o pokračování **nejpozději 15 dnů přede dnem** plánovaného obnovení poskytování — krajskému úřadu, pojišťovnám, ÚSSZ.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Praktická lékařka odjede na dvouměsíční zahraniční stáž a po tuto dobu ordinaci uzavře. Pacientům nezajistí zastupování ani předávání dokumentace a změnu nikomu neoznámí. Pacienti s chronickými nemocemi se nemohou dostat k péči ani k receptům. Krajský úřad obdrží stížnosti. Je třeba obstarat doklady o době uzavření ordinace, o (ne)zajištění zastupování a o informování pacientů a pojišťoven.
+
+**2. Právní otázka.** Je dvouměsíční uzavření ordinace „přerušením" podle § 26 s oznamovací povinností, a jaké povinnosti má poskytovatel vůči pacientům a dokumentaci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 — přerušení (neposkytování déle než 1 měsíc); oznamovací povinnosti (odst. 2); předávání dokumentace (odst. 3); pokračování po přerušení (odst. 4).
+- *Související ustanovení téhož zákona:* § 47 (zajištění zastupování), § 45 (povinnosti poskytovatele), § 57 a násl. (dokumentace).
+- *Související předpisy:* zákon č. 48/1997 Sb. (informování pojišťoven), vyhláška o zdravotnické dokumentaci.
+- *Judikatura:* nosný závěr — přerušení nad 1 měsíc zakládá oznamovací povinnosti a povinnost zajistit kontinuitu péče a přístup k dokumentaci.
+
+**4. Subsumpce.** Dvouměsíční uzavření přesahuje 1 měsíc, jde tedy o přerušení podle § 26 odst. 1. Poskytovatel byl povinen do 15 dnů od zjištění důvodu oznámit přerušení krajskému úřadu, pojišťovnám a pacientům (odst. 2) a zajistit předání kopie/výpisu dokumentace pacientům volícím jiného poskytovatele (odst. 3). Tyto povinnosti nesplnil.
+
+**5. Řešení.** Lékařka měla přerušení řádně oznámit a zveřejnit informaci pacientům (vývěska, web, tisk), zajistit přístup k dokumentaci a případně zastupování (§ 47). Pokračování po přerušení musí oznámit nejpozději 15 dní předem (odst. 4). Nesplnění povinností může být důvodem postihu (§ 117) a porušením povinností poskytovatele.
+
+**6. Varianty.** (a) Nepřítomnost by trvala jen dva týdny — nejde o přerušení (§ 26 odst. 1), postačí zajistit zastupování (§ 47). (b) Poskytovatel by činnost neobnovil vůbec po dobu delší než 1 rok — důvod fakultativního odejmutí podle § 24 odst. 4 písm. f).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Krátké uzavření ordinace nikomu nehlásím." — Neutralizace: přesáhne-li 1 měsíc, jde o přerušení s oznamovacími povinnostmi (§ 26 odst. 1, 2); jen kratší nepřítomnost je mimo režim.
+- *Protiargument:* „Dokumentaci si pacienti vyzvednou, až se vrátím." — Neutralizace: § 26 odst. 3 ukládá zajistit předání kopie/výpisu i během přerušení pacientům volícím jiného poskytovatele.
+- *Slabé místo:* hranice mezi „nepřítomností" (do 1 měsíce) a „přerušením" je ostrá časově, ale zajištění zastupování (§ 47) je nutné v obou případech.
+
+#### H. Praktický závěr
+
+§ 26 odlišuje krátkodobou nepřítomnost (zastupování dle § 47) od přerušení nad 1 měsíc, s nímž jsou spojeny oznamovací povinnosti, ochrana dokumentace a režim obnovení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Přesahuje neposkytování souvisle 1 měsíc (→ přerušení § 26)?
+- [ ] Bylo přerušení oznámeno do 15 dnů úřadu, pojišťovnám a pacientům (odst. 2)?
+- [ ] Je zajištěno předání kopie/výpisu dokumentace pacientům (odst. 3)?
+- [ ] Bylo pokračování oznámeno nejpozději 15 dní předem (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o době a důvodu uzavření, oznámení úřadu a pojišťovnám, doklad o informování pacientů, evidence předané dokumentace, doklady o zajištění zastupování.
 
 ---
 
@@ -1535,6 +2653,43 @@ Pokračování musí být zahájeno **nejpozději do 60 dnů od úmrtí**. Doba 
 #### Osvědčení (odst. 4)
 
 Krajský úřad vydá **osvědčení o splnění podmínek pokračování**. Není to oprávnění v pravém smyslu, ale **deklaratorní akt**, který umožňuje provoz a vykazování péče zdravotním pojišťovnám.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zemře praktický lékař-FO s velkou kartotékou. Jeho dcera (rovněž praktická lékařka, způsobilá, oprávněná užívat zařízení) chce v ordinaci pokračovat, aby pacienti nezůstali bez péče, než si vyřídí vlastní oprávnění. Současně se však o pokračování přihlásí i syn-podnikatel bez zdravotnické kvalifikace. Je třeba obstarat úmrtní list, doklady o způsobilosti a užívacím právu dcery a oznámení úmyslu pokračovat.
+
+**2. Právní otázka.** Kdo a za jakých podmínek může pokračovat v poskytování zdravotních služeb na základě oprávnění zesnulého (§ 27) a jak se řeší konkurence více zájemců?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 — pokračování po smrti; podmínky (užívací právo, splnění § 16 odst. 1/3, oznámení do 15 dnů); konkurence (odst. 2, dohoda s ověřenými podpisy); doba (zahájení do 60 dnů, max. 90 dnů; trvání do rozhodnutí o vlastní žádosti); osvědčení (odst. 4).
+- *Související ustanovení téhož zákona:* § 22 písm. a) (zánik smrtí), § 16 (podmínky oprávnění), § 18 odst. 3 (zjednodušení), § 57 a násl. (dokumentace).
+- *Související předpisy:* zákon č. 89/2012 Sb. (dědictví), zákon č. 48/1997 Sb. (vykazování péče).
+- *Judikatura:* nosný závěr — pokračovatel musí sám splnit kvalifikační a další podmínky poskytovatele; institut slouží kontinuitě péče, nikoli dědickému převodu oprávnění.
+
+**4. Subsumpce.** Pokračovatelem může být jen osoba splňující § 16 odst. 1 (FO) — tj. i způsobilost k samostatnému výkonu povolání, je-li v daném oboru nutná — oprávněná užívat zařízení a oznámivší úmysl do 15 dnů. Dcera tyto podmínky splňuje; syn bez kvalifikace nikoli. Konkurenci řeší dohoda s ověřenými podpisy (odst. 2); bez ní ve lhůtě institut zaniká.
+
+**5. Řešení.** Dcera oznámí do 15 dnů úmysl pokračovat, doloží způsobilost a užívací právo; krajský úřad vydá osvědčení (odst. 4) umožňující provoz a vykazování péče. Pokud do 90 dnů podá vlastní žádost o oprávnění, trvá pokračování až do rozhodnutí o ní. Syn bez kvalifikace pokračovatelem být nemůže; nedojde-li k dohodě, hrozí zánik institutu.
+
+**6. Varianty.** (a) Žádný způsobilý zájemce se nepřihlásí do 15 dnů — oprávnění zaniká smrtí (§ 22 písm. a) a pacienti si volí jiného poskytovatele. (b) Přihlásí se dva způsobilí lékaři a dohodnou se ověřenými podpisy (odst. 2) — pokračuje dohodnutý subjekt.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Jako dědic mám právo převzít ordinaci i oprávnění." — Neutralizace: oprávnění je nepřevoditelné a nedědí se (§ 16 odst. 4); § 27 zakládá jen dočasné pokračování pro osobu splňující podmínky poskytovatele.
+- *Protiargument:* „Pokračovat může kterýkoli dědic." — Neutralizace: pokračovatel musí splnit § 16 (vč. způsobilosti); nekvalifikovaný dědic pokračovatelem být nemůže.
+- *Slabé místo:* krátké lhůty (15 dnů na oznámení, 60 dnů na zahájení, 90 dnů na trvání) jsou tvrdé; jejich zmeškání vede k zániku institutu a přerušení péče.
+
+#### H. Praktický závěr
+
+§ 27 zajišťuje kontinuitu péče po smrti poskytovatele-FO dočasným pokračováním způsobilé osoby (max. 90 dnů, resp. do rozhodnutí o její vlastní žádosti), aniž by oprávnění přecházelo děděním.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Splňuje pokračovatel podmínky § 16 odst. 1 (FO) / odst. 3 (PO), vč. způsobilosti?
+- [ ] Je oprávněn užívat zdravotnické zařízení zesnulého?
+- [ ] Oznámil úmysl pokračovat do 15 dnů od úmrtí a zahájil do 60 dnů?
+- [ ] Při více zájemcích: existuje dohoda s úředně ověřenými podpisy (odst. 2)?
+- [ ] Podal pokračovatel vlastní žádost o oprávnění do 90 dnů?
+
+**Typicky rozhodné důkazy / podklady:** úmrtní list, doklady o způsobilosti a členství v komoře pokračovatele, doklad o užívacím právu k zařízení, oznámení úmyslu pokračovat, případná dohoda zájemců, osvědčení krajského úřadu.
 
 ---
 
