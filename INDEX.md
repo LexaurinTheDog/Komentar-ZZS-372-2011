@@ -19,3 +19,7 @@
 
 ## Vazby
 [ZVZP 48/1997](/home/vojtech/Komentar-ZVZP-48-1997/) — úhrady, [GDPR](/home/vojtech/Komentar-GDPR-110-2019/), [ZA 85/1996](/home/vojtech/Komentar-ZA-85-1996/) (mlčenlivost), Listina čl. 31 (zdravotní péče).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
