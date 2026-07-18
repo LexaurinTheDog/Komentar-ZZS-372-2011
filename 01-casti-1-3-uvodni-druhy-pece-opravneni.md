@@ -84,6 +84,52 @@ K této trojici přistupují **zákon č. 48/1997 Sb. o veřejném zdravotním p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b311eb6b321b9be3a6bf generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 1
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> Tento zákon upravuje zdravotní služby a podmínky jejich poskytování a s tím spojený výkon státní správy, druhy a formy zdravotní péče, práva a povinnosti pacientů a osob pacientům blízkých, poskytovatelů zdravotních služeb, zdravotnických pracovníků1),2), jiných odborných pracovníků2) a dalších osob v souvislosti s poskytováním zdravotních služeb, podmínky hodnocení kvality a bezpečí zdravotních služeb, další činnosti související s poskytováním zdravotních služeb a zapracovává příslušné předpisy Evropské unie3).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b311eb6b321b9be3a6bf -->
+
 ### § 2 — Klíčové pojmy: poskytovatel, zdravotní služby, zdravotní péče, konzilium
 
 > **§ 2**
@@ -252,6 +298,110 @@ Konzilium je legální procesní institut, který opravňuje **konsultujícího 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9302bffc24d2aed97862 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 2
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatelem zdravotních služeb se rozumí fyzická nebo právnická osoba, která má oprávnění k poskytování zdravotních služeb podle tohoto zákona.
+>
+> (2) Zdravotními službami se rozumí
+>
+> - a) poskytování zdravotní péče podle tohoto zákona zdravotnickými pracovníky1),2), a dále činnosti vykonávané jinými odbornými pracovníky2), jsou-li tyto činnosti vykonávány v přímé souvislosti s poskytováním zdravotní péče,
+>
+> - b) konzultační služby, jejichž účelem je posouzení individuálního léčebného postupu, popřípadě navržení jeho změny nebo doplnění, a další konzultace podporující rozhodování pacienta ve věci poskytnutí zdravotních služeb prováděné dalším poskytovatelem zdravotních služeb (dále jen „poskytovatel“) nebo zdravotnickým pracovníkem, kterého si pacient zvolil,
+>
+> - c) nakládání s tělem zemřelého v rozsahu stanoveném tímto zákonem, včetně převozu těla zemřelého na patologicko-anatomickou pitvu nebo zdravotní pitvu a z patologicko-anatomické pitvy nebo ze zdravotní pitvy prováděné poskytovatelem podle zákona [[o pohřebnictví|o pohřebnictví]]4),
+>
+> - d) zdravotnická záchranná služba5),
+>
+> - e) zdravotnická dopravní služba, jejímž účelem je
+>
+> - 1. přeprava pacientů mezi poskytovateli nebo k poskytovateli a zpět do vlastního sociálního prostředí, je-li to nezbytné k zajištění poskytnutí zdravotních služeb,
+>
+> - 2. rychlá přeprava zdravotnických pracovníků k zabezpečení neodkladné péče u poskytovatele,
+>
+> - 3. přeprava osob včetně zemřelého pacienta související s prováděním transplantací, neodkladná přeprava tkání a buněk určených k použití u člověka, přeprava léčivých přípravků, krve a jejích složek a dále zdravotnických prostředků a diagnostických zdravotnických prostředků in vitro (dále jen „zdravotnický prostředek“) nezbytných pro poskytnutí neodkladné péče nebo přeprava dalšího biologického materiálu,
+>
+> - f) přeprava pacientů neodkladné péče, kterou se rozumí jejich přeprava mezi poskytovateli výhradně za podmínek soustavného poskytování neodkladné péče během přepravy,
+>
+> - g) zdravotní služby v rozsahu činnosti odběrových zařízení nebo tkáňových zařízení podle jiných právních předpisů upravujících postupy pro zajištění jakosti a bezpečnosti lidských orgánů, tkání a buněk6),
+>
+> - h) zdravotní služby v rozsahu činnosti zařízení transfuzní služby nebo krevní banky podle právního předpisu upravujícího výrobu transfuzních přípravků, jejich skladování a výdej7),
+>
+> - i) protialkoholní a protitoxikomanická záchytná služba52) (dále jen „záchytná služba“),
+>
+> - j) pohotovostní služba, jejímž účelem je poskytování ambulantní péče pacientům mimo pravidelnou ordinační dobu v případech náhlé změny jejich zdravotního stavu nebo zhoršení průběhu onemocnění; pohotovostní službou je
+>
+> - 1. lékařská pohotovostní služba,
+>
+> - 2. pohotovostní služba v oboru zubní lékařství,
+>
+> - 3. lékárenská pohotovostní služba.
+>
+> (3) Zdravotními službami se rovněž rozumí specifické zdravotní služby podle [[zákona o specifických zdravotních službách|zákona o specifických zdravotních službách]], zdravotní služby podle [[zákona upravujícího transplantace|zákona upravujícího transplantace]] nebo [[zákona upravujícího umělé přerušení těhotenství|zákona upravujícího umělé přerušení těhotenství]]8).
+>
+> (4) Zdravotní péčí se rozumí
+>
+> - a) soubor činností a opatření prováděných u fyzických osob za účelem
+>
+> - 1. předcházení, odhalení a odstranění nemoci, vady nebo zdravotního stavu (dále jen „nemoc“),
+>
+> - 2. udržení, obnovení nebo zlepšení zdravotního a funkčního stavu,
+>
+> - 3. udržení a prodloužení života a zmírnění utrpení,
+>
+> - 4. pomoci při reprodukci a porodu,
+>
+> - 5. posuzování zdravotního stavu,
+>
+> - b) preventivní, diagnostické, léčebné, léčebně rehabilitační, ošetřovatelské nebo jiné zdravotní výkony prováděné zdravotnickými pracovníky za účelem podle písmene a) (dále jen „zdravotní výkon“),
+>
+> - c) odborné lékařské vyšetření podle zákona [[o ochraně zdraví před škodlivými účinky návykových látek|o ochraně zdraví před škodlivými účinky návykových látek]]53),
+>
+> - d) výkony, jejichž účelem je na žádost pacienta dosažení změny jeho vzhledu, aniž by jejich provedení vyžadoval jeho zdravotní stav, a k jejichž provedení jsou způsobilí pouze zdravotničtí pracovníci.
+>
+> (5) Konziliem se rozumí konzultace a posouzení zejména individuálního léčebného postupu, na kterých se na žádost poskytovatele podílí další poskytovatel nebo zdravotnický pracovník. Poskytovatel nebo zdravotnický pracovník podílející se na konziliu je oprávněn v místě poskytování zdravotních služeb poskytovatele, jenž o konzilium požádal, provádět zdravotní výkony diagnostické péče.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9302bffc24d2aed97862 -->
+
 ### § 2a — Sociálně-zdravotní služby
 
 > **§ 2a**
@@ -313,6 +463,58 @@ Konzilium je legální procesní institut, který opravňuje **konsultujícího 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o registraci sociální služby, oprávnění podle ZZS, doklady o personálním a věcném zabezpečení, smlouvy se zdravotními pojišťovnami.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=948ed7cd0d7e9a2dbd04 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 2a — Sociálně-zdravotní služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> Zdravotní služby lze poskytovat i jako součást sociálně-zdravotních služeb podle zákona [[o sociálních službách|o sociálních službách]]65). Pouze jako součást sociálně-zdravotních služeb lze poskytovat
+>
+> - a) sociálně-zdravotní lůžkovou péči podle § 9 odst. 2 písm. e),
+>
+> - b) ošetřovatelskou péči v zařízeních sociálních služeb podle § 10 odst. 1 písm. c),
+>
+> - c) zdravotní služby poskytované v rámci centra duševního zdraví podle [[#§ 44b|§ 44b]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 10, § 44b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=948ed7cd0d7e9a2dbd04 -->
 
 ### § 3 — Pacient a další subjektní pojmy
 
@@ -428,6 +630,70 @@ Zákon definuje **čtyři obory**, ve kterých existuje formálně-právní inst
 **Typicky rozhodné důkazy / podklady:** záznam o přijetí, zdravotnická dokumentace, registrační list, doklady o totožnosti a pojistném statusu, záznam o poskytnutí neodkladné péče.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=44f0b38ae4f220b7f7a4 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 3
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Pacientem se rozumí fyzická osoba, které jsou poskytovány zdravotní služby.
+>
+> (2) Ošetřujícím zdravotnickým pracovníkem se rozumí zdravotnický pracovník, který navrhuje, koordinuje, poskytuje a vyhodnocuje individuální léčebný postup u konkrétního pacienta a koordinuje poskytování dalších potřebných zdravotních služeb.
+>
+> (3) Individuálním léčebným postupem se rozumí poskytování zdravotních služeb, včetně jednotlivých zdravotních výkonů, v logické a časové posloupnosti konkrétnímu pacientovi, včetně jejich možných variant a metod. Součástí individuálního léčebného postupu je zejména diagnostická rozvaha, návrh léčby, včetně léčebně rehabilitační péče a doporučení dalšího postupu při poskytování zdravotních služeb. Součástí individuálního léčebného postupu je i léčebný režim, kterým se rozumí soubor opatření, která podporují léčbu a minimalizují její možná rizika, včetně doporučení úpravy životního stylu.
+>
+> (4) Hospitalizací se rozumí doba zpravidla delší než 24 hodin, po kterou je pacientovi přijatému na lůžko ve zdravotnickém zařízení poskytovatele lůžkové péče poskytována lůžková péče.
+>
+> (5) Registrujícím poskytovatelem se rozumí poskytovatel ambulantní péče, který přijal pacienta do péče za účelem poskytování primární ambulantní péče v oboru
+>
+> - a) všeobecné praktické lékařství,
+>
+> - b) praktické lékařství pro děti a dorost nebo pediatrie,
+>
+> - c) zubní lékařství, nebo
+>
+> - d) gynekologie a porodnictví.
+>
+> Registrující poskytovatel je povinen při přijetí pacienta do péče vyplnit registrační list, který pacient podepíše; registrační list je součástí zdravotnické dokumentace vedené o pacientovi.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=44f0b38ae4f220b7f7a4 -->
 
 ### § 4 — Zdravotnické zařízení, návštěvní služba, vlastní sociální prostředí, obor zdravotní péče, náležitá odborná úroveň
 
@@ -546,6 +812,64 @@ Tato definice je **právním standardem péče** (*lex artis medicinae*). Tři k
 **Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace, doporučené postupy odborných společností, SmPC, indikační kritéria, znalecký posudek, doklady o personálním a věcném vybavení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=040ec6b1d3feff166cf0 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 4
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Zdravotnickým zařízením se rozumí prostory určené pro poskytování zdravotních služeb.
+>
+> (2) Návštěvní službou se rozumí poskytování zdravotní péče ve vlastním sociálním prostředí pacienta, a to zejména v případech, kdy se pacient s ohledem na svůj zdravotní stav nemůže dostavit do zdravotnického zařízení poskytovatele a poskytnutí zdravotní péče tímto způsobem je s ohledem na její charakter možné.
+>
+> (3) Vlastním sociálním prostředím pacienta se pro účely tohoto zákona rozumí domácí prostředí pacienta nebo prostředí nahrazující domácí prostředí pacienta, například zařízení sociálních služeb9), zařízení pro děti vyžadující okamžitou pomoc, školy a školská zařízení zapsaná do rejstříku škol a školských zařízení, s výjimkou zařízení pro další vzdělávání pedagogických pracovníků, školských poradenských zařízení a zařízení školního stravování, nebo jiná obdobná zařízení, věznice pro výkon vazby a výkon trestu odnětí svobody, ústavy pro výkon zabezpečovací detence, zařízení pro zajištění cizinců10) a azylové zařízení11).
+>
+> (4) Oborem zdravotní péče se pro účely tohoto zákona rozumí
+>
+> - a) zubní lékařství, farmacie, obory specializačního vzdělávání, nástavbové obory nebo obory certifikovaných kurzů lékařů, zubních lékařů nebo farmaceutů podle jiného právního předpisu1),
+>
+> - b) odbornosti nelékařských zdravotnických pracovníků nebo obory specializačního vzdělávání nebo obory certifikovaných kurzů nelékařských zdravotnických pracovníků podle jiného právního předpisu2).
+>
+> (5) Náležitou odbornou úrovní se rozumí poskytování zdravotních služeb podle pravidel vědy a uznávaných medicínských postupů, při respektování individuality pacienta, s ohledem na konkrétní podmínky a objektivní možnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=040ec6b1d3feff166cf0 -->
 
 ## Část druhá — Zdravotní služby a zdravotní péče
 
@@ -685,6 +1009,98 @@ Tato definice je **právním standardem péče** (*lex artis medicinae*). Tři k
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fa1a05c4ffd93057aaf5 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 5 — Druhy zdravotní péče
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Druhy zdravotní péče podle časové naléhavosti jejího poskytnutí jsou
+>
+> - a) neodkladná péče, jejímž účelem je zamezit nebo omezit vznik náhlých stavů, které bezprostředně ohrožují život nebo by mohly vést k náhlé smrti nebo vážnému ohrožení zdraví, nebo způsobují náhlou nebo intenzivní bolest nebo náhlé změny chování pacienta, který ohrožuje sebe nebo své okolí,
+>
+> - b) akutní péče, jejímž účelem je odvrácení vážného zhoršení zdravotního stavu nebo snížení rizika vážného zhoršení zdravotního stavu tak, aby byly včas zjištěny skutečnosti nutné pro stanovení nebo změnu individuálního léčebného postupu nebo aby se pacient nedostal do stavu, ve kterém by ohrozil sebe nebo své okolí,
+>
+> - c) nezbytná péče, kterou z lékařského hlediska vyžaduje zdravotní stav pacienta, který je zahraničním pojištěncem, s přihlédnutím k povaze dávek a k délce pobytu na území České republiky; v případě zahraničních pojištěnců z členského státu Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederace musí být zdravotní péče poskytnuta v takovém rozsahu, aby zahraniční pojištěnec nemusel vycestovat do země pojištění dříve, než původně zamýšlel,
+>
+> - d) plánovaná péče, která není zdravotní péčí uvedenou v písmenech a), b) nebo c).
+>
+> (2) Druhy zdravotní péče podle účelu jejího poskytnutí jsou
+>
+> - a) preventivní péče, jejímž účelem je včasné vyhledávání faktorů, které jsou v příčinné souvislosti se vznikem nemoci nebo zhoršením zdravotního stavu, a provádění opatření směřujících k odstraňování nebo minimalizaci vlivu těchto faktorů a předcházení jejich vzniku,
+>
+> - b) diagnostická péče, jejímž účelem je zjišťování zdravotního stavu pacienta a okolností, jež mají na zdravotní stav pacienta vliv, informací nutných ke zjištění nemoci, jejího stavu a závažnosti, dalších informací potřebných ke stanovení diagnózy, individuálního léčebného postupu a informací o účinku léčby,
+>
+> - c) dispenzární péče, jejímž účelem je aktivní a dlouhodobé sledování zdravotního stavu pacienta ohroženého nebo trpícího nemocí nebo zhoršením zdravotního stavu, u kterého lze podle vývoje nemoci důvodně předpokládat takovou změnu zdravotního stavu, jejíž včasné zjištění může zásadním způsobem ovlivnit další léčbu a vývoj nemoci,
+>
+> - d) léčebná péče, jejímž účelem je příznivé ovlivnění zdravotního stavu na základě realizace individuálního léčebného postupu, s cílem vyléčení nebo zmírnění důsledků nemoci a zabránění vzniku invalidity nebo nesoběstačnosti nebo zmírnění jejich rozsahu,
+>
+> - e) posudková péče, jejímž účelem je zjištění, zda
+>
+> - 1. nebude stabilizovaný zdravotní stav pacienta negativně ovlivněn nároky, které na něho klade výkon práce, služby, povolání nebo jiných činností v konkrétních podmínkách, nebo
+>
+> - 2. zdravotní stav pacienta je v souladu s předpoklady nebo požadavky stanovenými pro výkon práce, služby, povolání, jiných činností nebo pro jiné účely,
+>
+> - f) léčebně rehabilitační péče, jejímž účelem je
+>
+> - 1. obnovení nebo zlepšení fyzických, poznávacích, řečových, smyslových a psychických funkcí pacienta nebo zmírnění trvalých následků jejich poškození,
+>
+> - 2. zpomalení nebo zastavení projevů nemoci a stabilizace zdravotního stavu pacienta k dosažení potřebné míry nezávislosti a kvality života pacienta v jeho vlastním sociálním prostředí, nebo
+>
+> - 3. zlepšení vědomí pacienta, navázání komunikace a spolupráce u pacienta s omezením vědomí nebo neuropsychiatrickým nebo kognitivním deficitem vzniklým v důsledku mozkového poškození;
+>
+> v případě, že jsou při poskytování léčebně rehabilitační péče využívány přírodní léčivé zdroje nebo klimatické podmínky příznivé k léčení podle [[lázeňského zákona|lázeňského zákona]]12), jde o lázeňskou léčebně rehabilitační péči,
+>
+> - g) ošetřovatelská péče, jejímž účelem je udržení, podpora a navrácení zdraví a uspokojování biologických, psychických a sociálních potřeb změněných nebo vzniklých v souvislosti s poruchou zdravotního stavu jednotlivců nebo skupin nebo v souvislosti s těhotenstvím a porodem, a dále rozvoj, zachování nebo navrácení soběstačnosti; její součástí je péče o nevyléčitelně nemocné, zmírňování jejich utrpení a zajištění klidného umírání a důstojné přirozené smrti,
+>
+> - h) paliativní péče, jejímž účelem je zmírnění utrpení a zachování kvality života pacienta, který trpí nevyléčitelnou nemocí,
+>
+> - i) farmaceutická péče, kterou se rozumí zejména péče lékárenská a klinickofarmaceutická (dále jen „farmaceutická péče“), jejímž účelem je maximalizace účinku a minimalizace rizik farmakoterapie, směřující ke zlepšení kvality života pacienta; farmaceutická péče sestává zejména ze zajišťování, přípravy, úpravy, uchovávání, kontroly jakosti, výdeje léčivých přípravků s výjimkou transfuzních přípravků a surovin pro výrobu krevních derivátů podle zákona [[o léčivech|o léčivech]], zajišťování, uchovávání, výdeje a prodeje potravin pro zvláštní lékařské účely a zdravotnických prostředků a diagnostických zdravotnických prostředcích in vitro; dále je farmaceutickou péčí optimalizace farmakoterapie pacienta včetně hodnocení vlivu farmakoterapie na diagnostické metody, posuzování a kontrola účelného, bezpečného a hospodárného užívání léčivých přípravků a používání zdravotnických prostředků, konzultační a konziliární činnosti a poradenství; je-li farmaceutická péče poskytována v lékárně, jedná se o lékárenskou péči.
+>
+> (3) Prováděcí právní předpis stanoví
+>
+> - a) druhy, obsah a časové rozmezí preventivních prohlídek, okruhy osob, kterým jsou jednotlivé druhy preventivních prohlídek poskytovány, a okruhy poskytovatelů, kteří preventivní prohlídky provádějí,
+>
+> - b) nemoci, u nichž se poskytuje dispenzární péče, časové rozmezí prováděných prohlídek a okruhy poskytovatelů provádějících dispenzární péči.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fa1a05c4ffd93057aaf5 -->
+
 ### § 6 — Formy zdravotní péče
 
 > **§ 6**
@@ -744,6 +1160,52 @@ Tato definice je **právním standardem péče** (*lex artis medicinae*). Tři k
 **Typicky rozhodné důkazy / podklady:** provozní řád, popis výkonů a režimu pobytu, doklad o zajištění intenzivní péče, doklady o vybavení a personálu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=040b8952cf4199e0f90c generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 6 — Formy zdravotní péče
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> Formami zdravotní péče jsou ambulantní péče, jednodenní péče, lůžková péče a zdravotní péče poskytovaná ve vlastním sociálním prostředí pacienta.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=040b8952cf4199e0f90c -->
 
 ### § 7 — Ambulantní péče
 
@@ -821,6 +1283,62 @@ Pro zubaře a gynekology obligatorní návštěvní služba **není** stanovena,
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e2a737c02b94f5a6ed32 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 7 — Ambulantní péče
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Ambulantní péče je zdravotní péčí, při níž se nevyžaduje hospitalizace pacienta nebo přijetí pacienta na lůžko do zdravotnického zařízení poskytovatele jednodenní péče.
+>
+> (2) Ambulantní péče je poskytována jako
+>
+> - a) primární ambulantní péče, jejímž účelem je poskytování preventivní, diagnostické, léčebné a posudkové péče a konzultací, dále koordinace a návaznost poskytovaných zdravotních služeb jinými poskytovateli; tuto zdravotní péči pacientovi poskytuje registrující poskytovatel,
+>
+> - b) specializovaná ambulantní péče, která je poskytovaná v rámci jednotlivých oborů zdravotní péče podle § 4 odst. 4,
+>
+> - c) stacionární péče, jejímž účelem je poskytování zdravotní péče pacientům, jejichž zdravotní stav vyžaduje opakované denní poskytování ambulantní péče.
+>
+> (3) Součástí primární ambulantní péče poskytované registrujícími poskytovateli v oboru všeobecné praktické lékařství, praktické lékařství pro děti a dorost nebo pediatrie je vždy návštěvní služba.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e2a737c02b94f5a6ed32 -->
+
 ### § 7a — Pohotovostní služba
 
 > **§ 7a**
@@ -891,6 +1409,62 @@ Pohotovostní služba **není totéž co zdravotnická záchranná služba** (§
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=673e0af9662d5ff5850a generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 7a — Pohotovostní služba
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Pohotovostní službou se rozumí poskytování ambulantní péče pacientům mimo pravidelnou ordinační dobu v případech náhlé změny jejich zdravotního stavu nebo zhoršení průběhu onemocnění.
+>
+> (2) Pohotovostní služba je poskytována jako
+>
+> - a) lékařská pohotovostní služba pro dospělé; lékařskou pohotovostní službu pro dospělé poskytuje poskytovatel, který má zřízen urgentní příjem dle [[#§ 44g|§ 44g]],
+>
+> - b) lékařská pohotovostní služba pro děti; lékařskou pohotovostní službu pro děti poskytuje poskytovatel akutní lůžkové péče v oboru pediatrie nebo dětské lékařství,
+>
+> - c) pohotovostní služba v oboru zubní lékařství.
+>
+> (3) Požadavky na minimální věcné a technické vybavení a minimální personální zabezpečení pohotovostních služeb, včetně minimálního časového rozsahu jejich poskytování, stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 44g
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=673e0af9662d5ff5850a -->
+
 ### § 8 — Jednodenní péče
 
 > **§ 8**
@@ -948,6 +1522,52 @@ Jednodenní péče je **hybridní formou** mezi ambulantní a lůžkovou péčí
 **Typicky rozhodné důkazy / podklady:** provozní řád, smlouva o zajištění intenzivní péče, doklady o vybavení a personálu, dokumentace o průběhu výkonu a komplikacích.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ff173dad55886fc96657 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 8 — Jednodenní péče
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> Jednodenní péče je zdravotní péčí, při jejímž poskytnutí se vyžaduje pobyt pacienta na lůžku po dobu kratší než 24 hodin, a to s ohledem na charakter a délku poskytovaných zdravotních výkonů. Při poskytování jednodenní péče musí být zajištěna nepřetržitá dostupnost akutní lůžkové péče intenzivní.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ff173dad55886fc96657 -->
 
 ### § 9 — Lůžková péče
 
@@ -1046,6 +1666,76 @@ Toto rozlišení je klíčové i pro **úhrady ze zdravotního pojištění** (r
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=00b5efdbc13445c4e4e5 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 9 — Lůžková péče
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Lůžková péče je zdravotní péčí, kterou nelze poskytnout ambulantně a pro její poskytnutí je nezbytná hospitalizace pacienta. Lůžková péče musí být poskytována v rámci nepřetržitého provozu.
+>
+> (2) Lůžkovou péčí je
+>
+> - a) akutní lůžková péče intenzivní, která je poskytována pacientovi v případech náhlého selhávání nebo náhlého ohrožení základních životních funkcí nebo v případech, kdy lze tyto stavy důvodně předpokládat,
+>
+> - b) akutní lůžková péče standardní, která je poskytována pacientovi
+>
+> - 1. s náhlým onemocněním nebo náhlým zhoršením chronické nemoci, které vážně ohrožují jeho zdraví, ale nevedou bezprostředně k selhávání životních funkcí, nebo
+>
+> - 2. za účelem provedení zdravotních výkonů, které nelze provést ambulantně;
+>
+> v rámci akutní lůžkové péče je poskytována též včasná léčebná rehabilitace,
+>
+> - c) následná lůžková péče, která je poskytována pacientovi, u kterého byla stanovena hlavní diagnóza a
+>
+> - 1. poskytováním akutní lůžkové péče došlo ke stabilizaci jeho zdravotního stavu, zvládnutí náhlé nemoci nebo náhlého zhoršení chronické nemoci, přičemž k jeho zlepšení se vyžaduje poskytování další plánované lůžkové péče, zejména léčebně rehabilitační péče,
+>
+> - 2. zdravotní stav pacienta je stabilizovaný, s funkčním potenciálem ke zlepšení, přičemž k jeho zlepšení nebo udržení se vyžaduje poskytování plánované lůžkové péče, zejména léčebně rehabilitační péče, nebo
+>
+> - 3. jde o pacienta částečně nebo úplně závislého na podpoře základních životních funkcí; tomuto pacientovi je poskytována následná intenzivní péče,
+>
+> - d) dlouhodobá lůžková péče, která je poskytována pacientovi, jehož zdravotní stav nelze léčebnou péčí podstatně zlepšit a bez soustavného poskytování ošetřovatelské péče se zhoršuje; v rámci této lůžkové péče může být poskytována též intenzivní ošetřovatelská péče pacientům s poruchou základních životních funkcí,
+>
+> - e) sociálně-zdravotní lůžková péče, která je poskytována pacientovi s dlouhodobým chronickým onemocněním nebo zdravotním postižením vyžadujícímu pravidelnou pomoc jiné fyzické osoby při zvládání základních životních potřeb, jehož zdravotní stav se bez soustavného poskytování ošetřovatelské péče zhoršuje; tuto péči nelze poskytovat jako součást sociálně-zdravotních služeb komunitního charakteru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=00b5efdbc13445c4e4e5 -->
+
 ### § 10 — Zdravotní péče poskytovaná ve vlastním sociálním prostředí pacienta
 
 > **§ 10**
@@ -1125,6 +1815,62 @@ Ve VSP lze provádět jen takové výkony, jejichž provedení **není podmíně
 **Typicky rozhodné důkazy / podklady:** oprávnění poskytovatele a jeho rozsah, indikace a popis výkonů, doklady o technickém zázemí, smlouvy se zdravotními pojišťovnami.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=659af113ff50b0fa4abd generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 10 — Zdravotní péče poskytovaná ve vlastním sociálním prostředí pacienta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Zdravotní péčí poskytovanou ve vlastním sociálním prostředí pacienta jsou
+>
+> - a) návštěvní služba,
+>
+> - b) domácí péče, kterou je ošetřovatelská péče, léčebně rehabilitační péče nebo paliativní péče,
+>
+> - c) ošetřovatelská péče v zařízeních sociálních služeb.
+>
+> (2) Ve vlastním sociálním prostředí pacienta lze kromě zdravotní péče podle odstavce 1 poskytovat umělou plicní ventilaci a dialýzu.
+>
+> (3) V rámci zdravotní péče podle odstavce 1 lze vykonávat pouze takové zdravotní výkony, jejichž poskytnutí není podmíněno technickým a věcným vybavením nutným k jejich provedení ve zdravotnickém zařízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=659af113ff50b0fa4abd -->
 
 ## Hlava II — Obecné podmínky poskytování zdravotních služeb
 
@@ -1284,6 +2030,94 @@ Jak zmíněno u § 2a — kumulativní podmínka registrace u sociální i zdrav
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e34eb770ab4959fdc43f generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 11 — Poskytování zdravotních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel může poskytovat pouze zdravotní služby uvedené v oprávnění k poskytování zdravotních služeb.
+>
+> (2) Bez získání oprávnění k poskytování zdravotních služeb je možné
+>
+> - a) poskytovat odbornou první pomoc,
+>
+> - b) zajistit převoz osoby, jejíž zdravotní stav to vyžaduje, ze zahraničí do České republiky nebo z České republiky do zahraničí osobou oprávněnou k této činnosti podle právních předpisů jiného státu, z jehož území nebo na jehož území se převoz uskutečňuje a jde-li o činnost na území České republiky dočasnou,
+>
+> - c) poskytovat zdravotní služby podle [[#§ 20|§ 20]].
+>
+> (3) Zdravotní služby lze poskytovat pouze prostřednictvím osob způsobilých k výkonu zdravotnického povolání nebo k výkonu činností souvisejících s poskytováním zdravotních služeb.
+>
+> (4) Personální zabezpečení zdravotních služeb musí odpovídat oborům, druhu a formě poskytované zdravotní péče a zdravotním službám podle § 2 odst. 2 písm. d) až f), i) a j). Požadavky na minimální personální zabezpečení zdravotních služeb, týkající se odborné, specializované, popřípadě zvláštní odborné nebo zvláštní specializované způsobilosti zdravotnických pracovníků a jiných odborných pracovníků a jejich počtu stanoví prováděcí právní předpis.
+>
+> (5) Zdravotní služby mohou být poskytovány pouze ve zdravotnických zařízeních v místech uvedených v oprávnění k poskytování zdravotních služeb, pokud dále není stanoveno jinak. Mimo zdravotnické zařízení lze poskytovat
+>
+> - a) konzultační služby,
+>
+> - b) zdravotní služby poskytované centrem duševního zdraví podle [[#§ 44b|§ 44b]],
+>
+> - c) preventivní péči podle [[#§ 11a|§ 11a]],
+>
+> - d) zdravotní péči poskytovanou ve vlastním sociálním prostředí pacienta,
+>
+> - e) zdravotnickou dopravní službu a přepravu pacientů neodkladné péče,
+>
+> - f) přednemocniční neodkladnou péči poskytovanou v rámci zdravotnické záchranné služby,
+>
+> - g) zdravotní služby poskytované za krizových situací a při zdravotnickém zabezpečení vojenského výcviku v mobilních zařízeních ozbrojených sil určených k poskytování zdravotních služeb za takových situací,
+>
+> - h) prohlídku těla zemřelého mimo zdravotnická zařízení podle § 84 odst. 2 písm. a) nebo b),
+>
+> - i) převoz těla zemřelého na pitvu a z pitvy podle zákona [[o pohřebnictví|o pohřebnictví]], nebo
+>
+> - j) telemedicínské zdravotní služby podle § 11c odst. 2.
+>
+> Konzultační služby mimo zdravotnické zařízení lze poskytovat prostřednictvím dálkového přístupu nebo ve vlastním sociálním prostředí pacienta. Poskytovatel, který poskytuje pouze domácí péči nebo pouze prohlídky těl zemřelých mimo zdravotnické zařízení, musí mít kontaktní pracoviště. Ošetřovatelskou péči v zařízeních sociálních služeb podle § 10 odst. 1 písm. c) lze poskytovat pouze v centrech denních služeb, denních stacionářích, týdenních stacionářích, domovech pro seniory, domovech se zvláštním režimem, domovech pro osoby se zdravotním postižením a v zařízeních odlehčovacích služeb podle zákona o sociálních službách66). Poskytovatel poskytující ošetřovatelskou péči v zařízeních sociálních služeb podle § 10 odst. 1 písm. c) musí mít kontaktní pracoviště.
+>
+> (6) Zdravotnické zařízení musí být pro poskytování zdravotních služeb technicky a věcně vybaveno. Technické a věcné vybavení zdravotnických zařízení musí odpovídat oborům, druhu a formě poskytované zdravotní péče a zdravotním službám podle § 2 odst. 2 písm. d) až f) a i). Požadavky na minimální technické a věcné vybavení zdravotnických zařízení, týkající se stavebně technického, funkčního a dispozičního uspořádání prostor a vybavení vybranými zdravotnickými prostředky, jinými přístroji a zařízením, na vybavení kontaktního pracoviště, a v případě lékárenské péče poskytované v odloučeném oddělení výdeje léčiv i na místo poskytování péče, stanoví prováděcí právní předpis. Tímto nejsou dotčeny požadavky na zdravotnická zařízení podle jiných právních předpisů.
+>
+> (7) Poskytovatel zdravotnické záchranné služby, poskytovatel zdravotnické dopravní služby a poskytovatel přepravy pacientů neodkladné péče musí být pro poskytovanou zdravotní službu vybaven odpovídajícími dopravními prostředky. Požadavky na vybavení poskytovatele dopravními prostředky a požadavky na technické a věcné vybavení těchto dopravních prostředků a na jejich označení a barevné provedení stanoví prováděcí právní předpis. Tímto nejsou dotčeny požadavky na dopravní prostředky stanovené jinými právními předpisy. Jde-li o přepravu pacientů neodkladné péče, v průběhu této přepravy může neodkladnou péči přepravovanému pacientovi poskytovat i poskytovatel odlišný od poskytovatele přepravy pacientů neodkladné péče, oprávněný k poskytování zdravotních služeb v příslušném oboru zdravotní péče, a to i bez oprávnění k poskytování přepravy pacientů neodkladné péče.
+>
+> (8) Poskytovatel sociálně-zdravotní lůžkové péče podle § 9 odst. 2 písm. e) musí být držitelem registrace k poskytování sociálních služeb v týdenních stacionářích, domovech pro seniory, domovech se zvláštním režimem, domovech pro osoby se zdravotním postižením nebo v pobytových zařízeních odlehčovacích služeb67) se shodným místem poskytování, jaké má uvedeno v oprávnění k poskytování zdravotních služeb. Poskytovatel ošetřovatelské péče v zařízeních sociálních služeb podle § 10 odst. 1 písm. c) musí být držitelem registrace k poskytování sociálních služeb v centrech denních služeb, denních stacionářích, týdenních stacionářích, domovech pro seniory, domovech se zvláštním režimem, domovech pro osoby se zdravotním postižením nebo v zařízeních odlehčovacích služeb67).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20, § 2, § 44b, § 11a, § 84, § 11c, § 10, § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e34eb770ab4959fdc43f -->
+
 ### § 11a–11b — Poskytování preventivní péče mimo zdravotnické zařízení
 
 > **§ 11a**
@@ -1367,6 +2201,144 @@ Jak zmíněno u § 2a — kumulativní podmínka registrace u sociální i zdrav
 **Typicky rozhodné důkazy / podklady:** oprávnění poskytovatele, žádost o povolení a rozhodnutí o něm, závazné stanovisko KHS, popis hygienicko-protiepidemických opatření, vymezení míst a doby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4e54802676c1e7d0e496 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 11a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Mimo zdravotnické zařízení mohou být poskytovány zdravotní výkony v rámci preventivní péče zaměřené na předcházení onemocnění a jeho včasné rozpoznání, a to na základě povolení uděleného krajským úřadem.
+>
+> (2) Povolení se udělí poskytovateli, který je oprávněn poskytovat zdravotní služby, v jejichž rámci budou zdravotní výkony podle odstavce 1 poskytovány mimo zdravotnické zařízení. Mimo zdravotnické zařízení lze poskytovat jen takové zdravotní výkony v rámci preventivní péče, jejichž poskytnutí není podmíněno technickým a věcným vybavením nutným k jejich provedení ve zdravotnickém zařízení.
+>
+> (3) O udělení povolení a době trvání jeho platnosti rozhoduje krajský úřad, v jehož správním obvodu budou zdravotní výkony poskytovány mimo zdravotnické zařízení.
+>
+> (4) Povolení lze udělit jen na základě souhlasného závazného stanoviska krajské hygienické stanice, v jejímž správním obvodu budou zdravotní výkony poskytovány mimo zdravotnické zařízení. Žádost poskytovatele o vydání závazného stanoviska musí obsahovat náležitosti uvedené v odstavci 5. V žádosti musí být dále uvedena hygienická a protiepidemická opatření k předcházení vzniku a šíření infekčních onemocnění při činnostech podle věty první.
+>
+> (5) Žádost o udělení povolení kromě náležitostí stanovených [[správním řádem|správním řádem]] obsahuje
+>
+> - a) identifikační údaje poskytovatele v rozsahu uvedeném v rozhodnutí o udělení oprávnění k poskytování zdravotních služeb,
+>
+> - b) vymezení činností, které budou poskytovány mimo zdravotnické zařízení,
+>
+> - c) místo, kde budou zdravotní výkony poskytovány mimo zdravotnické zařízení,
+>
+> - d) dobu, na kterou má být povolení uděleno, určenou konkrétním datem.
+>
+> (6) Žadatel k žádosti o udělení povolení předloží
+>
+> - a) kopii rozhodnutí o udělení oprávnění k poskytování zdravotních služeb, pokud rozhodnutí nevydal krajský úřad příslušný k udělení povolení,
+>
+> - b) závazné stanovisko krajské hygienické stanice.
+>
+> (7) Rozhodnutí o udělení povolení kromě náležitostí stanovených [[správním řádem|správním řádem]] obsahuje údaje uvedené v odstavci 5. Krajský úřad zašle kopii pravomocného rozhodnutí neprodleně krajské hygienické stanici, která vydala závazné stanovisko podle odstavce 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4e54802676c1e7d0e496 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=4125c8ba8ea4fb6fbd1d generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 11b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Povolení zaniká
+>
+> - a) zánikem oprávnění k poskytování zdravotních služeb,
+>
+> - b) uplynutím doby, na kterou bylo uděleno, nebo
+>
+> - c) odejmutím povolení rozhodnutím krajského úřadu, který povolení vydal.
+>
+> (2) Krajský úřad odejme povolení, jestliže poskytovatel
+>
+> - a) přestal splňovat některou z podmínek podle [[#§ 11a|§ 11a]],
+>
+> - b) závažným způsobem nebo opakovaně porušil povinnost vztahující se k poskytovaným zdravotním výkonům mimo zdravotnické zařízení stanovenou tímto zákonem nebo jiným právním předpisem,
+>
+> - c) poskytoval zdravotní výkony mimo zdravotnické zařízení v rozporu s povolením, nebo
+>
+> - d) o odejmutí povolení požádal.
+>
+> (3) Krajský úřad může odejmout povolení, jestliže poskytovatel zdravotní výkony mimo zdravotnické zařízení v rozsahu uvedeném v povolení neposkytuje a zároveň nelze očekávat poskytování těchto výkonů po dobu delší než 3 po sobě jdoucí kalendářní měsíce.
+>
+> (4) Krajský úřad zašle kopii rozhodnutí o odejmutí povolení neprodleně krajské hygienické stanici, která vydala závazné stanovisko podle § 11a odst. 4.
+>
+> (5) Odvolání proti rozhodnutí o odejmutí povolení nemá odkladný účinek; to neplatí, jde-li o rozhodnutí podle odstavce 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4125c8ba8ea4fb6fbd1d -->
 
 ### § 11c — Telemedicínské zdravotní služby
 
@@ -1452,6 +2424,66 @@ Telemedicínské služby lze poskytovat **i mimo ZZ** ve dvou scénářích:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=213290cbfa8f74d789e8 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 11c — Telemedicínské zdravotní služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Telemedicínskými zdravotními službami se rozumí zdravotní služby, které jsou poskytovány na dálku za použití informačních a telekomunikačních technologií nebo zdravotnického prostředku. Telemedicínské zdravotní služby mohou být poskytovány pouze tehdy, jsou-li splněny technické požadavky na kvalitu a bezpečnost komunikace, komunikační kanál je šifrovaný a je zajištěno prokázání identity komunikujících stran. Záznam komunikace může být poskytovatelem nahráván jen se souhlasem pacienta.
+>
+> (2) Telemedicínské zdravotní služby lze poskytovat i mimo zdravotnické zařízení, pokud
+>
+> - a) jejich poskytování bez přítomnosti pacienta spočívá pouze v použití informačních a telekomunikačních technologií, případně i za pomoci vzdáleného přístupu nebo zdravotnického prostředku, nebo
+>
+> - b) jejich poskytování spočívá pouze v tom, že jsou vzdáleně nebo za pomoci zdravotnického prostředku získány informace podle § 53 odst. 1 a tyto informace jsou automaticky zasílány poskytovateli.
+>
+> (3) Prováděcí právní předpis stanoví
+>
+> - a) technické požadavky na kvalitu a bezpečnost komunikace a šifrování komunikačního kanálu,
+>
+> - b) způsob prokázání identity komunikujících stran,
+>
+> - c) způsob projevení a záznamu souhlasu nebo nesouhlasu pacienta s nahráváním záznamu komunikace mezi poskytovatelem a pacientem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 53
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=213290cbfa8f74d789e8 -->
+
 ### § 12 — Způsobilost k samostatnému výkonu zdravotnického povolání
 
 > **§ 12**
@@ -1531,6 +2563,64 @@ Pro každý obor zdravotní péče musí mít poskytovatel (nebo odborný zástu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=72041a63845d77acf390 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 12 — Způsobilost k samostatnému výkonu zdravotnického povolání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Způsobilostí k samostatnému výkonu zdravotnického povolání se pro účely tohoto zákona rozumí způsobilost k samostatnému výkonu povolání lékaře, zubního lékaře nebo farmaceuta nebo způsobilost k výkonu povolání zdravotnického pracovníka nelékařského povolání bez přímého vedení a odborného dohledu podle jiných právních předpisů1),2).
+>
+> (2) Poskytovatel, který je fyzickou osobou, musí být způsobilý k samostatnému výkonu zdravotnického povolání podle odstavce 3 anebo je povinen ustanovit odborného zástupce s touto způsobilostí; ustanovení odborného zástupce se nepřipouští, jde-li o poskytování zdravotních služeb na základě oprávnění podle § 16 odst. 2. Poskytovatel, který je právnickou osobou, je povinen ustanovit odborného zástupce se způsobilostí k samostatnému výkonu zdravotnického povolání podle odstavce 3 vždy.
+>
+> (3) Jsou-li poskytovány zdravotní služby
+>
+> - a) v oborech specializačního vzdělávání lékařů, vyžaduje se způsobilost k samostatnému výkonu povolání lékaře alespoň v jednom z těchto oborů; to neplatí v případě poskytování zdravotních služeb, kdy jiný právní předpis1) připouští, aby v daném oboru poskytoval zdravotní služby též lékař se specializovanou způsobilostí nebo zvláštní odbornou nebo zvláštní specializovanou způsobilostí v jiném oboru,
+>
+> - b) v oboru zubní lékařství, vyžaduje se způsobilost k samostatnému výkonu povolání zubního lékaře; jde-li o poskytování zdravotních služeb v oborech specializačního vzdělávání zubních lékařů1), vyžaduje se způsobilost k samostatnému výkonu povolání zubního lékaře alespoň v jednom z těchto oborů,
+>
+> - c) v oboru farmacie nebo v oborech specializačního vzdělávání farmaceutů, vyžaduje se způsobilost k samostatnému výkonu povolání farmaceuta alespoň v jednom z oborů specializačního vzdělávání farmaceutů,
+>
+> - d) pouze v oborech vzdělávání zdravotnických pracovníků nelékařského povolání nebo jiných odborných pracovníků, vyžaduje se způsobilost k samostatnému výkonu zdravotnického povolání alespoň v jednom z těchto oborů; odborným zástupcem může být též lékař, zubní lékař nebo farmaceut, pokud je způsobilý vykonávat alespoň v jednom z těchto oborů přímé vedení nebo odborný dohled vůči těmto pracovníkům podle jiného právního předpisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=72041a63845d77acf390 -->
+
 ### § 13 — Bezúhonnost
 
 > **§ 13**
@@ -1599,6 +2689,62 @@ Standardní doklad: **výpis z rejstříku trestů** (ne starší 3 měsíců). 
 **Typicky rozhodné důkazy / podklady:** výpis z Rejstříku trestů, trestní rozsudek, doklad o zahlazení, doklady o bezúhonnosti ze zahraničí, případně čestné prohlášení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1ec1072415c8a3ec1570 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 13 — Bezúhonnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Za bezúhonného se pro účely tohoto zákona považuje ten, kdo nebyl pravomocně odsouzen
+>
+> - a) za úmyslný trestný čin k nepodmíněnému trestu odnětí svobody v trvání alespoň 1 roku, nebo
+>
+> - b) za trestný čin spáchaný při poskytování zdravotních služeb,
+>
+> anebo se na něho hledí, jako by nebyl odsouzen.
+>
+> (2) Bezúhonnost se dokládá výpisem z rejstříku trestů a dále dokladem prokazujícím splnění podmínky bezúhonnosti vydaným státem, jehož je fyzická osoba občanem, a doklady vydanými státy, ve kterých se fyzická osoba zdržovala v posledních 3 letech nepřetržitě déle než 6 měsíců; tyto doklady nesmí být starší 3 měsíců. Při uznávání dokladů o bezúhonnosti, které vydal příslušný orgán jiného členského státu Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederace se postupuje podle zákona [[o uznávání odborné kvalifikace|o uznávání odborné kvalifikace]]14). Nevydává-li stát uvedený ve větě první výpis z evidence trestů nebo rovnocenný doklad, nebo nelze-li jej získat, předloží fyzická osoba čestné prohlášení o bezúhonnosti.
+>
+> (3) Vyžaduje-li se pro účely řízení podle tohoto zákona doložení bezúhonnosti výpisem z rejstříku trestů, požádá o vydání výpisu správní orgán příslušný k udělení oprávnění k poskytování zdravotních služeb; žádost o vydání výpisu z rejstříku restů a výpis z rejstříku trestů se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ec1072415c8a3ec1570 -->
 
 ### § 14 — Odborný zástupce
 
@@ -1708,6 +2854,76 @@ Odborný zástupce má **vlastní oznamovací povinnost** vůči poskytovateli (
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dbcf026f1e9f7fdf0e00 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 14 — Odborný zástupce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Odborný zástupce odborně řídí poskytování zdravotních služeb. Odborným zástupcem
+>
+> - a) může být ustanovena fyzická osoba, která je
+>
+> - 1. způsobilá k samostatnému výkonu zdravotnického povolání podle [[#§ 12|§ 12]] a je členem České lékařské komory, České stomatologické komory nebo České lékárnické komory (dále jen „komora“), jestliže členství v komoře je podmínkou pro výkon tohoto povolání,
+>
+> - 2. plně svéprávná,
+>
+> - 3. bezúhonná,
+>
+> - 4. držitelem povolení k pobytu na území České republiky, pokud má povinnost takové povolení mít, a
+>
+> - b) nemůže být ustanovena fyzická osoba, u níž trvá některá z překážek pro udělení oprávnění uvedených v
+>
+> - 1. § 17 písm. a), nebo
+>
+> - 2. § 17 písm. b), bylo-li oprávnění odňato podle § 24 odst. 2 písm. b), § 24 odst. 3 písm. a), b) nebo c) nebo § 24 odst. 4 písm. a), b), c), d) nebo e).
+>
+> (2) Funkce odborného zástupce musí být vykonávána v pracovněprávním nebo obdobném vztahu k poskytovateli. Tato podmínka neplatí, je-li odborný zástupce statutárním orgánem nebo členem statutárního orgánu poskytovatele nebo je-li odborný zástupce manželem nebo registrovaným partnerem poskytovatele; i v tomto případě musí být odborný zástupce k poskytovateli ve smluvním vztahu.
+>
+> (3) Odborný zástupce musí vykonávat svou funkci v rozsahu nezbytném pro řádné odborné řízení poskytovaných zdravotních služeb. Stejná osoba nemůže vykonávat funkci odborného zástupce pro více než 2 poskytovatele.
+>
+> (4) Odborný zástupce je povinen písemně oznámit poskytovateli všechny změny údajů uvedených o něm v rozhodnutí o udělení oprávnění k poskytování zdravotních služeb, v žádosti o udělení tohoto oprávnění a v dokladech předkládaných s touto žádostí a změny a doplnění údajů týkajících se podmínek pro výkon funkce odborného zástupce a předložit doklady o nich. Změny a doplnění údajů podle věty první musí odborný zástupce oznámit do 10 dnů ode dne, kdy k nim došlo.
+>
+> (5) Přestane-li odborný zástupce vykonávat svou funkci nebo přestane-li splňovat podmínky pro výkon této funkce, je poskytovatel povinen ustanovit nového odborného zástupce nejpozději do 10 dnů ode dne, kdy se o některé z těchto skutečností dozvěděl. Poskytovatel je povinen bez zbytečného odkladu požádat o změnu oprávnění k poskytování zdravotních služeb.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12, § 17, § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dbcf026f1e9f7fdf0e00 -->
+
 ## Část třetí — Oprávnění k poskytování zdravotních služeb
 
 ### § 15 — Působnost správních orgánů
@@ -1791,6 +3007,66 @@ K dalším závazným stanoviskům viz **§ 16 odst. 1 písm. i)** — schválen
 **Typicky rozhodné důkazy / podklady:** zřizovací dokumenty zařízení, doklad o místě poskytování, závazné stanovisko SÚKL, povolení MZ pro lázně, žádost s náležitostmi § 18.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d1c8b81b976c6b97fbab generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 15 — Působnost správních orgánů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) O udělení oprávnění k poskytování zdravotních služeb rozhoduje
+>
+> - a) krajský úřad, v jehož správním obvodu je zdravotnické zařízení, v němž budou zdravotní služby poskytovány,
+>
+> - b) Ministerstvo obrany, pokud je žadatelem právnická osoba zřízená tímto ministerstvem nebo jde-li o zdravotní služby poskytované ve zdravotnických zařízeních zřízených tímto ministerstvem, s výjimkou oprávnění podle § 16 odst. 2,
+>
+> - c) Ministerstvo spravedlnosti, pokud je žadatelem právnická osoba zřízená tímto ministerstvem nebo Vězeňská služba České republiky nebo jde-li o zdravotní služby poskytované ve zdravotnických zařízeních zřízených tímto ministerstvem, s výjimkou oprávnění podle § 16 odst. 2, nebo
+>
+> - d) Ministerstvo vnitra, pokud je žadatelem právnická osoba zřízená tímto ministerstvem nebo jde-li o zdravotní služby poskytované ve zdravotnických zařízeních zřízených tímto ministerstvem nebo ve zdravotnických zařízeních zřízených Úřadem pro zahraniční styky a informace, Bezpečnostní informační službou nebo Hasičským záchranným sborem České republiky, s výjimkou oprávnění podle § 16 odst. 2,
+>
+> (dále jen „příslušný správní orgán“).
+>
+> (2) Oprávnění k poskytování lékárenské péče lze udělit jen na základě souhlasného závazného stanoviska Státního ústavu pro kontrolu léčiv k technickému a věcnému vybavení zdravotnického zařízení, v němž bude tato péče poskytována, a to pouze v rozsahu vymezeném v závazném stanovisku. Státní ústav pro kontrolu léčiv vydá závazné stanovisko na základě písemné žádosti do 30 dnů ode dne jejího doručení. Žádost o vydání závazného stanoviska musí obsahovat náležitosti uvedené v § 18 odst. 1.
+>
+> (3) Oprávnění k poskytování lázeňské léčebně rehabilitační péče lze udělit jen na základě rozhodnutí Ministerstva zdravotnictví (dále jen „ministerstvo“) o udělení povolení k využívání zdroje nebo povolení k využívání klimatických podmínek příznivých k léčení, vydaného podle lázeňského zákona12), a to pouze v rozsahu vymezeném v tomto rozhodnutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16, § 18
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d1c8b81b976c6b97fbab -->
 
 ### § 16 — Podmínky udělení oprávnění k poskytování zdravotních služeb
 
@@ -1910,6 +3186,104 @@ ZZS rozlišuje **tři druhy poskytovatelů** s odlišnými registračními poža
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9c5a7e3bad55bddeaad0 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 16 — Podmínky udělení oprávnění k poskytování zdravotních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Fyzické osobě se udělí oprávnění k poskytování zdravotních služeb na její písemnou žádost, jestliže
+>
+> - a) dosáhla věku 18 let,
+>
+> - b) je plně svéprávná,
+>
+> - c) je bezúhonná,
+>
+> - d) je držitelem povolení k pobytu na území České republiky, pokud má povinnost takové povolení mít,
+>
+> - e) je způsobilá k samostatnému výkonu zdravotnického povolání v oboru zdravotní péče, kterou bude poskytovat jako zdravotní službu a je členem komory, jestliže členství v komoře je podmínkou pro výkon tohoto povolání, nebo ustanovila odborného zástupce,
+>
+> - f) je oprávněna užívat k poskytování zdravotních služeb zdravotnické zařízení, které splňuje požadavky na technické a věcné vybavení,
+>
+> - g) jsou splněny požadavky na personální zabezpečení poskytovaných zdravotních služeb,
+>
+> - h) Státní ústav pro kontrolu léčiv vydal souhlasné závazné stanovisko podle § 15 odst. 2, jde-li o poskytování lékárenské péče,
+>
+> - i) orgán ochrany veřejného zdraví schválil provozní řád zdravotnického zařízení podle zákona [[o ochraně veřejného zdraví|o ochraně veřejného zdraví]]16),
+>
+> - j) ministerstvo vydalo rozhodnutí o udělení povolení podle § 15 odst. 3, jde-li o poskytování lázeňské léčebně rehabilitační péče,
+>
+> - k) splňuje podmínky podle § 11 odst. 8, jde-li o poskytování sociálně-zdravotní lůžkové péče podle § 9 odst. 2 písm. e) nebo ošetřovatelské péče v zařízeních sociálních služeb podle § 10 odst. 1 písm. c),
+>
+> - l) netrvá žádná z překážek pro udělení oprávnění uvedených v § 17 písm. a) až f),
+>
+> - m) je splněna podmínka podle [[#§ 44d|§ 44d]], jde-li o centrum duševního zdraví,
+>
+> - n) jsou splněny podmínky podle § 44g odst. 2 a [[#§ 3|3]], jde-li o urgentní příjem.
+>
+> (2) Fyzické osobě, která bude poskytovat zdravotní služby pouze ve zdravotnickém zařízení provozovaném jiným poskytovatelem, se udělí oprávnění k poskytování zdravotních služeb na její písemnou žádost, jestliže
+>
+> - a) je způsobilá k samostatnému výkonu zdravotnického povolání v oboru zdravotní péče, kterou bude poskytovat jako zdravotní službu, a je členem komory, jestliže členství v komoře je podmínkou pro výkon tohoto povolání, a splňuje podmínky uvedené v odstavci 1 písm. a) až d) a l),
+>
+> - b) je oprávněna užívat k poskytování zdravotních služeb zdravotnické zařízení užívané jiným poskytovatelem, které splňuje požadavky na technické a věcné vybavení,
+>
+> - c) jsou splněny podmínky uvedené v odstavci 1 písm. g) až j).
+>
+> Oprávnění podle věty první nelze udělit pro poskytování zdravotní péče v oboru všeobecné praktické lékařství, praktické lékařství pro děti a dorost nebo pediatrie, zubní lékařství a gynekologie a porodnictví, jde-li o výkon činnosti registrujícího poskytovatele, a pro poskytování farmaceutické péče.
+>
+> (3) Právnické osobě se udělí oprávnění k poskytování zdravotních služeb na její písemnou žádost, jestliže
+>
+> - a) statutární orgán právnické osoby nebo jeho členové nebo vedoucí organizační složky státu nebo organizační složky územního samosprávného celku, bude-li poskytování zdravotních služeb zajišťováno touto organizační složkou, jsou bezúhonní,
+>
+> - b) ustanovila odborného zástupce, který splňuje podmínky v § 14 odst. 1 až 3,
+>
+> - c) jsou splněny podmínky uvedené v odstavci 1 písm. f) až k), m) a n),
+>
+> - d) netrvá žádná z překážek pro udělení oprávnění uvedených v § 17 písm. a) až e) a g),
+>
+> - e) byla zřízena krajem jako příspěvková organizace podle [[zákona o zdravotnické záchranné službě|zákona o zdravotnické záchranné službě]] a je oprávněna využívat linku národního tísňového čísla 155, jde-li o poskytování zdravotnické záchranné služby.
+>
+> (4) Oprávnění k poskytování zdravotních služeb nelze převést ani nepřechází na jinou osobu. Jiná osoba může na základě oprávnění poskytovat zdravotní služby, jen pokračuje-li v poskytování zdravotních služeb podle [[#§ 27|§ 27]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15, § 11, § 9, § 10, § 17, § 44d, § 44g, § 3, § 14, § 27
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c5a7e3bad55bddeaad0 -->
+
 ### § 17 — Překážky udělení oprávnění
 
 > **§ 17**
@@ -2010,6 +3384,82 @@ Reciproční pravidlo v písm. f) — FO, která byla v orgánu PO s překážko
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f172d1176c0c974e04db generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 17 — Překážky udělení oprávnění k poskytování zdravotních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> Oprávnění k poskytování zdravotních služeb nelze udělit
+>
+> - a) fyzické nebo právnické osobě, které byl uložen soudem nebo správním orgánem zákaz činnosti spočívající v poskytování zdravotních služeb, a to po dobu trvání tohoto zákazu,
+>
+> - b) fyzické nebo právnické osobě, které bylo odňato oprávnění podle § 24 odst. 2 písm. b), § 24 odst. 3 písm. a), b), c) nebo d) nebo § 24 odst. 4 písm. a), b), c), d) nebo e), a to po dobu 3 let ode dne nabytí právní moci rozhodnutí o odnětí oprávnění,
+>
+> - c) fyzické nebo právnické osobě po dobu 3 let ode dne nabytí právní moci rozhodnutí o zamítnutí insolvenčního návrhu proto, že majetek dlužníka nepostačuje k úhradě nákladů insolvenčního řízení nebo po dobu 3 let ode dne nabytí právní moci rozhodnutí o zrušení konkursu proto, že majetek dlužníka je zcela nepostačující pro uspokojení věřitelů,
+>
+> - d) fyzické nebo právnické osobě, jestliže soud v insolvenčním řízení nařídil předběžné opatření, jímž tuto osobu, jejíž úpadek nebo hrozící úpadek se v tomto řízení řeší, omezil v nakládání s majetkovou podstatou a předběžný insolvenční správce nedal k úkonům této osoby souvisejícím se vznikem oprávnění písemný souhlas,
+>
+> - e) fyzické nebo právnické osobě v průběhu insolvenčního řízení, na jejíž majetek byl prohlášen konkurs, a insolvenční správce nedal k úkonům této osoby souvisejícím se vznikem oprávnění písemný souhlas,
+>
+> - f) fyzické osobě, která
+>
+> - 1. byla jediným nebo většinovým společníkem, statutárním orgánem nebo členem statutárního orgánu nebo členem kontrolního orgánu právnické osoby, u které trvá některá z překážek podle písmen a) až c), nebo u které by tato překážka trvala, pokud by nedošlo k zániku této právnické osoby,
+>
+> - 2. byla jediným nebo většinovým společníkem, statutárním orgánem nebo členem statutárního orgánu nebo členem kontrolního orgánu právnické osoby, u které trvá některá z překážek podle písmene d) nebo e), nebo
+>
+> - 3. vykonávala funkci odborného zástupce u osoby, u které trvá některá z překážek podle písmene a) nebo b), bylo-li oprávnění odňato podle § 24 odst. 2 písm. b), § 24 odst. 3 písm. a), b) nebo c) nebo § 24 odst. 4 písm. a), b), c), d) nebo e), nebo u které by tato překážka trvala, pokud by nedošlo ke smrti nebo zániku této osoby,
+>
+> v době, kdy nastala okolnost, která vedla ke vzniku této překážky,
+>
+> - g) právnické osobě, jejímž jediným nebo většinovým společníkem, statutárním orgánem nebo členem statutárního orgánu nebo členem kontrolního orgánu je osoba, u které trvá některá z překážek podle písmen a) až e), nebo osoba, která
+>
+> - 1. byla jediným nebo většinovým společníkem, statutárním orgánem nebo členem statutárního orgánu nebo členem kontrolního orgánu právnické osoby, u které trvá některá z překážek podle písmen a) až c), nebo u které by tato překážka trvala, pokud by nedošlo k zániku této právnické osoby,
+>
+> - 2. byla jediným nebo většinovým společníkem, statutárním orgánem nebo členem statutárního orgánu nebo členem kontrolního orgánu právnické osoby, u které trvá některá z překážek podle písmene d) nebo e), nebo
+>
+> - 3. byla odborným zástupcem osoby, u které trvá některá z překážek podle písmene a) nebo b), bylo-li oprávnění odňato podle § 24 odst. 2 písm. b), § 24 odst. 3 písm. a), b) nebo c) nebo § 24 odst. 4 písm. a), b), c), d) nebo e), nebo u které by tato překážka trvala, pokud by nedošlo ke smrti nebo zániku této osoby,
+>
+> v době, kdy nastala okolnost, která vedla ke vzniku této překážky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f172d1176c0c974e04db -->
+
 ### § 18 — Žádost o udělení oprávnění
 
 § 18 stanoví **náležitosti žádosti** o udělení oprávnění a **přílohy**, které je žadatel povinen předložit. Žádost se podává **vedle náležitostí stanovených správním řádem** (§ 37 SŘ — viz [Komentář k SŘ](/home/vojtech/Komentar-SR-500-2004/)) na předtištěném formuláři krajského úřadu (nebo elektronicky přes Portál veřejné správy).
@@ -2092,6 +3542,136 @@ Pro **nabyvatele majetkových práv** (typicky kupec ordinace) lze nahradit něk
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=738cb5a0f7cc941df54a generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 18 — Žádost o udělení oprávnění k poskytování zdravotních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Žádost o udělení oprávnění k poskytování zdravotních služeb kromě náležitostí stanovených [[správním řádem|správním řádem]] obsahuje,
+>
+> - a) je-li žadatelem fyzická osoba
+>
+> - 1. jméno, popřípadě jména, příjmení, rodné příjmení, státní občanství, adresu místa trvalého pobytu na území České republiky nebo v případě osoby bez trvalého pobytu na území České republiky adresu bydliště mimo území České republiky a popřípadě adresu místa hlášeného pobytu na území České republiky a datum a místo narození žadatele,
+>
+> - 2. identifikační číslo osoby17) (dále jen „identifikační číslo“), bylo-li přiděleno,
+>
+> - 3. jméno, popřípadě jména, příjmení, rodné příjmení, státní občanství, adresu místa trvalého pobytu na území České republiky nebo v případě osoby bez trvalého pobytu na území České republiky adresu bydliště mimo území České republiky a popřípadě adresu místa hlášeného pobytu na území České republiky a datum a místo narození odborného zástupce, jestliže musí být ustanoven,
+>
+> - 4. formu zdravotní péče, obory zdravotní péče, popřípadě druh zdravotní péče podle § 5 odst. 2 písm. f) až i) nebo název zdravotní služby podle § 2 odst. 2 písm. d) až f) a i), a to pro každé místo poskytování zdravotních služeb; jde-li pouze o provádění prohlídek těl zemřelých mimo zdravotnické zařízení nebo jde-li o poskytování zdravotních služeb ve zdravotnických zařízeních uvedených v části čtvrté hlavách III až VI, uvede se tato skutečnost; jde-li o poskytování sociálně-zdravotní lůžkové péče podle § 9 odst. 2 písm. e), uvede se rovněž druh zařízení pobytových sociálních služeb, v jehož rámci má být tato péče poskytována,
+>
+> - 5. adresu místa, popřípadě míst poskytování zdravotních služeb, v případě zdravotnické dopravní služby nebo přepravy pacientů neodkladné péče adresu místa jednotlivých pracovišť; jde-li o poskytovatele, který je povinen podle § 11 odst. 5 mít kontaktní pracoviště, adresu místa kontaktního pracoviště,
+>
+> - 6. datum, k němuž žadatel hodlá zahájit poskytování zdravotních služeb,
+>
+> - 7. dobu, po kterou žadatel hodlá zdravotní služby poskytovat, pokud žádá o udělení oprávnění na dobu určitou,
+>
+> - b) je-li žadatelem právnická osoba
+>
+> - 1. obchodní firmu nebo název, adresu sídla, v případě právnické osoby se sídlem mimo území České republiky též místo usazení závodu nebo organizační složky závodu právnické osoby na území České republiky,
+>
+> - 2. bude-li poskytování zdravotních služeb zajišťováno organizační složkou státu nebo organizační složkou územního samosprávného celku její název, adresu sídla a identifikační číslo a název jejího zřizovatele, a dále jméno, popřípadě jména, příjmení, rodné příjmení, státní občanství, adresu místa trvalého pobytu na území České republiky nebo v případě osoby bez trvalého pobytu na území České republiky adresu bydliště mimo území České republiky a popřípadě adresu místa hlášeného pobytu na území České republiky a datum narození vedoucího organizační složky státu; údaje o vedoucím organizační složky státu se neuvádějí v případě Bezpečnostní informační služby a Úřadu pro zahraniční styky a informace,
+>
+> - 3. údaje uvedené v písmenu a) bodě 3 o odborném zástupci a osobách, které jsou statutárním orgánem žadatele nebo jeho členy nebo které jednají jménem právnické osoby zapisované do obchodního rejstříku nebo obdobného rejstříku před jejím vznikem,
+>
+> - 4. adresu místa, popřípadě míst poskytování zdravotních služeb, v případě zdravotnické záchranné služby, zdravotnické dopravní služby nebo přepravy pacientů neodkladné péče adresu místa jednotlivých pracovišť; jde-li o poskytovatele, který je povinen podle § 11 odst. 5 mít kontaktní pracoviště, adresu místa kontaktního pracoviště,
+>
+> - 5. údaje uvedené v písmenu a) bodech 2, [[#§ 4|4]], [[#§ 6|6]] a [[#§ 7|7.]]
+>
+> (2) Žadatel k žádosti o udělení oprávnění k poskytování zdravotních služeb předloží,
+>
+> - a) je-li žadatelem fyzická osoba uvedená v § 16 odst. 1
+>
+> - 1. doklady o způsobilosti k samostatnému výkonu zdravotnického povolání, má-li tuto způsobilost,
+>
+> - 2. doklad o bezúhonnosti,
+>
+> - 3. v případě ustanovení odborného zástupce doklady o způsobilosti odborného zástupce k samostatnému výkonu zdravotnického povolání, doklad o bezúhonnosti a prohlášení odborného zástupce, že souhlasí s ustanovením do funkce odborného zástupce a že u něj netrvá žádný z důvodů uvedených v § 14 odst. 1 a [[#§ 3|3]], pro který by nemohl funkci odborného zástupce vykonávat,
+>
+> - 4. seznam zdravotnických pracovníků a jiných odborných pracovníků, kteří budou vykonávat zdravotnické povolání v pracovněprávním nebo obdobném vztahu k žadateli, a to v rozsahu požadavků na minimální personální zabezpečení zdravotních služeb. U lékařů, zubních lékařů a farmaceutů způsobilých k samostatnému výkonu zdravotnického povolání se v seznamu uvede jméno, popřípadě jména, příjmení, obor, v němž mají způsobilost k samostatnému výkonu zdravotnického povolání a jejich týdenní pracovní doba; u vedoucích zaměstnanců se uvede též jejich pracovní zařazení. U ostatních zdravotnických pracovníků a jiných odborných pracovníků se v seznamu uvede pouze jejich počet v členění podle odborné způsobilosti. Seznam se člení podle zařazení pracovníků k jednotlivým formám a oborům zdravotní péče, popřípadě druhům zdravotní péče podle § 5 odst. 2 písm. f) až i) nebo zdravotním službám podle § 2 odst. 2 písm. d) až f) a i); v případě více míst poskytování zdravotních služeb se seznam člení též podle těchto míst,
+>
+> - 5. prohlášení, že zdravotnické zařízení je pro poskytování zdravotních služeb technicky a věcně vybaveno podle tohoto zákona,
+>
+> - 6. souhlasné závazné stanovisko vydané Státním ústavem pro kontrolu léčiv k technickému a věcnému vybavení zdravotnického zařízení, jde-li o poskytování lékárenské péče,
+>
+> - 7. povolení ministerstva k využívání zdroje nebo povolení k využívání klimatických podmínek příznivých k léčení12), jde-li o poskytování lázeňské léčebně rehabilitační péče,
+>
+> - 8. rozhodnutí o schválení provozního řádu zdravotnického zařízení vydané orgánem ochrany veřejného zdraví a provozní řád,
+>
+> - 9. doklad, z něhož vyplývá oprávnění žadatele užívat prostory k poskytování zdravotních služeb,
+>
+> - 10. doklad prokazující povolení k pobytu na území České republiky žadatele a odborného zástupce, byl-li ustanoven, pokud mají povinnost takové povolení mít,
+>
+> - 11. doklad prokazující splnění podmínky podle § 11 odst. 8, jde-li o poskytování sociálně-zdravotní lůžkové péče podle § 9 odst. 2 písm. e), nebo ošetřovatelské péče v zařízeních sociálních služeb podle § 10 odst. 1 písm. c),
+>
+> - 12. doklad prokazující splnění podmínky podle [[#§ 44d|§ 44d]], jde-li o centrum duševního zdraví,
+>
+> - 13. doklad prokazující splnění podmínek podle [[#§ 44g|§ 44g]], jde-li o urgentní příjem,
+>
+> - 14. prohlášení, že u žadatele netrvá žádná z překážek pro udělení oprávnění uvedených v § 17 písm. a) až c) nebo f) a písemný souhlas předběžného insolvenčního správce nebo insolvenčního správce v případě, kdy nevydání tohoto souhlasu by bylo překážkou pro udělení oprávnění uvedenou v § 17 písm. d) nebo e),
+>
+> - b) je-li žadatelem fyzická osoba uvedená v § 16 odst. 2
+>
+> - 1. doklady o způsobilosti k samostatnému výkonu zdravotnického povolání a doklady uvedené v písmenu a) bodech 2, [[#§ 10|10]] a [[#§ 14|14]],
+>
+> - 2. smlouvu s poskytovatelem, který provozuje zdravotnické zařízení v němž bude žadatel zdravotní služby poskytovat, opravňující žadatele využívat technické a věcné vybavení zdravotnického zařízení a personální zabezpečení zdravotních služeb tohoto poskytovatele k poskytování zdravotních služeb; pokud smlouvou není zajištěno nebo ze smlouvy nevyplývá splnění všech požadavků na technické a věcné vybavení zdravotnického zařízení a personální zabezpečení zdravotních služeb, které hodlá žadatel poskytovat, je žadatel povinen prokázat splnění požadavků nezajištěných smlouvou doklady uvedenými v písmenu a) v bodech 4 až 8,
+>
+> - c) je-li žadatelem právnická osoba
+>
+> - 1. doklad o tom, že právnická osoba byla zřízena nebo založena, pokud se nezapisuje do obchodního nebo obdobného rejstříku nebo pokud zápis ještě nebyl proveden; je-li žadatelem právnická osoba se sídlem mimo území České republiky, předloží se výpis z obchodního nebo obdobného rejstříku vedeného ve státě sídla a doklad o tom, že právnická osoba, popřípadě závod nebo organizační složka závodu právnické osoby na území České republiky byly zapsány do obchodního rejstříku, pokud zápis již byl proveden; doklad o zápisu do obchodního nebo obdobného rejstříku nebo výpis z těchto rejstříků nesmí být starší 3 měsíců; doklady uvedené v tomto bodě se k žádosti nepřikládají, jde-li o právnickou osobu zřízenou na území České republiky zákonem nebo bude-li poskytování zdravotních služeb zajišťováno organizační složkou státu nebo územního samosprávného celku,
+>
+> - 2. doklad o bezúhonnosti osob, které jsou statutárním orgánem žadatele nebo jeho členy,
+>
+> - 3. doklad o bezúhonnosti vedoucího organizační složky státu nebo organizační složky územního samosprávného celku, bude-li poskytování zdravotních služeb zajišťováno touto organizační složkou,
+>
+> - 4. doklady uvedené v písmenu a) bodech 3 až 14,
+>
+> - 5. v případě poskytování zdravotnické záchranné služby doklad o tom, že žadatel byl zřízen krajem jako příspěvková organizace podle [[zákona o zdravotnické záchranné službě|zákona o zdravotnické záchranné službě]] a doklad, z něhož vyplývá oprávnění žadatele využívat linku národního tísňového čísla 155,
+>
+> - 6. prohlášení, že u žadatele netrvá žádná z překážek pro udělení oprávnění uvedených v § 17 písm. a) až c) nebo g) a písemný souhlas předběžného insolvenčního správce nebo insolvenčního správce v případě, kdy nevydání tohoto souhlasu by bylo překážkou pro udělení oprávnění uvedenou v § 17 písm. d) nebo e).
+>
+> (3) Je-li žadatelem o udělení oprávnění k poskytování zdravotních služeb osoba, která je nabyvatelem majetkových práv vztahujících se k poskytování zdravotních služeb dosavadním poskytovatelem, připojí k žádosti též doklady prokazující převod nebo přechod majetkových práv na žadatele. Předložení dokladu uvedeného v odstavci 2 písm. a) bodu 4 lze nahradit prohlášením žadatele o tom, že nedošlo ke změnám údajů v těchto dokladech předložených dosavadním poskytovatelem; v tomto případě se rovněž nepředkládá doklad uvedený v odstavci 2 písm. a) bodě 6. Je-li žadatelem o udělení oprávnění k poskytování zdravotních služeb osoba, která pokračuje v poskytování zdravotních služeb podle [[#§ 27|§ 27]], platí pro předložení dokladů věty první a druhá obdobně.
+>
+> (4) V případě poskytování pouze dlouhodobé lůžkové péče jen zdravotnickými pracovníky nelékařského povolání žadatel k žádosti o udělení oprávnění k poskytování zdravotních služeb předloží smlouvu s poskytovatelem ambulantní péče v oboru všeobecné praktické lékařství nebo v oboru praktické lékařství pro děti a dorost nebo pediatrie o zajištění akutní zdravotní péče pacientům.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 2, § 9, § 11, § 4, § 6, § 7, § 16, § 14, § 3, § 10, § 44d, § 44g, § 17, § 27
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=738cb5a0f7cc941df54a -->
+
 ### § 19 — Rozhodnutí o udělení oprávnění
 
 #### Náležitosti rozhodnutí (odst. 1–3)
@@ -2161,6 +3741,84 @@ PO vznikající **zápisem do obchodního rejstříku** (s.r.o., a.s., družstvo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9b711e0d15bd687e411d generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 19 — Rozhodnutí o udělení oprávnění k poskytování zdravotních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Rozhodnutí o udělení oprávnění k poskytování zdravotních služeb fyzické osobě kromě náležitostí stanovených [[správním řádem|správním řádem]] obsahuje
+>
+> - a) jméno, popřípadě jména, příjmení poskytovatele a odborného zástupce, musí-li být ustanoven, a adresu místa jejich trvalého pobytu na území České republiky nebo v případě fyzické osoby bez trvalého pobytu na území České republiky adresu bydliště mimo území České republiky a popřípadě adresu místa hlášeného pobytu na území České republiky, identifikační číslo poskytovatele, bylo-li přiděleno, a datum jejich narození,
+>
+> - b) formu zdravotní péče, obory zdravotní péče, popřípadě druh zdravotní péče podle § 5 odst. 2 písm. f) až i) nebo název zdravotní služby podle § 2 odst. 2 písm. d) až f) a i), a to pro každé místo poskytování zdravotních služeb; jde-li pouze o provádění prohlídek těl zemřelých mimo zdravotnické zařízení, uvede se tato skutečnost; jde-li o poskytování zdravotních služeb ve zdravotnických zařízeních uvedených v části čtvrté hlavách III až VI, uvede se tato skutečnost; jde-li o poskytování sociálně-zdravotní lůžkové péče podle § 9 odst. 2 písm. e), uvede se rovněž druh zařízení pobytových sociálních služeb, v jehož rámci má být tato péče poskytována,
+>
+> - c) adresu místa, popřípadě míst poskytování zdravotních služeb, v případě poskytovatele zdravotnické záchranné služby, zdravotnické dopravní služby nebo přepravy pacientů neodkladné péče adresy míst jednotlivých pracovišť; jde-li o poskytovatele, který je povinen podle § 11 odst. 5 mít kontaktní pracoviště, adresu místa kontaktního pracoviště,
+>
+> - d) dobu, na kterou se oprávnění uděluje, žádá-li žadatel o udělení oprávnění na dobu určitou,
+>
+> - e) datum zahájení poskytování zdravotních služeb.
+>
+> (2) Rozhodnutí o udělení oprávnění k poskytování zdravotních služeb právnické osobě kromě náležitostí stanovených [[správním řádem|správním řádem]] obsahuje
+>
+> - a) obchodní firmu nebo název poskytovatele, adresu jeho sídla, v případě právnické osoby se sídlem mimo území České republiky též adresu místa usazení závodu nebo organizační složky závodu právnické osoby na území České republiky, a identifikační číslo, bylo-li přiděleno,
+>
+> - b) jméno, popřípadě jména, příjmení, adresu místa trvalého pobytu na území České republiky nebo v případě osoby bez trvalého pobytu na území České republiky adresu bydliště mimo území České republiky a adresu místa hlášeného pobytu na území České republiky a datum narození odborného zástupce,
+>
+> - c) náležitosti uvedené v odstavci 1 písm. b) až e).
+>
+> (3) Rozhodnutí o udělení oprávnění k poskytování zdravotních služeb, bude-li poskytování zdravotních služeb zajišťováno organizační složkou státu nebo organizační složkou územního samosprávného celku, kromě náležitostí stanovených [[správním řádem|správním řádem]] obsahuje
+>
+> - a) název, adresu sídla organizační složky státu nebo organizační složky územního samosprávného celku a identifikační číslo, bylo-li přiděleno,
+>
+> - b) název zřizovatele organizační složky státu nebo organizační složky územního samosprávného celku,
+>
+> - c) jméno, popřípadě jména, příjmení, adresu místa trvalého pobytu na území České republiky nebo v případě osoby bez trvalého pobytu na území České republiky adresu bydliště mimo území České republiky a adresu místa hlášeného pobytu na území České republiky a datum narození odborného zástupce,
+>
+> - d) náležitosti uvedené v odstavci 1 písm. b) až e).
+>
+> (4) Příslušný správní orgán zašle stejnopis písemného vyhotovení rozhodnutí o udělení oprávnění k poskytování zdravotních služeb do 15 dnů ode dne nabytí právní moci rozhodnutí místně příslušnému správci daně vykonávajícímu správu daně z příjmů a místně příslušné územní správě sociálního zabezpečení, příslušné komoře; jde-li o oprávnění k poskytování lékárenské péče, zašle stejnopis rozhodnutí též Státnímu ústavu pro kontrolu léčiv. Příslušný správní orgán zaznamená udělení oprávnění k poskytování zdravotních služeb do 3 pracovních dnů ode dne nabytí právní moci rozhodnutí do Národního registru poskytovatelů zdravotních služeb (dále jen „Národní registr poskytovatelů“) a prostřednictvím tohoto registru zapíše příslušné referenční údaje nebo změny příslušných referenčních údajů do základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci18) (dále jen „registr osob“).
+>
+> (5) Pokud bylo právnické osobě, která vzniká dnem zápisu do obchodního nebo jiného zákonem určeného rejstříku, vydáno rozhodnutí o udělení oprávnění k poskytování zdravotních služeb před zápisem do rejstříku, vznikne této právnické osobě právo poskytovat zdravotní služby dnem zápisu do rejstříku. Pokud bylo právnické osobě se sídlem mimo území České republiky, která se zapisuje do obchodního rejstříku, vydáno rozhodnutí o udělení oprávnění k poskytování zdravotních služeb před zápisem do obchodního rejstříku, vznikne této právnické osobě právo poskytovat zdravotní služby dnem zápisu do obchodního rejstříku. Nepodá-li právnická osoba uvedená ve větě první nebo druhé návrh na zápis do rejstříku ve lhůtě 90 dnů ode dne nabytí právní moci rozhodnutí o udělení oprávnění nebo nebyl-li zápis proveden do 90 dnů ode dne podání návrhu na zápis, oprávnění zaniká uplynutím této lhůty. Právnická osoba je povinna zaslat příslušnému správnímu orgánu doklad prokazující podání návrhu na zápis do rejstříku do 15 dnů ode dne podání návrhu a dále oznámit příslušnému správnímu orgánu, že právnická osoba byla zapsána do rejstříku, a to do 15 dnů ode dne provedení zápisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 2, § 9, § 11
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9b711e0d15bd687e411d -->
+
 ### § 20 — Hostující osoby z EU/EHP/Švýcarska
 
 § 20 transponuje směrnici 2005/36/ES a aplikuje princip volného pohybu služeb v EU. **Bez oprávnění** mohou v ČR poskytovat **návštěvní službu** nebo **domácí péči**:
@@ -2216,6 +3874,64 @@ PO vznikající **zápisem do obchodního rejstříku** (s.r.o., a.s., družstvo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=429ddb99cbe6d3362c13 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 20 — Poskytování zdravotních služeb osobami usazenými nebo se sídlem v jiném členském státě Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederaci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Oprávnění k poskytování zdravotních služeb se nevyžaduje u
+>
+> - a) fyzické osoby, která je usazena v jiném členském státě Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederaci, jestliže poskytuje návštěvní službu nebo domácí péči jako osoba hostující podle jiného právního předpisu a je podle právních předpisů státu svého usazení oprávněna poskytovat zdravotní služby, v jejichž rámci jsou návštěvní služba nebo domácí péče poskytovány,
+>
+> - b) právnické osoby, která má adresu sídla v jiném členském státě Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederaci a je podle právních předpisů státu svého usazení oprávněna poskytovat zdravotní služby, v jejichž rámci jsou poskytovány návštěvní služba nebo domácí péče, a osoby, jejichž prostřednictvím návštěvní službu nebo domácí péči poskytuje, splňují podmínky stanovené pro hostující osoby podle jiného právního předpisu.
+>
+> (2) Osoba uvedená v odstavci 1 je povinna písemně oznámit úmysl poskytovat návštěvní službu nebo domácí péči krajskému úřadu, v jehož správním obvodu bude tyto služby poskytovat, a to nejpozději 7 dnů přede dnem zahájení jejich poskytování. Součástí oznámení je doklad prokazující oprávnění poskytovat příslušné zdravotní služby v jiném státě Evropské unie, Evropském hospodářském prostoru nebo Švýcarské konfederaci, kde je fyzická osoba usazena nebo kde má právnická osoba sídlo, a jeho úředně ověřený překlad do českého jazyka, pokud nejde o doklad v jazyce slovenském.
+>
+> (3) Na osobu poskytující návštěvní službu nebo domácí péči podle odstavce 1 se vztahují povinnosti uvedené v § 45 odst. 1, § 51 odst. 1 a [[#§ 54|§ 54]]. Pozbude-li osoba uvedená v odstavci 1 podle právních předpisů státu svého usazení oprávnění poskytovat zdravotní služby, v jejichž rámci návštěvní službu nebo domácí péči poskytovala, je povinna tuto skutečnost bezodkladně písemně oznámit krajskému úřadu, v jehož správním obvodu tyto služby poskytovala.
+>
+> (4) V případě, že krajský úřad zjistí závažné porušení povinností podle tohoto zákona osobou uvedenou v odstavci 1, oznámí tuto skutečnost ministerstvu, které ji oznámí příslušnému členskému státu Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederaci.
+>
+> (5) V případě, že krajský úřad zjistí závažné porušení povinností podle tohoto nebo jiného zákona osobou uvedenou v odstavci 1, rozhodnutím může zakázat této osobě poskytování zdravotních služeb na území České republiky, a to na dobu nejdéle 3 let. Odvolání proti rozhodnutí nemá odkladný účinek. Krajský úřad zašle stejnopis písemného vyhotovení rozhodnutí do 15 dnů ode dne nabytí právní moci ministerstvu, které o zákazu poskytování zdravotních služeb informuje příslušný členský stát Evropské unie, Evropského hospodářského prostoru nebo Švýcarskou konfederaci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 45, § 51, § 54
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=429ddb99cbe6d3362c13 -->
+
 ### § 20a–20b — Změna oprávnění
 
 #### Důvody žádosti o změnu (§ 20a)
@@ -2268,6 +3984,106 @@ PO vznikající **zápisem do obchodního rejstříku** (s.r.o., a.s., družstvo
 **Typicky rozhodné důkazy / podklady:** žádost o změnu oprávnění, doklad o užívacím právu k novým prostorám, doklady o vybavení a personálu pro nový obor, doklady k novému odbornému zástupci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=39b4b477c9334504d86d generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 20a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Žádost o změnu rozhodnutí o udělení oprávnění k poskytování zdravotních služeb podá příslušnému správnímu orgánu poskytovatel v případě zamýšlené změny
+>
+> - a) rozsahu zdravotních služeb uvedených v oprávnění k poskytování zdravotních služeb podle § 19 odst. 1 písm. b),
+>
+> - b) adresy místa, popřípadě míst poskytování zdravotních služeb, adresy místa pracoviště poskytovatele zdravotnické záchranné služby, zdravotnické dopravní služby nebo přepravy pacientů neodkladné péče nebo adresy místa kontaktního pracoviště uvedené v oprávnění k poskytování zdravotních služeb podle § 19 odst. 1 písm. c), nebo
+>
+> - c) doby platnosti oprávnění k poskytování zdravotních služeb uvedené v oprávnění k poskytování zdravotních služeb podle § 19 odst. 1 písm. d).
+>
+> (2) Žádost podle odstavce 1 poskytovatel příslušnému správnímu orgánu dále podá v případě, kdy dojde ke změně v osobě odborného zástupce uvedeného v oprávnění k poskytování zdravotních služeb podle § 19 odst. 1 písm. a), § 19 odst. 2 písm. b) nebo § 19 odst. 3 písm. c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 19
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=39b4b477c9334504d86d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=9419fa203d53252b7e03 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 20b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> Žádost podle [[#§ 20a|§ 20a]] kromě náležitostí stanovených [[správním řádem|správním řádem]] obsahuje údaj o požadované změně oprávnění a doklady podle § 18 odst. 2 prokazující splnění podmínek pro poskytování zdravotních služeb po změně oprávnění, a to v rozsahu odpovídajícím požadované změně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20a, § 18
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9419fa203d53252b7e03 -->
 
 ### § 21 — Oznamování změn poskytovatelem
 
@@ -2322,6 +4138,56 @@ Jiné správní orgány vydávající podkladová rozhodnutí (závazná stanovi
 **Typicky rozhodné důkazy / podklady:** oznámení změny a doklad o jeho včasnosti, doklady o (ne)ustanovení nového odborného zástupce, rozhodnutí o oprávnění, evidence o trvání nedostatku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fb802d25454e8f6642ea generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 21 — Oznamování změn poskytovatelem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel je povinen, nejde-li o postup podle [[#§ 20a|§ 20a]], písemně oznámit příslušnému správnímu orgánu změny týkající se údajů uvedených v rozhodnutí o udělení oprávnění k poskytování zdravotních služeb a dále všechny změny týkající se údajů v dokladech předkládaných se žádostí o udělení oprávnění a předložit o těchto změnách doklady, pokud mohou být důvodem pro pozastavení, změnu, zrušení nebo zánik oprávnění. Poskytovatel je dále povinen písemně oznámit správnímu orgánu, který vydal souhlas, povolení nebo jiné rozhodnutí nebo závazné stanovisko jako podklad pro rozhodnutí o udělení oprávnění k poskytování zdravotních služeb, všechny změny týkající se těchto rozhodnutí nebo závazného stanoviska, pokud mohou být důvodem pro jejich změnu, zrušení nebo odejmutí. Správní orgán, který vydal souhlas, povolení nebo jiné rozhodnutí nebo závazné stanovisko jako podklad pro rozhodnutí o udělení oprávnění k poskytování zdravotních služeb, neprodleně oznámí příslušnému správnímu orgánu jejich změnu, odnětí nebo zrušení.
+>
+> (2) Poskytovatel je povinen změny podle odstavce 1 oznámit do 15 dnů ode dne, kdy se o nich dozvěděl.
+>
+> (3) Týká-li se změna údaje, který není uveden v rozhodnutí o udělení oprávnění k poskytování zdravotních služeb a jsou-li nadále splněny podmínky pro poskytování zdravotních služeb, provede příslušný správní orgán o této změně záznam do spisu. V ostatních případech rozhodne příslušný správní orgán podle okolností o změně, pozastavení nebo o odejmutí oprávnění k poskytování zdravotních služeb. Rozhodnutí o změně nebo pozastavení oprávnění k poskytování zdravotních služeb podle věty druhé může být prvním úkonem v řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fb802d25454e8f6642ea -->
 
 ### § 22 — Zánik oprávnění
 
@@ -2378,6 +4244,66 @@ Smrt FO-poskytovatele automaticky zaniká oprávnění **ledaže** je aktivován
 **Typicky rozhodné důkazy / podklady:** úmrtní list / doklad o zániku PO, oznámení o pokračování (§ 27), doklady o zajištění dokumentace, výpis z NRPZS.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9a765460986f375db5f9 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 22 — Zánik oprávnění k poskytování zdravotních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> Oprávnění k poskytování zdravotních služeb zaniká
+>
+> - a) smrtí poskytovatele, nepostupuje-li se podle [[#§ 27|§ 27]],
+>
+> - b) zánikem poskytovatele,
+>
+> - c) výmazem organizační složky závodu právnické osoby se sídlem mimo území České republiky z obchodního rejstříku,
+>
+> - d) zrušením organizační složky státu nebo organizační složky územního samosprávného celku, bylo-li poskytování zdravotních služeb zajišťováno touto organizační složkou,
+>
+> - e) uplynutím doby, pokud bylo oprávnění uděleno na dobu určitou,
+>
+> - f) rozhodnutím příslušného správního orgánu o odejmutí oprávnění, nebo
+>
+> - g) v dalších případech stanovených tímto zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9a765460986f375db5f9 -->
 
 ### § 23 — Obligatorní odnětí oprávnění
 
@@ -2436,6 +4362,62 @@ Tento mechanismus **nepřevoditelné** oprávnění obchází formálně — fak
 **Typicky rozhodné důkazy / podklady:** žádost o odnětí a žádost nástupce o udělení, smlouva o převodu majetkových práv, doklady o splnění podmínek nástupce, doklady o vypořádání se s pojišťovnami a dokumentací.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cf1f68cb9bb8254c9876 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 23
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Příslušný správní orgán odejme oprávnění k poskytování zdravotních služeb, jestliže
+>
+> - a) poskytovatel přestal splňovat některou z podmínek uvedených v § 16 odst. 1 písm. b) nebo c) nebo odst. 2 písm. a),
+>
+> - b) nastala překážka poskytování zdravotních služeb podle § 17 písm. a), c), f) nebo g), nebo
+>
+> - c) poskytovatel o to požádal.
+>
+> (2) Příslušný správní orgán odejme oprávnění k poskytování zdravotních služeb podle odstavce 1 písm. c) na písemnou žádost poskytovatele. Žádost o odnětí oprávnění k poskytování zdravotních služeb musí být podána nejpozději 60 dnů přede dnem, k němuž poskytovatel požaduje oprávnění odejmout; tato lhůta neplatí, požaduje-li poskytovatel odejmout oprávnění z důvodu, pro který se oprávnění odjímá z moci úřední. Není-li dodržena lhůta pro podání žádosti, příslušný správní orgán odejme oprávnění k poskytování zdravotních služeb nejpozději k šedesátému dni ode dne podání žádosti.
+>
+> (3) Poskytovatel, který žádá o změnu oprávnění nebo o odejmutí oprávnění k poskytování zdravotních služeb a hodlá převést majetková práva vztahující se k poskytování zdravotních služeb na jinou osobu, oznámí tuto skutečnost příslušnému správnímu orgánu současně s podáním žádosti o odejmutí oprávnění nebo jeho změnu. Pokud nabyvatel majetkových práv vztahujících se k poskytování zdravotních služeb hodlá zahájit poskytování zdravotních služeb dnem bezprostředně následujícím po dni odejmutí oprávnění nebo jeho změně dosavadnímu poskytovateli, uvede tuto skutečnost v žádosti o udělení oprávnění k poskytování zdravotních služeb nebo jeho změnu. Pokud je žádost o udělení oprávnění k poskytování zdravotních služeb nebo jeho změnu podána nejpozději v den podání žádosti o odejmutí oprávnění nebo jeho změnu dosavadním poskytovatelem a jsou-li splněny podmínky pro udělení oprávnění nebo jeho změnu, rozhodne příslušný správní orgán o odejmutí oprávnění dosavadnímu poskytovateli nebo jeho změně a o udělení oprávnění nabyvateli majetkových práv vztahujících se k poskytování zdravotních služeb nebo jeho změně ke dni bezprostředně následujícímu po dni odnětí oprávnění dosavadnímu poskytovateli nebo jeho změny. Odvolání proti rozhodnutí nemá odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16, § 17
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cf1f68cb9bb8254c9876 -->
 
 ### § 24 — Fakultativní a sankční odnětí, pozastavení a změna oprávnění
 
@@ -2520,6 +4502,90 @@ Maximálně **1 rok**. V rozhodnutí o pozastavení musí být uvedeny **konkré
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2d11e7c45e9308166f38 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 24
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Příslušný správní orgán změní, pozastaví nebo odejme oprávnění k poskytování zdravotních služeb, jestliže
+>
+> - a) poskytovatel přestal splňovat některou z podmínek uvedených v § 16 odst. 1 písm. f), g) a k) až n) a odst. 2 písm. b), nebo
+>
+> - b) byl zrušen souhlas, povolení nebo jiné rozhodnutí nebo závazné stanovisko, které bylo podkladem pro rozhodnutí o udělení oprávnění.
+>
+> (2) Příslušný správní orgán pozastaví nebo odejme oprávnění k poskytování zdravotních služeb, jestliže poskytovatel
+>
+> - a) přestal splňovat některou z podmínek uvedených v § 16 odst. 1 písm. d) nebo e) a odst. 3 písm. a) nebo b), nebo
+>
+> - b) není pojištěn pro případ odpovědnosti za újmu způsobenou v souvislosti s poskytováním zdravotních služeb.
+>
+> (3) Příslušný správní orgán může pozastavit nebo odejmout oprávnění k poskytování zdravotních služeb, jestliže
+>
+> - a) poskytovatel závažným způsobem nebo opakovaně porušil povinnost stanovenou pro poskytování zdravotních služeb tímto zákonem nebo jiným právním předpisem,
+>
+> - b) poskytovatel nesplnil povinnost odstranit zjištěné nedostatky ve stanovené lhůtě,
+>
+> - c) poskytovatel nevede zdravotnickou dokumentaci nebo ji vede v rozporu s tímto zákonem nebo jiným právním předpisem, nebo
+>
+> - d) poskytovatel neplní povinnost platit pojistné na sociální zabezpečení a příspěvek na státní politiku zaměstnanosti.
+>
+> (4) Příslušný správní orgán může odejmout oprávnění k poskytování zdravotních služeb, jestliže
+>
+> - a) poskytovatel poskytoval zdravotní služby pod vlivem alkoholu nebo jiné návykové látky,
+>
+> - b) poskytovatel opakovaně poskytoval zdravotní služby prostřednictvím osoby, která byla pod vlivem alkoholu nebo jiné návykové látky, a neučinil nápravná opatření,
+>
+> - c) poskytovatel poskytoval zdravotní služby prostřednictvím osoby, která není způsobilá k výkonu zdravotnického povolání podle jiného právního předpisu,
+>
+> - d) poskytovatel závažným způsobem nebo opakovaně porušil povinnosti vyplývající pro něj ze zákona [[o veřejném zdravotním pojištění|o veřejném zdravotním pojištění]],
+>
+> - e) poskytovatel opakovaně požadoval od pacientů úhradu za zdravotní služby v rozporu se zákonem [[o veřejném zdravotním pojištění|o veřejném zdravotním pojištění]], nebo
+>
+> - f) zdravotní služby nejsou poskytovány po dobu delší než 1 rok.
+>
+> (5) Před zahájením řízení o změně nebo o odejmutí oprávnění k poskytování zdravotních služeb podle odstavců 1, [[#§ 2|2]] nebo 3 písm. a), c) nebo d) poskytne příslušný správní orgán poskytovateli přiměřenou lhůtu k zjednání nápravy, jedná-li se o nedostatky, které lze odstranit.
+>
+> (6) V rozhodnutí o pozastavení oprávnění k poskytování zdravotních služeb příslušný správní orgán stanoví dobu pozastavení oprávnění a určí zdravotní služby, které po tuto dobu nelze poskytovat. Doba pozastavení oprávnění k poskytování zdravotních služeb nesmí být delší než 1 rok.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2d11e7c45e9308166f38 -->
+
 ### § 25 — Oznamování změny, zániku a pozastavení oprávnění
 
 Procesní pravidlo: **Krajský úřad** rozesílá stejnopis rozhodnutí (do 15 dnů od právní moci):
@@ -2568,6 +4634,58 @@ Specifický oznamovací režim **uznávacímu orgánu odborných kvalifikací** 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí a doklad o jeho právní moci, doklady o rozeslání dotčeným subjektům, výpis z NRPZS a registru osob, korespondence s pojišťovnami.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9b1076d77df03a5c2a1c generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 25 — Oznamování změny, zániku a pozastavení oprávnění k poskytování zdravotních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Příslušný správní orgán zašle stejnopis písemného vyhotovení rozhodnutí o změně, odejmutí nebo pozastavení oprávnění k poskytování zdravotních služeb do 15 dnů ode dne nabytí právní moci rozhodnutí subjektům uvedeným v § 19 odst. 4 a zdravotním pojišťovnám, se kterými měl poskytovatel ke dni nabytí právní moci rozhodnutí uzavřeny smlouvy podle zákona [[o veřejném zdravotním pojištění|o veřejném zdravotním pojištění]].
+>
+> (2) Příslušný správní orgán zašle stejnopis písemného vyhotovení rozhodnutí o pozastavení nebo odejmutí oprávnění k poskytování zdravotních služeb podle § 16 odst. 1 písm. b) nebo c) nebo odst. 2 písm. a) nebo podle § 17 písm. a), do 15 dnů ode dne nabytí právní moci rozhodnutí uznávacímu orgánu pro uznávání odborné kvalifikace a jiné způsobilosti k výkonu zdravotnického povolání, podle jiného právního předpisu.
+>
+> (3) Zánik oprávnění k poskytování zdravotních služeb uděleného na dobu určitou oznámí příslušný správní orgán subjektům uvedeným v § 19 odst. 4 a zdravotním pojišťovnám, se kterými měl poskytovatel uzavřeny smlouvy podle zákona [[o veřejném zdravotním pojištění|o veřejném zdravotním pojištění]], a to do 30 dnů ode dne, kdy k zániku oprávnění došlo; v ostatních případech zániku oprávnění, na které se nevztahuje odstavec 1, tak učiní do 30 dnů ode dne, kdy se o zániku oprávnění dozvěděl.
+>
+> (4) Příslušný správní orgán zaznamená změnu, odejmutí nebo pozastavení oprávnění k poskytování zdravotních služeb do 3 pracovních dnů ode dne nabytí právní moci rozhodnutí do Národního registru poskytovatelů a též do registru osob. Zánik oprávnění k poskytování zdravotních služeb uděleného na dobu určitou zaznamená příslušný správní orgán do 3 pracovních dnů ode dne, kdy k zániku oprávnění došlo, do Národního registru poskytovatelů a prostřednictvím tohoto registru zapíše příslušné referenční údaje nebo změny příslušných referenčních údajů do registru osob; v ostatních případech zániku oprávnění, na které se nevztahuje věta první, tak učiní do 3 pracovních dnů ode dne, kdy se o zániku oprávnění dozvěděl.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 19, § 16, § 17
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9b1076d77df03a5c2a1c -->
 
 ### § 26 — Přerušení poskytování zdravotních služeb
 
@@ -2627,6 +4745,60 @@ Oznámení o pokračování **nejpozději 15 dnů přede dnem** plánovaného ob
 **Typicky rozhodné důkazy / podklady:** doklady o době a důvodu uzavření, oznámení úřadu a pojišťovnám, doklad o informování pacientů, evidence předané dokumentace, doklady o zajištění zastupování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f637aefc8f6d256e8e5d generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 26 — Přerušení poskytování zdravotních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Přerušením poskytování zdravotních služeb se rozumí neposkytování zdravotních služeb nepřetržitě po dobu delší než 1 měsíc.
+>
+> (2) Poskytovatel je povinen přerušení poskytování zdravotních služeb písemně oznámit do 15 dnů ode dne, kdy se dozvěděl o skutečnosti, která je důvodem přerušení, příslušnému správnímu orgánu, který o této skutečnosti provede záznam do spisu, do Národního registru poskytovatelů a prostřednictvím tohoto registru zapíše příslušné referenční údaje nebo změny příslušných referenčních údajů do registru osob, a dále zdravotním pojišťovnám, se kterými má uzavřeny smlouvy podle zákona [[o veřejném zdravotním pojištění|o veřejném zdravotním pojištění]]; současně je poskytovatel povinen informaci o přerušení poskytování zdravotních služeb uveřejnit tak, aby byla přístupná pacientům. Pokud důvod přerušení poskytování zdravotních služeb neumožní poskytovateli splnit povinnosti uvedené ve větě první ve stanovené lhůtě, je povinen učinit tak bez zbytečného odkladu.
+>
+> (3) Poskytovatel je po dobu přerušení poskytování zdravotních služeb povinen zajistit, aby v případě pacienta, kterému poskytoval zdravotní služby a který si v době přerušení zvolí k poskytování zdravotních služeb jiného poskytovatele, nebo je to nezbytné k zajištění návaznosti zdravotních služeb pro tohoto pacienta, byla předána kopie zdravotnické dokumentace vedené o pacientovi nebo výpis z této zdravotnické dokumentace poskytovateli, který má zdravotní služby poskytnout nebo má převzít pacienta do péče.
+>
+> (4) Pokračování v poskytování zdravotních služeb po přerušení je poskytovatel povinen písemně oznámit příslušnému správnímu orgánu, který o této skutečnosti provede záznam do spisu, do Národního registru poskytovatelů a prostřednictvím tohoto registru zapíše příslušné referenční údaje nebo změny příslušných referenčních údajů do registru osob, a dále zdravotním pojišťovnám, se kterými má uzavřeny smlouvy podle zákona [[o veřejném zdravotním pojištění|o veřejném zdravotním pojištění]], a to nejpozději 15 dnů přede dnem, k němuž hodlá pokračovat v poskytování zdravotních služeb.
+>
+> (5) Příslušný správní orgán přerušení a pokračování v poskytování zdravotních služeb oznámí místně příslušné územní správě sociálního zabezpečení do 15 dnů ode dne, kdy mu tato skutečnost byla poskytovatelem oznámena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f637aefc8f6d256e8e5d -->
 
 ### § 27 — Pokračování v poskytování zdravotních služeb po smrti
 
@@ -2692,6 +4864,68 @@ Krajský úřad vydá **osvědčení o splnění podmínek pokračování**. Nen
 **Typicky rozhodné důkazy / podklady:** úmrtní list, doklady o způsobilosti a členství v komoře pokračovatele, doklad o užívacím právu k zařízení, oznámení úmyslu pokračovat, případná dohoda zájemců, osvědčení krajského úřadu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=eefe8b177c331869b496 generator=2026-07-17.4 source_sha256=94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a -->
+#### Revizní doplnění k § 27 — Pokračování v poskytování zdravotních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2011/372-2011 Zákon o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).md`; identifikátor verze: `SB-2011-00372_2026-01-01`; SHA-256: `94dc0ef6b87603f5bc3caa027f834b81c8e9dada63162b2adbd4f67271acdc7a`.
+
+##### Znění ustanovení
+
+> (1) Zemře-li poskytovatel a nejde-li o osobu uvedenou v § 16 odst. 2, může na základě jeho oprávnění k poskytování zdravotních služeb pokračovat v poskytování zdravotních služeb jiná fyzická osoba nebo právnická osoba, jestliže
+>
+> - a) je oprávněna užívat zdravotnické zařízení, v němž poskytoval zdravotní služby zemřelý poskytovatel,
+>
+> - b) jsou splněny podmínky uvedené v § 16 odst. 1, jde-li o fyzickou osobu, nebo podmínky uvedené v § 16 odst. 3 písm. a) až d), jde-li o právnickou osobu,
+>
+> - c) do 15 dnů ode dne úmrtí poskytovatele písemně oznámí příslušnému správnímu orgánu úmysl pokračovat v poskytování zdravotních služeb.
+>
+> Osoba, která pokračuje v poskytování zdravotních služeb, má práva a povinnosti poskytovatele.
+>
+> (2) Úmysl pokračovat v poskytování zdravotních služeb je osoba uvedená v odstavci 1 povinna písemně oznámit do 15 dnů ode dne úmrtí poskytovatele též zdravotním pojišťovnám, se kterými měl zemřelý poskytovatel ke dni úmrtí uzavřeny smlouvy podle zákona [[o veřejném zdravotním pojištění|o veřejném zdravotním pojištění]]. Oznámí-li úmysl pokračovat v poskytování zdravotních služeb více osob, může v poskytování zdravotních služeb pokračovat ta z nich, na které se písemně dohodly; podpisy na dohodě musí být úředně ověřeny. K uzavření dohody vyzve osoby, které oznámily úmysl pokračovat v poskytování zdravotních služeb, příslušný správní orgán, jenž současně stanoví lhůtu, ve které mu má být dohoda předložena.
+>
+> (3) V poskytování zdravotních služeb musí být pokračováno nejpozději do 60 dnů ode dne úmrtí poskytovatele. Osoba uvedená v odstavci 1 je povinna písemně oznámit příslušnému správnímu orgánu datum, od kterého pokračuje v poskytování zdravotních služeb, a to nejpozději do 10 dnů od tohoto data. Součástí oznámení jsou doklady prokazující splnění podmínek uvedených v § 16 odst. 1 písm. a) až e), jde-li o fyzickou osobu, nebo v § 16 odst. 3 písm. a) a b), jde-li o právnickou osobu, a dále prohlášení, že oznamovatel je oprávněn užívat k poskytování zdravotních služeb zdravotnické zařízení, v němž poskytoval zdravotní služby zemřelý poskytovatel, prohlášení o splnění podmínky uvedené § 16 odst. 1 písm. k), jde-li o fyzickou osobu, nebo v § 16 odst. 3 písm. d), jde-li o právnickou osobu, a prohlášení, že jsou nadále splněny podmínky podle § 16 odst. 1 písm. f) až j). Došlo-li ke změně technického nebo věcného vybavení zdravotnického zařízení nebo ke změně personálního zabezpečení zdravotních služeb, jsou součástí oznámení též doklady prokazující splnění podmínek uvedených v § 16 odst. 1 písm. f) a g). Došlo-li ke změně podmínek, za kterých bylo vydáno závazné stanovisko uvedené v § 16 odst. 1 písm. h) nebo schválen provozní řád uvedený v § 16 odst. 1 písm. i), jsou součástí oznámení též nové doklady uvedené v § 18 odst. 2 písm. a) bodě 6 nebo [[#§ 8|8.]]
+>
+> (4) Jsou-li splněny podmínky pro pokračování v poskytování zdravotních služeb, vydá příslušný správní orgán na základě oznámení podle odstavce 3 oznamovateli osvědčení o splnění těchto podmínek. Příslušný správní orgán zašle stejnopis písemného vyhotovení osvědčení do 10 dnů ode dne jeho vydání zdravotním pojišťovnám uvedeným v odstavci 2 a subjektům uvedeným v § 19 odst. 4. Příslušný správní orgán vydání osvědčení zaznamená do 3 pracovních dnů ode dne jeho vydání do Národního registru poskytovatelů a prostřednictvím tohoto registru zapíše příslušné referenční údaje nebo změny příslušných referenčních údajů do registru osob. Jestliže nejsou splněny podmínky pro postup podle věty první, příslušný správní orgán rozhodne o tom, že oznamovatel nesplnil podmínky pro pokračování v poskytování zdravotních služeb. Odvolání proti tomuto rozhodnutí nemá odkladný účinek.
+>
+> (5) Dnem zániku oprávnění k poskytování zdravotních služeb zemřelého poskytovatele zaniká též právo pokračovat v poskytování zdravotních služeb; poté může poskytovatel poskytovat zdravotní služby ve zdravotnickém zařízení, v němž poskytoval zdravotní služby zemřelý poskytovatel, pouze na základě vlastního oprávnění k poskytování zdravotních služeb. Oprávnění k poskytování zdravotních služeb zemřelého poskytovatele zanikne marným uplynutím lhůty pro oznámení úmyslu pokračovat v poskytování zdravotních služeb podle odstavce 1 písm. c), marným uplynutím lhůty pro předložení dohody příslušnému správnímu orgánu podle odstavce 2, marným uplynutím lhůty pro pokračování v poskytování zdravotních služeb podle odstavce 3 nebo dnem nabytí právní moci rozhodnutí o tom, že nebyly splněny podmínky pro pokračování v poskytování zdravotních služeb. Oprávnění k poskytování zdravotních služeb zemřelého poskytovatele zanikne též uplynutím lhůty 90 dnů ode dne pokračování v poskytování zdravotních služeb uvedeného v oznámení podle odstavce 3; požádá-li však osoba pokračující v poskytování zdravotních služeb o udělení oprávnění k poskytování zdravotních služeb do 90 dnů ode dne pokračování v poskytování zdravotních služeb, oprávnění k poskytování zdravotních služeb zemřelého poskytovatele zanikne dnem nabytí právní moci rozhodnutí o žádosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16, § 18, § 8, § 19
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eefe8b177c331869b496 -->
 
 ## Synoptická tabulka — Klíčové pojmy ZZS § 1–27
 
